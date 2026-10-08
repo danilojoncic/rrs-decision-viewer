@@ -1,2 +1,0 @@
-"""Decision viewer FastAPI app."""
-
