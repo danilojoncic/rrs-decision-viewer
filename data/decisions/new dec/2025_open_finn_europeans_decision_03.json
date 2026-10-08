@@ -1,0 +1,59 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Open Finn Europeans",
+  "race_number": "1",
+  "hearing_datetime": "2025-04-08 18:10",
+  "parties": [
+    "USA 19 - R. Phillip Ramming",
+    "HUN 51 - Istvan Rutai"
+  ],
+  "procedural_matters": [
+    "USA 19 was represented by Philip Ramming.",
+    "HUN 51 was represented by Istvan Rutai."
+  ],
+  "facts": [
+    "The end of the protest time limit was at 17:07.",
+    "The request was received at 17:19.",
+    "USA 19 tried to lodge the hearing request several times, but the request was not received.",
+    "As soon as a member of the international jury was present at the venue, USA 19 approached the jury and asked for help in submitting the request.",
+    "The conditions at the time of the incident were 14 knots of wind, gusting 16 knots with choppy seas.",
+    "During a longer postponement USA 19 and HUN 51 were waiting for the warning signal for race 1, on the starboard side of the race committee vessel, nearly stationary with flapping sails.",
+    "Both boats were on port tack and overlapped with USA 19 to leeward and HUN 51 to windward.",
+    "HUN 51 bore away and, when on a broad reach, made contact with USA 19 on her port side near the mast.",
+    "USA 19 did not see or hear HUN 51 bearing away and sailing towards her.",
+    "The contact caused damage to USA 19´s hull, resulting in a hole on the port side of USA 19 about 5 centimeter in diameter, a delamination with a lenght of about one meter at the gunwhale and the the deck was delaminated.",
+    "USA 19 did not sail in races 1 and 2.",
+    "HUN 51 retired from race 1 after racing."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 44.1(b)",
+    "RRS 60.3(b)(1)",
+    "RRS 60.5(c)(2)",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "USA 19 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1). However, there was good reason for the International Jury to extend the time limit.",
+    "HUN 51 to windward failed to keep clear of USA 19 to leeward, and broke RRS 11.",
+    "HUN 51 did not avoid contact with USA 19 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for USA 19, the right-of-way boat, to avoid contact with HUN 51 when it became clear that HUN 51 was not keeping clear. USA 19 did not break RRS 14(a).",
+    "Since HUN 51 caused serious damage by her breach, her penalty was to retire as required by RRS 44.1(b).",
+    "USA 19’s score in races 1 and 2 was made significantly worse through no fault of her own by physical damage because of the action of HUN 51 that was breaking RRS 11, 14(a) and took an appropriate penalty. Therefore, the requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "The protest is upheld. Since HUN 51 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is given to USA 19. USA 19 is to be scored in races 1 and 2 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races sailed before the last scheduled day of the regatta, except races 1 and 2. No other boat’s score shall change. Redress for race 1 will be given as soon as USA has completed two races and for race 2 as soon as USA 19 has completed 4 races."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Michal Jodlowski",
+    "members": [
+      "Sylvie Harle",
+      "Stavros Kouris",
+      "Marco Flavio Tosello",
+      "Jan Stage"
+    ]
+  }
+}

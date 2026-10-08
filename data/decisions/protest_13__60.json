@@ -1,0 +1,47 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "87. Warnemünder Woche 2025",
+  "race_number": "1",
+  "hearing_datetime": "8 JUL 17:00",
+  "parties": [
+    "Race Officer Jan Büttner",
+    "GER 5564 (R1)"
+  ],
+  "procedural_matters": [
+    "The race officer presented the request for redress on behalf of ‘Place to Be’ 5564.",
+    "The case was heard under RRS 63.1(b). As ‘Place to Be’ was still racing in the Rund Bornholm race at the time of the hearing."
+  ],
+  "facts": [
+    "’Place to Be’ and ‘Dockenhuden’were racing in the Rund Bornholm race.",
+    "‘Dockenhuden’ was dismantlednorth of Bornholm Island.",
+    "’Place to Be’ left the raceto rescue ‘Dockenhuden’ and towed her into Tejn on Bornholm.",
+    "’Place to Be’ passed thenorth Bornholm waypoint at 10:28 hrs. for the first time before rescuing ‘Dockenhuden’. She passed the waypoint again at 14:07 hrs. again after the rescue.",
+    "At 10:28 hrs. the wind was282 degrees 11 kts., and at 14:07 hrs. the wind was 253 degrees and 10 kts."
+  ],
+  "rules": [
+    "RRS 1.1",
+    "RRS 42.3(g)",
+    "RRS 61.4(b)(4)",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "’Place to Be’ went to therescue of 'Dockenhuden' as required by RRS 1.1.",
+    "‘Place to Be’ took 219minutes to rescue 'Dockenhuden' return to the north Bornholm waypoint as exemptedby RRS 42.3(g).",
+    "During that time the windhad decreased and adversely changed direction.",
+    "The race officer calculatedthat ‘Place to Be’ should be compensated by 219 minutes + 22 minutes."
+  ],
+  "decision": [
+    "‘Place to Be’ 5564 to have 4 hours 1 minute deducted from her elapsed time."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Elizabeth Procter",
+    "members": [
+      "Dr. Jörn-Christoph Jansen",
+      "Dr. Rainer Kornfeld",
+      "Satish Kanwar",
+      "Susanne"
+    ]
+  }
+}

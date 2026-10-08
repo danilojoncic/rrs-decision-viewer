@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "6",
+  "hearing_datetime": "6 JUL 15:50",
+  "parties": [
+    "GBR 25",
+    "ARG 3330"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GBR 25 was represented by Jac Baily.",
+    "ARG 3330 was represented by Juan Cernadas.",
+    "Frederic Wood helm of GBR 3347 gave evidance as a witness for GBR 25."
+  ],
+  "facts": [
+    "In race Q5 of the Red fleet, the wind was 14 knots.",
+    "The boats were sailing on a downwind course approaching mark 2p with GBR 25 on port tack and ARG 3330 on starboard tack, on converging courses.",
+    "GBR 25 gybed onto starboard tack and reached a broad reach course, 1 boat length above the starboard layline of mark 2p. At that moment she was 2 boat lengths clear ahead of ARG 3330 and 5 boat lengths from the mark.",
+    "When GBR 25 entered the zone of mark 2p, she was 1.5 boat lengths clear ahead of ARG 3330.",
+    "When GBR 25 was beside the mark and less than a boat length from it, ARG 3330 established an overlap to leeward of GBR 25 and sailed between her and the mark.",
+    "At that moment GBR 25 luffed slightly, and then gybed.",
+    "While the boats were rounding the mark, the distance between them was less than 1 meter.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 18.2(a)(2)"
+  ],
+  "conclusions": [
+    "ARG 3330 not overlapped with GBR 25 and not in the zone at the time GBR 25 reached the zone, failed to give GBR 25 mark-room, and broke RRS 18.2(a)(2)."
+  ],
+  "decision": [
+    "ARG 3330 is disqualified in race Q5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Niclas Kath",
+    "members": [
+      "Julia Schmidt",
+      "Maria Ramirez"
+    ]
+  }
+}

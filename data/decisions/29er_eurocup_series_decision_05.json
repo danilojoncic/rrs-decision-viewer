@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "29er EuroCup Series",
+  "race_number": "8",
+  "hearing_datetime": "2026-05-03 11:35",
+  "parties": [
+    "ITA 3270 - Gaicomo Arosio",
+    "ITA 3346 - Giulio Mattanini"
+  ],
+  "procedural_matters": [
+    "ITA 3270 was represented by Tito Arturo. ITA 3346 was represented by Giucio Matanini."
+  ],
+  "facts": [
+    "Wind conditions were 6–7 knots, and the water was choppy.",
+    "ITA 3270 - inside and clear ahead and ITA 3346 were approaching mark 2P on port tack, entering the zone with a distance of 1.5 m.",
+    "When the distance between ITA 3270 and the mark was 1 BL, ITA 3270 bore away and slowed down, ITA 3346 luffed and established an overlap to windward.",
+    "When the latheral distance between the boats was less than 20 cm, ITA 3270 bore away.",
+    "ITA 3270 and ITA 3346 rounded the mark and completed the race.",
+    "There was no contact, no boat took a penalty."
+  ],
+  "rules": [
+    "RRS 18.2(a)(2)"
+  ],
+  "conclusions": [
+    "ITA 3346 not overlapped with ITA 3270 and not in the zone at the time ITA 3270 reached the zone, failed to give ITA 3270 mark-room, and broke RRS 18.2(a)(2)."
+  ],
+  "decision": [
+    "ITA 3346 is DSQ in race 8."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Anna Cuccia",
+    "members": [
+      "Katarzyna Goralska",
+      "Max Pawłowski",
+      "Marco Sarcoli"
+    ]
+  }
+}

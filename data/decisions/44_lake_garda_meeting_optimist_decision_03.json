@@ -1,0 +1,43 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "44° Lake Garda Meeting Optimist",
+  "race_number": "3, white fleet",
+  "hearing_datetime": "2026-04-03 20:00",
+  "parties": [
+    "DEN 8575 - Sarah Frier Haislund",
+    "EST 409 - Tormi Tamm"
+  ],
+  "procedural_matters": [
+    "DEN 8575 was represented by Sarah Frier Haislund.",
+    "EST 409 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "At 8:13 on April 3rd DEN 8575 found that there was a crack in the boat as a result from a contact that occurred during the previous racing day (April 2nd).",
+    "DEN 8575 delivered the protest concerning an incident in race 3 on April 3rd at 18:51.",
+    "The protest time limit for Division A on April 2nd was 18:27.",
+    "DEN 8575 did not inform the race committee about her intention to protest at the finishing line."
+  ],
+  "rules": [
+    "RRS 60.4",
+    "NoR 1.4"
+  ],
+  "conclusions": [
+    "DEN 8575 failed to inform the race committee at the finish line about her protest as required by NOR 1.4.",
+    "DEN 8575 failed to deliver the protest within two hours after receiving the relevant information, as required by RRS 60.3(b)(2). There was no good reason for the PC to extend the time limit."
+  ],
+  "decision": [
+    "The Protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Hermann Herburger",
+    "members": [
+      "Alen Kustic",
+      "Martin Clasen (GER) Ezio Fonda",
+      "Marin Kustic",
+      "Fiorella Nicolari"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "World Championships 49er, 49erFX, Nacra 17 - 2026",
+  "race_number": "4",
+  "hearing_datetime": "13 MAY 14:30",
+  "parties": [
+    "DEN 266",
+    "FRA 13"
+  ],
+  "procedural_matters": [
+    "In race 4 (blue fleet) 20-30 meters before the finish line DEN 266 were on starboard, layline to the finishing. FRA 13 were coming on a collision course on port. (Both boats approaching the finish) we hailed starboard several times. But FRA 13 didn’t keep clear and forced DEN 266 to crash gybe to avoid collision, which resulted in capsizing. Fra 13 broke rule 10 and did not make a penalty. DEN 266 also ask for redress (rule 61). in the capsizing our Bungy holding our trapeze’s were torn apart, which made it almost impossible to bear away again because our trapezes totally tangled. FRA 13 made us lose almost the whole fleet. We ask to get the place FRA 13 finished!"
+  ],
+  "facts": [
+    "Race 4, 22 knots of wind.",
+    "20-30 metres before the finish line DEN 266 was on starboard tack.",
+    "FRA 13 was on port tack.",
+    "The boats were on a collision course.",
+    "DEN 266 hailed \"starboard.\"Both boats held their course.",
+    "When the boats were 4 metres apart DEN 266 bore away and crash gybed.",
+    "DEN 266 capsized.",
+    "There was no contact between the boats.",
+    "While capsized, DEN 266's trapeze bungy line broke.",
+    "When DEN 166 capsized they were in 12 place.",
+    "While capsized 10 boats passed DEN 266.",
+    "DEN 266 finished in 22 place.",
+    "No penalty was taken."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "FRA 13 on port tack did not keep clear of DEN 266 on starboard tack and broke RRS 10.",
+    "DEN 266's position in race 4 was made significantly worse by the capsize, not the damage and so the requirements of RRS 61.4(b)(2) are not met."
+  ],
+  "decision": [
+    "FRA 13 is to be scored DSQ in race 4.",
+    "Redress is not given to DEN 266."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Alexis DUVERNOY",
+    "members": [
+      "Allan BASER",
+      "Paul BASTARD",
+      "Nicole DE BY",
+      "Ilca HEINRICH"
+    ]
+  }
+}

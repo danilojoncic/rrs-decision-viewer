@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "1",
+  "hearing_datetime": "7 JUL 18:00",
+  "parties": [
+    "Race Committee",
+    "JPN 459 (R1)"
+  ],
+  "procedural_matters": [
+    "JPN 459 was represented by Keiju Okada (Helm)",
+    "The Race Committee was represented by Anne Malledant (PRO)",
+    "Luke Thefenne (representative from the company Sailteck) gave evidence as a witness for the Race Committee.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Race Q2 of the 49 FX was sailed using the ARMS system. The Whiskey flag was not displayed.",
+    "At the starting signal, ARMS identified JPN 459 on the course side of the starting line.",
+    "The crew did not check the device after the starting signal.",
+    "The crew checked the ARMS unit during the first leg and saw it displaying the warning message \"OVER\".",
+    "JPN 459 did not return to the pre start side of the course and was scored OCS by the race committee."
+  ],
+  "rules": [
+    "RRS 2",
+    "RRS 28"
+  ],
+  "conclusions": [
+    "JPN 459 failed to sail the course, and broke RRS 28.1.",
+    "By knowingly breaking RRS 28.1 and not taking the appropriate penalty, JPN 459 failed to compete in compliance with the principles of sportsmanship and fair play as stated in RRS Basic Principles. JPN 459 broke RRS 2."
+  ],
+  "decision": [
+    "JPN 459 is disqualified in Race 1 and the disqualification is not excludable."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jon Napier",
+    "members": [
+      "Henning Jacobssen",
+      "Jose Pico"
+    ]
+  }
+}

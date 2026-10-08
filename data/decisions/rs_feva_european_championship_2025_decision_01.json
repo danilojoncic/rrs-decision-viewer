@@ -1,0 +1,50 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "RS Feva European Championship 2025",
+  "race_number": "3",
+  "hearing_datetime": "2025-10-01 16:15",
+  "parties": [
+    "SVK 4922 - Viktor Koprda Jakub Ilenčík",
+    "ITA 8000 - Anita Neri Sofia Jasmine Kay"
+  ],
+  "procedural_matters": [
+    "TOMAŠ ILENČIK COACH attended the hearing as an observer for SVK 4922 MATEO FOCACCIA COACH ITA attended the hearing as an observer for ITA 8000 Martin Clasen gave evidence as a witness for JURY. Fiorella Nicolari gave evidence as a witness for JURY. Anita Neri gave evidence as a witness for ITA 8000. Juraj Vozar gave evidence as a witness for SVK 4922."
+  ],
+  "facts": [
+    "WIND CONDITIONS: MORE THAN 15 KTS, WAVES HALF METER HEIGHT.",
+    "SVK 4922 ON STARBOARD INSIDE, ITA 8000 ON PORT OUTSIDE, IN THE ZONE OF MARK 3P ON COLLISION COURSE.",
+    "BOTH BOATS WERE ROUNDING THE MARK WITH 1.5 METER DISTANCE BETWEEN THE BOATS.",
+    "SVK 4922 GYBED TO PORT.",
+    "BOTH BOATS LEFT THE MARK ASTERN.",
+    "IMMEDIATELY AFTER SVK 4922 WAS CAPSIZING.",
+    "IMMEDIATELY THEREAFTER ITA 8000 BOW HIT BELOW THE TOP OF THE MAST OF SVK 4922.",
+    "DAMAGE OCCURED ON MAINSSAIL, BELOW THE TOP BATTEN OF SVK 4922.",
+    "ITA 8000 BORE AWAY AND BOATS HAVE BEEN SEPARATED.",
+    "BOTH BOATS FINISHED THE RACE.",
+    "SVK 4922 LOST THREE PLACES IN THE RANK.",
+    "NO BOAT TOOK A PENALTY TURN."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "SVK 4922 to windward failed to keep clear of ITA 8000 to leeward, and broke RRS 11.",
+    "It was not reasonably possible for ITA 8000 the right-of-way boat to avoid contact with SVK 4922 when it became clear that SVK 4922 was not keeping clear. ITA 8000 did not break RRS 14(a).",
+    "SVK 4922 caused contact between SVK 4922 and ITA 8000 even though it was reasonably possible to avoid causing it, and broke RRS 14(b)."
+  ],
+  "decision": [
+    "SVK 4922 is DSQ in race 3"
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Katarzyna Goralska",
+    "members": [
+      "Alen Kustic",
+      "Martin Clasen",
+      "Peter Taylor",
+      "Ezio Fonda"
+    ]
+  }
+}

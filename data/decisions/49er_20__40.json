@@ -1,0 +1,55 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "7",
+  "hearing_datetime": "9 JUL 16:15",
+  "parties": [
+    "FRA 16",
+    "NED 380"
+  ],
+  "procedural_matters": [
+    "FRA 16 was represented by Erwan FISCHER",
+    "NED 380 was represented by Lenny HOFMAN",
+    "The panel of the International Jury was constituted in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 10 knots of wind and a small chop.",
+    "Before the start of race 7, FRA 16 was on starboard tack stationary on the starting line.",
+    "NED 380 was on port tack sailing on a reach along the starting line, and on a converging course with FRA 16.",
+    "When the boats were 1 boat length apart, NED 380 started to bear away to pass to leeward of FRA 16, but her bow collided with the front of FRA 16's port wing.",
+    "The contact caused scratches to FRA 16's bow and cracks to NED 380's bow.",
+    "The force of the collision caused the helm of FRA 16 to fall forwards, injuring his hand and wrist.",
+    "NED 380 apologized to FRA 16 and took a one-turn penalty.",
+    "One minute after the start, the Race Committee abandoned the race, and the race was restarted.",
+    "The injury meant that FRA 16 was not able to race in race 7 or in race 8.",
+    "Upon returning ashore, NED 380 retired from race 7."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14",
+    "RRS 44.1(b)",
+    "RRS 60.5(c)(2)",
+    "RRS 61.4(b)(2)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "NED 380 on port failed to keep clear of FRA 16 on starboard, and broke RRS 10.",
+    "NED 380 failed to avoid contact when it was reasonably possible to do so and broke RRS 14.",
+    "It was not possible for FRA 16 to avoid contact from the time it was clear NED 380 was not keeping clear. FRA 16 did not break RRS 14.",
+    "By retiring from the race, NED 380 took an applicable penalty under RRS 44.1(b) and shall not be penalized further under RRS 60.5(c)(2).",
+    "FRA 16's scores in races 7 and 8 were made significantly worse through no fault of her own by the injury caused by the actions of NED 380, who broke RRS 10 and 14 (rules of Part 2) and took the appropriate penalty. Therefore, the requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "Protest upheld, no further penalty.",
+    "Redress is granted to FRA 16. FRA 16 is to be scored in races 7 and 8 with points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in races 1 through to 6 inclusive."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jose Pico",
+    "members": [
+      "Yoann Peronneau",
+      "Lisa Steppat"
+    ]
+  }
+}

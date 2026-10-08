@@ -1,0 +1,30 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2026 ILCA SENIOR EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "SLO 221426 - Alenka VALENCIC"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "SLO 221426's score was corrected by the race committee.",
+    "SLO 221426 requested to withdraw the request for redress."
+  ],
+  "rules": [],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the request for redress."
+  ],
+  "decision": [
+    "The international jury allows the request for redress to be withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bence Borocz",
+    "members": [
+      "Wai Kai Chan Vicky",
+      "Bernadette Delbart"
+    ]
+  }
+}

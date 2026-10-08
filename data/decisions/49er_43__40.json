@@ -1,0 +1,49 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "15",
+  "hearing_datetime": "11 JUL 19:15",
+  "parties": [
+    "AUS 77",
+    "ITA 46"
+  ],
+  "procedural_matters": [
+    "AUS 77 was represented by Archie GARGETT",
+    "ITA 46 was represented by Federico FIGILIA DI GRANARA",
+    "Gabriel BRUNI (Coach to ITA 46) was an observer.",
+    "Tim MOURNIAC (FRA 51) was a witness.",
+    "Galen RICHARDSON (CAN 41) was a witness.",
+    "Flavia MALTAGLIATI (ITA 437) was a witness.",
+    "The panel of the International Jury was constituted in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "AUS 77 was sailing upwind close-hauled on starboard tack.",
+    "ITA 46 was sailing upwind close-hauled on port tack.",
+    "FRA 51 was sailing upwind close-hauled on starboard tack, approximately 1-2 boat lengths ahead and 1-2 boats lengths to leeward of AUS 77.",
+    "The boats were sailing at around 6 knots of boat speed.",
+    "ITA 46 bore away behind FRA 51 and ducked behind her.",
+    "ITA 46 then luffed and sailed to cross in front of AUS 77.",
+    "When ITA 46 was 0.5 metres from AUS 77's windward bow, AUS 77 bore away to avoid contact with ITA 46.",
+    "There was no contact.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "World Sailing Case 50"
+  ],
+  "conclusions": [
+    "There was a genuine and reasonable apprehension of a collision from AUS 7 and so ITA 46 on port failed to keep clear of AUS 77 on starboard, and broke RRS 10."
+  ],
+  "decision": [
+    "ITA 46 is disqualified in Race 15."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christina Örtendahl",
+    "members": [
+      "Jon Napier",
+      "Henning Jacobssen"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "420 U17",
+  "race_number": "7",
+  "hearing_datetime": "25 Jul 2025 at 19:30",
+  "parties": [
+    "ESP 56971 - Amalia Coll Company",
+    "TUR 57632 - Can Çaçur"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "ESP 56971 was represented by Amalia Coll Company.",
+    "TUR 57632 was represented by Can Çaçcur.",
+    "Jacobo Garcia, coach of ESP 56971, attended the hearing as an observer.",
+    "Cem Aydin, coach of TUR 57632, attended the hearing as an observer.",
+    "ESP 56971 presented video evidence."
+  ],
+  "facts": [
+    "At the time of the incident, the conditions were 12 knots of wind and waves of one metre.",
+    "At the start ESP 56971 on starboard tack and TUR 57632 on port tack were sailing on a converging course.",
+    "At a distance of 1 metre between the boats, ESP 56971 bore away and passed the stern of TUR 57632 at a distance of 20 centimetres.",
+    "If ESP 56971 had held her course, contact would have occurred between the bow of ESP 56971 and the starboard side of TUR 57632 on the aft part of the hull.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 60.3(a)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "TUR 57632 on port tack failed to keep clear of ESP 56971 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "TUR 57632 is DSQ in race 7."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Tatiana Almeida (BRA",
+      "Timo Hass (GER",
+      "Luigi Bertini (ITA"
+    ]
+  }
+}

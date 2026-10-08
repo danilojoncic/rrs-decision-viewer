@@ -1,0 +1,45 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "DECISION",
+  "event": "Ok Dinghy World Championship 2025",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-16 17:15",
+  "parties": [
+    "GBR 2213 - Tom Bayliss",
+    "GER 27 - Michael Kluegel"
+  ],
+  "procedural_matters": [
+    "GBR 2213 was represented by Tom Bayliss GER 27 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "At the time of the incident, the wind was 15 knots, with choppy waves.",
+    "GER 27, close-hauled on port tack and 4 boat lengths below the port-tack lay line to Mark 1, was on a course to collide bow to bow with GBR 2213, close-hauled on the starboard-tack lay line.",
+    "When the two bows were 2m apart, GBR 2213 luffed and tacked to leeward of GER 27.",
+    "When GBR 2213 reached a close-hauled course, the boats were separated by 40cm.",
+    "Neither boat took a Two-Turn Penalty at that stage.",
+    "GER 27 subsequently made contact with Mark 1a, and thereafter took a One-Turn-Penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 31",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "GER 27 on port tack failed to keep clear of GBR 2213 on starboard tack, and broke RRS 10.",
+    "GER 27 touched mark 1a and broke RRS 31.",
+    "Since RRS 44.1(b) did not apply, GER 27 took an applicable penalty by One-Turn Penalty for breaking RRS 31."
+  ],
+  "decision": [
+    "DECISION Protest Request No.: 02 GER 27 is DSQ in race #3."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Antonio Rutoli",
+      "Rainer Heinrich",
+      "Zoya Asad Ali",
+      "Johanna Poksi"
+    ]
+  }
+}

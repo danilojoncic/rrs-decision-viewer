@@ -1,0 +1,51 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "4",
+  "hearing_datetime": "2025-07-31 18:15",
+  "parties": [
+    "USA 4221 - Spirit of Nerina - Filippo Baldassari",
+    "MME 0602 - X-odessa"
+  ],
+  "procedural_matters": [
+    "USA 4221 was represented by Filoppo Baldassari",
+    "MNE 0602 was represented by Axel Rodger",
+    "Bruno Finzi, member of the International Jury, provided video evidence.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Conditions at the time of the incident 10-11 knots and small chop.",
+    "During the first leg of Race No. 4, near the windward mark, USA 4221 was sailing on the starboard layline",
+    "MNE 0602 was sailing on port tack on a collision course with USA 4221.",
+    "MNE 0602 bore away sharply to sail to pass astern of USA 4221.",
+    "When the boats were side by side and approximately 4 metres apart MNE 0602 heeled to windward, due to the wind blanket from other boats, and there was contact between the top section of the USA 4221's mast and the port top section of the shroud of MNE 0602.",
+    "USA 4221 and MNE 0602 retired from race 4.",
+    "MNE 0602 broke the top section of the port shroud and USA 4221 suffered delamination between the halyard block section and the top of the mast, the instruments wand was lost, there are also scratches between the schrod section and top of the mast."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "MNE 0602 on port failed to keep clear of USA 4221 on starboard, and broke RRS 10.",
+    "MNE 0602 did not avoid contact when it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for USA 4221 the right-of-way boat to avoid contact with MNE 0602 when it was clear that MNE 0602 was not keeping clear. Y did not break RRS 14(a).",
+    "USA 4221’s place in race 4 was made significantly worse through no fault of her own by physical damage because of the action of MNE 0602 that was breaking RRS 10 and took an appropriate penalty. Therefore, the requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "The protest is upheld. Since MNE 0602 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is given to USA 4221. USA 4221 is to be scored in race 4 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all inshore races sailed before the last scheduled day of the regatta. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Pinar Coskuner Genc",
+    "members": [
+      "Cxema Pico",
+      "Finn Mrugalla",
+      "David Gosalbez",
+      "Bruno Finzi"
+    ]
+  }
+}

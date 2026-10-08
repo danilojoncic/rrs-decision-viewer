@@ -1,0 +1,53 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "21 JUN 18:15",
+  "parties": [
+    "FRA 226430",
+    "GBR 228326"
+  ],
+  "procedural_matters": [
+    "FRA 226430 was represented by Guillermo Dominguez Marvillet.",
+    "GBR 228326 was represented by Oliver Mayo.",
+    "Johannes Erichsen (regional judge in training) attended the hearing as an observer."
+  ],
+  "facts": [
+    "The conditions at the time of theincident were 5 knots of wind and small choppy waves.",
+    "FRA 226430 and GBR 228326 were bothsailing downwind on port tack and approching the leeward mark, before thereach to the finish.",
+    "When FRA 226430 entered the zone shewas outside overlaped to two unidentified boats and she was clear ahead of GBR 228326.",
+    "When FRA 226430 was abeam ofthe mark she slowed down behind the two unidentified boats who were rounding themark.",
+    "FRA 226430 luffed closing the gapbetween her and the mark and at the same time GBR 228326 sailed between FRA 226430 and the mark, and established an inside overlap.",
+    "The distance between GBR 228326 and the mark was 10 cm.",
+    "FRA 226430 luffed and immediately there was contactwith the port side of her bow and GBR 228326's starboard side of the hull, amidships.",
+    "There was no damage or injury.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 18.2(a)(2)",
+    "RRS 43.1(c)"
+  ],
+  "conclusions": [
+    "GBR 228326 not overlapped with FRA 226430 and not in the zone at the time FRA 226430 reached the zone, failed to give FRA 226430 mark-room, and broke RRS 18.2(a)(2).",
+    "GBR 228326 to windward failed to keep clear of FRA 226430 to leeward and broke RRS 11.",
+    "GBR 228326 did not avoid contact with FRA 226430 even though it was reasonably possible, and broke RRS 14(a).",
+    "When it became clear that GBR 228326 was not keeping clear and giving mark-room it was reasonably possible for FRA 226430, the right-of-way boat and the boat sailing within the mark-room to which she was entitled to avoid contact with GBR 228326. FRA 226430 broke RRS 14(a).",
+    "Since FRA 226430 was right-of-way boat and sailing within the mark-room to which she was entitled and the contact did not cause damage or injury she is exonerated for RRS 14(a) under RRS 43.1(c)."
+  ],
+  "decision": [
+    "GBR 228326 is DSQ in race 1."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Hella Bouma",
+    "members": [
+      "Hrvoje Ban",
+      "Václav Brabec",
+      "Michalina Wroblewska",
+      "Jens Biederer"
+    ]
+  }
+}

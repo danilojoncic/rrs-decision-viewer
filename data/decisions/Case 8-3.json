@@ -1,0 +1,43 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "224386",
+  "hearing_datetime": "",
+  "parties": [
+    "GBR 224336 - Nathan RUSSELL",
+    "GRE 207511 - Stefanos TSAKOS"
+  ],
+  "procedural_matters": [
+    "Panel of the International Jury was composed under RRS N1.4(b)."
+  ],
+  "facts": [
+    "Small choppy waves and 6 knots of wind.",
+    "GBR 224336 on beat to windward on starboard tack, overlapped with an unidentified boat to leeward.",
+    "GRE 207511 on port tack on converging course with unidentfied boat.",
+    "GRE 207511 at the distance 2m to unidentified boat bore away and sailed 1m astern of it.",
+    "Immediately after passing astern of unidentified boat a contact occured between bow of GRE 207511 and port side of the hull of GBR 224336 about 30 cm from the stern.",
+    "Both boats continued racing and finished the race without taking any penalty turns."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 10",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "GRE 207511 on port tack failed to keep clear of GBR 224336 on starboard tack, and broke RRS 10.",
+    "GRE 207511 did not avoid contact with GBR 224336, even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GBR 224336, the right-of-way boat to avoid contact with GRE 207511, when it became clear that GRE 207511 was not keeping clear. Y did not break RRS 14(a)."
+  ],
+  "decision": [
+    "GRE 207511 is DSQ in race 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Johanna Poksi",
+    "members": [
+      "Arto Kiiski",
+      "Uros Zvan"
+    ]
+  }
+}

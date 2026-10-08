@@ -1,0 +1,60 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "Ok Dinghy World Championship 2025",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-16 16:30",
+  "parties": [
+    "GER 132 - Philipp Menke",
+    "AUS 822 - Don Williams"
+  ],
+  "procedural_matters": [
+    "Jörn-Christoph Jansen (International Jury member) gave evidence as he witnessed the incident.",
+    "Johanna Poksi (International Jury member) gave evidence as she witnessed the incident.",
+    "GER 132 attended the hearing after the facts were presented by AUS 822. The International Jury decided to restart the hearing by allowing GER 132 to present his facts.",
+    "GER 132 presented the damage of his boat to the International Jury and AUS 822."
+  ],
+  "facts": [
+    "At the time of the incident the wind was 15 kts with small choppy waves.",
+    "Within 2 minutes of her starting signal GER 132 was reaching on starboard tack towards the pin end of the line.",
+    "An unidentified boat was sailing a similar course clear ahead of GER 132, moving more slowly than GER 132.",
+    "AUS 822, five boat lengths away, was reaching on port tack towards GER 132 and the unidentified boat.",
+    "GER 132 bore away behind the unidentified boat’s stern and then luffed slightly onto a collision course with AUS 822.",
+    "When GER 132 was 1,5 boat lengths from AUS 822, GER 132 bore away slightly and at that moment AUS 822 luffed.",
+    "GER 132 then luffed sharply and even though AUS 822 bore away, her bow made contact with the port side of GER 132 just forward of midships.",
+    "The contact resulted in damage to the gunwale of GER 132. Approximately 20cm of gunwale was crushed and gunwale layers are delaminated in that area.",
+    "AUS 322 took a Two-Turns Penalty.",
+    "GER 132 did not sail in races 3 and 4."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 16.1",
+    "RRS 43.1(b)",
+    "RRS 60.5(c)(2)"
+  ],
+  "conclusions": [
+    "AUS 822 on port tack failed to keep clear of GER 132 on starboard tack, and broke RRS 10.",
+    "When changing course, GER 132 the right-of-way boat failed to give AUS 822 room to keep clear, and broke RRS 16.1.",
+    "It was not reasonably possible for AUS 822, the boat sailing within the room to which she was entitled, to avoid contact with GER 132 when it became clear that GER 132 was not giving room. AUS 822 did not break RRS 14(a).",
+    "When it became clear that AUS 822 was not keeping clear it was reasonably possible for GER 132, the right- of-way boat, to avoid contact with AUS 132. GER 132 broke RRS 14(a).",
+    "Since AUS 822 broke RRS 10 while she was sailing within the room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach.",
+    "The damage was not considered 'serious' in the context of RRS 44.1(b).",
+    "GER 132’s score in race #3 was made significantly worse through her own fault. Therefore, the requirements for redress in RRS 64.1(b) are not met."
+  ],
+  "decision": [
+    "The protest against AUS 822 is dismissed.",
+    "Since GER 132 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is not given to GER 132."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "David Hudson",
+    "members": [
+      "Jörn-Christoph Jansen",
+      "Zoya Asad Ali",
+      "Ewa Szyfter",
+      "Johanna Poksi"
+    ]
+  }
+}

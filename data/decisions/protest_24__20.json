@@ -1,0 +1,69 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "JPN",
+    "MAS (R3)"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS?N1.4(b). Hapissudin coach MAS attended the hearing as an observer. Kohel Ichikawa coach JPN attended the hearing as an observer."
+  ],
+  "facts": [
+    "Leg 2.",
+    "At the moment of the incident, the wind speed was 7 knt and 1 meter swell.",
+    "JPN was sailing on a port tack on a reaching course, approaching the gate mark 4S.",
+    "MAS was sailing on starboard tack on a reaching course, crossing the stern of JPN at 2 boat lengths.",
+    "JPN entered the zone clear ahead, lowered the gennaker and slowed down.",
+    "MAS gybed to a port tack 1 boat length to leeward of JPN overlapped.",
+    "Abeam of the mark JPN gybed to a starboard tack and was then the lateral distance was 1,5 boat lengths of MAS.",
+    "MAS established an inside overlap, while still sailing with the gennaker, and was then in convergent course with JPN.",
+    "MAS gybed to starboard tack keeping the convergent course.",
+    "JPN bore away.",
+    "MAS made contact with JPN midship and at the same time with the mark.",
+    "MAS took a One-Turn penalty.",
+    "Both boats completed the race.",
+    "No damages occurred.",
+    "Leg 2.",
+    "At the moment of the incident, the wind speed was 7 knt and 1 meter swell.",
+    "JPN was sailing on a port tack on a reaching course, approaching the gate mark 4S.",
+    "MAS was sailing on starboard tack on a reaching course, crossing the stern of JPN at 2 boat lengths.",
+    "JPN entered the zone clear ahead, lowered the gennaker and slowed down.",
+    "MAS gybed to a port tack 1 boat length to leeward of JPN overlapped.",
+    "Abeam of the mark JPN gybed to a starboard tack and was then the lateral distance was 1,5 boat lengths of MAS.",
+    "MAS established an inside overlap, while still sailing with the gennaker, and was then in convergent course with JPN.",
+    "MAS gybed to starboard tack keeping the convergent course.",
+    "JPN bore away.",
+    "MAS made contact with JPN midship and at the same time with the mark.",
+    "MAS took a One-Turn penalty.",
+    "Both boats completed the race.",
+    "No damages occurred."
+  ],
+  "rules": [
+    "RRS 14(a)",
+    "RRS 18.2(a)(2)",
+    "RRS 31",
+    "RRS 60.5(c)(2)",
+    "NoR 1.11"
+  ],
+  "conclusions": [
+    "MAS not overlapped with JPN and not in the zone at the time JPN reached the zone, MAS failed to give JPN mark- room, and broke RRS 18.2(a)(2).",
+    "MAS did not avoid contact with JPN even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for JPN the boat sailing within the mark-room to which she was entitled to avoid contact with MAS when it became clear that MAS was not giving mark-room. JPN did not break RRS 14(a).",
+    "MAS touched mark 2 and broke RRS 31."
+  ],
+  "decision": [
+    "The protest is upheld. Since MAS took an applicable penalty according to NoR 1.11, she is not further penalized under RRS 60.5(c)(2).?"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Anna Cuccia, Jury Member",
+    "members": [
+      "Alan Baser",
+      "Anna Cuccia",
+      "Eurico Teodoro"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "Europa Cup ILCA Italy 2026",
+  "race_number": "1",
+  "hearing_datetime": "2026-06-14 17:20",
+  "parties": [
+    "NED 221858 - Alexander Hartsink",
+    "ESP 225111 - Nikko Palou"
+  ],
+  "procedural_matters": [
+    "NED 221858 was represented by Alexsander Hartsink.",
+    "ESP 225111 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 15 kts of wind and 40 cm waves.",
+    "Both boats on port tack overlapped, with NED 221858 to windward of ESP 225111 approaching mark 1 above lay- line.",
+    "At a distance of 1,5 boat length from mark 1, NED 221858 passed head to wind.",
+    "After NED 221858 reached close-hauled course, ESP 225111 passed head to wind.",
+    "Before ESP 225111 reached close-hauled course, there was contact between ESP 225111 bow port side and NED 221858 aft starboard quarter.",
+    "There is no damage.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 13",
+    "RRS 14(a)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, ESP 225111 failed to keep clear of NED",
+    "ESP 225111 broke RRS 13.",
+    "ESP 225111 did not avoid contact with NED 221858 when it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for NED 221858, the right-of-way boat, to avoid contact with ESP 225111 when it became clear that ESP 225111 was not keeping clear. NED 221858 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "ESP 225111 is DSQ in race 1."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Miroslav Bjelajac",
+    "members": [
+      "Uros Zvan",
+      "Pascal Andreovist"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "Optimist",
+  "race_number": "3",
+  "hearing_datetime": "22 Jun 2026 at 09:30",
+  "parties": [
+    "SEN 1 - OUSSEYNOU FALL",
+    "Coach boat"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "SEN 1 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The 'Coach Boat' was not identified by the initiator.",
+    "The race committee was represented by Miguel Amaral IRO POR (PRO).",
+    "Miguel Amaral informed the international jury that it was the technical committee which had rescued SEN 1.",
+    "During the hearing the International Jury clarified in accordance with RRS 63.2(c) that the hearing request was not a protest but a request for redress, and proceeded with it accordingly.",
+    "The International Jury called Olive Parker IM IRL (chair technical committee) as a witness to give evidence."
+  ],
+  "facts": [
+    "During the time of the incident the wind was around 15 knots with 0.5 m waves.",
+    "During race 3, SEN 1 capsized at the end of leg 2, at mark 2.",
+    "SEN 1 recovered from the capsize, but then capsized again twice.",
+    "This was observed by Olive Parker IM IRL (chair technical committee) who was stationed close to the starboard end of the finishing line.",
+    "The competitor of SEN 1 (Ousseynou FALL) waved and Olive Parker initially attempted to get the attention of the race committee and the safety boat(s), but was not successful.",
+    "Olive Parker then drove her vessel to SEN 1's position and held his boat.",
+    "Ousseynou FALL voluntarily climbed into the technical committee vessel and remained in a crouched position.",
+    "SEN 1 (the sail boat) was filled with water and the buoyancy bags were nearly unsecured.",
+    "Ousseynou FALL's eyes were rolling, he was not communicating in any language and was clearly distressed.",
+    "Olive Parker then decided to take Ousseynou FALL ashore and did that.",
+    "Meanwhile, a safety boat arrived and towed SEN 1 (the sail boat) to shore.",
+    "SEN 1 did not finish race 3 and was scored DNC."
+  ],
+  "rules": [
+    "RRS 61.4",
+    "RRS 63.1(b)",
+    "RRS 63.2(c)"
+  ],
+  "conclusions": [
+    "Rescuing the competitor of SEN 1, who had himself sought the assistance, was not an improper action of the technical committee.",
+    "SEN 1’s score in race 3 was made significantly worse through his own fault. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Michael Turner",
+    "members": [
+      "Gurvinderpal Julka",
+      "Oussama"
+    ]
+  }
+}

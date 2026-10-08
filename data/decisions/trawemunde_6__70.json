@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "20 JUL 15:00",
+  "parties": [
+    "DEN 2503",
+    "NED 4509"
+  ],
+  "procedural_matters": [
+    "DEN 2503 was represented by Cecilie Jensen.",
+    "NED 4509 was represented by Jurriën Ooms.",
+    "Asger Jensen and Ruben Ooms attended the hearing as interpreters for DEN 2503 and NED",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "DEN 2503 arrived ashore after racing at 17:00.",
+    "After coming ashore, DEN 2503 asked the race office about how to file a protest.",
+    "After derigging the boat and packing up, DEN 2503 drove 40 minutes to her accommodation.",
+    "DEN 2503 filed the protest at 19:29.",
+    "The protest time limit was 17:40."
+  ],
+  "rules": [
+    "RRS 60.3(b)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "DEN 2503 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1). There was no good reason for the International Jury to extend the time limit."
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Mehnaz Jamil",
+    "members": [
+      "Niclas Kath",
+      "Sandra Hatch"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA Under-21 World Championships",
+  "race_number": "11",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 221817 - Emma Mattivi",
+    "NED 221341 - Roos Wind"
+  ],
+  "procedural_matters": [
+    "Marc de Haas (coach of NED 221341) and Francesco Caricato (coach of ITA 221817) attended a hearing as an observer. Ron Barak and Gonzalo Heredia (members of the International Jury) gave evidence as witness."
+  ],
+  "facts": [
+    "Wind 15-22 kts, choppy waters.",
+    "NED 221341 sailing 1 boat length above layline to the mark 2 leeward of ITA 225817, both boats on starboard.",
+    "ITA 221817 on starboard sailing 3 boat lengths above the layline to the mark 1 boat length clear ahead of NED 221341 and ITA 225817.",
+    "At the mark NED 221341 sailed between the mark and ITA 221817, distance between the mark and NED 221341 was 1 m, distance between NED 221341 and ITA 221817 was 1 boat length.",
+    "No contact occurred.",
+    "No boat touched the mark.",
+    "NED 221341 sailed about 40 seconds and then took a Two-Turn Penalty."
+  ],
+  "rules": [],
+  "conclusions": [
+    "ITA 221817 clear ahead of NED 221341 when entering the zone was entitled to mark-room, but she made space available to NED 221341 to enter inside and round a mark (World Sailing Case 63).",
+    "No rules were broken."
+  ],
+  "decision": [
+    "Protest dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gonzalo Heredia",
+    "members": [
+      "Ron Barak",
+      "Gordon Davies",
+      "Jean-Luc Michon",
+      "Johanna Poksi"
+    ]
+  }
+}

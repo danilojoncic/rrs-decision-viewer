@@ -1,0 +1,40 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2026",
+  "race_number": "2",
+  "hearing_datetime": "21 JUN 17:30",
+  "parties": [
+    "FRA 95",
+    "RC"
+  ],
+  "procedural_matters": [
+    "FRA 95 was represented by Emile Amoros (crew).",
+    "The race committee was represented by Anne Malledant (PRO)."
+  ],
+  "facts": [
+    "The ARMS system had a failure between races 1 and 2 of the 49er red fleet.",
+    "FRA 95 requested redress because she was dissatisfied that the race committee did not use the ARMS system for race 2 of the 49er red fleet, while it was used by the race committee for the other 49er fleets.",
+    "Addendum \"ARMS\" of the Sailing Instructions - Olympic events - Kieler Woche 2026 states that: “Alleged failure, inaccuracy or malfunction of the ARMS device or ARMS system will not be grounds for requesting redress. This changes RRS 61.1(a).”."
+  ],
+  "rules": [
+    "RRS 63.5"
+  ],
+  "conclusions": [
+    "FRA 95 is not entitled to request redress on the grounds of an alleged failure of the ARMS system, as stated in Olympic Event SI Addendum ARMS 9.",
+    "The panel of the international jury could not proceed any further."
+  ],
+  "decision": [
+    "The hearing is closed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Jan Stage",
+    "members": [
+      "Pinar Coskuner Genc",
+      "Matthias Rebholz",
+      "Rick Mallinson",
+      "Alessandro Berrone"
+    ]
+  }
+}

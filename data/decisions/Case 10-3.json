@@ -1,0 +1,36 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "ISR 224010 - Omer VERED VILENCHIK"
+  ],
+  "procedural_matters": [
+    "Panel of the International Jury was composed under RRS 1.4(b)"
+  ],
+  "facts": [
+    "The request for redress was submitted on the 22th of October at 16:54 for the incident that happened on the water on 21st October."
+  ],
+  "rules": [
+    "RRS 1.4(b)",
+    "RRS 61.2(b)(3)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "ISR 224010 did not lodge the request as soon reasonably possible as required by RRS 61.2(b)(3).",
+    "The protest committee has no good reason to extend the time limit."
+  ],
+  "decision": [
+    "The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Danilo Joncic",
+    "members": [
+      "Philippe Mazard",
+      "Mirko Ukas"
+    ]
+  }
+}

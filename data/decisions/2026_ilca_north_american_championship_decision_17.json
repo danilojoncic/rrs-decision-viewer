@@ -1,0 +1,37 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by PC",
+  "event": "2026 ILCA North American Championship",
+  "race_number": "7",
+  "hearing_datetime": "2026-07-12 17:25",
+  "parties": [
+    "USA 222189 - IYKYK - Emerson Wadell"
+  ],
+  "procedural_matters": [
+    "Steve Schupak witnessed the incident and provided testimony during the hearing."
+  ],
+  "facts": [
+    "Steven Schupak was acting as an Appendix P observer and was in a RIB 25 meters from the leeward gate.",
+    "Steven Wolff, another App P observer riding with Steven Schupak, signaled a penalty as per APP P, 1.2 for a violation of RRS 42.",
+    "222189 responded and loudly stated: “Are you fucking kidding me”",
+    "222189 took a 2-turn penalty.",
+    "In the hearing, 222189 apologized and took full responsibility."
+  ],
+  "rules": [
+    "RRS 2"
+  ],
+  "conclusions": [
+    "Emerson Wadell failed to compete in compliance with the principles of sportsmanship and fair play as stated in RRS Basic Principles. 222189 broke RRS 2."
+  ],
+  "decision": [
+    "The Protest Committee issued 222189 a written warning."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "John Fryer",
+    "members": [
+      "Lisl Dunlop",
+      "Steve Schupak"
+    ]
+  }
+}

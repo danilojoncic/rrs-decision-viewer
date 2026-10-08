@@ -1,0 +1,48 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "87. Warnemünder Woche 2025",
+  "race_number": "1",
+  "hearing_datetime": "5 JUL 17:00",
+  "parties": [
+    "GER 224876",
+    "POL 224926"
+  ],
+  "procedural_matters": [
+    "POL 224926 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "Incidentoccurred in race #1 on the 3rd leg.",
+    "POL 224926 and GER 224876 approaching the leeward gate overlapped with POL 224926 inside.",
+    "Whenrounding the port mark, they were to leeward of the mark with POL 224926 oneboat width from the mark. GER 224876 was about the same distance from POL 224926.",
+    "Directlydownwind from the mark POL 224926 capsized and the mast of POL 224926 landed onthe deck forward of the mast on GER 224876.",
+    "Boatsgot entangled and both boats were not enable to continue until POL 224926 rightedthe boat.",
+    "No damage, no penalties taken."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14",
+    "RRS 18.2(a)(1)",
+    "RRS 43.1(b)",
+    "RRS 43.1(c)",
+    "RRS 61.4(b)",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "POL 224926, the windward boat, failed to keep clear of GER 224876 the leeward boatand broke RRS 11. POL 224926 was sailing within the mark-room to which she wasentitled and is exonerated by 43.1(b).",
+    "It was reasonably possible for POL 224926 to avoid contact with another boat. POL 224926 broke RRS 14(a). POL 224926 was sailing within the mark-room to whichshe was entitled and is exonerated by 43.1(c).",
+    "It was not reasonably possible for GER 224876, the right-of-way boat, to avoidcontact with POL 224926 when it was clear that POL 224926 was not keeping clear. GER 224876 did not break RRS 14.",
+    "the requirements for redress in RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "The protest is dismissed. Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Hans Vengberg",
+    "members": [
+      "Cosmin Andronic",
+      "Susanne Kuusansalo"
+    ]
+  }
+}

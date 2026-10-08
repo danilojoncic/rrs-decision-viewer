@@ -1,0 +1,51 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "YES - Young Europeans Sailing 2025",
+  "race_number": "4",
+  "hearing_datetime": "9 JUN 15:40",
+  "parties": [
+    "GER 57398",
+    "GER 57222"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). Judges Maria Ramires and Frank Brinkers saw the incidence and gave evidence as witnesses. Hearing reopened at 17:10h. Decision changed (redress given for 2 races instead of 1)"
+  ],
+  "facts": [
+    "At race 4 of 420 yellow fleet, conditions on course Juliett were 15-17 knots of basic wind with gusts up to 20 knots and a choppy wave.",
+    "25 seconds after the start, GER 57398 sailed on starboard tack.",
+    "GER 57222 sailed on a converging port tack course, aiming at GER 57398’s port side on bow level.",
+    "When GER 57222 became aware of GER 57398, she tried to bear away.",
+    "When GER 57398 became aware of GER 57222, she luffed, but contact immediately occurred between the bow of GER 57222 and the port side of GER 57398 about 1 metre behind its bow.",
+    "GER 57398 nearly capsized to windward, and her crew fell into the water.",
+    "The damage at GER 57398’s starboard side was a crack of about 30 cm in the deck and about 20 cm in the hull, and the boat filled its tank with water.",
+    "There was no damage to GER 57222’s bow.",
+    "GER 57222 went to the race committee and informed them that they wanted to retire from race 4. She sailed and finished races 5 and 6.",
+    "GER 57398 was not able to repair the damage on the water. She did not finish race 4, and she did not start races 5 and 6."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "GER 57222 on port tack failed to keep clear of GER 57398 on starboard tack, and broke RRS 10.",
+    "GER 57222 did not avoid contact with GER 57398 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GER 57398, the right-of-way boat, to avoid contact with GER 57222 when it became clear that GER 57222 was not keeping clear. GER 57398 did not break RRS 14(a).",
+    "Since GER 57222 caused serious damage by her breach, her penalty was to retire as required by RRS 44.1(b).",
+    "GER 57398’s score in races 4, 5, and 6 was made significantly worse through no fault of her own by physical damage because of the action of GER 57222, which was breaking RRS 10 and RRS 14 and took an appropriate penalty."
+  ],
+  "decision": [
+    "Redress is given to GER 57398.",
+    "GER 57398 is to be scored in races 4 and 5 points equal to the average, rounded upward to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races in the series, except races 4, 5, and 6. No other boat’s score shall change.",
+    "GER 57222 score is changed from DNS to RET."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Anna Cuccia",
+    "members": [
+      "Maria Ramires",
+      "Frank Brinkers"
+    ]
+  }
+}

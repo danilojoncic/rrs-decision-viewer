@@ -1,0 +1,34 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "8",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 218939 - Kenje Sem WERPERS",
+    "ISR 220261 - Yahav GAVE"
+  ],
+  "procedural_matters": [
+    "Before the hearing began ISR 220261 took a 30% Post-Race Penalty in accordance with RRS T1(a)."
+  ],
+  "facts": [
+    "ITA 218939 asked to withdraw the protest."
+  ],
+  "rules": [
+    "RRS T1(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "The arbitrator on behalf of the Interntaiona Jury allows the protest to be withdrawn. ISR 220261 took a 30% Post-Race Penalty."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Philippe Mazard",
+    "members": [
+      "Danilo Joncic",
+      "Mirko Ukas"
+    ]
+  }
+}

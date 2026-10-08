@@ -1,0 +1,46 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "ILCA Asian Cup 2026 - Penghu TPE",
+  "race_number": "5",
+  "hearing_datetime": "2026-03-22 16:00",
+  "parties": [
+    "SGP 214737 - Aurick You Shun LEOW",
+    "KOR 222960 - Hyewon JUNG"
+  ],
+  "procedural_matters": [
+    "Priscilla LOW, Coach of SGP attended the hearing as an observer. KOR was contacted prior to the hearing but she advised that she was not attending the hearing. KOR did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "Wind was 5 knot, 1 to 2 ft seas.",
+    "SGP and KOR were approaching from MK2 to MK3 on a run, both on STB tack.",
+    "SGP was 1~1/2 meters clear ahead of KOR just before rounding MK3.",
+    "Both boats rounded the starboard gate of MK3.",
+    "Immediately after rounding, KOR's bow touched the stern of SGP.",
+    "SGP hailed protest.",
+    "No penalties were taken.",
+    "Few seconds later, SGP hailed protest again.",
+    "No damage nor injury occurred."
+  ],
+  "rules": [
+    "RRS 12",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "KOR clear astern failed to keep clear of SGP clear ahead, and broke RRS 12",
+    "KOR did not avoid contact with SGP when it was reasonably possible, and broke RRS 14(a). 3. It was not reasonably possible for SGP the right-of-way boat to avoid contact with KOR when it became clear that KOR was not keeping clear. SGP did not break RRS 14(a)."
+  ],
+  "decision": [
+    "KOR is DSQ in race 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Wai Kai Chan Vicky",
+    "members": [
+      "Doug Elder",
+      "Jean-Luc Michon",
+      "Jack Wu",
+      "Sukkyong Kim"
+    ]
+  }
+}

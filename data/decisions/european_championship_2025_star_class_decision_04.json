@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by PC",
+  "event": "European Championship 2025 - Star Class",
+  "race_number": "2",
+  "hearing_datetime": "2025-06-11 18:35",
+  "parties": [
+    "ARG 8583 - T Verde - Diego Peisajovich Felipao Caivano"
+  ],
+  "procedural_matters": [
+    "Heiko Thoelmann represented the IJ in the protest.",
+    "ARG 8583 was represented by Diego Peisajovich Felipao.",
+    "Lucia Ranza attended the hearing as an observer.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Mark 1 at the end of the first beat to windward of race 2.",
+    "Light wind and smooth water.",
+    "ARG 8583 on starboard tack was sailing close-hauled course heading to the mark.",
+    "ARG 8583 touched mark 1 with her port side of the hull.",
+    "ARG 8583 did not take a penalty turn."
+  ],
+  "rules": [
+    "RRS 31"
+  ],
+  "conclusions": [
+    "ARG 8583 touched mark 1 and broke RRS 31."
+  ],
+  "decision": [
+    "ARG 8583 is DSQ in race 2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Giorgio Bolla",
+    "members": [
+      "Boguslaw Moczorodynski",
+      "Takis Nikiforidis"
+    ]
+  }
+}

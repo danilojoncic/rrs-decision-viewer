@@ -1,0 +1,43 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "ILCA 6 Men",
+  "race_number": "18",
+  "hearing_datetime": "16 Apr 2025 at 19:00",
+  "parties": [
+    "Protest Committee",
+    "GRE - Nikitas KECHAGIOGLOU"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "Support vessel 109 was represented by Nikitas Kechagioglou.",
+    "The international jury was represented by Ulrich Voglmaier.",
+    "Mohamed Zanzoul, member of the international jury, attended the hearing as an observer.",
+    "HKG 221934 was not protested by the international jury."
+  ],
+  "facts": [
+    "After HKG 221934 finished racing on 16 April 2025, support vessel 109, driven by Nikitas Kechagioglou, towed HKG 221934 from race area B to approximately 100 metres outside the harbour.",
+    "HKG 221934 was towed at a speed greater than 5 knots.",
+    "HKG 221934 was not in danger, the boat was not damaged and the crew was not injured.",
+    "The race committee did not display flag T."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "NoR 18.5",
+    "RRS 62.4"
+  ],
+  "conclusions": [
+    "By towing a boat when flag T had not been displayed support person Nikitas Kechagioglou, of support vessel 109, failed to comply with the Support Vessel Regulations 1.11 and therefore broke Notice of Race 18.5."
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Policy for support persons, a starting penalty band of Level 1 was decided. Support person vessel 109 (Nikitas Kechagioglou) is warned not to break a rule of the Support Vessel Regulations again. HKG 221934 was warned under RRS 62.4 that a penalty may be imposed on HKG 221934 if Nikitas Kechagioglou commits a further breach of any rule."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "VEN) - ; Pedro Rodrigues (IJ",
+    "members": [
+      "Elliot Levy (IJ",
+      "POR); Jerrold Ng (IJ"
+    ]
+  }
+}

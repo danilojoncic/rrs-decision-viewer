@@ -1,0 +1,48 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "",
+  "event": "2025 ILCA 6 Women's & ILCA 7 Men's World Championships",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "MAS 209882 - Muhammad Asnawi Iqbal Adam",
+    "MAS 209883 - Muhammad Faizal Ahmad Asri",
+    "MAS 214989 - Khairulnizam Mohd Afendy"
+  ],
+  "procedural_matters": [
+    "After receiving a report from the race committee, the international jury decided to call a hearing to consider whether the driver of MAS support vessel has broken a rule, under RRS 62.1.",
+    "Hugh Leicester (Principal Race Officer) was appointed by the international jury to present the allegations, under RRS 62.2.",
+    "Ferdinand Ziegelmayer (Boat Supplier) gave evidence as a witness for the Principal Race Officer.",
+    "MAS 209882, MAS 209883, MAS 214989, and the driver of the MAS support vessel did not come to the hearing. The hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "On race day 5, course B, the race committee singnalled flag AP over A and flag T on water after race 2.",
+    "MAS 209882, MAS 209883, and MAS 214989 were towed by MAS ILCA 7 support vessel from the course returning to the harbour.",
+    "The race committee observed the towing speed of MAS 209882, MAS 209883 and MAS 214989 between 7.9 and 13 knots according to the trackers.",
+    "Sailing instructions 22.2 require that the towing speed of boats shall not exceed 6 knots."
+  ],
+  "rules": [
+    "RRS 62.1",
+    "RRS 62.2",
+    "RRS 63.1(b)",
+    "RRS 62.4",
+    "SI 22.2"
+  ],
+  "conclusions": [
+    "MAS 209882, MAS 209883, MAS 214989, and the driver of MAS ILCA 7 support vessel failed to comply with the speed limit as required by the sailing instructions and broke SI 22.2. Rules: RRS 62.1, RRS 62.2, RRS 62.4, RRS 63.1(b), SI 22.2"
+  ],
+  "decision": [
+    "The driver of the MAS ILCA 7 support vessel is penalised as follows: the driver of the MAS ILCA 7 and the support vessel of the MAS ILCA 7 are excluded from going afloat until all three fleets of the ILCA 7 class have started race 3.",
+    "MAS 209882, MAS 209883, and MAS 214989 are warned under RRS 62.4 that a penalty may be imposed if the driver of the MAS ILCA 7 support vessel commits a further breach of any rule."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gonzalo Heredia",
+    "members": [
+      "Bence Borocz",
+      "suk-kyong Kim",
+      "Chun Qu",
+      "Xiaolong XU"
+    ]
+  }
+}

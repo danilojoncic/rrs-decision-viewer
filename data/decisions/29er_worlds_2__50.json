@@ -1,0 +1,53 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "29er World Championship 2026",
+  "race_number": "3",
+  "hearing_datetime": "4 JUL 15:35",
+  "parties": [
+    "FRA 2948",
+    "a ferry"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Hearing No. 2 was heard together with hearing No. 3 in accordance with RRS 63.(2)(b) since both hearings arose from very closely connected incidents.",
+    "FRA 2948 was represented by Alexis Hauzy.",
+    "HUN 3352 was represented by Samuel Andreas Juhasz",
+    "RC was represented by Fabian Bach",
+    "Bence Szalontai (coach of HUN 3352) attended the hearing as an observer",
+    "HUN presented video evidence during the hearing.",
+    "Julia (member of the PC) gave evidence as a witness."
+  ],
+  "facts": [
+    "The incident occurred in race Q2, close to mark 1, leg 3.",
+    "A ferry motored towards course area Alpha, entered the course area and went through the fleet from the windward side of the course area.",
+    "The race committee has no control over the movements of the ferry.",
+    "The ferry was driving on its commerical ferry corridor from Schilksee to Kiel City.",
+    "FRA 2948 was sailing on port tack on a close-hauled course aiming to the stern of the ferry.",
+    "When FRA 2948 passed the ferry astern, she capsized.",
+    "HUN 3352 on starboard tack, close-hauled on the layline was approaching FRA 2948.",
+    "When HUN 3352 was at mast of the capsized boat, she luffed and tacked into the propeller wash of the ferry.",
+    "Both boats lost positions as a result of the ferry passing through the course area.",
+    "The RC was aware of the situation that the ferry entered the course and decided to continue with the race.",
+    "There was neither damage nor injury."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)",
+    "RRS 61.4(b)(3)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor omission by the RC, PC, TC or OA and therefore the requirements for redress in RRS 61.4(b)(1) are not met.",
+    "Since the ferry did not cause damage or injury, the requirements for redress in RRS 61.4(b)(3) are not met."
+  ],
+  "decision": [
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Holger Herburger",
+      "Michalina Wroblewska"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "14",
+  "hearing_datetime": "8 JUL 15:50",
+  "parties": [
+    "FRA 3179",
+    "SWE 3254"
+  ],
+  "procedural_matters": [
+    "Hearing No. 40 was heard together with hearing No. 49 in accordance with RRS 63.2(b) since both hearings arose from the same incident.",
+    "FRA 3179 was represented by Lohan Dolibeau (crew).",
+    "GBR 25 was represented by Ben Sinfield (crew).",
+    "SWE 3254 was represented by Henric Wigforss (helm).",
+    "Manel Llige Puig (race officer on course area Charlie) and Lance Burger (member of the panel) gave evidence as witnesses.",
+    "Case 40 was invalid, but since Case 49 was valid, the hearing proceeded.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The course for Gold fleet in race F4 was a L2 course. The conditions at the time of the incident were more than 20 knots of wind.",
+    "During the first rounding of the leeward gate, SWE 3254 was sailing in 1st position with significant lead.",
+    "When SWE 3254 reached the zone of mark 2s, the race committee signalled a change of course by displaying a board with Charlie flag and „+”, but did not make audible sound signals.",
+    "The signals were audible when the rest of the fleet was rounding the leeward gate. At that moment, SWE 3254 had already began sailing on the upwind leg towards mark 1.",
+    "SWE 3254 rounded the original mark and finished, while the rest of the fleet rounded the change mark."
+  ],
+  "rules": [
+    "RRS 28.1",
+    "RRS 33(b)"
+  ],
+  "conclusions": [
+    "By not signalling the change to the next leg of the course before SWE 3254 began sailing the new leg, the race committee failed to comply with RRS 33(b) and therefore the change of course was not applicable to SWE 3254.",
+    "SWE 3254 sailed the course that was signalled to her and did not break RRS 28.1."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Niclas Kath",
+    "members": [
+      "Lance Burger",
+      "Michalina Wroblewska"
+    ]
+  }
+}

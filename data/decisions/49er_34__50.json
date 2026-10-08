@@ -1,0 +1,53 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "12",
+  "hearing_datetime": "11 JUL 9:30",
+  "parties": [
+    "Technical Committee",
+    "AUS 34 (R12)"
+  ],
+  "procedural_matters": [
+    "The Technical Committee was represented by Pilar LOPEZ IM.",
+    "AUS 34 was represented by Evie HASELDINE (crew).",
+    "Brooke WILSON (helm of AUS 34) and Jim COLLEY (coach of AUS 34) attended the hearing as observers.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "On 10 July at 17:30, AUS 34 submitted a request through Manage2Sail for permission to repair her spinnaker overnight due to a 30 cm tear in the luff.",
+    "At around 18:30, AUS 34 went to the Race Office to show her spinnaker and ask for permission to repair it. A person there, who was not a member of the Technical Committee, took note of her sail number and said it was “OK”.",
+    "AUS 34 then left the venue and took the spinnaker to a sailmaker for repair.",
+    "At 18:36, the Technical Committee published the following response through Manage2Sail, and also by email to AUS 34: “Please bring the damaged spinnaker to the Race Office for inspection before it is taken for repair. It must be presented by 19:00.”",
+    "The Technical Committee did not give written approval for the repair.",
+    "The Technical Committee was present in the inspection area from the time the first 49erFX boats came ashore until 18:25, and was thereafter present at the Race Office.",
+    "By 19:10, AUS 34 had not presented the damaged spinnaker to the Technical Committee or at the Race Office after being instructed by the Technical Committee.",
+    "At 19:34, the Technical Committee delivered the protest against AUS 34.",
+    "At 20:00, AUS 34 called the Class Manager and talked to the Technical Committee, offering to show the damaged spinnaker the next morning. The Technical Committee told AUS 34 to proceed with the repair, as the spinnaker was already at the sailmaker.",
+    "On 11 July, AUS 34 showed the repaired spinnaker to the Technical Committee, who approved the repair."
+  ],
+  "rules": [
+    "RRS 10.1(h)",
+    "RRS 1.3",
+    "RRS 4.1",
+    "SI 7.1"
+  ],
+  "conclusions": [
+    "By repairing the spinnaker without prior written approval of the Technical Committee, AUS 34 broke ER 4.1 and CR C.10.1(h).",
+    "By taking the spinnaker out of the boat park without prior written permission of the Technical Committee, AUS broke ER 1.3.",
+    "By failing to comply with the reasonable request of the Technical Committee, AUS 34 broke NoR/SI 7.1."
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guidelines, and considering all the facts found, which provided good justification for the breaches, a starting penalty of 5% was decided.",
+    "There were no further facts to justify increasing or further decreasing the penalty.",
+    "The penalty given to AUS 34 is a 5% discretionary penalty, calculated using the method described in RRS 44.3(c) and applied to race 12, but not worse than the score for DNF."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jose Pico",
+    "members": [
+      "Christina Örtendahl",
+      "Yoann Peronneau"
+    ]
+  }
+}

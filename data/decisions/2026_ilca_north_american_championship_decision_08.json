@@ -1,0 +1,37 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Support Person",
+  "event": "2026 ILCA North American Championship",
+  "race_number": "0",
+  "hearing_datetime": "2026-07-11",
+  "parties": [],
+  "procedural_matters": [
+    "PC appointed Steve Schupak to present the allegations, who was also the judge involved in the in incident and filed the complaint"
+  ],
+  "facts": [
+    "Support Person Nicolas LeBerre coaches ILCA 6 competitors 212127, 221001.",
+    "At the final mark rounding for ILCA 7s in their Race 5, a judge boat was 20 meters below the starboard gate where ILCA 7 sailors were rounding for the last leg and ILCA 4 sailors were rounding to head upwind.",
+    "LeBerre was on his way around the course and became agitated viewing the number of gybes happening in the competitor fleets sailing downwind, believing that the jury was not acting aggressively enough.",
+    "LeBerre approached within 30 meters of the judge boat calling out, and within 50 meters of the racing sailors.",
+    "The judges were distracted from observing the sailors by LeBerre.",
+    "They asked him to move away, which he did."
+  ],
+  "rules": [
+    "SI 19.1",
+    "SI Annex 1 5.1.1"
+  ],
+  "conclusions": [
+    "By approaching racing boats closer than 100 meters, LeBerre broke SI 19.1 and Annex 1: 5.1.1"
+  ],
+  "decision": [
+    "The jury has issued a written warning."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "John Fryer",
+    "members": [
+      "Giff Constable",
+      "Thomas Rinda"
+    ]
+  }
+}

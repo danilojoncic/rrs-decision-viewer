@@ -1,0 +1,49 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "6",
+  "hearing_datetime": "",
+  "parties": [
+    "POL",
+    "ISR"
+  ],
+  "procedural_matters": [
+    "POL was represented by Hanna Rogowska.",
+    "ISR was represented by Gaya Datiashivli .",
+    "DEN Astrid Elnegaard attended as a witness for POL.",
+    "Eran Sela (ISR Coach) attended the hearing as an observer.",
+    "PUR Marina Negrom attended as a witness for ISR.",
+    "Jury was constituted in accordance with N1.4(b)"
+  ],
+  "facts": [
+    "Wind 10-12 knots. Small waves, quite flat sea.",
+    "In race 6 POL was sailing on starboard tack slightly above the starboard layline approaching Mark 1 for the second time.",
+    "ISR was sailing on port tack also approaching Mark 1.",
+    "The boats were on a collision course.",
+    "When half a boat length from the mark ISR luffed and passed head to wind.",
+    "Before ISR reached a close-hauled course, POL luffed eight degrees.",
+    "POL did not sail above a close-hauled course.",
+    "If POL had not luffed contact would have occurred between POL's port side and ISR's starboard side.",
+    "No boat took a penalty turn.",
+    "There was no damage."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 31"
+  ],
+  "conclusions": [
+    "After passing head to wind, ISR, a tacking boat, did not keep clear of POL as required by RRS 13."
+  ],
+  "decision": [
+    "ISR is disqualified from Race 6."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Maria Massapina",
+    "members": [
+      "Alan Baser",
+      "Anna Cuccia"
+    ]
+  }
+}

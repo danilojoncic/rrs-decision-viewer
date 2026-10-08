@@ -1,0 +1,45 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "5",
+  "hearing_datetime": "5 JUL 14:10",
+  "parties": [
+    "SUI 2828",
+    "ITA 3340"
+  ],
+  "procedural_matters": [
+    "SUI 2828 was represented by Oscar Benton.",
+    "ITA 3340 was represented by Lisa Iacomelli.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 20 Knots of wind and choppy water.",
+    "20 seconds before the start SUI 2828 was on starboard, overlapped to leeward of ITA 3340 also on starboard, at a distance between a half and one boat length. SUI 2828 was pointing on a higher course than ITA 3340.",
+    "15 seconds before the start, SUI 2828’s crew went out on trapeze and his head touched the main sail of ITA 3340. The crew of SUI 2828 pushed off the port wing of ITA 3340.",
+    "There were no boats to windward of ITA 3340.",
+    "There was no injury nor damage.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 43.1(c)"
+  ],
+  "conclusions": [
+    "ITA 3340 to windward failed to keep clear of SUI 2828 to leeward, and broke RRS 11.",
+    "ITA 3340 did not avoid contact with SUI 2828 even though it was reasonably possible, and broke RRS 14(a).",
+    "SUI 2828 did not avoid contact with ITA 3340 even though it was reasonably possible, and broke RRS 14(a). Since SUI 2828 was right-of way boat and the contact did not cause damage or injury, she is exonerated under RRS 43.1(c) for breaking RRS 14(a)."
+  ],
+  "decision": [
+    "ITA 3340 is DSQ in race 4."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Johanna Poksi",
+      "Maria Ramirez"
+    ]
+  }
+}

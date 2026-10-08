@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2025",
+  "race_number": "8",
+  "hearing_datetime": "28 JUN 18:10",
+  "parties": [
+    "NOR 222627",
+    "NED 225664"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "An incident occured between NOR 222627 and NED 225664 at the end of race 8 at approximately 14:30.",
+    "There was no injury or damage.",
+    "NOR 222627 came ashore, rigged down the boat and had a briefing with his coach.",
+    "After the briefing, NOR 222627 attempted to file the request for redress.",
+    "30 minutes later, NOR 222627 went to the race office to get help with filing the request for redress.",
+    "NOR 222627 filed the request for redress at 17:44.",
+    "The protest time limit for ILCA 6 gold fleet was 17:07."
+  ],
+  "rules": [
+    "RRS 61.2(b)(1)",
+    "RRS 63.4(a)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "NOR 222627 failed to deliver the request for redress within the protest time limitas required by RRS 61.2(b)(1). There was no good reason for the InternationalJury to extend the time."
+  ],
+  "decision": [
+    "The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cxema Pico",
+    "members": [
+      "Sandra Asle Hatch",
+      "Hella Bouma"
+    ]
+  }
+}

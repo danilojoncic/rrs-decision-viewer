@@ -1,0 +1,46 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "1",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 221725 - Enrico Tanferna"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "ITA 221725 was represented by Enrico Tanferna.",
+    "The race committee was represented by Javier Blanco.",
+    "Giorgio Poggi (Coach of ITA 221725) and Robert Ohlsson (Course Race Officer) attended the hearing as an observer.",
+    "The protest time limit for the ILCA 7 Men Yellow fleet was 17:40 on 11 August 2025.",
+    "ITA 221725 submitted a scoring inquiry at 17:38 on 11 August 2025. The race committee published its decision on the scoring inquiry at 19:32. ITA 221725 subsequently submitted a request for redress at 19:38.",
+    "The race committee presented video evidence during the hearing."
+  ],
+  "facts": [
+    "The race committee displayed the black flag as preparatory signal during the third attempt to start race 1.",
+    "The race committee identified ITA 221725 in the triangle formed by the ends of the starting line and the first mark during the last seconds before the starting signal.",
+    "The race committee signalled a general recall after the starting signal and displayed the sail number of ITA 221725 on the race committee signal boat before the next warning signal.",
+    "ITA 221725 did not sail in race 1.",
+    "ITA 221725 was scored BFD in race 1."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.2(b)(3)",
+    "RRS 61.4(b)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christina Ortendahl",
+    "members": [
+      "Bence Borocz",
+      "Jean-Bernard Luther"
+    ]
+  }
+}

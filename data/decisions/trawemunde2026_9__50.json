@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "20 JUL 19:30",
+  "parties": [
+    "SWE 16",
+    "Swedish coach Sara"
+  ],
+  "procedural_matters": [
+    "SWE 16 was represented by Mikael Ek After coming ashore, the competitors changed clothes and experienced difficulties logging into the Sailor App to submit their request for redress. SWE 16 approached the Race Office to request a paper form. No paper forms were available. The Race Office assisted the helm in logging into the Sailor App The Protest Committee extends the time limit"
+  ],
+  "facts": [
+    "The wind was approximately 20 knots with waves of 30-40 cm.",
+    "SWE 16 was sailing a charter boat supplied and maintained be a third-party charter company. The Organizing authority was not responsible for supplying ore maintaining the boat.",
+    "Approximately 20 seconds before the starting signal, the rope securing the port jib-sheet block broke.",
+    "The helm and crew were strapped into their seats and were unable to repair the failure before the starting signal.",
+    "The coach of SWE 16 approached the boat and repaired the broken rope.",
+    "As a result, SWE 16 started more then four minutes after her starting signal ans was scored DNS.",
+    "SWE 16 sailed the race.",
+    "no evidence was presented that the failure of the jib-sheet attachment resultedd from any act or omission of the Organizing Authority,",
+    "The delay in starting resulted solely from the failure to the jib-sheet attachment ant the time required to repair it.",
+    "Travemünder Woche 2026"
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "The Protest Committee concludes that the failure of the jib-sheet attachment was not the result oa an improper action or omission of the Organizing Authority. Therefore the requirements of the redress under RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Sandra Hatch",
+    "members": [
+      "Ralf Tiedje",
+      "Raoul Meyer"
+    ]
+  }
+}

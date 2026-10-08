@@ -1,0 +1,49 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "420 U17",
+  "race_number": "",
+  "hearing_datetime": "11 Jul 2026 at 18:00",
+  "parties": [
+    "ESP 57732 - EDUARDO NAVARRO AVILA",
+    "GRE 57826 - Konstantina Ragousi"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). ESP 57732 was represented by Eduardo Navarro GRE 57826 was represented by Konstantina Ragousi. Adrew Papadopoulous coach of GRE 57826, and Mgada Resano coach of ESP 57732 attended the hearing as observers. ESP 57732 presented video evidence. GRE 57826 presented tracker evidence. Francisco Vidal, jury member acted as interpreter for ESP 57732."
+  ],
+  "facts": [
+    "During the first downwind leg of race 9F the weather conditions were 7 knots of wind and nearly flat water.",
+    "ESP 57732 was inside overlapped with GRE 57826 when they reached the zone both on port. 2A boat length before the mark ESP 57732 luffed to avoid the stern of a boat ahead.",
+    "GRE 57826 gybed in the zone outside ESP 57732 by half a boat length.",
+    "While ESP 57732 was in the process of gybing to starboard she collided with GRE 57826 side to side.",
+    "ESP 57732 completed her gybe within.5m of the mark.",
+    "ESP 57732 rounded the mark within 15 cms to it.",
+    "GRE 57826 rounded outside ESP 57732 and sailed away from the mark below ESP 57732.",
+    "No boat took a penalty There was no damage or injury."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 18.2(a)(1)",
+    "RRS 43.1(b)"
+  ],
+  "conclusions": [
+    "GRE 57826 outside overlapped at the zone failed to give ESP 57732 mark-room, and broke RRS 18.2(a)(1).",
+    "GRE 57826 did not avoid contact with ESP 57732 even though it was reasonably possible, and broke RRS 14(a) but since she was right-of way boat and the contact did not cause damage or injury, she is exonerated under RRS 43.1(c) for breaking RRS 14(a).",
+    "ESP 57732 on port tack failed to keep clear of GRE 57826 on starboard tack, and broke RRS 10 but since she broke it while she was sailing within the mark-room to which she was entitled under RRS 18.2(a)(1), she is exonerated under RRS 43.1(b) for this breach.",
+    "It was not reasonably possible for ESP 57732 the boat sailing within the mark-room to which she was entitled to avoid contact with GRE 57826 when it became clear that GRE 57826 was not giving mark-room.",
+    "ESP 57732 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "GRE 57826 is DSQ in race 9F."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Aylin Suntay (IJ TUR",
+      "Francisco Vidal (IJ ESP",
+      "William Bradburn (NJ"
+    ]
+  }
+}

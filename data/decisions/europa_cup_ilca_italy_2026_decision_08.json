@@ -1,0 +1,47 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "Europa Cup ILCA Italy 2026",
+  "race_number": "2",
+  "hearing_datetime": "2026-06-14 18:10",
+  "parties": [
+    "ITA 219218 - CUCINELLI Giuseppe Cucinelli",
+    "ITA 221824 - PANVINI Mattia panvini",
+    "ITA 219218 - Giuseppe Cucinelli"
+  ],
+  "procedural_matters": [
+    "Hearing No. 9 and 10 were heard together with Hearing No. 8 in accordance with RRS 63.2(b) since both hearings arose from the same incident.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Giovanni Colucci, Race Committee attended the hearing as an observer.",
+    "The Course Representative, Javier Blanco Gomez provided video evidence.",
+    "Stefano Carattino (member of the race committee from the pin end) gave evidence as a witness for the Race Committee ."
+  ],
+  "facts": [
+    "In the race 2 the U Flag was used as the preparatory signal.",
+    "At the moment of the starting signal, ITA 219218 and ITA 221824 sailed at a distance of two boat length between them on port close to the pin end.",
+    "On the pin end vessel a member of the race committee sights the starting line via a staff with orange flag.",
+    "Additionally the member was recording the start via a mobile Phone from next to the staff with orange flag.",
+    "Race committee identified ITA 219218 and ITA 221824 in the triangle formed by both ends of the starting line and mark no. 1 during the last minute before the start.",
+    "Race committee scored ITA 219218 and ITA 221824 UFD in Race 2."
+  ],
+  "rules": [
+    "RRS 30.3",
+    "RRS 61.4(b)(1)",
+    "RRS N1.4(b)",
+    "RRS 63.2(b)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Charlotte Greppe",
+    "members": [
+      "Miroslav Bjelajac",
+      "Pascal Andreovist"
+    ]
+  }
+}

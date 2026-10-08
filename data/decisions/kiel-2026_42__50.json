@@ -1,0 +1,48 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "3",
+  "hearing_datetime": "25 JUN 19:30",
+  "parties": [
+    "NZL 3521",
+    "POL 3320"
+  ],
+  "procedural_matters": [
+    "NZL 3521 was represented by Bella Jenkins.",
+    "POL 3320 was represented by Weronika Grala.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 5 knots ofwind and flat water.",
+    "NZL 3521 and POL 3320 were sailing upwind on convergingcourses with NZL 3521 sailing on starboard tack und POL 3320 on port tack.",
+    "When the distance between NZL 3521 and POL 3320 was 3 boat lengths POLasked if she could go in front of NZL 3521 and NZL 3521 denied.",
+    "When the distance between NZL 3521 and POL 3320 was 0.5 boat lengths NZL 3521 changed course to leeward.",
+    "There was contact between the spinnaker pole of NZL 3521 and theside of POL 3320 10 centimeters in front of the stern.",
+    "There was no damage.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 43.1(c)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "POL 3320 on port tack failed to keep clear of NZL 3521 on starboard tack, and broke RRS 10.",
+    "POL 3320 did not avoid contact with NZL 3521 even though it wasreasonably possible, and broke RRS 14(a).",
+    "When it became clear that POL 3320 was not keeping clear it wasreasonably possible for NZL 3521, the right-of-way boat to avoid contact with POL 3320. NZL 3521 broke RRS 14(a).",
+    "Since NZL 3521 was right-of way boat and the contact did notcause damage or injury, she is exonerated under RRS 43.1(c) for breakingRRS 14."
+  ],
+  "decision": [
+    "POL 3320 is disqualified (DSQ) in Race 3."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jens Biederer",
+    "members": [
+      "Jan Stage",
+      "Lance Burger"
+    ]
+  }
+}

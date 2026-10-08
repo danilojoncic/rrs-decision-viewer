@@ -1,0 +1,55 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "11",
+  "hearing_datetime": "10 JUL 18:30",
+  "parties": [
+    "AUS 28",
+    "Race Committee"
+  ],
+  "procedural_matters": [
+    "Case 30 was heard together with Case 27 in accordance with RRS 63.2(b) as both hearings arose from the same incident.",
+    "AUS 28 was represented by Jake LIDDELL.",
+    "TUR 7 was represented by Alican KAYNAR.",
+    "The Race Committee was represented by Corinne AUBERT.",
+    "AUS 28 provided video evidence and wind reading data.",
+    "TUR 7 provided wind reading data.",
+    "Aloise RETORNAZ (FRA 51) was a witness for AUS 28.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). Procedural matters regarding validity:",
+    "The protest time limit was 15:57.",
+    "Race 11 started at 14:00 and the last boat finished 14:51.",
+    "AUS 28 and TUR 7 tried to lodge their hearing requests online, but could not because of a system error.",
+    "AUS 28 and TUR 7 approached the race office and delivered their hearing requests on papers at 16:16, having first informed the Class Manager of the problem at 15:36.",
+    "AUS 28 and TUR 7 delivered their requests for redress within two hours after the incident, as required by RRS 61.2(b)(1)."
+  ],
+  "facts": [
+    "Race 11 started at 14:00 with 5 - 7 knots of wind.",
+    "During the first downwind leg, the wind dropped to 3 - 4 knots.",
+    "At the gate, the Race Committee signalled a change of course, shortening the windward leg from.55 to.49 nautical miles.",
+    "Five minutes after the wind dropped, the wind increased again to 5 - 6 knots.",
+    "The wind did not cause the fleet to invert.",
+    "The time limit for the race was 45 minutes and the finish window was 15 minutes.",
+    "The first boat finished at 14:39 and the last boat finished at 14:51."
+  ],
+  "rules": [
+    "RRS 61.2(b)(1)",
+    "RRS 61.4(b)(1)",
+    "RRS 63.2(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the Race Committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not granted."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jon Napier",
+    "members": [
+      "Henning Jacobssen",
+      "Yoann Peronneau"
+    ]
+  }
+}

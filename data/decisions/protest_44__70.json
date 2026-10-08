@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2025",
+  "race_number": "5",
+  "hearing_datetime": "24 JUN 14:00",
+  "parties": [
+    "GER 222907",
+    "Jury"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The Race Committee was represented by Fabian Bach."
+  ],
+  "facts": [
+    "After coming back ashore after racing on 23 June 2025, GER 222907 tried signing in using the wristband provided by the Organiser. The sign in was unsuccessful.",
+    "Shortly after GER 222907 went to the Race Office to inform that the wristband did not work.",
+    "At the Race Office GER 222907 was given a new wristband.",
+    "GER 222907 checked the results before the Protest Time Limit expired (13:26) and at that time the results did not display the Standard Penalties.",
+    "Standard Penalties applied on 23 June 2025 were posted in notice No. 43 at 17:01 on 23 June 2025.",
+    "GER 222907 did not check the notice board at any point.",
+    "GER 222907 lodged the request for redress at 10:39 on 24 June 2025."
+  ],
+  "rules": [
+    "RRS 61.2(b)(3)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GER 222907 failed to deliver the request for redress as soon as reasonably possible after the relevant information was available, as required by RRS 61.2(b)(3)."
+  ],
+  "decision": [
+    "Request for redress is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cxema Pico",
+    "members": [
+      "Gonzalo Heredia",
+      "Michalina Wróblews"
+    ]
+  }
+}

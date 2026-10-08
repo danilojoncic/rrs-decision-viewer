@@ -1,0 +1,35 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Reopening by PC",
+  "event": "2026 ILCA North American Championship",
+  "race_number": "4 & 5",
+  "hearing_datetime": "2026-07-12",
+  "parties": [
+    "USA 225324 - Marina Wardlaw, U19 (F)",
+    "USA 194228 - Lynne Shore"
+  ],
+  "procedural_matters": [
+    "Hearing # 11 & 12 were reopened under 63.7(a)(3) from significant new information brought by the protestor within 24 hours of the incident."
+  ],
+  "facts": [
+    "194228 misidentified the race #s on protest forms # 11 and 12. Originally submitted as races 4 & 5 while the incidents occurred in races 5 & 6."
+  ],
+  "rules": [
+    "RRS 60.3(a)"
+  ],
+  "conclusions": [
+    "The protests did not identify the respective incidents as required by RRS 60.3(a)."
+  ],
+  "decision": [
+    "Protests 11 & 12 are invalid, 225325 is to be reinstated in races 4 & 5"
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Thomas Rinda",
+    "members": [
+      "Lisl Dunlop",
+      "Steve Schupak",
+      "John Fryer"
+    ]
+  }
+}

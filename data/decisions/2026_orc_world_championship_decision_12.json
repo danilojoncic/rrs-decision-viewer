@@ -1,0 +1,39 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 ORC World Championship",
+  "race_number": "Coastal race",
+  "hearing_datetime": "2026-05-13 18:30",
+  "parties": [],
+  "procedural_matters": [
+    "GBR 322 -Joy- was represented by Francesco Nasato (tactician of GBR 322).",
+    "ITA 4123 -Capitani Coraggiosi- was represented by Federico Felcini (co-owner of ITA 4123)."
+  ],
+  "facts": [
+    "GBR 322 was beyond hailing distance with ITA 4123 at the time of the incident.",
+    "GBR 322 submitted the protest 20 minutes after mooring.",
+    "GBR 322 and ITA 4123 are moored in the same harbour.",
+    "ITA 4123 was informed of the protest by receiving a message from the International Jury on Telegram.",
+    "GBR 322 did not try to make contact with ITA 4123 before the hearing."
+  ],
+  "rules": [
+    "RRS 60.2(b)(1)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "ITA 4123 was beyond hailing distance, and GBR 322 did not inform ITA 4123 of the protest at the first reasonable opportunity, as required by RRS 60.2(b)(1)."
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Timo Haß",
+    "members": [
+      "Neven Baran",
+      "Stavros Kouris",
+      "Line Juhl",
+      "Giuseppe D'amico"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Request For Redress",
+  "event": "Optimist Boys",
+  "race_number": "6",
+  "hearing_datetime": "28 Jul 2026 at 17:45",
+  "parties": [
+    "IRL 1673 - Eoin Pierse",
+    "Race Committee"
+  ],
+  "procedural_matters": [
+    "IRL 1673 request the correction of an alleged error in the posted race results of race 6 by completing a scoring enquiry form in the “Sailor Account” at 17:12 hrs.",
+    "The race committee gave an answer at 17:25 hrs. that \"According to the mark layer IRL 1673 did not complete the course.\"",
+    "The request for redress was lodged at 17:33 hrs.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "IRL 1673 was represented by Eoin Pierse.",
+    "The race committee was represented by Jerzy Sukow (mark boat at mark 1).",
+    "Sören Scheerens (BEL 1259) gave evidence as a witness.",
+    "Alen Kustic (member of the international jury) gave evidence as a witness and provided photographic evidence."
+  ],
+  "facts": [
+    "In race 6 IRL 1673 touched mark 1 with his sail while rounding the mark and took a One-Turn Penalty.",
+    "IRL 1673 continued to sail the course and finished the race.",
+    "IRL 1673 was scored NSC in race 6."
+  ],
+  "rules": [
+    "RRS 44.1",
+    "RRS 61.4(b)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "IRL 1673’s score in race 6 was made significantly worse through no fault of her own by an improper action or improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are met."
+  ],
+  "decision": [
+    "Redress is given to IRL 1673. IRL 1673 is to be scored in race 6 in her finishing position."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Timo Hass (IJ GER",
+      "Danilo Joncic (NJ MNE",
+      "Michalina Wróblewska (IJ"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "Optimist",
+  "race_number": "4",
+  "hearing_datetime": "29 Jun 2025 at 16:50",
+  "parties": [
+    "ESP 3696 - ALEJANDRO VALERO",
+    "GER 1902 - Jonny Jaap Seekamp"
+  ],
+  "procedural_matters": [
+    "Jury composed in accordance with RRS N1.4(b). Julian Viciano team leader ESP attended the hearing as an observer. Sven Stadel, Coach GER attended the hearing as an observer. NOR 4121 Nhoa Hames Mælan gave evidence as a witness for protestor ESP. Alen Kustic, Jury member gave evidence."
+  ],
+  "facts": [
+    "Race 4 Yellow fleet, wind 5 to 7 knots, small chop up to 20 cm wave height.",
+    "Boats were on the beat to mark 1 on the starboard layline.",
+    "GER 1902 was clear ahead, ESP 3696 clear astern one boat length.",
+    "GER 1902 passed the mark 1 on starboard without contact.",
+    "GER 1902 continued sailing on the reach.",
+    "No boat has taken penalty turn."
+  ],
+  "rules": [
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GER 1902 did not touch the mark.",
+    "No rules were broken."
+  ],
+  "decision": [
+    "Protest dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Ilker Bayindir",
+    "members": [
+      "Alen Kustic",
+      "Jernej Krampersek"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "Nacra15 World Championship, 2026",
+  "race_number": "8",
+  "hearing_datetime": "2026-07-31 19:20",
+  "parties": [
+    "GBR 334 - Eliza Pritchard"
+  ],
+  "procedural_matters": [
+    "GBR 334 was represented by Eliza PRITCHARD."
+  ],
+  "facts": [
+    "At the start of race 8, GBR 334 was penalised in accordance with RRS P 1.2 for ooching by an observer of the international jury.",
+    "Nacra 15 class rules do not provide for flag “O” under appendix P5.",
+    "After the penalty was signalled, GBR 334 gybed and continued sailing on port tack. As a result, GBR 334 was scored DSQ in race 8."
+  ],
+  "rules": [
+    "RRS P1.2",
+    "RRS P5"
+  ],
+  "conclusions": [
+    "There was no failure to take into account a race committee signal or a class rule. Therefore, redress shall not be given to GBR 334 as provided by RRS P4."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Carol Haines",
+    "members": [
+      "Stavros Kouris",
+      "Julia Schmidt"
+    ]
+  }
+}

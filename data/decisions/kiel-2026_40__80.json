@@ -1,0 +1,45 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "25 JUN 18:20",
+  "parties": [
+    "technical comittee",
+    "GER 923 (R1)"
+  ],
+  "procedural_matters": [
+    "Hearing No. 40 was heard together with hearing No. 39, in accordance with RRS 63.2(b) since both hearings arose from the same incident.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "The technical committee was represented by Ulrich Vogelmaier (member of the technical committee).",
+    "GER 926 was represented by Tobi Schrage (helm).",
+    "GER 923 did not attend the hearing. The hearing proceeded in their absence in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 7-8 knots of wind and a slight sea state.",
+    "Prior to the starting sequence of race 1, the race committee reminded competitors that RRS 40.1 was active, announcing it on VHF channel 17.",
+    "VHF channel 17 was the official channel used by the race committee to communicate with the competitors.",
+    "During the first rounding of the leeward gate mark in race 1, Tobi Schrage, a crew member of GER 923, and all crew members on GER 926 were not wearing a personal flotation device."
+  ],
+  "rules": [
+    "RRS 40.1",
+    "RRS 40.2",
+    "RRS 63.1(b)",
+    "RRS 63.2(b)",
+    "RRS N1.4(b)",
+    "NoR 1.3"
+  ],
+  "conclusions": [
+    "Tobi Schrage, a competitor on GER 923, and all competitors on GER 926 failed to wear a personal flotation device as required by RRS 40.2 and NoR 1.3, and broke RRS 40.1."
+  ],
+  "decision": [
+    "GER 923 and GER 926 are to be scored DSQ in Race 1."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Pinar Coskuner Genc",
+    "members": [
+      "Louis Mackenzie Mayo"
+    ]
+  }
+}

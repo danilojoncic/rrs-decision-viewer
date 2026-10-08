@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "5",
+  "hearing_datetime": "22 JUN 15:00",
+  "parties": [
+    "International Jury",
+    "Giovanni Bonzio (support person 45) (),"
+  ],
+  "procedural_matters": [
+    "Giovanni Bonzio attended the hearing.",
+    "At the beginning of the hearing Julia Schmidt and Louis Mayo (members of the international jury panel) declared that they saw the incident and gave evidence as witnesses.",
+    "ITA 767 and ITA 434 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "After race 5, Mr. Giovanni Bonzio (support person 45) was not wearingthe kill cord.",
+    "The rib’s engine was running and on neutral, although it was brieflymoved into gear to adjust heading.",
+    "After being advised to do so by members of the international jury, Mr. GiovanniBonzio wore the kill cord.",
+    "During the hearing Mr. Giovanni Bonzio admitted that he was not wearingthe kill cord and apologized."
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "ESTR 3.2"
+  ],
+  "conclusions": [
+    "By not wearing the kill cord while the engine was running, Mr. Giovanni Bonzio broke ESTR 3.2.",
+    "Using the World Sailing Discretionary Penalty Guidelines forBoats and Support Persons a starting penalty of level 2 was decided.",
+    "Although thebreach could have affected safety, the support person was apologetic and promptlyremedied the breach; the level 2 will hence stand."
+  ],
+  "decision": [
+    "Mr. Giovanni Bonzio shall stay ashore until the first race of their supported boat(s) on June 23rd has started."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Giorgio Davanzo",
+    "members": [
+      "Stavros Kouris",
+      "Louis Mackenzie Mayo",
+      "Jens Biederer",
+      "Julia Schmidt"
+    ]
+  }
+}

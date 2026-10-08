@@ -1,0 +1,46 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest / Request for Redress",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "GRE 217282 - Ioannis BOUTRIS",
+    "TUR 211905 - Asilkan ÖĞÜT",
+    "ESP 223312 - Javier ECHAVARRI"
+  ],
+  "procedural_matters": [
+    "GRE 217282 was represented by Ioannis BOUTRIS.",
+    "TUR 211905 was represented by Asilkan ÖĞÜT.",
+    "Jason Uefallouitis (Coach of GRE 217282) attended the hearing as interpreter for GRE 217282.",
+    "ESP 223312 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "The protest time limit for ILCA 4 (Boys) (Blue fleet) was 16:00, on 13 Apr 2026.",
+    "GRE 217282 filed the protest and request for redress at 16:59:24 on 13 Apr 2026.",
+    "The incident occured in the race area. GRE 217282 did not identify the protestees during the time of the incident, but obtained that information after watching a race committee video after the race."
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "RRS 60.3(b)(1)",
+    "RRS 61.2(b)(1)",
+    "RRS 60.4(a)(1)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "GRE 217282 failed to deliver the protest and request for redress within the protest time limit, as required by RRS 60.3(b)(1) and RRS 61.2(b)(1) respectively. There was no good reason for the protest committee to extend the time limit. RRS 60.3(b)(1), 60.4(a)(1), 61.2(b)(1), 63.4(a)(1)."
+  ],
+  "decision": [
+    "The protest is invalid. The hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Eurico Teodoro",
+    "members": [
+      "Luigi Bertini",
+      "Tonny Jensen",
+      "Boguslaw Moczorodynski",
+      "QUN ZHAO"
+    ]
+  }
+}

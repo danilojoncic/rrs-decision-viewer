@@ -1,0 +1,57 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-29 17:40",
+  "parties": [
+    "TUR 2206 - KIM - TEAM CANTABRIA LABS - Yann LYTHGOE",
+    "ESP 3773 - DRAC - CAPO DE TUTTI",
+    "ESP 255 - Godspeed"
+  ],
+  "procedural_matters": [
+    "TUR 2206 was represented by Yann Lythgoe (tactician).",
+    "ESP 3773 was represented by Hernan Mones Ruiz (helm).",
+    "AUT 255 was represented by Jordi Amoros (helm)",
+    "Ana Margarida Constantino (crew member of TUR 2206) and Albert Roig (crew member of AUT 255) attended the hearing as observers.",
+    "Cxema Pico (chairman of the panel of the International Jury) acted as interpreter for Hernan Mones Ruiz (representative of ESP 3773) during the hearing.",
+    "The panel of the International Jury provided tracking evidence of the incident.",
+    "During the hearing the protest committee clarified in accordance with RRS 63.2(c) that the hearing request was not only a [original type] but also a [request for redress] […] and proceeded with it accordingly.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "TUR 2206, ESP 3773 and AUT 225 are all 12 m long.",
+    "The conditions at the time of the incident in race 1 for ORC B were 11 knots of wind and small chop.",
+    "TUR 2206 and AUT 255 were sailing downwind on starboard tack and were approaching the gate mark that was to be left to starboard.",
+    "ESP 3773 was sailing on port tack and was approaching the same mark.",
+    "When entering the zone of the gate mark, AUT 255 was overlapped to windward of TUR 2206 at a lateral distance of 1 boat length and her bow slightly ahead. ESP 3773 was overlapped to windward of AUT 255 at a lateral distance of 3 boat lengths.",
+    "ESP 3773 rounded the gate mark at a lateral distance of less than 5 m and was clear ahead of AUT 255 and TUR 2206 then.",
+    "When AUT 255 was abeam of the mark and had a lateral distance of approximately 20 m to it, she bore away even further. The distance between AUT 255 and TUR 2206 was less than 5 m at this time.",
+    "When AUT 255 bore away, TUR 2206 immediately also bore away from the mark.",
+    "TUR 2206 began to round the mark at a lateral distance of 25 m and 20 m clear astern of ESP 3773.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 18.2(a)(1)",
+    "RRS 43.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "TUR 2206 outside overlapped at the zone gave ESP 3773 and AUT 255 mark-room, as required by RRS 18.2(a) (1).",
+    "AUT 255 outside overlapped at the zone gave ESP 3773 mark-room, as required by RRS 18.2(a)(1)",
+    "AUT 255 to windward failed to keep clear of TUR 2206 to leeward, and broke RRS 11.",
+    "Since AUT 225 was not sailing within the mark-room to which she was entitled under RRS 18.2(a)(1) when she broke RRS 11, she is not exonerated under RRS 43.1(b) for this breach."
+  ],
+  "decision": [
+    "AUT 255 is DSQ in race 1."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cxema Pico",
+    "members": [
+      "Giorgio Davanzo",
+      "Finn Mrugalla"
+    ]
+  }
+}

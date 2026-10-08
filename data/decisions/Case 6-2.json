@@ -1,0 +1,36 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 223231 - Clara Lorenzi"
+  ],
+  "procedural_matters": [
+    "The hearing was conducted by a panel under N1.4(b)."
+  ],
+  "facts": [
+    "At the end of race 2, ITA 223231 sailed to leeward of the Finish Race Committee Vessel and leeward of the blue Finish Pin Marksetbot.",
+    "ITA 223231 returned to the course side and sailed between the Finish Race Committee Vessel and the blue Finish Pin Marksetbot."
+  ],
+  "rules": [
+    "RRS 28.2",
+    "RRS 64.1(b)"
+  ],
+  "conclusions": [
+    "ITA 2233231 corrected her error in sailing the course in accordance with RRS 28.2.",
+    "ITA 2233231’s place in race 2 was made significantly worse through her own fault. Therefore, the requirements for redress in RRS 64.1(b) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Doug Elder",
+    "members": [
+      "Steven Holmstrom",
+      "Elizabeth Rouget"
+    ]
+  }
+}

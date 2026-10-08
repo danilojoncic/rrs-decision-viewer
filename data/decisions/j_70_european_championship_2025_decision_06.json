@@ -1,0 +1,36 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "J/70 European Championship 2025",
+  "race_number": "7",
+  "hearing_datetime": "2025-08-29 15:15",
+  "parties": [
+    "FIN 1634 - Victor Mesterton",
+    "ITA 1478 - Yann Inghilesi"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). FIN 1634 did not ask to withdraw the protest after the arbitration meeting and neither boat took a Post-Race Penalty under RRS T1(a)]."
+  ],
+  "facts": [
+    "Wind approx 10m/s, big waves. FIN 1634 and ITA 1478 approached the left-hand (looking up-wind) gate mark (2S) on port tack. FIN 1634 was clear ahead and to windward of ITA 1478, aiming to windward of the zone. ITA 1478 was to leeward and clear astern of FIN 1634, aiming inside the zone. Boats were clear ahead - clear astern when ITA 1478 reached the zone. Boats gybed to starboard and rounded the mark."
+  ],
+  "rules": [
+    "RRS 18.2(a)(2)"
+  ],
+  "conclusions": [
+    "ITA 1478 entered the zone first and had mark-room over FIN 1634. FIN 1634 gave ITA 1478 mark-room during the rounding. No rules were broken."
+  ],
+  "decision": [
+    "The Protest is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bo Samuelsson",
+    "members": [
+      "Heiko Thoelmann",
+      "Per Englund",
+      "Juuso Leivonen",
+      "Emmet Dalton"
+    ]
+  }
+}

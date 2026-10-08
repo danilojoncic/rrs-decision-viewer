@@ -1,0 +1,54 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest / Request for Redress",
+  "event": "2026 ILCA 6 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "8",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 227819 - Claudio CROCCO",
+    "HKG 220790 - Charalampos VELIANITIS"
+  ],
+  "procedural_matters": [
+    "ITA 227819 was represented by Claudio CROCCO",
+    "HKG 220790 was represented by Charalampos VELIANITIS"
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 14 knots of wind and choppy.",
+    "On leg 3 of race 8, ITA 227819 and HKG 220790 were sailing downwind both on port tack and surfing the waves.",
+    "ITA 227819 was overlapped to leeward of HKG 220790 with a initially lateral distance of 25m.",
+    "HKG 220790 bore down towards ITA 227819 while ITA 227819 held her course.",
+    "HKG 220790’s mainsheet caught the neck of the competitor of ITA 227819, causing her to capsized.",
+    "ITA 227819 recovered after 40 seconds, continued sailing and finished the race in 17th position.",
+    "HKG 220790 took a two turns penalty.",
+    "There was light redness on the neck of competitor of ITA 227819.",
+    "There was no injury or damage."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 44.1(b)",
+    "RRS 60.5(c)(2)",
+    "RRS 61.4(b)"
+  ],
+  "conclusions": [
+    "HKG 220790 to windward failed to keep clear of ITA 227819 to leeward, and broke RRS 11.",
+    "HKG 220790 did not avoid contact with ITA 227819 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for ITA 227819, the right-of-way boat to avoid contact with HKG 220790 when it became clear that HKG 220790 was not keeping clear. ITA 227819 did not break RRS 14(a).",
+    "Since RRS 44.1(b) did not apply, HKG 220790 took an applicable penalty by taking a Two-Turns Penalty and she is not further penalized under RRS 60.5(c)(2).",
+    "ITA 227819’s place in race 8 was not made significantly worse. Therefore, the requirements for redress in RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "The protest is upheld, no further penalty to HKG 220790.",
+    "Redress is not given to ITA 227819."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Danilo Joncic",
+    "members": [
+      "Wai Kai Chan Vicky",
+      "Pauline den Burger",
+      "Niclas Fure",
+      "Zlatko Jakelic"
+    ]
+  }
+}

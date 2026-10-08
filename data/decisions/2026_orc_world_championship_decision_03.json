@@ -1,0 +1,46 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 ORC World Championship",
+  "race_number": "1",
+  "hearing_datetime": "2026-05-11 17:45",
+  "parties": [],
+  "procedural_matters": [
+    "ITA 23520 -Xio- was represented by Gabriele Benussi (tactician).",
+    "GBR 51X -Django WR- was represented by Vasco Vascotto (tactician).",
+    "Ian Moore (navigator of ITA 23520) provided photo and video evidence.",
+    "Guillermo Parada (startegist of GBR 51X) gave evidence as a witness.",
+    "Vasco Vascotto provided video evidence."
+  ],
+  "facts": [
+    "The conditions in race #2 (1st inshore race) were 8 knots of wind and small waves.",
+    "On the first downwind leg ITA 23520 -Xio- on port-tack and GBR 51X -Django WR- on starboard-tack were sailing overlapped towards mark 4p of the gate both flying gennakers.",
+    "Before reaching the zone ITA 23520 -Xio- bore away and her bow was pointing towards the inner edge of the zone of mark 4p.",
+    "GBR 51X -Django WR- was sailing one boat width above the starboard layline of mark 4p and faster than ITA 23520 - Xio-.",
+    "At some point before or after entering the zone ITA 23520 -Xio- broke the overlap between the boats by bearing away.",
+    "GBR 51X -Django WR- and ITA 23520 -Xio- rounded the mark with GBR 51X -Django WR- to windward of ITA 23520 -Xio- at a distance of one boat width between the boats.",
+    "There was no contact and no injury occured.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 18.2(a)(1)",
+    "RRS 18.2(e)"
+  ],
+  "conclusions": [
+    "Since there was reasonable doubt that ITA 23520 -Xio- broke the overlap before she reached the zone, it is presumed that she did not do so in accordance with RRS 18.2(e).",
+    "ITA 23520 -Xio- outside overlapped at the zone gave GBR 51X -Django WR- mark-room, as required by RRS 18.2(a) (1)."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Neven Baran",
+    "members": [
+      "Timo Haß",
+      "Marco Flavio Tosello",
+      "Josje Hofland",
+      "Giuseppe D'amico"
+    ]
+  }
+}

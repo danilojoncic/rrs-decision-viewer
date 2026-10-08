@@ -1,0 +1,54 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "88. Warnemünder Woche 2026",
+  "race_number": "5",
+  "hearing_datetime": "10 JUL 17:30",
+  "parties": [
+    "GER 74",
+    "GER 1377"
+  ],
+  "procedural_matters": [
+    "1) The protest was filed at 17:01. 2) The protest time limit was 16:42. 3) GER 74 was the last boat to arrive back to the dock. 4) Manage2Sail was not working on the phone. 5) GER 74 then walked to the race office. The boat was moored on Dock D. 6) The staff of the race office first asked the crew to try to sign in to the app. This was not possible. 7) The staff then allowed the protest to be entered on one of the race office computers. This took about 15 minutes, which was verified by the race office. 8) The jury agreed to extend the protest time limit."
+  ],
+  "facts": [
+    "GER 74 and GER 1377 had rounded the port leeward gate mark and were sailing up wind.",
+    "GER 74 and GER 1377 were sailing on starboard tack, with GER 74 to windward, and GER 1377 ahead and to leeward.",
+    "GER 803 (the witness) was following GER 74, approximately 3 boat lengths behind.",
+    "GER 1377 tacked on to port tack.",
+    "GER 74 bore away to miss GER 1377. If GER 74 had not born away, contact would have been amidship.",
+    "The closest point between GER 74 and GER 1377 was 60 cm.",
+    "Neither boat took a penalty turn.",
+    "The wind was 8 knots with a slight chop.",
+    "GER 74 and GER 1377 had rounded the port leeward gate mark and were sailing up wind.",
+    "GER 74 and GER 1377 were sailing on starboard tack, with GER 74 to windward, and GER 1377 ahead and to leeward.",
+    "Warnemünder Woche 2026",
+    "GER 803 (the witness) was following GER 74, approximately 3 boat lengths behind.",
+    "GER 1377 tacked on to port tack.",
+    "GER 74 bore away to miss GER 1377. If GCEasRe 7 D4 ehtaadil nsot born away, contact would have been As of 11 JUL 2026 At 15:54 amidship.",
+    "The closest point between GER 74 and GER 1377 was 60 cm.",
+    "Neither boat took a penalty turn.",
+    "The wind was 8 knots with a slight chop."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14",
+    "World Sailing Case 50"
+  ],
+  "conclusions": [
+    "1) GER 1377 on port failed to keep clear of GER 74, and broke RRS 10."
+  ],
+  "decision": [
+    "GER 1377 is DSQ in race 5."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Susanne Kuusansalo",
+    "members": [
+      "Cosmin Andronic",
+      "Elizabeth Procter",
+      "João Carneiro",
+      "Günter Fossler"
+    ]
+  }
+}

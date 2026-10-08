@@ -1,0 +1,54 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest & Redress",
+  "event": "420 Open",
+  "race_number": "5",
+  "hearing_datetime": "24 Jul 2025 at 16:40",
+  "parties": [
+    "GBR 56954 - Sabine Potter",
+    "GBR 56943 - Laragh Epstein"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GBR 56954 was represented by Merle Nieuwland.",
+    "Jake Elsbury, coach of GBR 56954, attended the hearing as an observer.",
+    "GBR 56943 did not come to the hearing; the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 5 of the 420 open red fleet were 16 knots of wind and sea status accordingly.",
+    "GBR 56954 was stationary at the starting line on starboard tack, one metre to windward of and bow to bow with an unidentified boat, 35 seconds before the start.",
+    "GBR 56943 came from astern and established an overlap between these two boats.",
+    "There was immediate contact between GBR 56954's port side and GBR 56943's starboard side, and with the starboard side of the other boat and GBR 56943's port side.",
+    "GBR 56954 luffed and then tacked.",
+    "GBR 56943 retired in race 5.",
+    "There was no damage."
+  ],
+  "rules": [
+    "RRS 14(a)",
+    "RRS 15",
+    "RRS 60.5(c)(2)",
+    "RRS 63.1(b)",
+    "RRS 64.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GBR 56943 did not avoid contact with GBR 56954 even though it was reasonably possible, and broke RRS 14(a).",
+    "When acquiring right-of-way through her own actions, GBR 56943 failed to initially give GBR 56954 room to keep clear, and broke RRS 15.",
+    "It was not reasonably possible for GBR 56954, the boat sailing within the room to which she was entitled, to avoid contact with GBR 56943 when it became clear that GBR 56943 was not giving room. GBR 56954 did not break RRS 14(a).",
+    "GBR 56943 took an applicable penalty; she is not further penalized under RRS 60.5(c)(2).",
+    "Since GBR 56954 was not injured or damaged, the requirements for redress in RRS 64.1(b) are not met."
+  ],
+  "decision": [
+    "The protest is upheld. Since GBR 56943 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is not given to GBR 56954."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Luigi Bertini (ITA",
+      "Tatiana Almeida (BRA",
+      "Carol Haines (GBR"
+    ]
+  }
+}

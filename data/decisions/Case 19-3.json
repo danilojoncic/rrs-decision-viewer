@@ -1,0 +1,43 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "F5",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 226538 - Karol KRUPSKI TETERYCZ"
+  ],
+  "procedural_matters": [
+    "Cases no. 19 and 20 were heard together since they arose form the same incident.",
+    "Rui Silvera coach of ESP 224031 & ESP 226538 attended hearing as an observer.",
+    "Race Committee represented by Marko Misura.",
+    "ESP 226538 represented by Karol KRUPSKI TETERYCZ.",
+    "Fernando ABELLA GARRI sail number in the race management system is ESP 224034. He entered event with sail no. ESP 224031 which is also his sail number in the results."
+  ],
+  "facts": [
+    "Both boats were scored DNC in race no. 11.",
+    "ESP 226538 finished race no. 11 on the place 25.",
+    "ESP 224031 finished race no. 11 on the place 22."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "ESP 226538 and ESP 224031 scores in race 11 were made significantly worse through no fault of their own by an improper action or improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are met."
+  ],
+  "decision": [
+    "ESP 226538 should be scored 25th in race no. 11.",
+    "ESP 224031 should be scored 22nd in race no. 11.",
+    "Other boats scores shall be adjusted accordingly."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Philippe Mazard",
+    "members": [
+      "Arto Kiiski",
+      "Johanna Poksi",
+      "Mirko Ukas",
+      "Uros Zvan"
+    ]
+  }
+}

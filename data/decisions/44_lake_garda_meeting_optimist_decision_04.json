@@ -1,0 +1,44 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "44° Lake Garda Meeting Optimist",
+  "race_number": "4",
+  "hearing_datetime": "2026-04-04 09:00",
+  "parties": [
+    "ITA 217 - Andrea Demurtas",
+    "USA 441 - Joshua Wenokur"
+  ],
+  "procedural_matters": [
+    "The arbitrator decided that arbitration is not appropriate and the arbitration meeting in progress is closed.",
+    "ITA 217 was represented by Andrea Demurtas.",
+    "USA 441 was represented by Joshua Wenokur."
+  ],
+  "facts": [
+    "At the time of the incident on leg 1 in race No. 4 the wind speed was 12 knots at a wave height of half a meter.",
+    "ITA 217 and USA 441 both on starboard tack sailed on a close-hauled course to the mark 1 with USA 441 four boat lengths ahead and to leeward of ITA 217.",
+    "USA 441 tacked onto port tack and bore away onto a course close to leeward and astern of ITA 217.",
+    "When the distance between the two bows was approximately two meters and USA 441 still ahead of ITA 217, USA 441 luffed and passed head to wind overlapped to leeward of ITA 217.",
+    "ITA 217, sailing at a lower angle than USA 441, luffed when the port side of her bow was approximately 30 cm from the midpoint of USA 441’s starboard hull, while USA 441 was still sailing above close-hauled.",
+    "There was no contact and no injury.",
+    "No boat took a penalty and both boats continued sailing."
+  ],
+  "rules": [
+    "RRS 13"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, USA 441 failed to keep clear of ITA 217. USA 441 broke RRS 13."
+  ],
+  "decision": [
+    "USA 441 is DSQ in race 4."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Adrian Bauder",
+    "members": [
+      "Alen Kustic",
+      "Marin Kustic",
+      "Martin Clasen",
+      "Hermann Herburger"
+    ]
+  }
+}

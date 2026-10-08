@@ -1,0 +1,60 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "12",
+  "hearing_datetime": "25 JUL 18:00",
+  "parties": [
+    "GER 77",
+    "GER 376"
+  ],
+  "procedural_matters": [
+    "GER 77 was represented by Editha WENDEBORN (crew).",
+    "GER 376 was represented by Garloff LANGENBECK-WALDECK (helm).",
+    "GER 26 represented by Jesse Lindstädt presented evidence as a witness.",
+    "Jules Lange, the windward mark layer, presented evidence as a witness.",
+    "GER 77 informed GER 376 of the protest at the first reasonable opportunity as required by RRS 60.2(b)(3)."
+  ],
+  "facts": [
+    "At the time of the incident in Formula 18 race 12 wind was 12 kn of wind and a flat sea.",
+    "GER 77, sailing close-hauled on port tack about 50 m to leeward of the offset mark 1A on the port lay line to mark 1.",
+    "GER 376 reaching on starboard was about to round the offset mark 1A.",
+    "GER 77 bore away from the direction of GER 376 course, and was overlapped close to windward of NED 666.",
+    "When GER 376 passed the offset mark 1A, she bore away rapidly by about 90°.",
+    "There was contact, at approximately 90° between boats, between GER 376 port hull bow and the port side hull of GER 77, causing a 40 x 30 cm hole to GER 77.",
+    "There was injury (splinters from the broken carbon tiller in the helms arm).",
+    "GER 376 and GER 77 immediately retired from the race and returned to shore.",
+    "Travemünder Woche 2026"
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 16.1",
+    "RRS 43.1(a)",
+    "RRS 60.2(b)(3)",
+    "RRS 60.5(c)(2)",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "When changing course, GER 376 the right-of-way boat failed to give GER 77 room to keep clear, and broke RRS 16.1.",
+    "GER 376 did not avoid contact with GER 77 even though it was reasonably possible, and broke RRS 14(a).",
+    "GER 77 on port tack failed to keep clear of GER 376 on starboard tack, and broke RRS 10.",
+    "Since it was not reasonable possible for GER 77 to avoid contact with GER 376 she did not break rule 14(a).",
+    "Since GER 77 was compelled to break RRS 10 as a consequence of GER 376 breaking RRS 16.1, she is exonerated under RRS 43.1(a) for this breach.",
+    "GER 77`s score in race 12 was made significantly worse through no fault of her own by physical damage because of the action of GER 376 that broke a RRS 16.1 and GER 376 took the appropriate penalty. Therefore, the requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "The protest is upheld. Since GER 376 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is given to GER 77. GER 77 is to be scored in race 12 points equal to the average, to the nearest tenth of a point (0,05 to be rounded upward) of races 1 – 11. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Joanna Sachs",
+    "members": [
+      "Angela Stenger",
+      "Luke Scott",
+      "Thorsten Sperl",
+      "Giuseppe d'Amico"
+    ]
+  }
+}

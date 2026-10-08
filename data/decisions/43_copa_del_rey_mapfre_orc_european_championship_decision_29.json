@@ -1,0 +1,39 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "2",
+  "hearing_datetime": "2025-07-31 18:30",
+  "parties": [
+    "POR 3440 - SYONE PANTHER - Nuno Neves"
+  ],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b).",
+    "POR 3440 represented by Nuno Neves.",
+    "RC represented by Ariane Mainemare.",
+    "Tracking data provided by the International Jury."
+  ],
+  "facts": [
+    "During the offshore race, mark Ma was the 3rd mark of the course with the boats reaching from mark To towards it and back from it again to mark To.",
+    "Sugar 3 and Guardamago were the direct competitors of POR 3440.",
+    "From the moment POR 3440 rounded mark Ma until Sugar 3 and Guardamago rounded it, the distance from the mark To to Ma changed by 17 meters.",
+    "The length of the offshore race was around 7h45m for the winner."
+  ],
+  "rules": [
+    "RRS 1"
+  ],
+  "conclusions": [
+    "The criteria of RRS 61.4 are not met."
+  ],
+  "decision": [
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

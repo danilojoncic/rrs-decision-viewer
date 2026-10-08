@@ -1,0 +1,53 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "21 JUL 19:20",
+  "parties": [
+    "SWE 1322",
+    "GER 466"
+  ],
+  "procedural_matters": [
+    "SWE 1322 was represented by Hobrik Wärnegard.",
+    "GER 466 was represented by Walther Furthmann.",
+    "Konrad Kyander gave evidence as a witness."
+  ],
+  "facts": [
+    "During the Folkboat race 1, the conditions were 6 knots of wind with small waves.",
+    "SWE 1322 on port tack and GER 466 on starboard tack were sailing downwind towards the leeward mark. The boats were overlapped when SWE 1322 entered the zone, with GER 466 being the inside boat with a distance of 1.5 boat length between them.",
+    "SWE 1322 gybed onto starboard tack after entering the zone.",
+    "SWE 1322 lowered her whisker pole, gybed back onto port tack and started to luff around the mark.",
+    "At the same time, GER 466 gybed to port tack and luffed around the mark. The lateral distance between the two boats was now 0.5 boat lengths.",
+    "As both boats came abeam of the mark, there was contact between the port beam of SWE 1322 and starboard beam of GER 466. There was no damage or injury.",
+    "No boat took a penalty.",
+    "Both boats finished the race.",
+    "Travemünder Woche 2026"
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 18.2(a)(1)",
+    "RRS 14(a)",
+    "RRS 43.1(b)"
+  ],
+  "conclusions": [
+    "SWE 1322, outside overlapped at the zone, failed to give GER 466 mark-room and broke RRS 18.2(a)(1).",
+    "SWE 1322 did not avoid contact with GER 466, even though it was reasonably possible, and broke RRS 14(a).",
+    "GER 466 to windward failed to keep clear of SWE 1322 to leeward, and broke RRS 11.",
+    "Since GER 466 broke RRS 11 while she was sailing within the mark-room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach.",
+    "It was not reasonably possible for GER 466, the boat sailing within the mark-room to which she was entitled, to avoid contact with SWE 1322 when it became clear that SWE 1322 was not giving mark-room. GER 466 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "SWE 1322 is DSQ in race 1"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Giuseppe d'Amico",
+    "members": [
+      "Angela Stenger",
+      "Iona Smith",
+      "Ralf Tiedje",
+      "Mehnaz Jamil"
+    ]
+  }
+}

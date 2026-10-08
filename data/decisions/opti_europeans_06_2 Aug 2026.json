@@ -1,0 +1,42 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Request for Redress",
+  "event": "Optimist Boys",
+  "race_number": "",
+  "hearing_datetime": "30 Jul 2026 at 17:30",
+  "parties": [
+    "TUR 1105 - Ahmet Arel Barut",
+    "Protest Committee"
+  ],
+  "procedural_matters": [
+    "Hearing No. 6 was heard together with hearing No. 7 in accordance with RRS 63.2(b) since both hearings arose from the same incident.",
+    "TUR 1105 was represented by Ahmet Arel Barut.",
+    "Alican Sekik, the team leader of TUR, attended the hearing as an observer but was asked to leave the hearing room because he was repeatedly using his mobile phone.",
+    "Timo Hass, the chairman of the international jury, gave evidence regarding validity."
+  ],
+  "facts": [
+    "During racing on July 30, TUR 1105 was penalised in accordance with RRS P1.2 and was disqualified without a hearing (DNE).",
+    "The penalty along with the DNE scoring was published on the Official Notice Board at 12:57.",
+    "The scoring change form was sent to the scorer at 15:36 and TUR 1105 was scored DNE before 16:00.",
+    "Between 16:05 and 16:30, the team leader of Turkey discussed the penalty and reviewed tracking evidence with the chairman of the international jury.",
+    "The request for redress was lodged at 17:00."
+  ],
+  "rules": [
+    "RRS 61.2(b)(3)",
+    "RRS 63.2(b)"
+  ],
+  "conclusions": [
+    "TUR 1105 failed to deliver the request for redress as soon as reasonably possible after the relevant information was available, as required by RRS 61.2(b)(3). There was no good reason for the international jury to extend the time."
+  ],
+  "decision": [
+    "Request for redress invalid."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Baptiste Verniest",
+      "Anastasia Weinberger"
+    ]
+  }
+}

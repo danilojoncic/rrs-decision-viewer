@@ -1,0 +1,45 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-07-31 18:40",
+  "parties": [],
+  "procedural_matters": [
+    "ESP 4666 was represented by Cristian Fornes (skipper)",
+    "ESP 10371 was represented by Richard Zabell Lucase (tactician)",
+    "Joan Cirerol (crew member of ESP 8835)gave evidence as a witness for ESP 4666.",
+    "Francesco Teprasa (tactician of ESP 74441) gave evidence as a witness for ESP 4666.",
+    "The panel of the International Jury presented tracking evidence of the incident."
+  ],
+  "facts": [
+    "ESP 4666 is 32 feet long and ESP 10371 is 38 feet long",
+    "The conditions at the time of the incident on the first downwind of race 3 for ORC C were 8 knots of wind and small chop.",
+    "ESP 4666 was sailing downwind on starboard tack and was approaching the gate mark that was to be left to port.",
+    "ESP 10371 was approaching the same mark on port tack and was sailing to windward of ESP 4666 and on a converging course with her.",
+    "When entering the zone of the gate mark, ESP 10371 was overlapped outside of ESP 4666 at a lateral distance of 25 m from bow to bow.",
+    "ESP 10371 was sailing faster, passed 10m in front of ESP 4666 and rounded the gate mark clear ahead of ESP 4666 at a lateral distance of 10 m to the mark.",
+    "ESP 4666 gybed to port tack and rounded the mark 10 m clear astern of ESP 10371 at a lateral distance of 1 m to the mark",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 18.2(a)(1)"
+  ],
+  "conclusions": [
+    "ESP 10371 outside overlapped at the zone gave ESP 4666 mark-room, as required by RRS 18.2(a)(1).",
+    "ESP 10371 on port tack kept clear of ESP 4666 on starboard tack, as required by RRS 10."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Pinar Coskuner Genc",
+    "members": [
+      "Cxema Pico",
+      "Finn Mrugalla",
+      "David Gosalbez"
+    ]
+  }
+}

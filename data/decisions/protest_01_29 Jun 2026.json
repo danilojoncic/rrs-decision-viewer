@@ -1,0 +1,36 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "Optimist",
+  "race_number": "",
+  "hearing_datetime": "20 Jun 2026 at 17:45",
+  "parties": [
+    "TUR 1776 - Eren Kaan Erendemir",
+    "ARG 4182 - Joaquin FIGUEROA"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). TUR 1776 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b). Hearing commenced at 17:55 The protestor arrived 20 mins after the hearing had concluded. The protestor did not provide a good reason for being absent. The International Jury did not consider it necessary to reopen the hearing."
+  ],
+  "facts": [
+    "ARG 4184 did not hear a hail of protest"
+  ],
+  "rules": [
+    "RRS 60.2(a)",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "TUR 1776 failed to hail ‘Protest’ at the first reasonable opportunity, as required by RRS 60.2(a)."
+  ],
+  "decision": [
+    "Protest invalid"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Eurico Teodoro",
+      "Michael Turner",
+      "Gurvinderpal Julka"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "14",
+  "hearing_datetime": "11 JUL 17:30",
+  "parties": [
+    "GER 696",
+    "USA 49"
+  ],
+  "procedural_matters": [
+    "GER 696 was represented by Katharina SCHWACHHOFER.",
+    "USA 49 was represented by Paris HENKEN.",
+    "Tim WADLOW (coach of USA 49) attended the hearing as an observer.",
+    "The International Jury and USA 49 presented tracking evidence.",
+    "Anouk GEURTS (BEL 18) gave evidence as a witness for USA 49.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 6 - 7 knots of wind and flat water.",
+    "During the second upwind leg, GER 696 was sailing close-hauled on starboard tack and USA 49 was sailing close-hauled on port tack, on a converging course with GER 696.",
+    "USA 49 held her course.",
+    "When the boats were less than one boat length apart, GER 696 bore away by less than 10º and passed half a boat length astern of USA 49.",
+    "There was no contact.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "If GER 696 had not borne away, USA 49 would have crossed ahead of GER 696, so GER 696 had no need to take avoiding action.",
+    "Therefore, USA 49 did not break RRS 10."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jose Pico",
+    "members": [
+      "Lisa Steppat",
+      "Yoann Peronneau"
+    ]
+  }
+}

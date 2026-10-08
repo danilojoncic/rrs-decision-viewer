@@ -1,0 +1,77 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Dragon Europeans 2026",
+  "race_number": "1",
+  "hearing_datetime": "29 JUN 17:15",
+  "parties": [
+    "NED 22",
+    "DEN 394"
+  ],
+  "procedural_matters": [
+    "Based on SI 15.6, boats intending to request a hearing or request redress for an incident in the racing area shall radio their intention to the Race Committee, which NED 22 did.",
+    "SI 15.3 changes Rule 44.1 so that the Two-Turns Penalty is replaced by the One-Turn Penalty.",
+    "NED 22 was represented by Robin de Jong.",
+    "DEN 394 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b) at 17:24.",
+    "A crew member of DEN 394 arrived at 17:29 to explain that the helm was on his way. The hearing was suspended.",
+    "At 17:32 the hearing continued with both NED 22 and DEN 394 being present.",
+    "DEN 394 was represented by Soren Kaestel.",
+    "Mikko Jaatinnen (FIN 86) gave evidence as a witness for NED 22.",
+    "Gordon Davies gave evidence as a member of the international jury."
+  ],
+  "facts": [
+    "Wind about 7 knots and choppy sea.",
+    "Approaching the windward mark on the second beat to windward: NED 22 and FIN 86 were on starboard and fetching the mark. NED 22 was to leeward, overlapped bow-to-bow with FIN 86 to windward.",
+    "DEN 394 was approaching the windward mark on port tack, on a converging course with NED 22 and FIN 86.",
+    "On the layline, 1,5 hull lengths away from the windward mark, DEN 394 luffed, passed head to wind and before being on a close-hauled course, was on a converging course with NED 22.",
+    "NED 22, half a hull length astern of DEN 394, bore away establishing an overlap to leeward.",
+    "When DEN 394 was on a close-hauled course, there was less than 1 metre lateral distance between the starboard side of NED 22 and the port side of DEN 394.",
+    "After sailing 1 hull length, just before the windward mark, DEN 394 luffed and immediately made contact with its port side and the starboard side of NED 22.",
+    "Right afterwards NED 22 touched the windward mark.",
+    "There was no serious damage or injury.",
+    "NED 22 and DEN 394 took a One-Turn-Penalty.",
+    "Wind about 7 knots and choppy sea.",
+    "Approaching the windward mark on the second beat to windward: NED 22 and FIN 86 were on starboard and fetching the mark. NED 22 was to leeward, overlapped Dragon Europeans 2026 bow-to-bow with FIN 86 to windward.",
+    "DEN 394 was approaching the windward mark on port tack, on a converging course with NED 22 and FIN 86.",
+    "On the layline, 1,5 hull lengths away from the windward mark, DEN 394 luffed, passed head to wind and before being on a close-hauled coursCea, swea sD oent aai lcsonverging course with NED 22. As of 2 JUL 2026 At 10:10",
+    "NED 22, half a hull length astern of DEN 394, bore away establishing an overlap to leeward.",
+    "When DEN 394 was on a close-hauled course, there was less than 1 metre lateral distance between the starboard side of NED 22 and the port side of DEN 394.",
+    "After sailing 1 hull length, just before the windward mark, DEN 394 luffed and immediately made contact with its port side and the starboard side of NED 22.",
+    "Right afterwards NED 22 touched the windward mark.",
+    "There was no serious damage or injury.",
+    "NED 22 and DEN 394 took a One-Turn-Penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 13",
+    "RRS 14(a)",
+    "RRS 14(c)",
+    "RRS 18.3",
+    "RRS 31",
+    "RRS 43.1(a)"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, DEN 394 failed to keep clear of NED 22. DEN 394 broke RRS 13.",
+    "DEN 394 to windward failed to keep clear of NED 22 to leeward, and broke RRS 11.",
+    "DEN 394 failed to give mark-room to NED 22, the inside overlapped boat, who was on starboard tack since entering the zone and was fetching the mark. DEN 394 broke RRS 18.3(b).",
+    "DEN 394 did not avoid contact with NED 22 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for NED 22, the right-of-way boat sailing within the mark-room to which she was entitled, to avoid contact with DEN 394 when it became clear that DEN 394 was not keeping clear and not giving mark-room. NED 22 did not break RRS 14(a).",
+    "DEN 394 caused contact between NED 22 and the windward mark even though it was reasonably possible to avoid causing it, and broke RRS 14(c).",
+    "Since NED 22 was compelled to break RRS 31 as a consequence of DEN 394 breaking RRS 11, 13, 14, and 18.3, she is exonerated under RRS 43.1(a) for this breach."
+  ],
+  "decision": [
+    "The protest is upheld.",
+    "Since DEN 394 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2).",
+    "Since NED 22 is exonerated by RRS 43.1(a) for her breach of RRS 31 no penalty is imposed on NED 22."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Pinar Coskuner Genç",
+    "members": [
+      "Tonny Vedeler Jensen",
+      "Gordon Davies",
+      "Staffan Rosenlöf",
+      "Christine"
+    ]
+  }
+}

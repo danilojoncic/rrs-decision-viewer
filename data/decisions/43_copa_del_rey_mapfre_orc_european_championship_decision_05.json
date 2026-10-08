@@ -1,0 +1,49 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-29",
+  "parties": [
+    "BEL 1450 - Xekmatt - Hugo Barrier Henrique",
+    "UAE 43 - Ivana and Alex - Chavdar Aleksandrov"
+  ],
+  "procedural_matters": [
+    "BEL 1450 was represented by Hugo Henrique (helm).",
+    "UAE 43 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "Finn Mrugalla (member of the International Jury) provided video evidence of the incident and gave evidence as a witness.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "BEL 1450 is 45 ft long and UAE 43 is 43 ft long.",
+    "The conditions at the time of the incident during race 1 for ORC A were 12 knots of wind and small chop.",
+    "BEL 1450 was sailing with her sails slightly eased on starboard tack above the layline to mark 1a when she entered the zone of the mark.",
+    "UAE 43 was sailing close-hauled on port tack, 0.5 boat lengths below the port layline, and on collision course with BEL 1450.",
+    "When UAE 43 was approximately 0.5 boat lengths from mark 1a, she luffed and passed head to wind to starboard tack.",
+    "At this time, BEL 1450 was 0.5 boat lengths away from UAE 43 and her bow was aiming at the front quarter of UAE 43's hull. BEL 1450 luffed to a close-hauled course.",
+    "When UAE 43 reached a close-hauled course on starboard tack, she was overlapped to leeward of BEL 1450 and the distance between her stern and BEL 1450's bow was 2 m.",
+    "Both boats bore away almost simultaneously around mark 1a.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 13",
+    "RRS 63.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "Before passing head to wind from port to starboard tack, UAE 43 on port tack kept clear of BEL 1450 on starboard tack, as required by RRS 10.",
+    "After passing head to wind and before being on a close-hauled course, UAE 43 failed to keep clear of BEL 1450. UAE 43 broke RRS 13."
+  ],
+  "decision": [
+    "UAE 43 is DSQ in race 1."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Giorgio Davanzo",
+    "members": [
+      "Cxema Pico",
+      "Finn Mrugalla"
+    ]
+  }
+}

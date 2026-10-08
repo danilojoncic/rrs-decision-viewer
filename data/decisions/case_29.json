@@ -1,0 +1,46 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 218751 - Leonardo DENTI",
+    "ESP 221428 - Vladik LOPEZ"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "ITA 218751 was represented by Leonardo Denti.",
+    "ESP 221428 was represented by Vladik Lopez",
+    "Monica Acon (coach of ITA 218751) attended the hearing as an observer.",
+    "Andrea Vibaldi (coach of ESP 221428) attended the hearing as an observer.",
+    "The incident occured ashore between 16:30 and 17:30, on 15 Apr 2026 and ITA 218751 informed ESP 221428 of his intention to protest.",
+    "The protest was filed at 18:28:27, on 15 Apr 2026."
+  ],
+  "facts": [
+    "An incident occurred between ITA 218751 and ESP 221428 during race 5 of ILCA 4 (Boys) (Yellow fleet).",
+    "After arriving ashore, the crew of ITA 218751 and ESP 221428 discussed the incident and the filing of a protest by ESP",
+    "ESP 221428 offered to not protest if ITA 218751 gave him Euro 20 by 17:00 on 15 Apr 2026.",
+    "ESP 221428 claimed that his offer was meant as a joke.",
+    "The race sailed nearest in time to the incident was race 6."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 2",
+    "RRS 60.5(c)"
+  ],
+  "conclusions": [
+    "By offering to accept money for not filing a protest, even if done jokingly, ESP 221428 failed to compete in compliance with the principles of sportsmanship and fair play as stated in Basic Principles and required by RRS 2. ESP 221428 broke RRS 2."
+  ],
+  "decision": [
+    "Protest upheld. Since ESP 221428 broke RRS 2 while not racing, the penalty shall apply to race 6 under RRS 60.5(c). ESP 221428 is DNE in race 6."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Elliot Levy",
+    "members": [
+      "Luigi Bertini",
+      "Eurico Teodoro"
+    ]
+  }
+}

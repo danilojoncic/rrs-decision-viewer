@@ -1,0 +1,53 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "6",
+  "hearing_datetime": "",
+  "parties": [
+    "NED 221858 - Alexander Hartsink",
+    "GRE 221447 - Erotokritos Nikolas Komianos"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "Before the hearing started, GRE 221447 took a Post-Race Penalty.",
+    "GRE 221447 did not attend the hearing; the hearing proceeded under rule 63.1(b).",
+    "Two minutes after starting the hearing, the panel adjourned the hearing, to be reconvened later.",
+    "The panel reconvened the hearing 45 minutes later. At that point, GRE 221447 was present."
+  ],
+  "facts": [
+    "The wind was blowing 14 knots with 50 cm waves and chop.",
+    "NED was sailing upwind on leg 4 approaching the zone of mark 2, close-hauled on starboard tack.",
+    "NED was not fetching mark 2.",
+    "GRE was clear ahead of NED, sailing close-hauled on starboard tack, one boat length ahead of NED and one boat length to leeward.",
+    "At four boat lengths from mark 2, GRE tacked from starboard to port.",
+    "NED bore away, passing within 15 centimeters of the rudder of GRE.",
+    "There was no contact.",
+    "Both boats rounded mark 2.",
+    "Boats from the Men’s Blue fleet were sailing on the reach between marks 1 and 2 and were also approaching and rounding mark 2.",
+    "The leading boat of the Men’s Yellow fleet rounded mark 2 first, followed closely by boats from the Men’s Blue fleet.",
+    "After leaving the zone of mark 2, GRE gybed and tacked two times."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 63.1(b)",
+    "RRS 10",
+    "RRS 60.5(c)(2)"
+  ],
+  "conclusions": [
+    "NED had a reasonable apprehension of collision with GRE. GRE broke rule 10.",
+    "GRE took a Two-Turns Penalty after getting well clear of other boats as soon as reasonably possible.",
+    "GRE took an applicable penalty, and shall not be penalized further according to rule 60.5(c)(2)."
+  ],
+  "decision": [
+    "GRE is not penalized further as a result of the hearing."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gabriela Santanna",
+    "members": [
+      "Kevin Hawkins",
+      "Elizabeth Rouget"
+    ]
+  }
+}

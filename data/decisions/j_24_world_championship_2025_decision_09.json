@@ -1,0 +1,32 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by TC",
+  "event": "J/24 World Championship 2025",
+  "race_number": "4",
+  "hearing_datetime": "2025-09-11",
+  "parties": [
+    "HUN 37 - J Bond - Tomai Balazs"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "After finishing race 4 HUN 37 was inspected by the technical committee.",
+    "The technical committee found HUN 37 not compliant with C5.1.4.",
+    "HUN 37 accepted a 10% as per the SI 15.6 and filled out a penalty report.",
+    "The TC asked to withdraw the protest."
+  ],
+  "rules": [],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "The protest committee allows the protest to be withdrawn."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Robert Stewart",
+    "members": [
+      "Cxema Pico",
+      "Josephine Wilken"
+    ]
+  }
+}

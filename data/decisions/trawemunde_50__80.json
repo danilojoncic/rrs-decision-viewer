@@ -1,0 +1,45 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "9",
+  "hearing_datetime": "24 JUL 16:40",
+  "parties": [
+    "GER 66",
+    "ANG 101"
+  ],
+  "procedural_matters": [
+    "GER 66 was represented by Xanthia Berger.",
+    "ANG 101 was represented by Vanio Domingo.",
+    "Karl Perscheid (GER 36328) gave evidence as a witness."
+  ],
+  "facts": [
+    "During race 9 of Vaurien, the wind was 11 to 12 knots with 1 to 1.5 meter waves.",
+    "On the beat to windward shortly after the start, GER 66 was sailing on close-hauled starboard tack.",
+    "ANG 101 was sailing on close-hauled port tack on a converging course with GER 66.",
+    "When GER 66 was about 2 to 3 meters from ANG 101 she bore away and passed half a boat length behind ANG 101.",
+    "ANG 101 held her course.",
+    "If GER 66 would not have changed the course, the contact would have occurred between the bow of GER 66 and starboard aft quarter of ANG 101.",
+    "There was no contact or injury.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "ANG 101 on port tack failed to keep clear of GER 66 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "ANG 101 is DSQ in Race 9."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Johanna Poksi",
+    "members": [
+      "Joanna Sachs",
+      "Niclas Kath",
+      "Angela Stenger",
+      "Raoul Meyer"
+    ]
+  }
+}

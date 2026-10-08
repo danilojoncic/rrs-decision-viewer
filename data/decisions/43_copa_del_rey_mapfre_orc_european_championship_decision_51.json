@@ -1,0 +1,42 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "W/L4",
+  "hearing_datetime": "2025-08-01 20:40",
+  "parties": [
+    "ESP 10005 - MAXIMO - Alex Martin",
+    "ESP 36940 - Ebury - Julio Bernardeau"
+  ],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b).",
+    "Maximo represented by Alex Martin",
+    "Ebury represented by Julio Bernardeau"
+  ],
+  "facts": [
+    "Maximo did not display the red flag.",
+    "The request for redress was based on the grounds that a boat broke RRS 2; no boat was penalized under RRS 2."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 2",
+    "RRS 60.2(a)(1)",
+    "RRS 61.4(b)(5)"
+  ],
+  "conclusions": [
+    "Maximo did not display the protest flag as required by RRS 60.2(a)(1).",
+    "The criteria of RRS 61.4(b)(5) are not met."
+  ],
+  "decision": [
+    "Protest invalid.",
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

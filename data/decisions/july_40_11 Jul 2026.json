@@ -1,0 +1,37 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Request For Redress",
+  "event": "420 Men/Mixed",
+  "race_number": "7",
+  "hearing_datetime": "9 Jul 2026 at 21:30",
+  "parties": [
+    "Race Committee",
+    "ITA 57574 - Cecilia Canonici, Race Committee"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). The race committee was represented by Adrian Stoggall (course represenatative). ITA 57574 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "In race 7 of the bronze fleet of the men/mixed event, ITA 57574 (bow 501) was incorrectly shown on the board as BFD due to a decoding/transmission error by the race committee ITA 57574 did not sail in race 7."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)",
+    "RRS 63.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "ITA 57574’s score in race 7 was made significantly worse through no fault of her own by an improper action or improper omission of the race committee."
+  ],
+  "decision": [
+    "Redress is given to ITA 57574. ITA 57574 is to be scored in race 7 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races of the final series sailed before the last scheduled day of the regatta if racing is later scheduled on that day, except race 7. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Nino Shmueli (IJ ISR",
+      "Timo Hass (IJ GER",
+      "Tao Battarel (NJ FRA"
+    ]
+  }
+}

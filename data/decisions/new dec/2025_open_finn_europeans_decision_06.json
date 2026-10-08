@@ -1,0 +1,55 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Open Finn Europeans",
+  "race_number": "3",
+  "hearing_datetime": "2025-04-09 18:15",
+  "parties": [
+    "SUI 99 - Laurent Chapuis",
+    "HUN 180 - Gergely Gerencsér"
+  ],
+  "procedural_matters": [
+    "SUI 99 was represented by Laurent Chapuis.",
+    "HUN 180 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "Nicola Capriglione (ITA 45) presented evidence during the hearing as a witness for SUI 99."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 12 knots of wind and a 0.5 meter chop.",
+    "SUI 99 and HUN 180 were sailing upwind towards mark 1 to be left to port.",
+    "SUI 99 was sailing on the starboard layline on starboard tack, and HUN 180 was sailing on the port layline on port tack.",
+    "The boats were sailing on a collision course.",
+    "SUI 99 entered the zone of the mark on starboard tack.",
+    "At the mark HUN 180 luffed and passed head to wind from port to starboard.",
+    "Immediately SUI 99 luffed sharply above close hauled.",
+    "There was a contact between SUI 99's front quarter of the port side of the hull and the aft starboard quarter of HUN 180' s hull.",
+    "There was no damage.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 18.3(a)",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, HUN 180 failed to keep clear of SUI",
+    "After passing head to wind and before being on a close-hauled course, HUN 180 failed to keep clear of SUI",
+    "HUN 180 broke RRS 13.",
+    "HUN 180 caused SUI 99, who was on starboard tack since entering the zone, to sail above close-hauled to avoid contact. HUN 180 broke RRS 18.3(a).",
+    "HUN 180 did not avoid contact with SUI 99 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for SUI 99, the right-of-way boat to avoid contact with HUN 180 when it became clear that HUN 180 was not keeping clear. SUI 99 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "HUN 180 is DSQ in race 3"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jan Stage",
+    "members": [
+      "Timo Haß",
+      "Sylvie Harle",
+      "Stavros Kouris",
+      "Marco Flavio Tosello"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "J/24 World Championship 2025",
+  "race_number": "5",
+  "hearing_datetime": "2025-09-11 15:20",
+  "parties": [
+    "BOW 26 - Jupiter - Conor Haughton",
+    "BOW 47 - La Superba - Ignazio Bonanno",
+    "BOW 37 - Derbe Kerle - Lynn Wolgast",
+    "BOW 47 - La Superba - Ignazio Bonanno"
+  ],
+  "procedural_matters": [
+    "IRL 5270 was represented by Connor Haughton.",
+    "ITA 416 was represented by Alfredo Branciforte.",
+    "GER 5266 was represented by Svea Wrede.",
+    "Hearing No. 15 was heard together with hearing No. 11 in accordance with RRS 63.(2)(b) since both hearings arose from very closely connected incidents.",
+    "During the hearing the protest committee clarified in accordance with RRS 63.2(c) that the hearing request from GER 5266 was not only a request for redress but also a protest, and proceeded with it accordingly."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 5 were 25-30 knots and 2 metre waves.",
+    "On the first upwind leg, IRL 5270 was sailing on starboard tack on a close-hauled course slightly above the layline to mark 1.",
+    "GER 5266 was clear ahead of IRL 5270 on starboard tack sailing very slowly around the mark and touching it.",
+    "ITA 416 was sailing on port tack on a close-hauled course on a collision course with IRL 5270.",
+    "ITA 416 tacked 1 boat length to leeward of IRL 5270 at a distance of 4 boat lengths from the mark.",
+    "ITA 416 continued sailing in a close-hauled course.",
+    "IRL 5270 luffed above close-hauled.",
+    "ITA 416 hit the rudder and then the stern of GER 5266 on the port side.",
+    "ITA 416 touched the mark and sailed in between GER 5266 and the mark.",
+    "GER 5266’s rudder had damage to the gelcoat astern and on the port side and the attachment to the boat was cracked, resulting in the rudder becoming loose.",
+    "IRL 5270 sailed around GER 5266 and ITA 416.",
+    "GER 5266 retired from the race.",
+    "ITA 146 rounded mark 1 and the offset mark and then took a Two-Turns penalty."
+  ],
+  "rules": [
+    "RRS 12",
+    "RRS 14(a)",
+    "RRS 31",
+    "RRS 44.1(b)",
+    "RRS 61.4(b)(2)",
+    "RRS 63",
+    "RRS 2",
+    "RRS 63.2(c)"
+  ],
+  "conclusions": [
+    "ITA 416 clear astern failed to keep clear of GER 5266 clear ahead, and broke RRS 12.",
+    "ITA 416 did not avoid contact with GER 5266 even though it was reasonably possible, and broke RRS 14(a).",
+    "ITA 416 touched mark 1 and broke RRS 31.",
+    "Since ITA 416 caused serious damage by her breach, her penalty was to retire as required by RRS 44.1(b).",
+    "It was not reasonably possible for GER 5266 the right-of-way boat to avoid contact with ITA 416 when it became clear that ITA 416 was not keeping clear. GER 5266 did not break RRS 14(a).",
+    "GER 5266 touched mark 1 and broke RRS 31.",
+    "By retiring, GER 5266 took an appropriate penalty according by RRS 44.1.",
+    "GER 5266’s score in race 5 was made significantly worse through no fault of her own by physical damage because of the action of ITA 416 that was breaking RRS 12 and 14 and was penalised. Therefore, the requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "ITA 416 is DSQ in race 5.",
+    "Redress is given to GER 5266. GER 5266 is to be scored in race 5 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races sailed until and including all races sailed on the 12th of September, except race 5. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cxema Pico",
+    "members": [
+      "Robert Stewart",
+      "Marta Lloret Llinares",
+      "Carol Haines",
+      "Josephine Wilken"
+    ]
+  }
+}

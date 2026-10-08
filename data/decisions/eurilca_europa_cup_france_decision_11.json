@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "EurILCA Europa Cup France",
+  "race_number": "6",
+  "hearing_datetime": "2025-05-03 16:00",
+  "parties": [
+    "FRA 220156 - Constance Kowalski",
+    "IRL 223479 - Eoulan Miles"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "FRA was stationary close below the starting line, and about less than 1m from RC starting vessel",
+    "Other boat was about 2-3m to leeward of FRA",
+    "IRL was reaching below of FRA on starboard tack then luffed and established close leeward overlap to FRA",
+    "2 sec later contact occured between FRA and IRL boats with small a damage in FRA`s hull, gelkoat crack",
+    "No boat took pemalty turns"
+  ],
+  "rules": [
+    "RRS 1"
+  ],
+  "conclusions": [
+    "IRL did not give room to keep clear to FRA and broke Rule 15 and 14",
+    "FRA broke rule 11 but is exonerated because of IRL broke rule 15",
+    "It was not reasonable possible to FRA, keep clear boat to avoid contact, FRA did not break Rule 14"
+  ],
+  "decision": [
+    "IRL 223479 is DSQ in Race 6"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bernadette Delbart",
+    "members": [
+      "Zlatko Jakelic",
+      "Boguslaw Moczorodynski",
+      "Tonny Jensen",
+      "Cathy Delany-Hobbs"
+    ]
+  }
+}

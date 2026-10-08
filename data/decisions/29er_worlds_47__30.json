@@ -1,0 +1,55 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "13",
+  "hearing_datetime": "8 JUL 16:25",
+  "parties": [
+    "GBR 2898",
+    "IRL 2741"
+  ],
+  "procedural_matters": [
+    "Case No. 47 was heard together with Case No. 55 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "GBR 2898 was represented by Isla Hutchinson.",
+    "IRL 2741 was represented by Juliet Ryan.",
+    "Protest No. 55 was filed at 15:35. The protest time limit of the White fleet was 15:33. IRL 2741 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1). There was no good reason for the PC to extend the time limit. Therefore, the protest of Case 55 is invalid under RRS 60.4(a)(1).",
+    "IRL 2741 presented video evidence."
+  ],
+  "facts": [
+    "The incident occurred in race F3 of the White fleet, on leg 4 and the wind speed was 22 knots.",
+    "GBR 2898 was sailing on a downwind course, with her gennaker hoisted.",
+    "IRL 2741 was sailing on a broad reach course, without gennaker.",
+    "Both boats were on port tack on converging courses and aiming to the mark 2p.",
+    "GBR 2898 and IRL 2741 entered the zone overlapped, with GBR 2898 inside at a distance of 3 boat lengths to IRL 2741.",
+    "While rounding the mark IRL 2741 slightly luffed making contact with GBR 2898.",
+    "Contact occurred between first third of the starboard side of GBR 2898 and port side of the bow of IRL 2741.",
+    "The boats were entangled and capsized.",
+    "The contact resulted in a 7-cm hole through the hull of GBR 2898.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 18.2(a)(1)",
+    "RRS 43.1(b)"
+  ],
+  "conclusions": [
+    "IRL 2741 outside overlapped at the zone failed to give GBR 2898 mark-room, and broke RRS 18.2(a)(1).",
+    "GBR 2898 to windward failed to keep clear of IRL 2741 to leeward, and broke RRS 11.",
+    "Since GBR 2898 broke RRS 11 while she was sailing within the mark-room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach.",
+    "IRL 2741 did not avoid contact with GBR 2898 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GBR 2898, the boat sailing within the mark-room to which she was entitled, to avoid contact with IRL 2741 when it became clear that IRL 2741 was not giving mark-room. GBR 2898 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "IRL 2741 is DSQ in race F3."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Holger Herburger",
+    "members": [
+      "Johanna Poksi",
+      "Julia Schmidt"
+    ]
+  }
+}

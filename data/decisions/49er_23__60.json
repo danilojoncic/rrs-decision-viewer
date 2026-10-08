@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "11",
+  "hearing_datetime": "10 JUL 17:45",
+  "parties": [
+    "GBR 4",
+    "GER 21"
+  ],
+  "procedural_matters": [
+    "GBR 4 was represented by Rhos Hawes.",
+    "GER 21 was represented by Simon Heindl.",
+    "Simon Heindl (helm of GER 21) provided video evidence.",
+    "Fin Armstrong (GBR 590) gave evidence as a witness for GBR 4.",
+    "Cxema Pico (International Jury) provided video evidence",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 4 to 5 knots of wind and flat water.",
+    "GER 21 was approaching Mark 1 on a starboard tack on the layline.",
+    "When GER 21 reached the mark, GBR 590’s bow became slightly overlapped to windward of the starboard wing of GER 21.",
+    "GER 21 rounded the mark with 10 cms. distance between her port wing and the mark."
+  ],
+  "rules": [
+    "RRS 31",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "There was no contact between GER 21 and mark 1. GER 21 did not break rule 31."
+  ],
+  "decision": [
+    "Protest dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christina Örtendahl",
+    "members": [
+      "Lisa Steppat",
+      "Jose Pico"
+    ]
+  }
+}

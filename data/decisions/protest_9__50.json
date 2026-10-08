@@ -1,0 +1,49 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "YES - Young Europeans Sailing 2026",
+  "race_number": "1",
+  "hearing_datetime": "24 MAY 20:15",
+  "parties": [
+    "DEN 2496",
+    "Lindsey"
+  ],
+  "procedural_matters": [
+    "DEN2496 was represented by Emilie Vestero Nielsen.",
+    "International Jury was represented by Chris Lindsay.",
+    "Cecilie Hojgaard Jenseb crew of DEN 2496 attended the hearing as an observer.",
+    "Albeste Klames crew of DEN 3311 gave evidence as a witness for DEN2496 and provided video evidence."
+  ],
+  "facts": [
+    "Race 4, about 15 seconds before the starting signal, wind approximately 4 knots",
+    "DEN 2496 was on the starting line.",
+    "Jury observers penalized DEN 2496 under RRS P1.2 before the start: they pointed the yellow flag, whistled and shouted the number at about 2 RIB lengths.",
+    "DEN 2496 established visual contact with the observers.",
+    "DEN 2496 did not take any penalty after being penalized.",
+    "Just after rounding mark 1, the observers penalized DEN 2496 a second time under RRS P1.2.",
+    "DEN 2496 took a Two-Turns Penalty.",
+    "DEN 2496 was scored DNE in race 4."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)",
+    "RRS P1.2",
+    "RRS P4"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the International Jury. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met.",
+    "Since the penalty was not due to the failure to take into account a race committee signal or a class rule, DEN 2496 is not entitled to redress as provided by RRS P4."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Baptiste Verniest",
+    "members": [
+      "Jacob M. Andersen",
+      "Antonio Rutoli",
+      "Niclas Kath",
+      "Eurico Teudoro"
+    ]
+  }
+}

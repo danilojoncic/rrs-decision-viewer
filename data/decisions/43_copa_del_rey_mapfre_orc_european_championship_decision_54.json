@@ -1,0 +1,47 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "8",
+  "hearing_datetime": "2025-08-02 17:35",
+  "parties": [
+    "POR 25682 - Firstings - Pedro Andrade",
+    "ITA 4149 - Magica - Pedro Andrade"
+  ],
+  "procedural_matters": [
+    "POR 25682 was represented by Pedro Andrade (helm).",
+    "ITA 4149 did not come to the hearing when the hearing began at 1745, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The representative of ITA 4149 joined the hearing at 1750. ITA 4149 was represented by Marco Corno (helm)",
+    "Carmen Navarro (crew member of ESP 36940) presented video evidence and gave evidence as a witness for POR 25682."
+  ],
+  "facts": [
+    "POR 25682 is 31 feet long, ITA 4149 is 41 feet long.",
+    "The conditions at the time of the incident on the second upwind in race 8 for ORC B were 12 knots of wind and small chop.",
+    "POR 25682 and ITA 4149 were sailing close-hauled on port tack on the port layline to mark 1b at a distance of approximately 100 m from the mark.",
+    "ITA 4149, who was initially clear astern and to windward of POR 25682, was sailing faster and lower than POR 25682 and established a windward overlap at a lateral distance of 2 m between the hulls.",
+    "ITA 4149 passed POR 25682 to windward and when the boats were overlapped bow to bow, ITA 4149 was heeled to leeward further than POR 25682.",
+    "POR 25682, being blanketed by ITA 4149 heeled less so that the distance between the rigs was less than 2 m.",
+    "POR 25682 bore away slightly and ITA 4149 passed her to windward.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "ITA 4149 to windward failed to keep clear of POR 25682 to leeward, and broke RRS 11."
+  ],
+  "decision": [
+    "ITA 4149 is DSQ in race 8."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Cxema Pico",
+      "Pinar Coskuner Genc",
+      "Giorgio Davanzo",
+      "Finn Mrugalla"
+    ]
+  }
+}

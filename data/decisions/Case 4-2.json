@@ -1,0 +1,75 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest / Request for Redress",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "CAN 220951 - Maya Wolf",
+    "USA 220805 - Paloma Arrigo",
+    "HUN 222014 - Sara Lacko",
+    "POR 221822 - Mafalda Teixeira"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4b).",
+    "There were two observers present during the hearing: a support person for CAN (Andrew Lewis), and a support person for POR (Bernardo Lurero).",
+    "Before the hearing started, HUN 222014 accepted a Post-Race Penalty under RRS T1(c).",
+    "Steve Holmstrom (a member of the international jury) gave testimony as a witness.",
+    "Alexis Katsios (support person for HUN 222014) gave testimony as a witness and presented video of the incident."
+  ],
+  "facts": [
+    "The wind was blowing 16 knots, with 1-meter swell and chop.",
+    "Twenty seconds after the starting signal CAN was sailing upwind, close-hauled on starboard tack.",
+    "Five boat lengths ahead and five boat lengths to leeward of CAN, USA was also sailing close-hauled on starboard tack.",
+    "Nine seconds before the incident, HUN, sailing close-hauled on port tack, passed just astern of USA.",
+    "As the bow of HUN began to pass the stern of USA, USA luffed and tacked to port.",
+    "When USA completed her tack, she was overlapped by ¾ boat length and 20 centimeters to windward of HUN, with HUN advanced.",
+    "USA took three seconds from she started to luff untill she finished her tack.",
+    "When USA completed her tack, POR sailing close-hauled on starboard tack, luffed and tacked to port.",
+    "When POR completed her tack, she was overlapped by ½ boat length ahead of USA, 2 boat lengths to windward.",
+    "At that point, HUN and CAN were on a collision course. If no boat changed course, in two boat lengths (3 seconds), the bow of CAN would hit HUN just forward of HUN’s mast.",
+    "HUN hailed USA ‘Room to tack!’",
+    "USA responded “Tack, tack, tack!’ and held her course.",
+    "At that point, if HUN bore away, she would have hit USA.",
+    "CAN luffed.",
+    "As CAN passed head-to-wind, the starboard bow of HUN hit the port bow of CAN.",
+    "CAN capsized to starboard.",
+    "During the maneuver, CAN hit her shoulder on the boom, causing pain.",
+    "There was no damage.",
+    "No boat took a penalty.",
+    "CAN recovered from her capsize and finished the race.",
+    "CAN sailed unaided from the racing area back ashore."
+  ],
+  "rules": [
+    "RRS N1",
+    "RRS T1(c)",
+    "RRS 20.2(b)",
+    "RRS 20.2(c)",
+    "RRS 10",
+    "RRS 43.1(a)",
+    "RRS 14(b)",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "CAN, a starboard tack boat, was an obstruction to HUN and USA.",
+    "USA, a windward boat, failed to respond to HUN’s hail for room to tack at an obstruction. USA broke rules 20.2(b) and 20.2(c).",
+    "HUN, a port-tack boat, failed to keep clear of CAN sailing on starboard tack and broke rule 10. However, HUN was compelled to break rule 10 because USA broke rules 20.2(b) and 20.2(c). HUN is exonerated according to rule 43.1(a).",
+    "POR broke no rule.",
+    "It was reasonably possible for USA to act to not cause contact between boats. USA broke rule 14(b).",
+    "It was not reasonably possible for HUN to act to avoid contact when it was clear that USA was not giving room for HUN to keep clear of CAN. HUN did not break rule 14.",
+    "It was not reasonably possible for CAN to act to avoid contact when it was clear that HUN was not keeping clear. CAN did not break rule 14.",
+    "Although the incident caused CAN to experience pain, she was not injured, and there was no physical damage. CAN is not entitled to redress."
+  ],
+  "decision": [
+    "USA 220805 is disqualified in Race 2",
+    "Redress is not given to CAN 220951."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Kevin Hawkins",
+    "members": [
+      "Doug Elder",
+      "Gabriela Santanna"
+    ]
+  }
+}

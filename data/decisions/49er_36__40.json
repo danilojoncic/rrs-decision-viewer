@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "14",
+  "hearing_datetime": "11 JUL 18:15",
+  "parties": [
+    "GER 696",
+    "BEL 18"
+  ],
+  "procedural_matters": [
+    "GER 696 was represented by Katharina SCHWACHHOFER.",
+    "BEL 18 was represented by Isaura MAENHAUT.",
+    "Mark ASQUITH (coach of GER 696) attended the hearing as an observer.",
+    "The International Jury presented tracking and video evidence.",
+    "The International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 6 - 7 knots of wind and flat water.",
+    "BEL 18 rounded mark 1, gybed at the mark and was sailing on the run on port tack, at less than 2 knots.",
+    "GER 696 was sailing close-hauled on port tack, 1 boat length below the port layline to mark 1.",
+    "BEL 18 was overlapped to windward of GER 696, both on converging courses.",
+    "When the boats were 2 boat lengths apart, GER 696 luffed by more than 20º and passed approximately 20cm behind BEL 18’s starboard tiller extension.",
+    "There was no contact.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11"
+  ],
+  "conclusions": [
+    "BEL 18 to windward failed to keep clear of GER 696 to leeward, and broke RRS 11."
+  ],
+  "decision": [
+    "BEL 18 is disqualified in race 14."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jose Pico",
+    "members": [
+      "Lisa Steppat",
+      "Yoann Peronneau"
+    ]
+  }
+}

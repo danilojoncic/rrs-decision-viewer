@@ -1,0 +1,52 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "2",
+  "hearing_datetime": "20 JUL 20:45",
+  "parties": [
+    "ITA 36342",
+    "ESP 36388"
+  ],
+  "procedural_matters": [
+    "ITA 36342 was represented by Cosimo D’Incecco.",
+    "ESP 36388 was represented by Tomas Budino.",
+    "Marco Crecchi (ITA 3) gave evidence as a witness."
+  ],
+  "facts": [
+    "Conditions during the Vaurien race 2 were 20 knots of wind and 0,9 m waves.",
+    "On the first beat to windward, ITA 3 sailing on close-hauled starboard tack.",
+    "ESP 36388 and ITA 36342 sailing on a close-hauled port tack overlapped, with ITA 36342 one boat width to leeward of ESP 36388, both boats on a converging course with ITA 3.",
+    "Two boat lengths from ITA 3, ITA 36342 hailed ’’Room to tack’’.",
+    "ESP 36388 did not change course nor responded.",
+    "One meter from ITA 3, ITA 36342 luffed.",
+    "At the same time ITA 3 luffed head to wind.",
+    "Then ITA 36342 passed head to wind and bore away and capsized.",
+    "ESP 36388 did not change course and passed 2-3 m in front of ITA 3.",
+    "No contact occurred.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 20.2(a)",
+    "RRS 20.2(b)",
+    "RRS 20.2(c)"
+  ],
+  "conclusions": [
+    "ESP 36388 failed to tack as soon as possible and did not respond immediately after ITA 36342 hailed \"Room to tack\" and broke RRS 20.2(b) and (c).",
+    "ITA 36342 on port tack failed to keep clear of ITA 3 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "ESP 36388 and ITA 36342 are DSQ from race 2."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Luke Scott",
+    "members": [
+      "Angela Stenger",
+      "Joanna Sachs",
+      "Mehnaz Jamil",
+      "Johanna Poksi"
+    ]
+  }
+}

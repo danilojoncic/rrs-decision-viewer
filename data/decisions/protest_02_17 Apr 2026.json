@@ -1,0 +1,49 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest & Redress",
+  "event": "49er",
+  "race_number": "1",
+  "hearing_datetime": "30 Mar 2026 at 18:10",
+  "parties": [
+    "CZE 817 - Lukáš Kraus",
+    "BRA 55 - Dante Bianchi"
+  ],
+  "procedural_matters": [
+    "1) During the hearing the protest committee clarified in accordance with RRS 63.2(c) that the hearing request was not only a request for redress, but also a protest, and proceeded with it accordingly. 2) Lukas Kraus attended the hearing representing CZE 817. 3) Tomas Low Beer attended the hearing representing BRA 55. 4) The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The wind was 15 knots with a slightly choppy sea state.",
+    "BRA 55 was stationary on the starting line head to wind on starboard tack.",
+    "CZE 817 was sailing close-hauled on starboard tack, and then stopped the boat one boat length to windward of BRA 55, almost bow to bow.",
+    "1 minute 25 seconds before the start BRA 55 luffed, passed head to wind to port and before reaching a close-hauled course, its bow touched the port tiller extension of CZE 817, snapping it in half.",
+    "BRA 55 bore further away, moved away from the line, then gybed and tacked.",
+    "CZE 817 moved away from the line and replaced its tiller extension within 2 minutes and 30 seconds.",
+    "CZE 817 sailed the first leg, then the replaced tiller extension came out; CZE 817 retired from the race and was scored DNF."
+  ],
+  "rules": [
+    "RRS 13",
+    "RRS 14(a)",
+    "RRS 60.5(c)(2)",
+    "RRS 61.4(b)",
+    "RRS 63.2(c)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, BRA 55 failed to keep clear of CZE 817. BRA 55 broke RRS",
+    "BRA 55 did not avoid contact with CZE 817 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for CZE 817 the right-of-way boat to avoid contact with BRA 55 when it became clear that BRA 55 was not keeping clear. CZE 817 did not break RRS 14(a).",
+    "CZE 817 score in race 1 was made significantly worse through her own fault. Therefore, the requirements for redress in RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "The protest is upheld. Since BRA 55 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2). Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Giorgio Davanzo",
+      "Alan Baser",
+      "Aylin Suntay"
+    ]
+  }
+}

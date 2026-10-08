@@ -1,0 +1,45 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "29er EuroCup Series",
+  "race_number": "3 race in silver (1 repeter)",
+  "hearing_datetime": "2026-05-03 18:00",
+  "parties": [
+    "SLO 3482 - Janez Zabukovec",
+    "ITA 2727 - Gianluca Pilia"
+  ],
+  "procedural_matters": [
+    "SLO 3482 was represented by Pier Maria Paparella. ITA 2727 was represented by Gianluca Pilia."
+  ],
+  "facts": [
+    "Wind conditions were 12 knots, and the water was choppy.",
+    "30 seconds before the starting signal, SLO 3482 was slowly drifting on the starting line, on starboard and ITA 2727 was drifting close to the RC vessel, on starboard too.",
+    "There was a 10 m lateral distance between the boats.",
+    "ITA 2727 bore away and hit SLO 3482.",
+    "Contact occurred between SLO’s 3482 starboard amidships and ITA’s 2727 bow.",
+    "There was damage: hull delamination over approximately 15 cm.",
+    "No boat took a penalty, and there was a general recall."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 36(b)"
+  ],
+  "conclusions": [
+    "ITA 2727 to windward failed to keep clear of SLO 3482 to leeward, and broke RRS 11.",
+    "When it became clear that ITA 2727 was not keeping clear it was not reasonably possible for SLO 3482, the right-of- way boat to avoid contact with SLO 3482. SLO 3482 did not broke RRS 14(a).",
+    "Since the race was restarted and ITA 2727 had caused neither injury nor serious damage, she shall not be penalized as per RRS 36(b)."
+  ],
+  "decision": [
+    "The protest is upheld. Since the provision of RRS 36(b) applies, no penalty is imposed on ITA 2727 under RRS 60.5(c)(3)."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Marco Sarcoli",
+    "members": [
+      "Anna Cuccia",
+      "Katarzyna Goralska",
+      "Max Pawłowski"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "5",
+  "hearing_datetime": "22 JUN 14:50",
+  "parties": [
+    "FRA 441",
+    "RC"
+  ],
+  "procedural_matters": [
+    "?The race committee was represented by Malledant Anne (PRO).",
+    "FRA 441 was represented by Gaultier Tallieu (crew)."
+  ],
+  "facts": [
+    "At the start of race P5 of the 49er blue fleet, the conditions were 5 - 6 knots of wind with small chop.",
+    "Before the starting sequence, the pin end boat anchored and prepared for the starting sequence.",
+    "After the warning signal, FRA 441 sailed to starboard of the pin end boat and stopped.",
+    "At 4:05 to the start, the race committee member on the pin end boat added an extra weight to the anchor line.",
+    "Another 49er sailboat entered the space between FRA 441 and the pin end boat."
+  ],
+  "rules": [
+    "RRS 27.2",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "The race committee did not move the starting mark after the preparatory signal as required by RRS 27.2",
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Hermann Herburger",
+    "members": [
+      "Jan Stage",
+      "Rick Mallinson",
+      "Romain Gautier",
+      "Michal Zak"
+    ]
+  }
+}

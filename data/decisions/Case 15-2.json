@@ -1,0 +1,37 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "18",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 223705 - Sergio Garcia Garrido"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "After race 6, in the Men's Blue fleet, the TC inspected ESP.",
+    "The centerboard retention line was not connected.",
+    "While rounding mark 3p at the end of leg 3, another control line became entangled with the centerboard retention line of ESP and disconnected it, breaking off a piece of the retention hook.",
+    "ESP attempted to reattach the retention line while racing, but was unable to do so."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "Class Rule 14(f)"
+  ],
+  "conclusions": [
+    "By not racing with the retention line attached to the centerboard, ESP broke class rule 14(f)."
+  ],
+  "decision": [
+    "ESP is subject to a 30% scoring penalty applied to her score for race 6."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gabriela Santanna",
+    "members": [
+      "Kevin Hawkins",
+      "Elizabeth Rouget"
+    ]
+  }
+}

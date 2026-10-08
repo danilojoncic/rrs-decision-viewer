@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "87. Warnemünder Woche 2025",
+  "race_number": "4",
+  "hearing_datetime": "7 JUL 17:15",
+  "parties": [
+    "Race committee",
+    "DEN 1595 (R4)"
+  ],
+  "procedural_matters": [
+    "The Race Committee was represented by Jan Prockat.",
+    "The protestee did not attend the hearing, the hearing proceeds under 63.1(b)."
+  ],
+  "facts": [
+    "Protest time limitwas 1426 hrs.",
+    "The Protest waslodged at 1630 hrs.",
+    "The Race committeevessels returned ashore at 1600 hrs. and lodged the protest 30 minutes later.",
+    "There was nonotice on the notice board, nor was the sailor informed in any way, before the hearingschedule was posted."
+  ],
+  "rules": [
+    "RRS 60.2(a)(2)",
+    "RRS 60.3",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "The Race Committee failed todeliver the protest within the protest time limit, as required by RRS 60.3.",
+    "The Race Committee failed toinform the protestee of his intention to protest as required by RRS 60.2(a)(2).",
+    "There was no good reason toextend the time limit."
+  ],
+  "decision": [
+    "The protest is invalid."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Sylvie Harlé",
+    "members": [
+      "Elizabeth Procter",
+      "Susanne Kuusansalo"
+    ]
+  }
+}

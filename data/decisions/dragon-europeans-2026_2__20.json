@@ -1,0 +1,66 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Dragon Europeans 2026",
+  "race_number": "2",
+  "hearing_datetime": "30 JUN 20:15",
+  "parties": [
+    "Technical Committee",
+    "GER 11 (R2)"
+  ],
+  "procedural_matters": [
+    "SI 17.2 states : Substitution of damaged or lost equipment is not allowed unless authorised in writing by the Technical Committee. Requests for substitutions shall be made to the Technical Committee at the first reasonable opportunity, which may be after the race.",
+    "SI11.2 states: Penalties for breaches of a rule other than a rule of Parts 1 or 2 and rule 31 of the RRS may be less than disqualification if the International Jury so decides.",
+    "Technical Committee was represented by Bence TORONYI",
+    "GER 11 was represented by Diego Negri."
+  ],
+  "facts": [
+    "During Race 1, on 29/06, the mainsail halyard lock of GER 11 failed.",
+    "GER 11 returned to the pontoon, but decided that the mast needed repair or replacement. The necessary tools were stored at the event boatyard.",
+    "GER 11 was towed to the event boatyard, leaving around 17:00. The tow took 25 minutes.",
+    "GER 11 did not inform the race office or any race official before leaving for the boatyard.",
+    "GER 11 having removed the mast, and after examining the halyard lock, replaced the mast. The boom was also replaced, as the original boom does not fit the new mast.",
+    "GER 11 returned to the pontoon, arriving after 19:00.",
+    "The TC noticed that the mast had been changed when he arrived on site on the morning of 30/",
+    "GER 11 did not deliver a request for substitution via the M2S system.",
+    "GER 11 had the personal mobile number of the TC, but did not contact him.",
+    "The crew of GER 11 arrived on site at about 09:00.",
+    "A hand-written request was received by the race office at 09:42 on 30/06, 10 minutes after the TC delivered a hearing request.",
+    "At 10:10; the Technical Committee replied ‘ I will decide the approval when I will be able to check the damaged mast (after today’s races).’",
+    "The original mast was examined by the TC. The mainsail halyard lock was not in its original state, as compared to photos of an identical fitting. The TC was not able to verify directly that the lock was not working. However, analysis of Vakaros evidence confirms a significant loss of performance.",
+    "The new mast was inspected and approved by the TC.",
+    "During Race 1, on 29/06, the mainsail halyard lock of GER 11 failed.",
+    "GER 11 returned to the pontoon, but decided that the mast needed repair or replacement. The necessary tools were stored at the event boatyard.",
+    "GER 11 was towed to the event boatyard, leaving around 17:00. The tow took 25 minutes.",
+    "GER 11 did not inform the race office or any race official before leaving for the boatyard.",
+    "GER 11 having removed the mast, and after examining the halyard lock, replaced the mast. The boom was also replaced, as the original boom does not fit the new mast.",
+    "GER 11 returned to the pontoon, arriving after 19:00.",
+    "The TC noticed that the mast had been changed when he arrived on site on the morning of 30/",
+    "GER 11 did not deliver a request for substitution via the M2S system.",
+    "GER 11 had the personal mobile number of the TC, but did not contact him.",
+    "The crew of GER 11 arrived on site at about 09:00.",
+    "A hand-written request was received by the race office at 09:42 on 30/06, 10 minutes after the Dragon Europeans 2026 TC delivered a hearing request.",
+    "At 10:10; the Technical Committee replied ‘ I will decide the approval when I will be able to check the damaged mast (after today’s races).’",
+    "The original mast was examined by the TC. The mainsail halyard lock was not in its original state, as compared to photos of aCn iadseen tDiceatl afititlisng. The TC was not able to verify directly that As of 1 JUL 2026 At 10:40 the lock was not working. However, analysis of Vakaros evidence confirms a significant loss of performance.",
+    "The new mast was inspected and approved by the TC."
+  ],
+  "rules": [
+    "SI 17.2"
+  ],
+  "conclusions": [
+    "GER 11 did not make a request for substitution of damaged equipment at the first reasonable opportunity. GER 11 broke SI 17.2. Using the WS Discretionary Penalty Guidelines for Boats& Support Persons, a starting penalty of 50% was decided. There were no facts to justify increasing or decreasing the penalty. Applying the WS Discretionary Penalty Guidelines: as the breach affected racing performance, the penalty shall be applied to all races sailed that day."
+  ],
+  "decision": [
+    "The penalty given to GER 11 is a 50% discretionary penalty, calculated using the method described in RRS 44.3(c ) and applied to all races sailed on 30/06 (Race 2 and 3)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Pinar Coskuner Genç",
+    "members": [
+      "Christine Guba",
+      "Gordon Davies",
+      "Staffan Rosenlöf",
+      "Tonny Vedeler"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA 6 Women's & ILCA 7 Men's World Championships",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "HKG 211717 - Nancy Highfield"
+  ],
+  "procedural_matters": [
+    "The race committee was represented by Sandy Grosvenor (Course Representative).",
+    "HKG 211717 was represented by Nancy Highfield.",
+    "The hearing was scheduled at 17:45. HKG 211717 did not come to the hearing initially when the hearing commenced at 17:50. Immediately after the hearing was decided as valid, HKG 211717 arrived at the hearing room. The hearing was restarted at 17:55 with both parties present."
+  ],
+  "facts": [
+    "The course axis for race 3 of the ILCA 6 Blue fleet was set at 130 degrees and the length of leg 1 was 0.65 NM.",
+    "When the starting signal was made, the average wind across the course area was 7-8 knots.",
+    "On the first upwind, the wind shifted 10 to 15 degrees on either side of the course axis, and the wind decreased to an average of 5 knots.",
+    "On the second upwind, the race committee signalled a change of course to the right of 15 degrees and decreased the length of the leg at mark 4S/4P.",
+    "The relative positions of the fleet across the course area remained similar throughout the race."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Gonzalo Heredia",
+    "members": [
+      "Bence Borocz",
+      "suk-kyong Kim",
+      "Jerrold Ng",
+      "Chun Qu"
+    ]
+  }
+}

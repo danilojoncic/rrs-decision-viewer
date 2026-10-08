@@ -1,0 +1,55 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest / Request for Redress",
+  "event": "2025 ILCA 6 Women's & ILCA 7 Men's World Championships",
+  "race_number": "9",
+  "hearing_datetime": "",
+  "parties": [
+    "AUS 215011 - Evie Saunders",
+    "GUA 182111 - Cristina Castellanos"
+  ],
+  "procedural_matters": [
+    "AUS 215011 is represented by Elvie Saunders.",
+    "GUA 182111 is represented by Cristina Castellanos.",
+    "Hearing no. 4 is heard together with hearing no. 9 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident.",
+    "Mikael Lundh (coach of AUS 215011) attended the hearing as an observer.",
+    "AUS 215011 and GUA 182111 provided tracking evidence."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 6 knots of wind and the sea was choppy.",
+    "AUS 215011 and GUA 182111 were sailing downwind on the second leg of race 1, approximately 8 boat lengths from the gate mark.",
+    "AUS 215011 was on port-tack two boat lengths clear ahead of GUA 182111, who was on starboard-tack.",
+    "AUS 215011 gybed onto starboard tack and then became 1.5 boat lengths clear ahead of GUA 182111. The distance between the two boats gradually reduced.",
+    "Approximately 10 seconds later, there was contact between the bow of GUA 182111 and the rudder of AUS 215011, breaking her gudgeon.",
+    "GUA 182111 continued sailing and finished race 1.",
+    "AUS 215011 did not finish race 1, replaced the broken gudgeon and sailed the remaining races of the day.",
+    "AUS 215011 was in about 38 position at the time of the incident, and she finished in 7 and 42 place in races 2 and 3, respectively."
+  ],
+  "rules": [
+    "RRS 63",
+    "RRS 12",
+    "RRS 14(a)",
+    "RRS 14",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "GUA 182111 clear astern failed to keep clear of AUS 215011 clear ahead, and broke RRS 12.",
+    "GUA 182111 did not avoid contact with AUS 215011 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for AUS 215011, the right-of-way boat, to avoid contact with GUA 182111 when it became clear that GUA 18211 was not keeping clear. AUS 215011 did not break RRS 14(a).",
+    "AUS 215011’s place in race 1 was made significantly worse through no fault of her own by physical damage because of the action of GUA 182111 that was breaking RRS 12 and 14 and was penalised. Therefore, the requirements for redress in RRS 61.4(b)(2) are met. Rules: RRS 12, 14(a), 61.4(b)(2)"
+  ],
+  "decision": [
+    "GUA 182111 is DSQ in race 1.",
+    "Redress is given to AUS 215011. AUS 215011 is to be scored in race 1, points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in races 2 and 3. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Dongning Zhou",
+    "members": [
+      "Jacob Mossin Andersen",
+      "Myrto Antonopoulou",
+      "Zuoru Jiang",
+      "Anastazja Lewandowska"
+    ]
+  }
+}

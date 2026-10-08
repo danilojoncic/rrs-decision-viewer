@@ -1,0 +1,52 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Risarcimento di danno",
+  "event": "2025 Open Finn Europeans",
+  "race_number": "10",
+  "hearing_datetime": "2025-04-12",
+  "parties": [
+    "ITA 12 - Antonio Braucci",
+    "NOR 55 - Arild Heldal"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "ITA 12 was represented by Antonio Braucci.",
+    "NOR 55 came to the hearing after ITA 12 has given their evidence. The hearing continued in NOR 55's presence.",
+    "NOR 55 was represented by Arild Heldal.",
+    "Michał Gonciarz (POL 2) presented evidence during the hearing as a witness for ITA 12.",
+    "The international jury presented video evidence."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 6-7 knots of wind and a decreasing swell.",
+    "ITA 12 and NOR 55 were sailing on port tack, on the last reach to the finishing line. ITA 12 was clear astern and to leeward of NOR 55.",
+    "NOR 55 was approaching the line sailing a higher course and pointing to windward of the pin end.",
+    "Some other boats were clear ahead of both ITA 12 and NOR 55.",
+    "When NOR 55 was 2.5 metres away from the mark she bore away. At that moment, ITA 12 established an overlap to leeward of NOR 55 at a distance of 1 metre.",
+    "A few seconds later, while crossing the finishing line and when NOR 55 was 1.5 metres beside the mark, she luffed sharply and there was immediately a contact between NOR 55's starboard edge of the stern and ITA 12's port side of the hull.",
+    "The contact resulted in a scratch on ITA 12's deck and a small spider crack on the hull of the boat.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "Since the boats have finished, but not cleared the finishing line and marks, the boats were still racing.",
+    "NOR 55 to windward failed to keep clear of ITA 12 to leeward and broke RRS 11.",
+    "Since NOR 55 was not sailing within the mark-room she was entitled to, she is not exonerated for her breach.",
+    "NOR 55 did not avoid contact when it was reasonably possible and broke RRS 14(a).",
+    "It was not reasonably possible for ITA 12 the right-of-way boat to avoid contact with NOR 55 when it became clear that NOR 55 was not keeping clear. ITA 12 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "NOR 55 is DSQ in race 10"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Timo Haß",
+    "members": [
+      "Sylvie Harle",
+      "Stavros Kouris"
+    ]
+  }
+}

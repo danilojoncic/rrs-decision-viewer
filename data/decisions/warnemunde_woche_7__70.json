@@ -1,0 +1,54 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "88. Warnemünder Woche 2026",
+  "race_number": "2",
+  "hearing_datetime": "9 JUL 16:30",
+  "parties": [
+    "GER 923",
+    "GER 74"
+  ],
+  "procedural_matters": [
+    "1) The panel of the International Jury was composed in accordance with RRS N1.4(b). 2) GER 923 was represented by Tobias Schrage (helm). 3) GER 74 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b). 4) GER 74 arrived after the panel had reached its decision. She remained and was present when the parties were informed of the facts found, the conclusions and the decision (RRS 63.6)."
+  ],
+  "facts": [
+    "Warnemünder Woche 2026 5) GER 923 held her course for a few seconds.",
+    "When it became clear to GER 923 that GER 74 was not keeping clear, GER 923 bore away, and immediately the bow of GER 74 struck the port quarter of GER 923. 7)",
+    "The contact caused damage to the port quarter of GER 923, just below the sheerline and well above the waterline: over an area of approximately C15a–s2e0 D cemta, tihlse gelcoat was shattered and removed, As of 11 JUL 2026 At 15:49 exposing the underlying laminate, with broken and frayed glass fibers protruding.",
+    "The hull was not holed, and there was no water ingress.",
+    "GER 74 promptly took a One-Turn Penalty",
+    "GER 74 and GER 923 completed Race 2 and subsequently sailed Race 3."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14",
+    "RRS 14(a)",
+    "RRS 16.1(a)",
+    "SI 16.1(a)",
+    "RRS 61.4(b)(2)",
+    "RRS 63.6",
+    "RRS 63.1(b)",
+    "World Sailing Case 110"
+  ],
+  "conclusions": [
+    "GER 74, on port tack, did not keep clear of GER 923, on starboard tack, and broke RRS 10.",
+    "GER 74 did not avoid contact when it was reasonably possible, and broke RRS 14.",
+    "It was not reasonably possible for GER 923, the right-of-way boat, to avoid contact with GER 74 when it became clear that GER 74 was not keeping clear. GER 923 did not break RRS 14(a).",
+    "The contact resulted in physical damage to GER 923, being localized above the waterline and not affecting the integrity of the hull or her ability to race. Therefore, RRS 44.1(b) did not apply.",
+    "Since RRS 44.1(b) did not apply, GER 74 took an applicable One-Turn Penalty as required by SI 16.1(a).",
+    "The loss of places by GER 923 resulted from her avoiding action and subsequent manoeuvre to disengage, not from the physical damage itself. A worsening of a boat's score caused by an avoiding manoeuvre is not, by itself, grounds for redress (World Sailing Case 110). The score of GER 923 was not made significantly worse by injury or physical damage, and the requirements of RRS 61.4(b)(2) are not met."
+  ],
+  "decision": [
+    "GER 74 broke RRS 10 and RRS 14 and took an applicable penalty. No further penalty is applied. GER 74's score in race 2 stands.",
+    "Redress is not given to GER 923."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Dr. Rainer Kornfeld",
+    "members": [
+      "Anna Cuccia",
+      "Cosmin Andronic",
+      "João Carneiro"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "Nacra15 World Championship, 2026",
+  "race_number": "13",
+  "hearing_datetime": "2026-07-31 19:35",
+  "parties": [
+    "BEL 140 - Marie-Fleur VAN DEN DOEL",
+    "ITA 81 - Luna CASTRIOTTA",
+    "BEL 140 - Marie-Fleur VAN DEN DOEL",
+    "BEL 140 - Marie-Fleur VAN DEN DOEL",
+    "BEL 140 - Marie-Fleur VAN DEN DOEL",
+    "BEL 140 - Marie-Fleur VAN DEN DOEL"
+  ],
+  "procedural_matters": [
+    "BEL 140 was represented by Sander Borghijs (crew).",
+    "ITA 081 was represented by Carola Ferrara (helm).",
+    "Stavros Kouris, international jury member, acted as an interpreter for Carola Ferrera during the hearing.",
+    "William Boalch (GBR 334) gave evidence during the hearing as a witness for BEL 140.",
+    "BEL 140 presented a screenshot of the tracking during the hearing.",
+    "During the hearing the panel of the international jury clarified in accordance with RRS 63.2(c) that the hearing request was not only a protest but also a request for redress, and proceeded with it accordingly.",
+    "Initially, Hearing No. 25 was heard together with hearings No. 27 and 28 in accordance with RRS 63.2(b) since both hearings arose from the same incident. However, since the international jury changed the type of the case in Hearing No. 25, BEL 140 requested to withdraw cases 27 and 28. There was no reason for the international jury to refuse the request."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 11 knots of wind and flat waters.",
+    "BEL 140 and ITA 081 were sailing upwind on the port layline, both on port tack, approaching mark 1 to be left to port.",
+    "BEL 140 entered the zone of mark 1, half boat length clear ahead of ITA 081.",
+    "Four to five seconds later and when the boats were one boat length from the mark, there was an initial contact between ITA 081's starboard bow and the back beam of BEL 140, towards the port side of the boat. Shortly after, ITA 081's bowsprit hit BEL 140's helm.",
+    "As a result, BEL 140 lost control and luffed. At that time, ITA 081's port bow hit BEL 140's port hull.",
+    "The contact resulted in some scratches on the gelcoat around the back beam, and a few dents (two smaller and one bigger) on the port hull. The bigger dent suffered a small superficial crack on the gelcoat.",
+    "When the boats were not in contact anymore, both boats passed head to wind onto starboard, bore away and gybed back onto port, and then sailed to the mark, with ITA 081 behind BEL 140.",
+    "BEL 140 was around 20-25th place before the incident and finished the race in 33rd place."
+  ],
+  "rules": [
+    "RRS 12",
+    "RRS 14(a)",
+    "RRS 18.2(a)(2)",
+    "RRS 44.2",
+    "RRS 61.4(b)(2)",
+    "RRS 63.2(b)",
+    "RRS 63.2(c)"
+  ],
+  "conclusions": [
+    "ITA 081 clear astern failed to keep clear of BEL 140 clear ahead, and broke RRS 12.",
+    "ITA 081 not overlapped with BEL 140 and not in the zone at the time BEL 140 reached the zone, failed to give BEL 140 mark-room, and broke RRS 18.2(a)(2).",
+    "ITA 081 did not avoid contact with BEL 140 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for BEL 140 the right-of-way boat and the boat sailing within the mark-room to which she was entitled to avoid contact with ITA 081 when it became clear that ITA 081 was not keeping clear and was not giving mark-room. BEL 140 did not break RRS 14(a).",
+    "Since ITA 081 did not cause injury or serious damage and did not gain a significant advantage in the race or series by her breach, ITA 081 took an applicable penalty by taking One-Turn Penalty.",
+    "BEL 140's place in race 13 was made significantly worse because they had to tack and sail back to round the mark and not because of the physical damage caused by ITA 081 that was breaking RRS 12, 18.2(a)(2) and 14(a) and took the appropriate penalty. Therefore the requirements for redress in RRS 61.4(b)(2) are not met."
+  ],
+  "decision": [
+    "The protest is upheld. Since ITA 081 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is not given to BEL 140."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Louis Mayo",
+    "members": [
+      "Stavros Kouris",
+      "Julia Schmidt",
+      "Carol Haines",
+      "Jonathan Haines"
+    ]
+  }
+}

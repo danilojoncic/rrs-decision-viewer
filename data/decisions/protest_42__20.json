@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "8",
+  "hearing_datetime": "",
+  "parties": [
+    "GER",
+    "IRL"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "The wind was 7kts with a small chop",
+    "40 seconds before the starting signal GER was on starboard tack and IRL was on port tack.",
+    "18 seconds before the starting signal, IRL passed head to wind to tack onto starboard.",
+    "Immediately after IRL tacked onto starboard tack the distance between them was 15 cm.",
+    "8 seconds before the starting signal, IRL had still not come to a closed hulled course.",
+    "At that moment, the helm of IRL reached out with her right hand and grabbed the gunwale of GER and slightly pushed it.",
+    "The boats did not make contact before the incident.",
+    "IRL believed that the boats had made contact.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 13",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, IRL failed to keep clear of GER. IRL broke RRS 13.",
+    "IRL did not avoid contact with GER even though it was reasonably possible, and broke RRS 14(a).",
+    "IRL believed that their boats had made contact so, by reaching out to GER and pushing her, she did not break the principles of sportsmanship and fair play as stated in Basic Principles and required by RRS 2.",
+    "It was not reasonably possible for GER, the right-of-way boat, to avoid contact with IRL when it became clear that IRL was not keeping clear. GER did not break RRS 14(a)."
+  ],
+  "decision": [
+    "IRL is DSQ in race 8"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Johanna Poksi",
+    "members": [
+      "Mateo Skoknic",
+      "Eurico Teodoro"
+    ]
+  }
+}

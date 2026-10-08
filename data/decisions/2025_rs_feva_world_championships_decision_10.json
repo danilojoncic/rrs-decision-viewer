@@ -1,0 +1,45 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "2",
+  "hearing_datetime": "2025-07-31 20:15",
+  "parties": [
+    "FRA 8603 - Mixed - Bleijs Elliot",
+    "ITA 4401 - Tommaso Giannotti"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). FRA 8603 was represented by Alice Verdure. ITA 4401 was represented by Tommaso Giannotti. ITA 6930 Aiden Nani was called as a witness by ITA 4401. Jean-Luc Michon, jury chair, acted as translator for FRA 8603."
+  ],
+  "facts": [
+    "2nd run of race F2, wind 5 knots, waves consistent with wind conditions.",
+    "When ITA 4401, on port, reached the zone of mark 3p, ITA 6930, on port, was overlapped to leeward of ITA 4401 and FRA 8603, on port, was overlapped to leeward of ITA 6930. ITA 4401 reached the zone first.",
+    "The three boats were on converging courses.",
+    "When the lateral distance between ITA 6930 and ITA 4401 was less than half a meter, ITA 6930 bore away and avoided contact. The lateral distance between ITA 4401 and the mark was less than half a meter.",
+    "At that time, the lateral distance between FRA 8603 and ITA 6930 was less than half a meter and FRA 8603 bore away and avoided contact.",
+    "ITA 4401 passed the mark first, followed by ITA 6930 and FRA 8603.",
+    "There was no contact."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 18.2(a)",
+    "RRS 43.1(b)"
+  ],
+  "conclusions": [
+    "ITA 6930, overlapped outside ITA 4401 at the zone, gave ITA 4401 mark-room as required by RRS 18.2(a)(1).",
+    "ITA 4401 to windward failed to keep clear of ITA 6930 to leeward, and broke RRS 11. Since ITA 4401 broke a rule of Section A while she was sailing within the mark-room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach.",
+    "FRA 8603, overlapped outside ITA 6930 and ITA 4401 at the zone, gave ITA 6930 and ITA 4401 mark-room as required by RRS 18.2(a)(1).",
+    "ITA 6930 to windward failed to keep clear of FRA 8603 to leeward, and broke RRS 11. Since ITA 6930 broke a rule of Section A while she was sailing within the mark-room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach."
+  ],
+  "decision": [
+    "Protest dismissed"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jean-Luc Michon",
+    "members": [
+      "Antonio Mata",
+      "Michal Kwiatek"
+    ]
+  }
+}

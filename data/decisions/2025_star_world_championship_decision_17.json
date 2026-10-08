@@ -1,0 +1,51 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "2025 Star World Championship",
+  "race_number": "5",
+  "hearing_datetime": "2025-09-12 18:45",
+  "parties": [
+    "GER 8428 - BURKHARD Keese",
+    "ITA 8569 - ANGUILLESI Bonanno"
+  ],
+  "procedural_matters": [
+    "GER 8428 represented by BURKHARD Keese",
+    "ITA 8569 represented by ANGUILLESI Bonanno",
+    "Crew of ITA 8569 Giovanni Giorguli acted as a translater for ANGUILLESI Bonanno"
+  ],
+  "facts": [
+    "Wind speed 10-12 knots with corresponding waves.",
+    "ITA 8569 and GER 8428 on the first beat to windward.",
+    "GER 8428 on starboard on close-hauled, ITA 8569 on port sailed below close-hauled to keep clear of other boats on starboard.",
+    "ITA 8569 bore away further when approached GER 8428.",
+    "ITA 8569 hit with her bow GER 8428 in aft third of her port side.",
+    "GER 8428 suffered bent mast, broken spreader, torn jib and main sail and stacked cleat.",
+    "ITA 8569 suffered minor damage."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 60.5(c)(2)",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "ITA 8569 on port tack failed to keep clear of GER 8428 on starboard tack, and broke RRS 10.",
+    "ITA 8569 did not avoid contact with GER 8428 when it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GER 8428 the right-of-way boat to avoid contact with ITA 8569 when it became clear that ITA 8569 was not keeping clear. GER 8428 did not break RRS 14(a).",
+    "GER 8428 ’s score in race no. 5 was made significantly worse through no fault of her own by physical damage because of the action of ITA 8569 that was breaking RRS rule of Part 2 and took an appropriate penalty. Therefore, the requirements of rule 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "The protest is upheld. Since ITA 8569 took an applicable penalty by retiring, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is given to GER 8428. GER 8428 is to be scored in race 5 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all the races before race no. 5. This shall not change the score of the other boats."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Hans Vengberg",
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

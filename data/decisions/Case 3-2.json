@@ -1,0 +1,51 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "DEN 226296 - Carl BRINCK",
+    "ITA 222390 - Gabriele ORLANDO"
+  ],
+  "procedural_matters": [
+    "Filippo Rebecchi attended hearing as a translator for ITA 222390.",
+    "Per Baggoe (coach of DEN) attended hearing as an observer."
+  ],
+  "facts": [
+    "Wind 18 kts, 1,5m waves.",
+    "ITA 222390 1 boat length leeward and inside of DEN 226296 when entering the zone of mark 4p, both boats on starboard tack and overlapped.",
+    "Next to the mark, 1 boat length from the mark and 0,5 boat lengths from ITA 222390, DEN 226296 gybed to port.",
+    "Immediately after DEN 226296 gybed, contact occurred between the bow of ITA 222390 and the middle part of the port side hull of DEN 226296, and both boats capsized.",
+    "Damage occurred to DEN 226296 as a 30 cm hole in the port side bow of the hull, and boat was taking water in. ITA 222390 had his sail torn.",
+    "DEN 226296 retired from race 2.",
+    "ITA 222390 finished race 2.",
+    "No boat took a penalty turns."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 18.2(a)(1)",
+    "RRS 14(a)",
+    "RRS 14",
+    "RRS 60.5(c)(2)"
+  ],
+  "conclusions": [
+    "DEN 226296 on port tack failed to keep clear of ITA 222390 on starboard tack, and broke RRS 10.",
+    "DEN 226296 outside overlapped at the zone failed to give ITA 222390 mark-room, and broke RRS 18.2(a)(1).",
+    "DEN 226296 did not avoid contact with ITA 222390 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for ITA 222390 to avoid contact with DEN 226296, ITA 222390 did not break RRS 14."
+  ],
+  "decision": [
+    "The protest is upheld. Since DEN 226296 took an applicable penalty by retiring, she is not further penalized under RRS 60.5(c)(2)."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Arto Kiiski",
+    "members": [
+      "Danilo Joncic",
+      "Philippe Mazard",
+      "Johanna Poksi",
+      "Mirko Ukas"
+    ]
+  }
+}

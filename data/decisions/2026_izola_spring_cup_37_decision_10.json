@@ -1,0 +1,35 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "2026 Izola Spring Cup 37",
+  "race_number": "3",
+  "hearing_datetime": "2026-04-04 18:55",
+  "parties": [],
+  "procedural_matters": [],
+  "facts": [
+    "Protest against SLO 163672 (case no.1) was lodged at 18:05.",
+    "Hearing schedule was publish on the Official Notice Board at 18:09. Hearing of the case no.1 was scheduled at. 18:30",
+    "Protest time limit expired at 18:30."
+  ],
+  "rules": [
+    "RRS 63.7(a)(2)"
+  ],
+  "conclusions": [
+    "The protest committee did not make a significant error in the",
+    "Original hearing:",
+    ". Therefore, the requirements in RRS 63.7(a) (2) for reopening the hearing are not met."
+  ],
+  "decision": [
+    "Hearing no. 1 will not be reopen."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cristian Tabacu",
+    "members": [
+      "Ilker Bayindir",
+      "Uros Zvan",
+      "Christian Hotwagner",
+      "Lorenzo Walch"
+    ]
+  }
+}

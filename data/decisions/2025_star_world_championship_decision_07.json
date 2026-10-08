@@ -1,0 +1,50 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "2025 Star World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-11",
+  "parties": [
+    "USA 8253 - BRANDON DePalma",
+    "ARG 7700 - MARTIN PEDRO Ferrero",
+    "USA 8253 - BRANDON DePalma"
+  ],
+  "procedural_matters": [
+    "USA 8253 represented by Brandon DePalma. ARG 7700 represented by Martin Pedro Ferrero. Hearing No. 7 (protest) was heard together with Hearing No.8 (request for redress) in accordance with RRS 63.2(b) since both hearings arose from the same incident."
+  ],
+  "facts": [
+    "Wind 10 to 12 knots with corresponding waves.",
+    "USA 8253 on starboard and ARG 7700 on port on the first beat to windward on the converging courses.",
+    "ARG 7700 was aiming at the first quarter of USA 8253.",
+    "At the distance of a boat legth ARG 7700 bore away and USA 8253 luffed.",
+    "Contact occurred between bow of ARG 7700 and last quarter port side of the hull of USA 8253.",
+    "Contact caused a crack in the gunwale with a hole the size of 15×5 cm on USA 8253 and whole in the bow of ARG 7700.",
+    "Both boats retired."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 60.5(c)(2)",
+    "RRS 61.4(b)(2)",
+    "RRS 63.2(b)"
+  ],
+  "conclusions": [
+    "ARG 7700 on port tack failed to keep clear of USA 8253 on starboard tack, and broke RRS 10.",
+    "ARG 7700 did not avoid contact with USA 8253 when it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for USA 8253 the right-of-way boat to avoid contact with ARG 7700 when it became clear that ARG 7700 was not keeping clear. USA 8253 did not break RRS 14(a).",
+    "USA 8253 score in race 3 & 4 was made significantly worse through no fault of her own by physical damage because of the action of ARG 7700 that was breaking RRS rule of Part 2 and took an appropriate penalty. Therefore, the requirements of rule 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "The protest is upheld. Since ARG 7700 took an applicable penalty by retiring, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is given to USA 8253. USA 8253 is to be scored in races 3 & 4 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in races 1, 2 & 5. This shall not change the score of the other boats. However, more than half USA 8253 race scores in this series must be based on her finishing position in races she starts, and any grant of redress in excess of this amount shall not be applied to the boat's score."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

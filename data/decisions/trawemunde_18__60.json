@@ -1,0 +1,46 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "22 JUL 18:00",
+  "parties": [
+    "OA represented by Philipp Dörges and Ole Ott",
+    "GER 4855 (R1), GBR 5624 (R1), GBR"
+  ],
+  "procedural_matters": [
+    "No respondent attended the hearing, the hearing procceded under RRS 63.1(b).",
+    "The Race Committee was represented by Philipp Dörges."
+  ],
+  "facts": [
+    "There are 137 RS Fevas entered in the world championships.",
+    "SI Addendum E2.1 requires nearly as possible, equally sized fleets in the qualifying series.",
+    "On the first day of the qualifying series 47 boats were assigned to yellow fleet, 45 to purple fleet and 45 to red fleet.",
+    "An equal split would be 46 boats in yellow fleet, 46 in purple fleet and 45 in red fleet.",
+    "SI Addendum E4.1 states that RRS A5.2 and RRS 44.3(c) are changed so that those scores are based on the number of boats assigned to the largest fleet in the series.",
+    "On the first day of qualifying series 1 race was completed, boats scored under RRS A5.2 and RRS 44.3(c) were scored 48 points."
+  ],
+  "rules": [
+    "RRS 44.3(c)",
+    "RRS 61.4(b)(1)",
+    "RRS 63.1(b)",
+    "RRS A5.2",
+    "RRS E4.1"
+  ],
+  "conclusions": [
+    "By failing to allocate equally sized fleets and not following Sailing Instructions Addendum E2.1 and therefore boats scored under RRS A5.2 and RRS 44.3(c) had their score made significantly worse through no fault of their own. There was an improper action by the Race Committee, therefore, the requirements for redress in 61.4(b)(1) are met."
+  ],
+  "decision": [
+    "Redress is given to all boats scored under RRS A5.2 and 44.3(c) in race 1. These boats shall be scored in race 1 with 47 points."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Andrus Poksi",
+    "members": [
+      "Niclas Kath",
+      "Iona Smith",
+      "Giuseppe d'Amico",
+      "Thorsten Sperl"
+    ]
+  }
+}

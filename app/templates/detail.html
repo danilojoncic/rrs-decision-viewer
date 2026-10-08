@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+
+{% block title %}{{ record.event or record.filename }} · Decision Viewer{% endblock %}
+
+{% block header_actions %}
+  <nav class="detail-nav" aria-label="Decision navigation">
+    {% if previous_record %}
+      <a href="{{ url_for('decision_detail', decision_id=previous_record.id) }}">Previous</a>
+    {% endif %}
+    {% if next_record %}
+      <a href="{{ url_for('decision_detail', decision_id=next_record.id) }}">Next</a>
+    {% endif %}
+  </nav>
+{% endblock %}
+
+{% block content %}
+  <article class="detail-page" data-focus-start="{{ 'true' if focus_mode else 'false' }}">
+    <button type="button" class="focus-exit" data-exit-fullscreen>Exit full screen</button>
+    <a class="back-link" href="{{ url_for('index') }}">Back to search</a>
+
+    <header class="detail-header">
+      <div class="detail-title-row">
+        <div>
+          <div class="title-flags">
+            <p class="eyebrow">{{ record.request_type or "Decision" }}</p>
+            {% if record.review_flags %}
+              <div class="review-flags" aria-label="Review flags">
+                {% for flag in record.review_flags %}
+                  <span>{{ flag }}</span>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+        </div>
+        <div class="card-actions">
+          <button type="button" data-enter-fullscreen>Full Screen</button>
+        </div>
+      </div>
+      <h1>{{ record.event or record.filename }}</h1>
+    </header>
+
+    {% if record.parties %}
+      <section class="detail-band">
+        <h2>Parties</h2>
+        <div class="party-row">
+          {% for party in record.parties %}
+            <span>{{ party }}</span>
+          {% endfor %}
+        </div>
+      </section>
+    {% endif %}
+
+    <section class="detail-band">
+      <div class="learning-toolbar">
+        <div>
+          <strong>Study Sections</strong>
+          <span>{{ record.filename }}</span>
+        </div>
+        <div class="toolbar-buttons">
+          <button type="button" data-open-section="facts">Open Facts</button>
+          <button type="button" data-open-section="conclusions">Open Conclusions</button>
+          <button type="button" data-open-section="decision">Open Decisions</button>
+          <button type="button" data-close-sections>Close All</button>
+        </div>
+      </div>
+      <div class="sections detail-sections">
+        {% include "partials/section.html" with context %}
+      </div>
+    </section>
+
+    <details class="raw-json">
+      <summary>Raw JSON</summary>
+      <pre>{{ raw_json }}</pre>
+    </details>
+  </article>
+{% endblock %}

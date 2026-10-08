@@ -1,0 +1,66 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1 y siguientes",
+  "hearing_datetime": "2025-07-29 18:00",
+  "parties": [
+    "GBR 66 - L´Immens - Augusto Cortina"
+  ],
+  "procedural_matters": [
+    "GBR 66 was represented by Sebastian Brusa.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The decision of the original hearing was given on 29 July at 2029. The hearing was reopened on 30 July as decided in hearing No. 24. Procedural matters for the reopened hearing:",
+    "GBR 66 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "GBR 66 provided both a report and photographic evidence of the repair process on her boat which shows that the repairs had not been completed.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The panel of the International Jury was changed in accordance with RRS 63.7(c)(1) keeping the majority of the original members: Andres Perez (ESP), Pinar Coskuner Genc (TUR) and David Maria (ESP) were members of the original panel; Finn Mrugalla (GER) replaced Michal Jodlowski (POL)"
+  ],
+  "facts": [
+    "2 minutes before the warning signal of race 1.",
+    "GBR 66 sailing on the starboard tack reach with no speed.",
+    "ESP 8323 sailing 2 boat lengths to windward and slightly ahead.",
+    "ESP 8323 bore away and gybed onto collision course with GBR 66.",
+    "As soon as it became clear that ESP 8323 is not keeping clear, GBR started hailing and bearing away.",
+    "Contact occured between the bow of ESP 8323 and the starboard side of GBR 66, causing a full open breach of her starboard side, including below the water level.",
+    "Both boats retired from race 1.",
+    "It is not certain if GBR 66 will be repaired in time for racing on 30.07",
+    "Facts found in the reopened hearing:",
+    "Facts found No. 1 to 7 of the original hearing stand.",
+    "Fact No. 8 is deleted and replaced as follows:",
+    "Due to the extend of the damage, the repairs were not completed in the morning of 30 July.",
+    "GBR 66 did not sail in race 2, the short offshore race, that was sailed on 30 July.",
+    "The repairs will most likely be completed on 30 July so that GBR 66 can compete in the remaining races of the event."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 63.1(b)",
+    "RRS 63.7(c)(1)",
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 14",
+    "RRS 44.1(b)",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "ESP 8323 broke RRS 10 and 14(a) by not keeping clear as port tack boat and not avoiding contact.",
+    "GBR 66 did not break RRS 14 as it was not reasonably possible for her to avoid contact from the moment it was clear ESP 8323 is not keeping clear.",
+    "By retiring from race 1, ESP 8323 took the apprioprate penalty for her breach as per RRS 44.1(b).",
+    "GBR 66 score in race 1 was made worse through no fault of her own by damage caused by ESP 8323 breaking RRS 10 and 14(a) and taking an appropriate penalty, hence she is entitled to redress as per RRS 61.4(b)(2).",
+    "Reopened hearing conclusions:",
+    "The conclusions of the original hearing stand.",
+    "Add new conclusion: GBR 66’s score in race 2 (short offshore race) was also made significantly worse through no fault of her own by physical damage because of the action of ESP 8323 that was breaking RRS 10 and 14(a) and took an appropriate penalty. Therefore, the requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "The decision of the original hearing to give redress for race 1 stands after the reopening.",
+    "Add to the decision of the original hearing: Redress is given to GBR 66. GBR 66 is to be scored in race 2 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races sailed before the last scheduled day of the regatta, except race 1 and 2, provided at least 4 more races are completed. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Finn Mrugalla",
+      "Pinar Coskuner Genc"
+    ]
+  }
+}

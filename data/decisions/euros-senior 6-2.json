@@ -1,0 +1,43 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA SENIOR EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "SLO 221181 - Luka ZABUKOVEC",
+    "NED 211003 - Thomas VAN OFWEGEN"
+  ],
+  "procedural_matters": [
+    "SLO 221181 was represented by Luka ZABUKOVEC.",
+    "NED 211003 was represented by Thomas VAN OFWEGEN."
+  ],
+  "facts": [
+    "SLO 221181 finished race 3 and was towed back half-way.",
+    "SLO 221181 arrived onshore, washed and de-rig the boat, packed the sail and covered the boat, which lasted approximately 20 minutes.",
+    "At some point during those actions, SLO 221181 had a small talk with NED 211003 about the incident, then went to his van and took the phone.",
+    "SLO 221181 submitted the hearing request at 18:31:47.",
+    "The protest time limit for the ILCA 7 Men Blue fleet was 18:30."
+  ],
+  "rules": [
+    "RRS 60.3(b)(1)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "SLO 221181 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1).",
+    "There was no good reason for the international jury to extend the time limit."
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Stavros Kouris",
+    "members": [
+      "Wai Kai Chan Vicky",
+      "Bernadette Delbart",
+      "Nena Marelic",
+      "Uros Zvan"
+    ]
+  }
+}

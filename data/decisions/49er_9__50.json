@@ -1,0 +1,46 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "2",
+  "hearing_datetime": "7 JUL 17:00",
+  "parties": [
+    "NZL 94",
+    "DEN 515"
+  ],
+  "procedural_matters": [
+    "NZL 94 was represented by George LEE RUSH.",
+    "DEN 515 was represented by Nikolaj HOFFMAN.",
+    "Martin WIZNER from ESP 775 was a witness.",
+    "Video evidence was presented by NZL 94 and by the Jury.",
+    "Andrew Brown (Coach of NZL) and Markus Oliver Nielsen (Coach for DEN) attended the hearing as observers.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The wind was approximatelt 18 - 20 knots in a flat sea.",
+    "NZL 94 was sailing upwind close-hauled on port tack.",
+    "DEN 515 was sailing upwind close-hauled on starboard tack.",
+    "NZL 94 tacked to leeward and ahead of DEN 515. DEN 515 was sailing faster and on a lower course.",
+    "As DEN 515 sailed to windward of NZL 94, the distance between the leeward wing of DEN 515 and the helm of NZL 94 narrowed to less than half the width of a wing.",
+    "NZL 94 was unable to alter course to windward without hitting DEN 515.",
+    "There was no contact.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11"
+  ],
+  "conclusions": [
+    "DEN 515 to windward failed to keep clear of NZL 94 to leeward and broke rule 11."
+  ],
+  "decision": [
+    "DEN 515 is disqualified in Race 2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jose Pico",
+    "members": [
+      "Jon Napier",
+      "Henning Jacobssen"
+    ]
+  }
+}

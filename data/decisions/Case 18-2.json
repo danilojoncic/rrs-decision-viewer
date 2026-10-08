@@ -1,0 +1,34 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "11",
+  "hearing_datetime": "",
+  "parties": [
+    "POL 224926 - Hanna ROGOWSKA",
+    "CZE 217944 - Beáta DOKOUPILOVÁ"
+  ],
+  "procedural_matters": [
+    "Before the hearing began CZE 217994 took a 30% Post-Race Penalty in accordance with RRS T1(a)."
+  ],
+  "facts": [
+    "POL 224926 asked to withdraw the protest."
+  ],
+  "rules": [
+    "RRS T1(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "The arbitrator on behalf of the Interntaiona Jury allows the protest to be withdrawn. CZE 217994 took a 30% Post-Race Penalty."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Philippe Mazard",
+    "members": [
+      "Danilo Joncic",
+      "Arto Kiiski"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "ILCA 6 Men",
+  "race_number": "5",
+  "hearing_datetime": "16 Apr 2025 at 18:10",
+  "parties": [
+    "ESP 223156 - Tim LUBAT",
+    "GRE 221447 - Nikolas KOMIANOS"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "The wind was 25 knots and there were 2m waves.",
+    "The course designated for race 5 of ILCA 6 Men Yellow fleet was O2.",
+    "When GRE 221447 arrived at the end of leg 3, there was only one of the two gate marks (3S/3P) in place.",
+    "SI 10.4 requires that if one gate mark is missing the remaining mark will be left on port.",
+    "GRE 221447 passed the mark leaving it to starboard and continued sailing on the next leg.",
+    "GRE 221447 finished the race and returned ashore.",
+    "After returning ashore, GRE 221447 retired from the race."
+  ],
+  "rules": [
+    "SI 10.4",
+    "RRS 28.1",
+    "RRS 60.5(c)(2)"
+  ],
+  "conclusions": [
+    "GRE 221447 did not leave the remaining mark of gate 3S/3P to port and failed to comply with SI 10.4.",
+    "GRE 221447 failed to sail the course and broke RRS 28.1."
+  ],
+  "decision": [
+    "The protest is upheld. Since GRE 221447 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2)."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Iuan Gray (Panel",
+    "members": [
+      "Paulo Sousa",
+      "Giogio Bolla",
+      "Julka Gurvinderpal"
+    ]
+  }
+}

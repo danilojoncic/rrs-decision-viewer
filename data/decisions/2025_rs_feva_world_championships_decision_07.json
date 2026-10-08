@@ -1,0 +1,30 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "6",
+  "hearing_datetime": "2025-07-31 19:30",
+  "parties": [
+    "LTU 4 - Jonas Šeputis",
+    "GBR 7355 - Chris Webber"
+  ],
+  "procedural_matters": [
+    "LTU 4 was represented by Benas Sarkinas. GBR 7355 was represented by Chris Webber."
+  ],
+  "facts": [],
+  "rules": [
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [],
+  "decision": [
+    "The Protest is Invalid - the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jean-Luc Michon",
+    "members": [
+      "Alexander Bratt",
+      "Antonio Mata"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Open Finn Europeans",
+  "race_number": "5",
+  "hearing_datetime": "2025-04-10 18:15",
+  "parties": [
+    "GBR 18 - Jonathan Pyke",
+    "POR 26 - Gonçalo Maria Castro Nunes"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "POR 26 retired from race 5. There was no injury or damage.",
+    "GBR 18 requested to withdraw the protest."
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the [protest] [request]."
+  ],
+  "decision": [
+    "The international jury allows the protest to be withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Timo Haß",
+    "members": [
+      "Sylvie Harle",
+      "Stavros Kouris",
+      "Marco Flavio Tosello",
+      "Jan Stage"
+    ]
+  }
+}

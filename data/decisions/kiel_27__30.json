@@ -1,0 +1,23 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "22 JUN 18:20",
+  "parties": [
+    "NZL 28",
+    "TUR 97"
+  ],
+  "procedural_matters": [],
+  "facts": [],
+  "rules": [],
+  "conclusions": [],
+  "decision": [],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Signed: ______________________________________ Date: Time:"
+    ]
+  }
+}

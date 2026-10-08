@@ -1,0 +1,41 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "9",
+  "hearing_datetime": "",
+  "parties": [
+    "BEL 227712 - Remy MARIS",
+    "NED 223860 - Wesse BRINK"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "On the second downwind four boats entered the zone of mark 3P overlapped. NED 223860 was outside of BEL 227712 and two other boats inside of BEL 227712 BEL 227712 and NED 223860 was sailing on starboard tack NED 223860 gybed and made contact with the starboard side of BEL 227712 and caused damage. No boat took a penalty Damage: 10cm dent on the starboard gunwale of BEL 227712 At the time of the incident NED 223860 was aware that she had broken a rule"
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 14(a)",
+    "RRS 18.2(a)(1)",
+    "RRS 2"
+  ],
+  "conclusions": [
+    "NED 223860 outside overlapped at the zone failed to give BEL 227712 mark-room, and broke 18.2(a)(1)",
+    "It was not reasonably possible for BEL 227712 the boat sailing within the mark-room to which she was entitled, to avoid contact with NED 223860 when it became clear that NED 223860 was not keeping clear.",
+    "BEL 227712 did not break RRS 14(a).",
+    "By knowingly breaking RRS 18.2(a)(1) and not taking the appropriate penalty, NED 223860 failed to compete in compliance with the principles of sportsmanship and fair play as stated in Basic Principles and required by RRS 2.",
+    "NED 223860 broke RRS 2."
+  ],
+  "decision": [
+    "NED 223860 is scored DNE in race 9"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Mirko Ukas",
+    "members": [
+      "Pablo Garcia",
+      "Boguslaw Moczorodynski"
+    ]
+  }
+}

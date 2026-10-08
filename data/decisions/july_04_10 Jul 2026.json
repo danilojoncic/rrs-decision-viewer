@@ -1,0 +1,64 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "420 Open",
+  "race_number": "3",
+  "hearing_datetime": "24 Jul 2025 at 16:15",
+  "parties": [
+    "SUI 57071 - Damian Berther",
+    "FRA 57379 - BERTILLE POSTEL"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Hearing No. 04 was heard together with hearing No. 06 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident.",
+    "TUR 57403 was represented by Ege Erdemli.",
+    "FRA 57379 was represented by Bertille Postel.",
+    "SUI 57071 was represented by Damian Berther. REOPENED HEARING:",
+    "Time and date of the decision of the original hearing: 23 July - 16:17",
+    "The hearing was reopened on 24-07-2025 as decided in hearing No.15",
+    "Hearing No. 04 was heard together with hearing No. 06 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident.",
+    "FRA 57379 was represented by Bertille Postel.",
+    "SUI 57071 was represented by Damian Berther.",
+    "TUR 57403 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "Carmen Cameira, helm of POR 57017 gave evidence as a witness.",
+    "SUI 57071 provided video evidence."
+  ],
+  "facts": [
+    "At the time of the incident, the wind was 15 knots with steep waves of 1,5 metres.",
+    "At the starting signal, FRA 57379 was sailing close-hauled on starboard tack four boat lengths from the pin-end mark with no other starboard tack boats between her and the mark.",
+    "SUI 57071 was sailing close-hauled on starboard tack two boat lengths astern and to windward of FRA 57379.",
+    "TUR 57403 started on a close-hauled course on port tack, one boat length from the pin, with an unidentified Italian boat between her and the pin-end mark.",
+    "TUR 57403 was sailing on a converging course bow-to-bow with FRA",
+    "When FRA 57379 was half a boat length from TUR 57403, she tacked onto a converging course with SUI 57071, which was sailing at full beating speed in a distance of less than two boat lengths.",
+    "If FRA 57379 and SUI 57071 had both held their courses, SUI 57071’s bow would have made contact with the port side of FRA 57379 midships.",
+    "At a distance of half a boat length from FRA 57379, SUI 57071 tacked onto port tack.",
+    "Neither boat took a penalty.",
+    "No contact between the boats.",
+    "Reopened hearing:",
+    "Fact 6 is changed to: When FRA 57379 was half a boat length from TUR 57403, she tacked onto a converging course with SUI 57071, which was sailing at full beating speed.",
+    "Fact 7 is changed to: TUR 57403 tacked to starboard and FRA 57379 continued sailing on port tack for at least four seconds on port tack.",
+    "Fact 8 is changed to: At a distance of less than half a boat length between the boats SUI 57071 and FRA 57379 tacked simultaneously."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "TUR 57403 on port tack failed to keep clear of FRA 57379 on starboard tack and broke RRS 10.",
+    "FRA 57379 on port tack failed to keep clear of SUI 57071 on starboard tack and broke RRS 10.",
+    "Since FRA 57379 was compelled to break RRS 10 as a consequence of TUR 57403 breaking RRS 10, she is exonerated under RRS 43.1(a) for this breach.",
+    "Reopened hearing conclusions:",
+    "TUR 57403 on port tack failed to keep clear of FRA 57379 on starboard tack and broke RRS 10.",
+    "FRA 57379 on port tack failed to keep clear of SUI 57071 on starboard tack and broke RRS 10."
+  ],
+  "decision": [
+    "TUR 57403 is DSQ in race 3",
+    "FRA 57379 is DSQ in race 3"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "David Hudson (RSA); João Carneiro (POR); Aylin Suntay (TUR"
+    ]
+  }
+}

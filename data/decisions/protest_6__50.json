@@ -1,0 +1,50 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "YES - Young Europeans Sailing 2026",
+  "race_number": "2",
+  "hearing_datetime": "24 MAY 16:55",
+  "parties": [
+    "DEN 3244",
+    "GER 3345"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "DEN 3244 was represented by Simon Meiher Kam.",
+    "GER 3345 was represented by Loulou Unkelbach.",
+    "Nicklas Holt (coach of DEN 3244) gave evidence as a witness for DEN 3244."
+  ],
+  "facts": [
+    "29er Race 2 at the start, wind speed 4 to 5 knots and rolling waves.",
+    "35 seconds before the start, DEN 3244 was stationary on a close-hauled course on starboard tack 5m to leeward of the starting line and 6 meters from the pin end vessel.",
+    "GER 3345 was sailing on port tack on a reach to leeward of the line towards to DEN 3244.",
+    "GER 3345 tacked to starboard and established an overlap to leeward of DEN 3244 with a lateral distance of half a boat length.",
+    "7 seconds later, GER 3345 luffed slowly and DEN 3244 luffed slightly immediately after.",
+    "Both boats mantained course for 3 seconds, while the distance between them reduced.",
+    "Just before the start, when GER 3345 was passing close to the pin end vessel, there was contact between the aft port quarter of DEN 3244 and the front starboard third part of GER 3345.",
+    "There was no damage or injury.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "DEN 3244 to windward failed to keep clear of GER to leeward, and broke RRS 11.",
+    "DEN 3244 did not avoid contact with GER 3345 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GER 3345 the right-of-way boat to avoid contact with DEN 3244 when it became clear that DEN 3244 was not keeping clear. GER 3345 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "DEN 3244 is DSQ in race 2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Eurico Teudoro",
+    "members": [
+      "Christopher Lindsay",
+      "Heiko Thölmann",
+      "Sandra Hatch"
+    ]
+  }
+}

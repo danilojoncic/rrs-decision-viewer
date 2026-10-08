@@ -1,0 +1,55 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "23 JUL 17:45",
+  "parties": [
+    "GBR 1456",
+    "1551556"
+  ],
+  "procedural_matters": [
+    "GBR 1556 did not come to the hearing. The jury started the hearing under RRS 62.1(b).",
+    "GBR 1556 gave a good reason for arriving late, and so the jury restarted the hearing with GBR 1556 present.",
+    "Andrew Russell gave evidence as a witness."
+  ],
+  "facts": [
+    "During Race 1 of the RS 400 fleet, the conditions were 12 knots of breeze and 1 meter waves. Boat speed in these conditions is about 5 knots.",
+    "GBR 1456 entered the zone on a close-hauled starboard tack and fetching the windward mark.",
+    "GBR 1456 was overlapped to leeward of the port aft quarter of GBR 1272 by 30cm, with a lateral distance of 60cm.",
+    "GBR 1556 was on a close-hauled port tack on a converging course with GBR 1456 and GBR 1272.",
+    "One meter before the mark, GBR 1556 passed head to wind and reached a close-hauled starboard course, one meter in front of GBR 1456.",
+    "Immediately after, GBR 1456 luffed above close-hauled, and made contact with the port aft quarter of GBR 1272.",
+    "After rounding the mark, GBR 1272 took a 1-turn penalty.",
+    "GBR 1556 did not take a penalty turn.",
+    "There was no damage or injury.",
+    "Travemünder Woche 2026"
+  ],
+  "rules": [
+    "RRS 18.3(a)",
+    "RRS 14(b)",
+    "RRS 11",
+    "RRS 43.1(a)"
+  ],
+  "conclusions": [
+    "GBR 1556 caused GBR 1456, who was on starboard tack since entering the zone, to sail above close-hauled to avoid contact with GBR 1556. GBR 1556 broke RRS 18.3(a).",
+    "GBR 1556 caused contact between GBR 1456 and GBR 1272 even though it was reasonably possible to avoid causing it, and broke RRS 14(b).",
+    "It was not reasonably possible for GBR 1456, the right-of-way boat, to avoid contact with GBR",
+    "GBR 1456 did not break RRS 14(a).",
+    "GBR 1272 to windward failed to keep clear of GBR 1456 to leeward, and broke RRS 1 1.",
+    "Since GBR 1272 was compelled to break RRS 11 as a consequence of GBR 1556 breaking RRS 18.3(a), she is exonerated under RRS 43.1(a) for this breach."
+  ],
+  "decision": [
+    "GBR 1556 is DSQ in Race 1."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Angela Stenger",
+    "members": [
+      "Gonzalo Heredia",
+      "Manuel Huensch",
+      "Raoul Meyer",
+      "Joanna Sachs"
+    ]
+  }
+}

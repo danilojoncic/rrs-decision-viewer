@@ -1,0 +1,38 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA 4 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "60",
+  "hearing_datetime": "",
+  "parties": [
+    "CRO 221179 - Edi JURMAN"
+  ],
+  "procedural_matters": [
+    "Hearing No. 59 was heard together with hearing No. 60 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The protest time limit on 23.06.2025 for ILCA 4 Men gold fleet was at 17:50.",
+    "CRO 221179 delivered the request for redress at 18:54.",
+    "ITA 213024 delivered the request for redress at 18:55.",
+    "Both ITA 213024 and CRO 221179 stated that there was no device avaliable with access to the online system."
+  ],
+  "rules": [
+    "RRS 63",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "There was no good reason for the International Jury to extend the time limit."
+  ],
+  "decision": [
+    "The request for redress is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Ewa Szyfter",
+    "members": [
+      "Jean-Bernard Luther",
+      "Maria Ramires"
+    ]
+  }
+}

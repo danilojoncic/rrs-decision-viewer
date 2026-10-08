@@ -1,0 +1,38 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "Q.1",
+  "hearing_datetime": "2025-07-29 17:15",
+  "parties": [
+    "TUR 2206 - KIM"
+  ],
+  "procedural_matters": [
+    "TUR 2206 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The written protest did neither include the protestor nor any description of an incident between boats"
+  ],
+  "rules": [
+    "RRS 60.3(a)",
+    "RRS 60.4(a)(1)",
+    "RRS 63.1(b)",
+    "RRS 63.4(a)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "The protest did not identify the protestor and incident, as required by RRS 60.3(a). Therefore, the protest is invalid under RRS 60.4(a)(1)"
+  ],
+  "decision": [
+    "Since the protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Giorgio Davanzo",
+    "members": [
+      "Cxema Pico",
+      "Finn Mrugalla"
+    ]
+  }
+}

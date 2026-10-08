@@ -1,0 +1,47 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "420 Open",
+  "race_number": "4",
+  "hearing_datetime": "23 Jul 2025 at 15:30",
+  "parties": [
+    "HUN 57538 - Marcell Heizer",
+    "CRO 57607 - Pina Buble"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "HUN 57538 was represented by Dócri Beudeguz.",
+    "CRO 57607 was represented by Pinar Buble.",
+    "HUN 57538 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1). However, there was good reason for the International Jury to extend the time limit."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 4 of the 420 blue fleet were 17 knots of wind and 1,5m waves.",
+    "HUN 57538 was on starboard tack less than one boat width from the Race Committee vessel. CRO 57607 also on starboard tack was overlapped with HUN 57538 and behind the Race Committee vessel.",
+    "10 seconds before the start, CRO 57607 entered the gap between HUN 57538 and the Race Committee vessel.",
+    "The distance between CRO 57607 and the Race Committee vessel was 50 centimetres.",
+    "The distance between CRO 57607 and HUN 57538 was 65 centimetres.",
+    "Contact occurred between the starboard side of CRO 57607 and the corner of the Race Committee vessel.",
+    "Additionally contact occurred between the port side of CRO 57607 and the starboard side of HUN 57538.",
+    "Damage occurred to the hull on the starboard side below the position of the shroud of HUN 57538.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 60.3(b)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [],
+  "decision": [
+    "CRO 57607 is DSQ in Race 4."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Luigi Bertini (ITA",
+      "Carol Haines (GBR",
+      "Maria Ramires (POR"
+    ]
+  }
+}

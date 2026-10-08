@@ -1,0 +1,60 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "2",
+  "hearing_datetime": "2026-05-27",
+  "parties": [
+    "FRA 276 - 161 - JEROBOAM - Clément BRILLAUD",
+    "FRA 1480 - 155 - JINGER - Nicolas SALET"
+  ],
+  "procedural_matters": [
+    "The race committee was represented by Andre Boronat (race committee member on the pin-end finish vessel).",
+    "FRA 276 was represented by Quentin Maydieu.",
+    "FRA 1480 was represented by Nicolas Salet.",
+    "The race committee provided video evidence.",
+    "Basile Buisson (spi trimmer of FRA 432) gave evidence as a witness for FRA 276.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "Hearing No. 11 was heard together with hearing No. 6 in accordance with RRS 63.2(b) since both hearings arose from the same incident."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 4-5 knots of wind and flat sea.",
+    "FRA 276 and FRA 1480 were both approaching the finish line on starboard tack.",
+    "When entering the zone of the pin-end finish vessel, the bowsprit of FRA 276 was overlapped inside of FRA 1480.",
+    "Both boats bore away to the finish line, the overlap was broken, and FRA 1480 became clear ahead.",
+    "There was contact between the bowsprit of FRA 276 and the stern of FRA 1480.",
+    "There was contact between the bow of FRA 276 and the bow of the pin-end finish vessel.",
+    "Neither boat took a penalty.",
+    "There was no damage to either boat."
+  ],
+  "rules": [
+    "RRS 12",
+    "RRS 14(a)",
+    "RRS 14(c)",
+    "RRS 18.2(a)",
+    "RRS 31",
+    "RRS 43.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "FRA 1480 outside overlapped at the zone failed to give FRA 276 mark-room, and broke RRS 18.2(a)(1).",
+    "FRA 1480's obligation to give FRA 276 mark-room did not change when the overlap was broken, as provided in the last sentence of RRS 18.2(a).",
+    "FRA 1480 caused contact between FRA 276 and the pin-end finish vessel even though it was reasonably possible to avoid causing it, and broke RRS 14(c).",
+    "FRA 1480 did not avoid contact with FRA 276 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for FRA 276 the boat sailing within the mark-room to which she was entitled to avoid contact with FRA 1480 when it became clear that FRA 1480 was not giving mark-room. FRA 276 did not break RRS 14(a).",
+    "FRA 276 clear astern failed to keep clear of FRA 1480 clear ahead, and broke RRS 12.",
+    "FRA 276 touched the pin-end finish vessel and broke RRS 31.",
+    "Since FRA 276 broke RRS 12 and 31 while she was sailing within the mark-room to which she was entitled, she is exonerated under RRS 43.1(b) for these breaches."
+  ],
+  "decision": [
+    "FRA 1480 is DSQ in race 2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bence Borocz",
+    "members": [
+      "Pauline den Burger",
+      "Romain Gautier"
+    ]
+  }
+}

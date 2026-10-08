@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Dragon Europeans 2026",
+  "race_number": "2",
+  "hearing_datetime": "30 JUN 18:20",
+  "parties": [
+    "EST 99",
+    "FIN 101"
+  ],
+  "procedural_matters": [
+    "Case heard together with 5 and 6, according to RRS 63,2 GER 1171 was represented by Georg Skolaut FIN 101 was represented by JUSSI Sersmo EST 99 was represented by Argo VOOREMA"
+  ],
+  "facts": [
+    "10 knots, 40 cm waves",
+    "EST 99 approaching the finishing mark on starboard tack overlapped with FIN 101 and GER 1171 on port on converging courses.",
+    "EST 99 gybed while entering the zone",
+    "There was 2 metres between GER 1171 and the mark, and 2 m between the hulls of EST 99 and FIN 101, and also between FIN 101 and GER 1171 when they all finished on port tack",
+    "There was no contact between the boats nor with the mark",
+    "No boats took a penalty turn"
+  ],
+  "rules": [
+    "RRS 18",
+    "RRS 2(a)(1)"
+  ],
+  "conclusions": [
+    "EST 99 as outside boat gave inside boat FIN 101 and GER 1171 mark-room"
+  ],
+  "decision": [
+    "No rules broken"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Pinar Coskuner Genç",
+    "members": [
+      "Gordon Davies",
+      "Christine Guba",
+      "Staffan Rosenlöf",
+      "Tonny Vedeler"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by PC",
+  "event": "2025 Star World Championship",
+  "race_number": "2",
+  "hearing_datetime": "2025-09-10 09:45",
+  "parties": [
+    "SWE 8338 - BJÖRN Palmquist"
+  ],
+  "procedural_matters": [
+    "International Jury heard case no. 4 on September 9th. During that hearing the Jury established that protest was valid and that SWE 8338 was involved in the incident and that she may have broken a rule. The International Jury lodged a protest against SWE 8338 and called a new hearing on September 10h. Before the new hearing started, new facts about validity of case no. 4 were found. Validity of case no. 4 was checked again and it was established that case no. 4 was invalid."
+  ],
+  "facts": [
+    "International Jury withdraw protest no. 6."
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason not to withdraw the protest."
+  ],
+  "decision": [
+    "Protest withdrawn"
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Hans Vengberg",
+    "members": [
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan",
+      "Jörn-Christoph Jansen"
+    ]
+  }
+}

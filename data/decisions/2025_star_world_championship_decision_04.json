@@ -1,0 +1,39 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Star World Championship",
+  "race_number": "2",
+  "hearing_datetime": "2025-09-10 09:45",
+  "parties": [
+    "GER 8438 - JUERGEN Wolff",
+    "NED 8417 - ROELOF van Olst"
+  ],
+  "procedural_matters": [
+    "GER 8438 represented by Pascal Rambeau",
+    "NED 8417 represented by Rolaf van Olst"
+  ],
+  "facts": [
+    "Immediately after the incident which happened at the gate GER 8438 hailed \"Protest\" and displayed red flag.",
+    "GER 8438 removed red flag when she was sailing on the second run.",
+    "GER 8438 has two holes on the outer skin of sandwich construction caused by the contact during the incident. Water didn't leak into the boat. Damage didn't effect performance of the boat."
+  ],
+  "rules": [
+    "RRS 60.2(a)(1)"
+  ],
+  "conclusions": [
+    "GER 8438 didn't display red flag until she was no longer racing as required by the rule 60.2(a)(1)"
+  ],
+  "decision": [
+    "Protest is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Hans Vengberg",
+    "members": [
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan",
+      "Jörn-Christoph Jansen"
+    ]
+  }
+}

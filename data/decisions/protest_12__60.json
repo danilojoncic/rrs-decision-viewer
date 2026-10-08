@@ -1,0 +1,48 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "YES - Young Europeans Sailing 2026",
+  "race_number": "4",
+  "hearing_datetime": "25 MAY 16:25",
+  "parties": [
+    "GER 57279",
+    "JURY"
+  ],
+  "procedural_matters": [
+    "GER 57279 was represented by Charlotte Conrad (helm).",
+    "The International Jury was represented by Joao Carneiro (member of the International Jury).",
+    "Lena Gödicke (crew of GER 5729) and Bruno Lemaitre (member of the International Jury) attended the hearing as an observer.",
+    "GER 57279 presented video evidence.",
+    "The International Jury presented",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "During race 4, flag O was not displayed.",
+    "Four seconds before the starting signal, GER 57279 was penalized by two members of the International Jury for breaking RRS 42.2(b) (rocking) by making a sound signal with the whistle, pointing a Yellow flag at her and hailing her sail number.",
+    "GER 57279 took a Two-Turns Penalty.",
+    "After taking the Two-Turns Penalty, the helm of GER 57279 asked the members of the International Jury that signaled the penalty if she had to retire after a second yellow flag, which they confirmed.",
+    "GER 57279 thereafter left the race course.",
+    "GER 57279 was scored DNE in race 4."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)",
+    "RRS N1.4(b)",
+    "RRS P2.2",
+    "RRS P4"
+  ],
+  "conclusions": [
+    "There was no failure by a member of the International Jury to take into account a race committee signal or class rule. Therefore, the redress limitation under RRS P4 applies.",
+    "GER 57279 failed to promptly retire after she was penalized the second time during the event and was therefore correctly scored DNE in race 4 under RRS P2.2. Hence, there was no improper action or improper omission of the International Jury. Therefore, the requirements for redress under RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Alexander Bratt",
+    "members": [
+      "Francisco Vidal Maestre",
+      "Finn Mrugalla"
+    ]
+  }
+}

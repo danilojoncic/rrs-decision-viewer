@@ -1,0 +1,46 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "9",
+  "hearing_datetime": "",
+  "parties": [
+    "NED 211160 - Stijn VAN DER VALK",
+    "CAN 211187 - Louis HUPE"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)",
+    "Race Committee represented by Robert Olsson.",
+    "CAN 211187 represented by Louis HUPE.",
+    "NED 211160 represented by Stijn Van DER VALK.",
+    "Mattias Rahm attended the hearing as a witness.",
+    "Melker Ahlquist (RRS 42 Observer) attended the hearing as an observer.",
+    "The Race Committee presented video evidence."
+  ],
+  "facts": [
+    "Within the last minute of the ILCA 7 Silver fleet starting signal for race number 9, CAN 211187 and NED 211160 were sailing within a distance of 60 meters from the pin end Race Committee vessel on the left extension of the starting line.",
+    "CAN 211187 and NED 211160 are in ILCA 7 Bronze fleet.",
+    "SI 12.6 is marked to be “DP”."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 42",
+    "SI 12.6",
+    "SI N1.4(b)"
+  ],
+  "conclusions": [
+    "By sailing less than 100m below the starting line or their extensions while their warning signal was not made but others were in a starting sequence, CAN 211187 and NED 211160 broke SI 12.6. APPLICABLE RULE: SI 12.6 and N1.4(b)"
+  ],
+  "decision": [
+    "Using the WS Discretionary Penalty Policy, a scoring penalty of 5% was decided to be applied to CAN 211187 and NED 211160 in race 9.",
+    "There were no circumstances to justify increasing or decreasing the penalty."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Heiko Thoelmann",
+    "members": [
+      "Charlotte Greppe",
+      "Eunjin Kim"
+    ]
+  }
+}

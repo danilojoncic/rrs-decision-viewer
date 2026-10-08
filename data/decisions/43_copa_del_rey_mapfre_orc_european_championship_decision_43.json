@@ -1,0 +1,42 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "4",
+  "hearing_datetime": "2025-08-01 19:20",
+  "parties": [
+    "AUS 52 - VUDU - Michele Regolo",
+    "USA 52007 - VESPER"
+  ],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b).",
+    "Vudu represented by Michele Regolo."
+  ],
+  "facts": [
+    "Vudu requested reopening bringing tracking evidence.",
+    "Vudu also claims that the jury might've made a significant error in applying the definition keep clear (b) as the right-of-way boat was bearing away through the incident and there was no contact.",
+    "The tracking evidence was provided by the International Jury in the",
+    "Original hearing:",
+    ". That evidence was freely available to all boats at all times."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 63.7(a)"
+  ],
+  "conclusions": [
+    "Provided evidence is not new, see WS Case 115.",
+    "The definition Keep Clear (b) requires the right-of-way boat to be able to change her course in both directions without making immediate contact. The International Jury is satisfied that a luff would've caused an immediate contact, hence the definition keep clear (b) was correctly applied.",
+    "The criteria of RRS 63.7(a) are not met."
+  ],
+  "decision": [
+    "Request for reopening denied."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

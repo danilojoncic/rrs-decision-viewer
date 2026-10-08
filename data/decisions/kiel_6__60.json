@@ -1,0 +1,52 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2026",
+  "race_number": "4",
+  "hearing_datetime": "21 JUN 16:45",
+  "parties": [
+    "NOR 71",
+    "SWE 44"
+  ],
+  "procedural_matters": [
+    "Before the hearing the panel of the international jury clarified in accordance with RRS 63.2(c) that the hearing request was not only a request for redress but also a protest, and proceeded with it accordingly.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "NOR 71 was represented by Mathias Berthet (helm).",
+    "SWE 44 was represented by Marius Westerlind (helm).",
+    "Daniel Links (helm of AUS 525 ) presented evidence during the hearing as a witness.",
+    "NOR 71 asked to withdraw the request for redress. There was no reason to refuse the request to withdraw the request for redress."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 8-9 knots of wind and small chop.",
+    "NOR 71 was sailing close-hauled on starboard tack towards mark 1, to be rounded to port, on the starboard layline. SWE 44 was sailing close-hauled on port tack. At that time SWE 44 was sailing double the speed of NOR 71, who was doing 3.5 knots.",
+    "SWE 44 passed head to wind from port to starboard tack inside the zone of the mark. At that moment, NOR 71 was moving very slow and started moving the tiller to both sides propelling the boat forward.",
+    "Immediately after SWE 44 reached a close-hauled course on starboard tack NOR 71 was 15 cm clear astern of SWE 44's bungee and was almost stationary. Immediately SWE 44 started accelerating, while NOR 71 luffed above close-hauled.",
+    "There was no contact.",
+    "SWE 44 did not take any penalty."
+  ],
+  "rules": [
+    "RRS 12",
+    "RRS 15",
+    "RRS 18.3",
+    "RRS 63.2(a)",
+    "RRS 63.2(c)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "NOR 71 clear astern kept clear of SWE 44 clear ahead, as required by RRS 12.",
+    "When acquiring right-of-way through her own actions, SWE 44 initially gave NOR 71 room to keep clear, as required by RRS 15.",
+    "After SWE 44 passed head to wind from port to starboard tack inside the zone, RRS 18.3 applied between her and NOR 71, who was on starboard tack and fetching the mark. SWE 44 caused NOR 71, who was on starboard tack since entering the zone and was fetching the mark, to sail above close-hauled but not to avoid contact. SWE 44 did not break RRS 18.3(a)."
+  ],
+  "decision": [
+    "The protest is dismissed. No rule is broken.",
+    "The panel of the international jury allows the request for redress to be withdrawn under 63.2(a)."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Giorgio Davanzo",
+    "members": [
+      "Michal Zak",
+      "Stavros Kouris"
+    ]
+  }
+}

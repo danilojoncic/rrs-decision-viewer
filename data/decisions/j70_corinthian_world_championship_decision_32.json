@@ -1,0 +1,47 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Event: J70 Corinthian World Championship Race Number: 6",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "6",
+  "hearing_datetime": "2026-05-29 17:30",
+  "parties": [
+    "SUI 1132 - 160 - - - Simon Kaiser"
+  ],
+  "procedural_matters": [
+    "The technical committee was represented by Thomas Loesch.",
+    "SUI 1132 was represented by Philip Kleisner.",
+    "The technical committee presented a Manufacturer’s Declaration dated 8 June 2025, and the SUI 1132’s Class Rules Compliance Form.",
+    "SUI 1132 presented a Manufacturer’s Declaration dated 1 September 2022, and a Weight & Equipment Form."
+  ],
+  "facts": [
+    "On 29 May 2026, during the post-race inspection, SUI 1132 did not provide a copy of the boat’s current and valid Manufacturer’s Declaration (in paper form or electronic), but she provided her Weight & Equipment Form instead.",
+    "During the hearing, the technical committee provided the current Manufacturer’s Declaration of the international class association dated 8 June 2025 which mentions a different owner than the current one."
+  ],
+  "rules": [
+    "RRS 44.3(c)",
+    "RRS 78.1",
+    "RRS 1.1(b)",
+    "RRS 5.2(a)(10)",
+    "SI 14.8"
+  ],
+  "conclusions": [
+    "Since the owner has changed, the current Manufacturer’s Declaration on file with the International J/70 Class Association is invalid, according to class rule A.11.1(a).",
+    "By not having a valid Manufacturer's Declaration on file with the International J/70 Class Association, SUI 1132 broke class rule B.1.1(b).",
+    "By not carrying the boat’s current and valid Manufacturer’s Declaration (in paper form or electronic), SUI 1132 broke class rule C.5.2(a)(10).",
+    "By not maintaining her boat to comply with her class rules, SUI 1132 broke RRS 78.1.",
+    "Under SI 14.8, the penalty for this breach shall not be less than a ten percent (10%) scoring penalty."
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons, a starting penalty of 5% was decided. There were no facts to justify decreasing or increasing the penalty. However, the penalty is increased to 10% in accordance with SI 14.8. The penalty given to SUI 1132 is a 10% discretionary penalty, calculated using the method described in RRS 44.3(c) and applied to race 6, but not worse than the score for DNF."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Yoann Peronneau",
+    "members": [
+      "Bence Borocz",
+      "Anastazja Lewandowska",
+      "Romain Gautier",
+      "Christine Guba"
+    ]
+  }
+}

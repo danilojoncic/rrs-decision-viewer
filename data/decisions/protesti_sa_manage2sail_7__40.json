@@ -1,0 +1,60 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "World Championships 49er, 49erFX, Nacra 17 - 2026",
+  "race_number": "4",
+  "hearing_datetime": "13 MAY 13:45",
+  "parties": [
+    "NZL 135",
+    "CHN 616"
+  ],
+  "procedural_matters": [
+    "CHN 616 represeted by Xin WANG. NZL 135 represented by Francesco Kayrouz. Tian Wang attended the hearing as interpreter for CHN 616. Hearing No. 6 was heard together with hearing No. 7 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident."
+  ],
+  "facts": [
+    "Race conditions: wind speed 23–28 knots, gusty.",
+    "CHN 616 and NZL 135 both were sailing downwind on port tack.",
+    "CHN 616 was clear astern of NZL 135.",
+    "CHN 616 established an overlap to windward of NZL 135 with lateral distance of 3 - 4 boats lengths.",
+    "NZL 135 dropped the spinnaker and luffed pointing to mark 2S.",
+    "CHN 616 held their course.",
+    "Slight contact occurred between the leeward side of CHN's spinnaker and NZL's windward side of the wing.",
+    "NZL 135 bore away and immediately capsized.",
+    "CHN 616 passed ahead of NZL, sailed around 10 m and then capsized.",
+    "CHN 616 did not finished the race.",
+    "There was no damage.",
+    "Race conditions: wind speed 23–28 knots, gusty.",
+    "CHN 616 and NZL 135 both were sailing downwind on port tack.",
+    "CHN 616 was clear astern of NZL 135.",
+    "CHN 616 established an overlap to windward of NZL 135 with lateral distance of 3 - 4 boats lengths.",
+    "NZL 135 dropped the spinnaker and luffed pointing to mark 2S.",
+    "CHN 616 held their course.",
+    "Slight contact occurred between the leeward side of CHN's spinnaker and NZL's windward side of World Championships 49er, 49erFX, Nacra 17 the wing. - 2026",
+    "NZL 135 bore away and immediately capsized.",
+    "CHN 616 passed ahead of NZL, sailed around 10 m and then capsized.",
+    "CHN 616 did not finished the race.",
+    "There was no damage."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "CHN 616 to windward failed to keep clear of NZL 135 to leeward, and broke RRS 11.",
+    "CHN 616 did not avoid contact with NZL 135 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for NZL 135 the right-of-way boat to avoid contact with CHN 616 when it became clear that CHN 616 was not keeping clear. NZL 135 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "The protest is upheld. Since CHN 616 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2)."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Alessandro BERRONE",
+    "members": [
+      "Aleksander PRUSINSKI",
+      "Nicole DE BY",
+      "Alexis DUVERNOY",
+      "Paul"
+    ]
+  }
+}

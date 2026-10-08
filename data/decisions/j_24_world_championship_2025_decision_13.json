@@ -1,0 +1,36 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "J/24 World Championship 2025",
+  "race_number": "2",
+  "hearing_datetime": "2025-09-11 15:50",
+  "parties": [
+    "USA 5399 - War Canoe - Travis Odenbach"
+  ],
+  "procedural_matters": [
+    "The new panel contained a majority of judges from the original panel in accordance with RRS 66.3(b).",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "USA 5399 alleged that they had new evidence about how the line is sighted, which differs from the manner in which it was sighted yesterday when USA 5399 was scored BFD.",
+    "The evidence presented relates to how races were managed on the 11th of September.",
+    "The evidence does not offer information about the particulars of hearing No.7."
+  ],
+  "rules": [
+    "RRS 63.7"
+  ],
+  "conclusions": [
+    "The evidence that USA 5399 plans to present is new, but not significant to hearing No.7. Therefore, the requirements in RRS 63.7(a)(3) for reopening the hearing are not met."
+  ],
+  "decision": [
+    "Hearing No.7 will not be reopened"
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jared Hickman",
+    "members": [
+      "Carol Haines",
+      "Josephine Wilken"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Reopening",
+  "event": "420 Open",
+  "race_number": "10",
+  "hearing_datetime": "27 Jul 2024 at 16:25",
+  "parties": [
+    "GER 57476 - Philip Helms, Race Committee",
+    "Witnesses"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GER 57476 was represented by Leonard Kersten."
+  ],
+  "facts": [
+    "GER 57476 was not informed via the online system that she was a party to the hearing of case no. 27.",
+    "When GER 57467 became aware of the result of the hearing she lodged the request to reopen.",
+    "GER 57467 intends to present the tracking data showing that she has taken a two turns penalty."
+  ],
+  "rules": [
+    "RRS 63.7(a)(2)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GER 57476 was unavoidably absent at the original hearing.",
+    "The International Jury may have made a significant error in the original hearing. Therefore, the requirements in RRS 63.7(a)(2) for reopening the hearing are met."
+  ],
+  "decision": [
+    "Hearing No. 27 will be reopened."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Luigi Bertini (ITA",
+      "Timo Hass (GER",
+      "Maria Massapina (POR"
+    ]
+  }
+}

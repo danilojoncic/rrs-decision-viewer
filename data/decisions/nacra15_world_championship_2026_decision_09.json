@@ -1,0 +1,62 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "Nacra15 World Championship, 2026",
+  "race_number": "5",
+  "hearing_datetime": "2026-07-29 18:40",
+  "parties": [
+    "FRA 356 - François-David PETIT-NIÑO",
+    "FRA 267 - Milo SASSOLAS"
+  ],
+  "procedural_matters": [
+    "FRA 356 was represented by Francois-David Petit (helm).",
+    "FRA 267 was represented by Astrid Eddy (crew).",
+    "Jerome Demange (coach of FRA 356) attended the hearing as an interpreter for FRA 356.",
+    "Patrick Hill (helm of GBR 070) gave evidence during the hearing as a witness for FRA 267."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 14 knots of wind and choppy waves.",
+    "FRA 356 and FRA 267 were sailing on port tack, on the first downwind leg overlapped bow to stern. FRA 267 was to windward of FRA 356 at a lateral distance of 1 boat length and slightly faster. The boats were on converging courses.",
+    "At the same time, POL 164 was sailing on starboard tack, on a collision course with both FRA 356 and FRA 267.",
+    "When FRA 356 was 3 boat lengths away from POL 164, she luffed approximately 5 degrees.",
+    "FRA 267 did not alter her course.",
+    "Four to five seconds later, there was contact between FRA 356's port hull and the bow of FRA 267's starboard hull.",
+    "The contact resulted in a 30-40cm crack on the gelcoat, just above the water line, alongside the port hull, amidships. The crack has reached the glass reinforced plastic, damaging the fibers and softening the hull. The part of the hull above the crack was dented. There was a small hole in the middle of the crack allowing water into the hull",
+    "FRA 356 was sailing in 20-25th place approximately at the time of the incident.",
+    "FRA 356 finished the race in 50th place.",
+    "After the race, FRA 356 thoroughly checked the damage and discovered there a hole in the crack. They tried to put some tape, but water was coming into the hull.",
+    "FRA 356 did not race in races 6 and 7.",
+    "FRA 267 continued sailing and finished the race."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 16.1",
+    "RRS 19.2(a)",
+    "RRS 19.2(b)",
+    "RRS 64.1(b)(2)"
+  ],
+  "conclusions": [
+    "FRA 267 to windward failed to keep clear of FRA 356 to leeward and broke RRS 11.",
+    "FRA 267 the outside boat at the obstruction, failed to give FRA 356 room to pass between her and the obstruction, despite being able to do so from the time the overlap began. FRA 267 broke RRS 19.2(b).",
+    "FRA 267 did not avoid contact even though it was reasonably possible and broke RRS 14(a).",
+    "When changing course, FRA 356 the right-of-way boat gave FRA 267 room to keep clear, as required by RRS 16.1.",
+    "When changing course when choosing on which side to pass the obstruction, FRA 356 the right-of-way gave FRA 267 room to keep clear, as required by RRS 19.2(a).",
+    "It was not reasonably possible for FRA 356, the right-of-way boat to avoid contact with FRA 267 when it became clear that FRA 267 was not keeping clear. FRA 356 did not break RRS 14(a).",
+    "Since FRA 267 caused serious damage by her breach, her penalty was to retire as required by RRS 44.1(b).",
+    "FRA 356’s score in races 5, 6, and 7 was made significantly worse through no fault of her own by physical damage because of the action of FRA 267 that was breaking RRS 11 and 14(a), and was penalized. Therefore, the requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "FRA 267 is DSQ in race 5. Redress is given to FRA 356. FRA 356 is to be scored in races 5, 6 and 7 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races in the opening series sailed before the last scheduled day of racing, except races 5,6 and 7. Redress should be calculated in accordance with WS Case 116. No other boats' score shall change."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Louis Mayo",
+    "members": [
+      "Stavros Kouris",
+      "Julia Schmidt",
+      "Carol Haines",
+      "Jonathan Haines"
+    ]
+  }
+}

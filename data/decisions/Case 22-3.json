@@ -1,0 +1,52 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 4 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "6",
+  "hearing_datetime": "",
+  "parties": [
+    "NED 223178 - Eefje LEMMERS",
+    "FRA 223249 - Paloma LOPEZ DE SILANES"
+  ],
+  "procedural_matters": [
+    "NED 223178 did not ask to withdraw the protest after the arbitration meeting and neither boat took a Post-Race Penalty under RRS T1(a).",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "NED 223178 was represented by Eefje Lemmers.",
+    "FRA 223249 was represented by Paloma Lopez De Silanes.",
+    "Keet Van Spijker (NED 221941) presented evidence during the hearing for NED 223178."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 6 to 7 knots of wind and waves 15 cm high.",
+    "Three boats entered the zone of the downwind starboard gate mark overlapped. NED 221941 was the inside boat, NED 223178 in the middle, and FRA 223249 was the outside boat.",
+    "NED 221941, clear ahead of NED 223178 by 30 cm, slowed while rounding the mark.",
+    "NED 223178 bore-off slightly before turning towards a close-hauled course.",
+    "At no time the distance between NED 223178 and the mark was more than 75cm.",
+    "FRA 223249 sailed into the gap between NED 223178 and the mark and made contact with NED 223178 amidships with her port side, and the mark with her starboard side.",
+    "There was no damage.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS T1(a)",
+    "RRS N1.4(b)",
+    "RRS 18.2(a)(1)",
+    "RRS 14(a)",
+    "RRS 31"
+  ],
+  "conclusions": [
+    "FRA 223249 outside overlapped at the zone failed to give NED 223178 mark-room, and broke RRS 18.2(a)(1).",
+    "FRA 223249 did not avoid contact with NED 223178 even though it was reasonably possible and broke RRS 14(a).",
+    "FRA 223249 touched mark 4s and broke RRS 31.",
+    "It was not reasonably possible for NED 223178 the boat sailing within the mark-room to which she was entitled to avoid contact with FRA 223249 when it was clear that FRA 223249 was not giving mark-room. NED 223178 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "FRA 223249 is DSQ in race 6."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Iuan Gray",
+    "members": [
+      "Jean-Bernard Luther",
+      "Joep Straus"
+    ]
+  }
+}

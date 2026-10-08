@@ -1,0 +1,46 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "Optimist Boys",
+  "race_number": "2",
+  "hearing_datetime": "30 May 2025 at 17:33",
+  "parties": [
+    "EST 403 - Mikk Bakler",
+    "BUL 66 - Todor Gochev"
+  ],
+  "procedural_matters": [
+    "Alexander Slavchen (the coach of BUL66) assist as translator."
+  ],
+  "facts": [
+    "At race 2 with wind of 15 knots and choppy sea. 2",
+    "At the zone of starboard-hand gate mark. 3",
+    "EST 403 was overlapped outside of another boat. 4",
+    "BUL 66 was clear astern of both boats. 5",
+    "EST 403 luffed to round the mark astern of the other boat. 6",
+    "BUL 66 followed EST round the mark. 7",
+    "As EST 403 was passing the mark there was contact between the bow of BUL 66 and the stern of EST 403. 8",
+    "Neither boat took a penalty. 9",
+    "There was no damage."
+  ],
+  "rules": [
+    "RRS 12",
+    "RRS 18.2(a)",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "BUL 66 not overlapped with EST 403 and not in the zone at the time EST 403 reached the zone, failed to give EST 403 mark-room, and broke RRS 18.2(a)(2). 2",
+    "BUL 66, clear astern failed to keep clear of EST 403 clear ahead, and broke RRS 12. 3",
+    "BUL 66 did not avoid contact with EST 403 even though it was reasonably possible, and broke RRS 14(a). It was not reasonably possible for EST 403 the right-of-way boat and the boat sailing within the room to which she was entitled to avoid contact with BUL 66 when it became clear that BUL 66 was not keeping clear and giving room."
+  ],
+  "decision": [
+    "BUL 66 is DSQ in Race 2."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Anna Cuccia ( - ITA",
+    "members": [
+      "Sylvie Harle FRA (FRA",
+      "Peter Scheuerl (GER"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "R3",
+  "hearing_datetime": "2025-07-29 19:30",
+  "parties": [
+    "NED 3469 - Mixed - Bram Ten Berge",
+    "FRA 8804 - Mixed - Eggenspieler Anthony"
+  ],
+  "procedural_matters": [
+    "Arbitration Inappropriate - The arbitrator deems the incident inappropriate for arbitration. The panel of the International Jury was composed in accordance with RRS N1.4(a). The hearing for cases 03 and 02 started together at 19:40 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident. FRA 8804 was not present at the beginning of the joint hearing. FRA 8804 joined at 19:44 and the hearing was restarted. FRA 8804 said he did not have time to prepare and said he would need 5 minutes. The hearing paused, and restarted at 19:54. Anneroos van den Biggelaar, coach of NED 3469, attended the hearing as an observer. Hugo Porret, coach of FRA 8804, attended the hearing as an observer."
+  ],
+  "facts": [
+    "NED 3469 asked to withdraw the protest."
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "The protest committee allows the protest to be withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Michal Kwiatek",
+    "members": [
+      "Alexander Bratt",
+      "Nicole de By",
+      "Joep Straus",
+      "Antonio Mata"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "RS Feva European Championship 2025",
+  "race_number": "3",
+  "hearing_datetime": "2025-10-01",
+  "parties": [
+    "ITA 8750 - Lorenzo Noceti Murettino"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). Lars Klauer coach of DEN 9191 attended the hearing as an observer. Paolo Ciamarone coach of ITA attended the hearing as an observer. Hearing No. 4 was heard together with hearing No. 2,3,5,6,7 in accordance with RRS 63.(2)(b) since all hearings arose from the same incident. Race Commitee was represented by Gianluca Fantini PRO."
+  ],
+  "facts": [
+    "BETWEEN THE DISPLAY OF ORANGE FLAG AND WARNING SIGNAL OF RACE 3, BLUE FLEET, THE RC DISPLAYED THE COURSE SIGNAL I2.",
+    "THE SIGNAL WAS DISPAYED ON A BOARD LIKE A FLIPCHART.",
+    "SOME TIME AFTER THE DISPLAY OF THE COURSE SIGNAL I2 AND BEFORE THE PREPARATORY SIGNAL THE BOARD FLIPPED BACK TO O2.",
+    "THIS WAS CAUSED BY THE STRONG WIND.",
+    "THE BOARD KEPT DISPLAYING O2 AT LEAST UNTIL THE STARTING SIGNAL.",
+    "SEVEN BOATS SAILED THE COURSE O2 AND CROSSED THE FINISHING LINE.",
+    "THE REST OF THE FLEET SAILED THE COURSE I2 AND CROSSED THE FINISHING LINE.",
+    "THE RC SCORED THE SEVEN BOATS THAT SAILED COURSE 02 AS NSC.",
+    "THE JURY RECONSTRUCTED THE POSITIONS OF THE SEVEN BOATS AT THE ROUNDING OF MARK 1, TAKING INTO ACCOUNT TESTIMONY FROM THE COMPETITORS."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)",
+    "RRS 61.4(c)"
+  ],
+  "conclusions": [
+    "The score of the 7 boats in race 3 was made significantly worse through no fault of their own by an improper action of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are met."
+  ],
+  "decision": [
+    "Redress is given as follows ITA 7300 is to be scored 7 points for race 3.",
+    "This shall not change the score of the other boats.",
+    "DEN 9191 is to be scored 15 points for race 3.",
+    "This shall not change the score of the other boats.",
+    "ITA 8750 is to be scored 22 points for race 3.",
+    "This shall not change the score of the other boats.",
+    "ITA 9103 is to be scored 2 points for race 3.",
+    "This shall not change the score of the other boats.",
+    "ITA 9104 is to be scored 15 points for race 3.",
+    "This shall not change the score of the other boats.",
+    "ITA 7047 is to be scored 8 points for race 3.",
+    "This shall not change the score of the other boats.",
+    "SVK 6566 is to be scored 22 points for race 3.",
+    "This shall not change the score of the other boats."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Katarzyna Goralska",
+    "members": [
+      "Alen Kustic",
+      "Martin Clasen",
+      "Peter Taylor",
+      "Ezio Fonda"
+    ]
+  }
+}

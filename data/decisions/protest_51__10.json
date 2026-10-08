@@ -1,0 +1,47 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "8",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA",
+    "BRA"
+  ],
+  "procedural_matters": [
+    "ITA was represented by Enrico Coslovich.",
+    "BRA was represented by Zion Brandao da Cunha Faria.",
+    "Juan Sienra (coach of BRA) and Alessandra Sensini (coach of ITA) attended the hearing as observers.",
+    "ITA and BRA provided tracking evidence.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Wind 12 kts, flat seas.",
+    "After rounding mark 1 the second time, ITA on starboard tack with full gennaker sailing downwind on a speed at 10-12 kts, on the port side layline.",
+    "BRA sailing upwind, slightly below close-hauled course on port tack, 1 boat lengths over the port side layline at speed of 8 kts, boats sailing towards each other.",
+    "4 boat lengths after rounding the mark and when the distance between the boats was 8 boat lengths, ITA luffed slightly.",
+    "At the same time BRA luffed.",
+    "ITA passed 0,5 boat lengths leeward of BRA.",
+    "No contact occurred.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 10"
+  ],
+  "conclusions": [
+    "BRA on port tack kept clear of ITA on starboard tack and did not break RRS 10.",
+    "No rules were broken."
+  ],
+  "decision": [
+    "Protest dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Maria Ramires",
+    "members": [
+      "Johanna Poksi",
+      "Alan Baser"
+    ]
+  }
+}

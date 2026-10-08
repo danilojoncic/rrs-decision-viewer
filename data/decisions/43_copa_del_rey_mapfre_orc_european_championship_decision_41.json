@@ -1,0 +1,32 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "05",
+  "hearing_datetime": "2025-08-01 20:30",
+  "parties": [],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b). Thetis represented by Paolo Scutellaro Tanit 6 represented by Diego Campos"
+  ],
+  "facts": [
+    "Thetis displayed the red flag around 10 minutes after the incident."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 60.2(a)(1)"
+  ],
+  "conclusions": [
+    "Thetis did not display the flag at the first reasonable opportunity as required by RRS 60.2(a)(1)."
+  ],
+  "decision": [
+    "Protest invalid"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

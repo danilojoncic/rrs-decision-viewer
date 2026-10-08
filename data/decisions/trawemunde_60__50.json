@@ -1,0 +1,46 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "9",
+  "hearing_datetime": "25 JUL 16:30",
+  "parties": [
+    "GBR 8762",
+    "ITA 7882"
+  ],
+  "procedural_matters": [
+    "GBR 8762 was represented by Cassius Day.",
+    "ITA 7882 was represented by Samuele Bardelli.",
+    "Helena Lee Kangur (EST 9169) gave evidence as a witness.",
+    "Hannah Yates (GBR 6611) gave evidence as a witness."
+  ],
+  "facts": [
+    "During RS Feva race F4 the conditions were 8 knots and smallwaves.",
+    "Both boats were sailing downwind on starboard tack.",
+    "GBR 8762 was 1m clear astern and one boat-width to leeward of ITA 7882.",
+    "ITA 7882 gybed onto port in front of GBR 8762.",
+    "GBR 8762 immediately gybed onto port and luffed.",
+    "After the gybe there was a lateral distance of 1 boat-widthbetween the boats.",
+    "There was no contact between the boats.",
+    "No boats took a penalty turn."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "ITA 7882 on port did not keep clear of GBR 8762 as starboardright-of-way boat and broke RRS 10."
+  ],
+  "decision": [
+    "ITA 7882 is scored DSQ in race F4."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Niclas Kath",
+    "members": [
+      "Iona Smith",
+      "Johanna Poksi",
+      "Ralf Tiedje",
+      "Raoul Meyer"
+    ]
+  }
+}

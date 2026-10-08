@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "5",
+  "hearing_datetime": "22 JUL 17:30",
+  "parties": [
+    "RC",
+    "GER 3139 (R5)"
+  ],
+  "procedural_matters": [
+    "The Race Committee was represented by Coco Stach (Race Committee mark 1).",
+    "GER 3139 was represented by Jan-Wessel Gorgs."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 5 of RS Aero 6 were 20 knots of wind and 0.5 meter waves.",
+    "GER 3139 as approaching mark 1 for the first time on starboard tack on close-hauled.",
+    "When GER 3139 was abeam the mark, she capsized and her sail fell over the mark.",
+    "GER 3139 drifted backwards and to leeward of the mark.",
+    "After recovering, GER took a 1-turn penalty, runded the mark, and continued sailing."
+  ],
+  "rules": [
+    "RRS 31",
+    "RRS 44.1"
+  ],
+  "conclusions": [
+    "GER 3139 touched mark 1, and broke RRS 31.",
+    "By taking a 1-turn penalty, GER 3139 took an appropriate penalty."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Gonzalo Heredia",
+    "members": [
+      "Sandra Hatch",
+      "Lisa Steppat",
+      "Ute Reisinger",
+      "Jens Haun"
+    ]
+  }
+}

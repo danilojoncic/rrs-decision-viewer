@@ -1,0 +1,46 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "Finn Masters Worlds 2026",
+  "race_number": "5",
+  "hearing_datetime": "2026-02-25 18:30",
+  "parties": [
+    "NZL 5 - Brendon Hogg"
+  ],
+  "procedural_matters": [
+    "NZL 5 represented by Brendon Hogg Witnesses; Philippe Mazard and Lauren Twigg Jury members"
+  ],
+  "facts": [
+    "Wind 10 knots, small sea state",
+    "Second upwind, top third of the leg, NZL 5 on port tack.",
+    "Jury boat facing downwind ahead of NZL 5, slightly to leeward",
+    "Jury boat was slowly reversing to avoid an unidentified boat that suddenly tacked onto port, resulting in the jury boat being on a converging course with NZL 5.",
+    "1 boat length away from the reversing jury boat, NZL 5 bore away to pass to leeward of it",
+    "Jury boat then accelerated forward causing NZL 5 to further bear away",
+    "NZL 5 ended up port side parallel to starboard side of jury boat",
+    "After the jury boat further accelerated they cleared NZL 5, who returned to close-hauled course",
+    "NZL 5 lost 6 places as a result of the incident",
+    "NZL 5 finished race 5 in 71st place"
+  ],
+  "rules": [
+    "RRS 61.4(b)",
+    "RRS 1"
+  ],
+  "conclusions": [
+    "The second change in direction of the jury boat, which caused NZL 5 to take further avoiding action and sail away from her proper course, was an improper action of the Protest Committee.",
+    "NZL 5's place in race 5 was made significantly worse through no fault of her own, by an improper action of the protest committee. Therefore, the requirements for redress in RRS 61.4(b) (1) are met."
+  ],
+  "decision": [
+    "Redress is given to NZL 5. NZL 5 is to be scored 65 points in race 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Michal Jodlowski",
+    "members": [
+      "Jamie Sutherland",
+      "David Hudson",
+      "Mikayla Thompson",
+      "Greg Kemp"
+    ]
+  }
+}

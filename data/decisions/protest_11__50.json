@@ -1,0 +1,38 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "YES - Young Europeans Sailing 2026",
+  "race_number": "5",
+  "hearing_datetime": "25 MAY 16:05",
+  "parties": [
+    "GER 217521",
+    "Jury"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). The request was submitted as competitor declaration. It was recategorized as a request for redress."
+  ],
+  "facts": [
+    "On the downwind leg 3 of the outer loop, GER 217521 was observed by a jury observer making body movements causing the boat to roll.",
+    "The were no wind or wave pattern to explain the movements.",
+    "The jury gave yellow flag penalty in accordance with appendix P2.2",
+    "GER 217521 retired from the race"
+  ],
+  "rules": [
+    "RRS P4"
+  ],
+  "conclusions": [
+    "There was no error or omission by the Jury.",
+    "Since the penalty was not due to the failure to take into account a race committee signal or a class rule, GER 217521 is not entitled to redress as provided by RRS P4."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Eurico Teudoro",
+    "members": [
+      "Paw Hagen",
+      "Susanne Kuusansalo"
+    ]
+  }
+}

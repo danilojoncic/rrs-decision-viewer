@@ -1,0 +1,45 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by PC",
+  "event": "2025 Star World Championship",
+  "race_number": "5",
+  "hearing_datetime": "2025-09-12 18:30",
+  "parties": [
+    "SUI 8549 - CHRISTOPH Gautschi"
+  ],
+  "procedural_matters": [
+    "Uros Zvan presented the case on behalf of the international Jury",
+    "SUI 8549 represented by CHRISTOPH Gautschi",
+    "Crew of SUI 8549 Patrick Schenk acted as a translator for CHRISTOPH Gautschi."
+  ],
+  "facts": [
+    "SUI 8549 approached windward mark no. 1 on starboard below the layline.",
+    "SUI 8549 luffed just before the mark and touch it with her port side amidship.",
+    "SUI 8549 stayed in the contact with the mark until she left it astern.",
+    "SUI 8549 didn't take a penalty turn before she reached the offset mark.",
+    "The distance between mark 1 and the offset mark was 100 meters (45 seconds).",
+    "There were no other boats racing leeward of SUI 8549.",
+    "SUI 8549 took a penalty turn after rounding the offset mark a minute after the incident."
+  ],
+  "rules": [
+    "RRS 2",
+    "RRS 31"
+  ],
+  "conclusions": [
+    "SUI 8549 touched mark no. 1 and broke RRS 31.",
+    "By delaying her penalty turns by 60 seconds after getting well clear of other boats after the incident SUI 8549 failed to comply with the requirements of RRS 44.2."
+  ],
+  "decision": [
+    "SUI 8549 is DSQ in race no. 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Hans Vengberg",
+    "members": [
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan",
+      "Jörn"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "4",
+  "hearing_datetime": "22 JUN 19:15",
+  "parties": [
+    "Technical Committee",
+    "GER 43 (R4)"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GER 43 was represented by Torvar Mirsky.",
+    "The technical committee was represented by Rob Taylor (chair of the technical committee) .",
+    "Hans Peter Voils (diver) gave evidence as a witness for GER 43. Procedural matters of the reopened hearing:",
+    "The original decision was given on 22.06.2026 at 20:45 and was published on the notice board at 20:56.",
+    "The international jury decided that they may have made a significant error, and reopen the hearing on 23.06.2026 in accordance with RRS 63.7(a)(2). The parties were not present."
+  ],
+  "facts": [
+    "A diver is arranged to clean GER 43 during the event without underwater breathing apparatus.",
+    "At around 6:50am on 22.06.2026 a diver was cleaning the hull of GER 43 using breathing apparatus in the marina.",
+    "GER 43 was not present and not aware the usage of breathing apparatus.",
+    "The diver observed the boat was reasonably clean prior to cleaning.",
+    "The diver stated during the hearing the breathing apparatus did not add to the cleaning.",
+    "GER 43 sailed 3 races on 22.06.2026",
+    "Facts found in the reopened hearing:",
+    "Facts found 1-6 in the",
+    "Original hearing:",
+    "stand.",
+    "GER 43 sailed race 4 after the diver cleaning."
+  ],
+  "rules": [
+    "RRS 60.5(c)",
+    "SI 19.2"
+  ],
+  "conclusions": [
+    "By cleaning the hull using underwater breathing apparatus, GER 43 broke SI 19.2.",
+    "By cleaning the hull using underwater breathing apparatus, GER 43 did not compromise safety nor gain a competitive advantage.",
+    "Reopened hearing conclusions:",
+    "By cleaning the hull using underwater breathing apparatus, GER 43 broke SI 19.2.",
+    "By cleaning the hull using underwater breathing apparatus, GER 43 may gain a competitive advantage but not certain advantage."
+  ],
+  "decision": [
+    "Using the WS Discretionary Penalty Policy, a starting penalty of 5% was decided.",
+    "There was no circumstances to justify increasing or decreasing.",
+    "The penalty given to GER 43 is, 5% discretionary penalty, calculated using the method describe in RRS 44.3(c ) and applied to race 4, but not worse than the score for DNF.",
+    "Reopened hearing decision:",
+    "Using the WS Discretionary Penalty Policy, a starting penalty of 20% was decided.",
+    "The penalty is increased because the breach was not accidental.",
+    "The penalty given to GER 43 is, 30% discretionary penalty, calculated using the method described in RRS 44.3(c ) and applied to race 4."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Hella Bouma",
+    "members": [
+      "Romain Gautier",
+      "Wai Kai Chan Vicky"
+    ]
+  }
+}

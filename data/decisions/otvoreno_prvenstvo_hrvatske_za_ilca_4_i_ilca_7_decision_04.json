@@ -1,0 +1,48 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "Otvoreno PRVENSTVO HRVATSKE za ILCA 4 i ILCA 7",
+  "race_number": "1",
+  "hearing_datetime": "2025-11-24 19:00",
+  "parties": [
+    "CRO 227053 - Lovre Bakotić"
+  ],
+  "procedural_matters": [
+    "Hearing No. 3 was heard together with Hearing No. 4 in accordance with RRS 63.2(b) since both hearings arose from the same incident.",
+    "CRO 227053 represented by Lovre Bakotić.",
+    "Race committee represented by Bartol Hodanić.",
+    "International Jury, Race Committee and competitors already left the venue.",
+    "Hearing was held over Google meet."
+  ],
+  "facts": [
+    "Race committee published final results at 12:18 on November 23rd, 2025.",
+    "Prize giving ceremony was held at 12:45 on November 23rd, 2025.",
+    "CRO 222303 lodged scoring inquiry at 18:18 on November 23rd, 2025 stated that she finished 7th and not 11th as scored in race no. 1.",
+    "Race Committee checked it's own recordings, found out that a CRO 222303 finished race no. 1 on 9th place and corrected scoring.",
+    "Race Committee answered scoring inquiry at 19:49 on November 23rd, 2025.",
+    "Race Committee published corrected results and additional Notice to Competitors at 19:47 on November 23rd, 2025."
+  ],
+  "rules": [
+    "RRS 61.2(b)(3)",
+    "RRS 61.4(b)(1)",
+    "RRS 63.2(b)",
+    "RRS 90.3(c)"
+  ],
+  "conclusions": [
+    "After the race committee determines from its own records that it has scored CRO 222303 incorrectly, it corrected the error and made the corrected scores available to competitors as required by RRS 90.3(c).",
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Franco Battistin (HR",
+    "members": [
+      "Uros Zvan (SI",
+      "Dragomir Andonović (RS",
+      "Tullio Giraldi (IT",
+      "Danilo Joncic (ME"
+    ]
+  }
+}

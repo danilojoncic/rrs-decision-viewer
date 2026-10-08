@@ -1,0 +1,46 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "2",
+  "hearing_datetime": "2026-05-27 19:05",
+  "parties": [
+    "FRA 1411 - 182 - Porquerolles - Jean Picard",
+    "SUI 1132 - 160 - - - Simon Kaiser"
+  ],
+  "procedural_matters": [
+    "FRA 1411 was represented by Nolann Huet des Aunay.",
+    "SUI 1132 was represented by Niklas Kaiser.",
+    "Prior to the hearing, an arbitration meeting was held; Anastazja Lewandowska (member of the international jury) acted as arbitrator.",
+    "FRA 1411 did not ask to withdraw the protest after the arbitration meeting and neither boat took a Post-Race Penalty under RRS T1(a).",
+    "Lorenz Kausche (crew of SUI 1808) gave evidence as a witness for SUI 1132.",
+    "The panel of the international jury presented tracking evidence.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 6 knots of wind and small chop.",
+    "FRA 1411 and SUI 1132 entered the zone of mark 1 for the second rounding on starboard tack, on a close-hauled course, with FRA 1411 overlapped approximately 1 boat length to windward of SUI 1132.",
+    "At the mark, SUI 1132, sailing below the layline, luffed and the distance between SUI 1132 and FRA 1411 decreased to approximately 1 metre.",
+    "There was contact between the port side of SUI 1132’s hull and the mark for approximately 3 seconds, causing the mark to turn and drift to leeward.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 31",
+    "RRS N1.4(b)",
+    "RRS T1(a)"
+  ],
+  "conclusions": [
+    "SUI 1132 touched mark 1 and broke RRS 31."
+  ],
+  "decision": [
+    "SUI 1132 is DSQ in race 2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christine Guba",
+    "members": [
+      "Anastazja Lewandowska",
+      "Yoann Peronneau"
+    ]
+  }
+}

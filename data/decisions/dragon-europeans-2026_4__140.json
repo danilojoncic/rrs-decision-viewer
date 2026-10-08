@@ -1,0 +1,52 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Dragon Europeans 2026",
+  "race_number": "3",
+  "hearing_datetime": "30 JUN 19:15",
+  "parties": [
+    "SWE 800",
+    "NED 393"
+  ],
+  "procedural_matters": [
+    "Based on SI 15.6, boats intending to request a hearing or request redress for an incident in the racing area shall radio their intention to the Race Committee, which SWE 800 did promptly.",
+    "SI 15.3 changes Rule 44.1 so that the Two-Turns Penalty is replaced by the One-Turn Penalty. 3 NED 393 took a one turn penalty after the incident 4 Jan Secher attended as an observer."
+  ],
+  "facts": [
+    "race 3 on leg 4: Swe 800 fetching the windward mark 1 on the starboard layline.",
+    "Three boat lengths from the mark, GBR 832 crossed in front of SWE 800 on portand luffed head to wind and reached a close-hauled on starboard. 3. SWE 800 became overlapped toleeward of GBR 83. 4. NED 393 was approaching themark on port tack on a convergingcourse with SWE 800.",
+    "NED 393 was crossing 3 metres ahead of SWE 800.",
+    "SWE 800 luffed, but there was contact between the bow of SWE 800 and the starboard side of NED 393, forward of the mast.",
+    "There was damage to SWE 800: a hole in the bow above the waterline. SWE 800 was taking on water.",
+    "NED 393 took a one-Turn penalty after passing the mark.",
+    "Both boats finished the race. Wind 12 knots 0,5 m swell",
+    "race 3 on leg 4: Swe 800 fetching the windward mark 1 on the starboard layline.",
+    "Three boat lengths from the markD, GraBgRo 8n3 2E curorsospeeda inn fsro 2nt0 o2f 6SWE 800 on portand luffed head to wind and reached a close-hauled on starboard. 3. SWE 800 became overlapped toleeward of GBR 83. 4. NED 393 was approaching themark on port tack on a convergingcourse with SWE 800.",
+    "NED 393 was crossing 3 metres aheaAds ooff 2 S JUWL E20 286 0A0t 0.9:57",
+    "SWE 800 luffed, but there was contact between the bow of SWE 800 and the starboard side of NED 393, forward of the mast.",
+    "There was damage to SWE 800: a hole in the bow above the waterline. SWE 800 was taking on water.",
+    "NED 393 took a one-Turn penalty after passing the mark.",
+    "Both boats finished the race."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14",
+    "World Sailing Case 141"
+  ],
+  "conclusions": [
+    "NED 393 on port failed to keep clear of SWE 800 on starboard, and broke RRS 10. It was reasonably possible for NED 393, keep clear boat, to avoid contact with SWE 800, right-of-way boat. NED 393 broke RRS 14. It was not reasonably possible for SWE 800, the right-of-way boat to avoid contact with NED 393 when it was clear that NED 393 was not keeping clear. SWE 800 did not break RRS 14. As the damage to SWE was serious (see WS Case 141), a One-Turn penalty was not an applicable penalty under RRS 44.1 (b)."
+  ],
+  "decision": [
+    "NED DSQ in Race 3 NED 393 on port failed to keep clear of SWE 800 on starboard, and broke RRS 10 and RRS 14 NED 393 scored DSQ in race 3"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Pinar Coskuner Genç",
+    "members": [
+      "Christine Guba",
+      "Staffan Rosenlöf",
+      "Tonny Vedeler Jensen",
+      "Gordon"
+    ]
+  }
+}

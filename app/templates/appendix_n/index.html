@@ -1,0 +1,263 @@
+{% extends "base.html" %}
+
+{% macro check_field(name, label, checked, detail="") -%}
+  <label class="sim-check">
+    <input type="hidden" name="{{ name }}" value="false">
+    <input type="checkbox" name="{{ name }}" value="true" {% if checked %}checked{% endif %}>
+    <span>
+      <strong>{{ label }}</strong>
+      {% if detail %}<small>{{ detail }}</small>{% endif %}
+    </span>
+  </label>
+{%- endmacro %}
+
+{% block title %}Appendix N Simulator · Judging Platform{% endblock %}
+
+{% block header_actions %}
+  <div class="header-meta">
+    <span>{{ result.verdict }}</span>
+    <span>{{ rules|length }} Appendix N rules</span>
+  </div>
+{% endblock %}
+
+{% block content %}
+  {% set appointment_advanced_open = scenario.na_approval_required or not scenario.na_notice_posted or scenario.illness_emergency or scenario.no_replacements or scenario.ws_authorized or scenario.ws_letter_posted %}
+  {% set panel_advanced_open = scenario.party_dissatisfied or scenario.facts_only or scenario.review_requested_in_time or scenario.review_panel_compliant or scenario.panel_failed_to_agree or scenario.chair_referred_deadlock or scenario.oa_directs_otherwise %}
+  {% set conduct_advanced_open = scenario.matter == "misconduct" or scenario.conflict_mode != "none" or scenario.ethics_procedure_applies or scenario.presenter_in_panel or scenario.presenter_in_jury or not scenario.materials_disclosed or scenario.panel_investigated_before_hearing %}
+  <section class="appendix-shell">
+    <div class="appendix-hero">
+      <div>
+        <p class="eyebrow">International Juries</p>
+        <h1>Appendix N Simulator</h1>
+      </div>
+      <label class="preset-select">
+        <span>Try a preset</span>
+        <select data-appendix-preset-select>
+          <option value="">Choose a common scenario...</option>
+          {% for preset in presets %}
+            <option value="{{ preset.query }}">{{ preset.title }} - {{ preset.description }}</option>
+          {% endfor %}
+        </select>
+      </label>
+    </div>
+
+    <div class="simulator-grid">
+      <form class="sim-panel sim-form simple-sim-form" method="get" action="{{ url_for('appendix_n_simulator') }}">
+        <section class="sim-section">
+          <div class="sim-section-head">
+            <h2>Core Setup</h2>
+            <span>Usually this is enough</span>
+          </div>
+          <div class="sim-field-grid">
+            <label>
+              <span>Body</span>
+              <select name="body">
+                <option value="full_jury" {% if scenario.body == "full_jury" %}selected{% endif %}>Full jury</option>
+                <option value="panel" {% if scenario.body == "panel" %}selected{% endif %}>Panel</option>
+                <option value="emergency" {% if scenario.body == "emergency" %}selected{% endif %}>Illness or emergency</option>
+                <option value="recusal" {% if scenario.body == "recusal" %}selected{% endif %}>Conflict or recusal</option>
+                <option value="world_sailing_three" {% if scenario.body == "world_sailing_three" %}selected{% endif %}>World Sailing three-member</option>
+              </select>
+            </label>
+
+            <label>
+              <span>Matter</span>
+              <select name="matter">
+                <option value="part5" {% if scenario.matter == "part5" %}selected{% endif %}>Protest, redress or Part 5</option>
+                <option value="eligibility" {% if scenario.matter == "eligibility" %}selected{% endif %}>Eligibility, measurement or rating</option>
+                <option value="substitution" {% if scenario.matter == "substitution" %}selected{% endif %}>Substitution authorization</option>
+                <option value="referred" {% if scenario.matter == "referred" %}selected{% endif %}>Referred matter</option>
+                <option value="advisory" {% if scenario.matter == "advisory" %}selected{% endif %}>Advisory request</option>
+                <option value="misconduct" {% if scenario.matter == "misconduct" %}selected{% endif %}>Rule 69 misconduct</option>
+              </select>
+            </label>
+
+            <label>
+              <span>Event Group</span>
+              <select name="event_group">
+                <option value="standard" {% if scenario.event_group == "standard" %}selected{% endif %}>Standard</option>
+                <option value="mnq" {% if scenario.event_group == "mnq" %}selected{% endif %}>Groups M, N or Q</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="sim-number-grid">
+            <label>
+              <span>Members</span>
+              <input type="number" name="members" value="{{ scenario.members }}" min="1" max="12">
+            </label>
+            <label>
+              <span>International Judges</span>
+              <input type="number" name="international_judges" value="{{ scenario.international_judges }}" min="0" max="12">
+            </label>
+            <label>
+              <span>National Authorities</span>
+              <input type="number" name="national_authorities" value="{{ scenario.national_authorities }}" min="1" max="12">
+            </label>
+            <label>
+              <span>Most From One NA</span>
+              <input type="number" name="max_same_authority" value="{{ scenario.max_same_authority }}" min="1" max="12">
+            </label>
+          </div>
+
+          <div class="sim-check-grid core-checks">
+            {{ check_field("independent", "Independent body", scenario.independent, "No RC or technical committee members") }}
+            {{ check_field("appointed", "Appointment route present", scenario.appointed, "OA or World Sailing appointment path") }}
+          </div>
+        </section>
+
+        <details class="sim-advanced" {% if appointment_advanced_open %}open{% endif %}>
+          <summary>
+            <span>Appointment exceptions</span>
+            <small>NA approval, emergency panels, World Sailing authorization</small>
+          </summary>
+          <div class="sim-check-grid">
+              {{ check_field("na_approval_required", "NA approval required", scenario.na_approval_required, "Rule 91(b) approval path") }}
+              {{ check_field("na_notice_posted", "NA approval notice posted", scenario.na_notice_posted, "SIs or official notice board") }}
+              {{ check_field("illness_emergency", "Illness or emergency exists", scenario.illness_emergency, "N1.5 pathway") }}
+              {{ check_field("no_replacements", "No qualified replacements", scenario.no_replacements, "N1.5 or N1.6 pathway") }}
+              {{ check_field("ws_authorized", "World Sailing authorized", scenario.ws_authorized, "N1.7 limited exception") }}
+              {{ check_field("ws_letter_posted", "Authorization published", scenario.ws_letter_posted, "Letter, NoR/SIs and notice board") }}
+          </div>
+        </details>
+
+        <details class="sim-advanced" {% if panel_advanced_open %}open{% endif %}>
+          <summary>
+            <span>Panel procedure</span>
+            <small>Review requests, facts found, deadlocked panels</small>
+          </summary>
+          <div class="sim-check-grid">
+            {{ check_field("party_dissatisfied", "Party dissatisfied", scenario.party_dissatisfied, "Panel decision follow-up") }}
+            {{ check_field("facts_only", "Facts found only", scenario.facts_only, "N1.4 exception") }}
+            {{ check_field("review_requested_in_time", "Review requested in time", scenario.review_requested_in_time, "30 minutes or SI time limit") }}
+            {{ check_field("review_panel_compliant", "Review panel compliant", scenario.review_panel_compliant, "N1.1, N1.2 and N1.3") }}
+            {{ check_field("panel_failed_to_agree", "Panel failed to agree", scenario.panel_failed_to_agree, "N3.2 pathway") }}
+            {{ check_field("chair_referred_deadlock", "Chair referred deadlock", scenario.chair_referred_deadlock, "Proper panel or full jury") }}
+            {{ check_field("oa_directs_otherwise", "OA directs otherwise", scenario.oa_directs_otherwise, "Eligibility or substitution matters") }}
+          </div>
+        </details>
+
+        <details class="sim-advanced" {% if conduct_advanced_open %}open{% endif %}>
+          <summary>
+            <span>Conflicts and misconduct</span>
+            <small>Rule 69 and conflict checks</small>
+          </summary>
+          <div class="sim-field-grid">
+            <label class="wide-field">
+              <span>Conflict Mode</span>
+              <select name="conflict_mode">
+                <option value="none" {% if scenario.conflict_mode == "none" %}selected{% endif %}>No conflict issue</option>
+                <option value="nationality" {% if scenario.conflict_mode == "nationality" %}selected{% endif %}>Nationality, club or similar only</option>
+                <option value="doubt" {% if scenario.conflict_mode == "doubt" %}selected{% endif %}>Doubt about significance</option>
+                <option value="significant" {% if scenario.conflict_mode == "significant" %}selected{% endif %}>Significant conflict</option>
+              </select>
+            </label>
+          </div>
+          <div class="sim-check-grid">
+            {{ check_field("ethics_procedure_applies", "Code of Ethics procedure applies", scenario.ethics_procedure_applies, "Specific event procedure") }}
+            {{ check_field("presenter_in_panel", "Presenter is on hearing panel", scenario.presenter_in_panel, "Rule 69 presenter") }}
+            {{ check_field("presenter_in_jury", "Presenter is on jury", scenario.presenter_in_jury, "Allowed if not on panel") }}
+            {{ check_field("materials_disclosed", "Materials disclosed", scenario.materials_disclosed, "Before the hearing begins") }}
+            {{ check_field("panel_investigated_before_hearing", "Panel investigated before hearing", scenario.panel_investigated_before_hearing, "N4.3 check") }}
+          </div>
+        </details>
+
+        <footer class="sim-form-actions">
+          <button type="submit">Evaluate</button>
+          <a href="{{ url_for('appendix_n_simulator') }}">Reset</a>
+        </footer>
+      </form>
+
+      <aside class="sim-panel sim-result-panel" aria-label="Simulator result">
+        <div class="result-banner {{ result.tone }}">
+          <span>{{ result.verdict }}</span>
+          <strong>{{ scenario.body_label }}</strong>
+          <small>{{ scenario.group_label }} · {{ result.hearing_scope }}</small>
+        </div>
+
+        <p class="result-copy">{{ result.constitution_label }}</p>
+
+        <div class="next-actions">
+          <h2>Do Next</h2>
+          {% for action in result.next_actions %}
+            <span>{{ action }}</span>
+          {% endfor %}
+        </div>
+
+        <details class="finding-details" {% if result.tone != "pass" %}open{% endif %}>
+          <summary>
+            <span>All checks</span>
+            <small>{{ result.findings|length }}</small>
+          </summary>
+          <div class="finding-list">
+            {% for finding in result.findings %}
+              <article class="finding {{ finding.severity }}">
+                <div>
+                  <span>{{ finding.severity }}</span>
+                  <h3>{{ finding.title }}</h3>
+                </div>
+                <p>{{ finding.detail }}</p>
+                {% if finding.rules %}
+                  <div class="rule-badges">
+                    {% for number in finding.rules %}
+                      <span>{{ number }}</span>
+                    {% endfor %}
+                  </div>
+                {% endif %}
+              </article>
+            {% endfor %}
+          </div>
+        </details>
+      </aside>
+    </div>
+
+    <section class="appendix-reference">
+      <div class="reference-header">
+        <div>
+          <p class="eyebrow">Active References</p>
+          <h2>Rules Used by This Scenario</h2>
+        </div>
+      </div>
+      <div class="rule-reference-grid">
+        {% for rule in active_rules %}
+          <details class="rule-reference" open>
+            <summary>
+              <span>{{ rule.label }}</span>
+              <small>{{ rule.section }}</small>
+            </summary>
+            {% if rule.text %}
+              <p>{{ rule.text }}</p>
+            {% else %}
+              <p>{{ rule.title }}</p>
+            {% endif %}
+          </details>
+        {% endfor %}
+      </div>
+    </section>
+
+    <details class="appendix-reference appendix-full-reference">
+      <summary class="reference-header">
+        <div>
+          <p class="eyebrow">Appendix N</p>
+          <h2>Full Rule Text</h2>
+        </div>
+        <small>{{ rules|length }} entries</small>
+      </summary>
+      <div class="rule-reference-grid compact">
+        {% for rule in rules %}
+          <details class="rule-reference">
+            <summary>
+              <span>{{ rule.label }}</span>
+              <small>{{ rule.section }}</small>
+            </summary>
+            {% if rule.text %}
+              <p>{{ rule.text }}</p>
+            {% else %}
+              <p>{{ rule.title }}</p>
+            {% endif %}
+          </details>
+        {% endfor %}
+      </div>
+    </details>
+  </section>
+{% endblock %}

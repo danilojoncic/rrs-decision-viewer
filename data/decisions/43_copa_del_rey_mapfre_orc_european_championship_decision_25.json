@@ -1,0 +1,44 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-31 09:15",
+  "parties": [
+    "GER 5506 - Caro - Tim Ross"
+  ],
+  "procedural_matters": [
+    "GER 5506 was represented by Tim Ross (helm).",
+    "The Organizing Authority did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "During the hearing the protest committee clarified in accordance with RRS 63.2(c) that the hearing request was not only a request to reopen but a request for redress and proceeded with it accordingly.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The crew list of the corinthian boats was published on 29 July at 15:07.",
+    "GER 5506 was not listed on the boats on the Corinthian list.",
+    "GER 5506 delivered the request for redress on 30 July at 11:17.",
+    "NoR 6.6 changes RRS 60.3(b) and 61.2 to the effect that the time limit for a protest or request for redress by a boat regarding the World Sailing’s Sailors Categorization Code is 20:00 on 29 July 2025."
+  ],
+  "rules": [
+    "RRS 61.3",
+    "RRS 63.1(b)",
+    "RRS 63.2(c)",
+    "RRS 63.4(a)(1)",
+    "RRS N1.4(b)",
+    "NoR 6.6"
+  ],
+  "conclusions": [
+    "GER 5506 failed to deliver the request for redress regarding the World Sailing Sailors Categorization Code before 2000 on 29 July, as required by NoR 6.6. Therefore, the request for redress is invalid under RRS 61.3."
+  ],
+  "decision": [
+    "Since the request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "David Gosalbez",
+    "members": [
+      "Finn Mrugalla",
+      "Bruno Finzi"
+    ]
+  }
+}

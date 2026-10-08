@@ -1,0 +1,36 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "Optimist",
+  "race_number": "2",
+  "hearing_datetime": "29 Jun 2025 at 16:30",
+  "parties": [
+    "CRO 1405 - Teo Lolic",
+    "CHN 5011 - ZHONGLING QI"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "Wind of 6 kts, with small waves",
+    "In the second beat of race 2, CRO 1405 was sailing on starboard tack and CHN 5011 was sailing on port tack.",
+    "When the bow of CRO 1405 was 0.5 metres from the middle of the starboard side of CHN 5011, CRO 1405 bore away sharply and passed astern of CHN 5011. CHN 5011 luffed briefly and then bore away back to a close-hauled course.",
+    "There was no contact and no boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "CHN 5011 on port tack failed to keep clear of CRO 1405 sailing on starboard tack, breaking rule 10."
+  ],
+  "decision": [
+    "CHN 5011 is DSQ from race 2."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Ilker Bayindir",
+      "Francisco Jauregui",
+      "Jernej Krampersek"
+    ]
+  }
+}

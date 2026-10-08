@@ -1,0 +1,53 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 6 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "6",
+  "hearing_datetime": "",
+  "parties": [
+    "GBR 225211 - Billy MORRIS",
+    "ITA 226858 - Marco Valerio GRUE"
+  ],
+  "procedural_matters": [
+    "GBR 225211 was represented by Billy MORRIS",
+    "ITA 226858 was represented by Marco Valerio GRUE",
+    "Alison Young (GBR coach) attended the hearing as an observer.",
+    "Alessandro Nassironi (ITA 282844) gave evidence as a witness for ITA 226858."
+  ],
+  "facts": [
+    "The wind strength was 10 to 12 knots with choppy seas and waves of about 0.5m.",
+    "GBR 225211 was on port and ITA 226858 was starboard tack sailing down wind towards gate mark 3S.",
+    "GBR 225211 was clear ahead when he entered the zone.",
+    "When the boats were 1 boat length away from the mark, ITA 226858 established an inside overlap with GBR 225211.",
+    "At that time, both boats were about half a boat length apart.",
+    "GBR 225211 gybed and her mainsheet tangled with ITA 226858's boom.",
+    "There was no damage, or injury.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 18.2(a)(2)",
+    "RRS 14",
+    "RRS 14(a)",
+    "RRS 10",
+    "RRS 43.1(b)",
+    "RRS 43.1(c)"
+  ],
+  "conclusions": [
+    "ITA 226858 not overlapped with GBR 225211 and not in the zone at the time GBR 225211 reached the zone, failed to give GBR 225211 mark-room, and broke RRS 18.2(a)(2) and 14.",
+    "GBR 225211 did not avoid contact with ITA 226858 even though it was reasonably possible, and broke RRS 14(a).",
+    "Since GBR 225211 broke RRS 10 and 14, while she was sailing within the mark-room, of which she was entitled, she is exonerated under RRS 43.1(b) and 43.1(c) for her breach as contact did not cause damage or injury."
+  ],
+  "decision": [
+    "ITA 226858 DSQ in race 6"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Danilo Joncic",
+    "members": [
+      "Myrto Antonopoulou",
+      "Wai Kai Chan Vicky",
+      "Gurvinderpal Julka",
+      "Wee Lee Willy"
+    ]
+  }
+}

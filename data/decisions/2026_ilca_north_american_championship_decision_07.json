@@ -1,0 +1,39 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 ILCA North American Championship",
+  "race_number": "4",
+  "hearing_datetime": "2026-07-11",
+  "parties": [
+    "POL 197117 - Wiktoria Gołębiowska",
+    "IRL 216111 - Eve McMahon"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "Incident took place on the first upwind leg 2 minutes after the start of race, 5-6 knots, flat water",
+    "197117 (POL) and 216111 (IRL) were sailing on a close-hauled course on port, 216111 to windward and parallel to 197117",
+    "197117 saw a boat approaching on starboard and called for room to tack 2 boat lengths from starboard boat",
+    "216111 immediately tacked onto starboard and completed her tack",
+    "197117 tacked onto starboard. After passing head to wind, 197117 made contact with 216111’s starboard stern quarter 2 feet ahead of the stern",
+    "No boat took a penalty"
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "197117 to windward failed to keep clear of 216111 to leeward, and broke RRS 11.",
+    "197117 did not avoid contact with 216111 when it was reasonably possible, and broke RRS 14."
+  ],
+  "decision": [
+    "197117 is DSQ in race 4."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Bruce Martinson",
+    "members": [
+      "Steven Wolff",
+      "Lisl Dunlop"
+    ]
+  }
+}

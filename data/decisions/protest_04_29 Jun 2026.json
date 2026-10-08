@@ -1,0 +1,43 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Request For Redress",
+  "event": "Optimist",
+  "race_number": "3",
+  "hearing_datetime": "21 Jun 2026 at 20:10",
+  "parties": [
+    "USA 39 - Audrey Roachell",
+    "Race Committee"
+  ],
+  "procedural_matters": [
+    "The hearing started at 20:15 and was suspended for 20 minutes, by request of Race Committee.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "USA 39 was represented by Audrey Roachel.",
+    "Race Committee was represented by Francisco Jauregui.",
+    "Leocapio Sanchez Soto on the port finishing vessel gave evidence as a witness for Race Committee",
+    "Ivo Ferreira on the starboard finishing vessel provided video evidence as a witness for Race Committee"
+  ],
+  "facts": [
+    "Race 3, blue fleet, wind 12 knots, swell 1,5 meters",
+    "USA 39 was on the last beat, approaching the finishing line on port tack",
+    "When USA 39 was 1 boat length leeward of the port finishing vessel, the vessel slightly drifted and was then motoring slowly to maintain the position",
+    "USA 39 kept sailing, at the middle of the finishing line USA 39 luffed until passing head to wind, then reaching close-hauled on starboard at the middle of the finishing line, crossing it and finished the race."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "USA 39's place in race 3 was not made significantly worse. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Anna Cuccia (ITA",
+      "Gonzalo Heredia (ARG",
+      "Eurico Teodoro (POR"
+    ]
+  }
+}

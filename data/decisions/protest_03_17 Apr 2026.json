@@ -1,0 +1,46 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "49er",
+  "race_number": "3",
+  "hearing_datetime": "30 Mar 2026 at 19:15",
+  "parties": [
+    "DEN 515 - Carl Emil Sloth",
+    "Race Committee, POL - Pawel Kowalski"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "DEN 515 was represented by Nikolaj Hoffmann Buhl.",
+    "The race committee was represented by Michal Jodlovski (Course Race Officer).",
+    "Joshua Richner (SUI 133) gave evidence as a witness for DEN 515.",
+    "During the hearing the protest committee clarified in accordance with RRS 63.2(c) that the hearing request was not a protest, but a request for redress, and proceeded with it accordingly."
+  ],
+  "facts": [
+    "Race 3 of the 49er Blue fleet was started in winds of 8 to 11 knots, coming from approximately 315°.",
+    "The wind was shifting direction and speed across the course area due to the incoming breeze from outside the bay.",
+    "In the second upwind the breeze shifted to the right and the majority of the fleet went to that side of the course, except a group of three boats, including DEN 515.",
+    "The race committee actively followed the situation due to incoming breeze, and chose not to abandon the race.",
+    "There were no major position changes of the boats. The first boat finished within the target time, and all other boats, except DEN 515 finished within the finish window."
+  ],
+  "rules": [
+    "RRS 61.4(b)"
+  ],
+  "conclusions": [
+    "There was no improper action or omission of the race committee. DEN 515’s score was not made significantly worse through an action or omission of the race committee. Therefore, the requirements for redress in 61.4(b) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Aylin Suntay (IJ",
+      "TUR",
+      "Alan Baser (IJ",
+      "GBR",
+      "Hrvoje Ban (NJ",
+      "CRO"
+    ]
+  }
+}

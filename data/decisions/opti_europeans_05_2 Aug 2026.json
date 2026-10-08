@@ -1,0 +1,45 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "Optimist Girls",
+  "race_number": "7",
+  "hearing_datetime": "29 Jul 2026 at 17:20",
+  "parties": [
+    "FRA 3252 - Satine Berenger",
+    "GBR 6682 - Elizabeth Hudson"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "FRA 3252 was represented by Satine Berenger.",
+    "GBR 6682 was represented by Elizabeth Hudson.",
+    "Stéphanie Barbarin, team leader of FRA 3252, attended the hearing as an observer.",
+    "Kate Dairs, team leader of GBR 6682, attended the hearing as an observer.",
+    "Baptiste Verniest, member of the international jury, attended the hearing as interpreter for FRA 3252."
+  ],
+  "facts": [
+    "Race 7, 5 knots of wind, flat water, about 150m from mark 1.",
+    "FRA 3252 was sailing on starboard and GBR 6682 on port, on converging courses.",
+    "As she was about half a boat length from GBR 6682, FRA 3252 bore away and crossed just behind the rudder of GBR 6682 then resumed her course.",
+    "GBR 6682 held her course.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 10"
+  ],
+  "conclusions": [
+    "GBR 6682 on port tack failed to keep clear of FRA 3252 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "GBR 6682 is DSQ in race 7"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Aylin Suntay (IJ TUR",
+      "Anastasia Weinberger (IJ AUT",
+      "Baptiste Verniest"
+    ]
+  }
+}

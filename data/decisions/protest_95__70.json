@@ -1,0 +1,49 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2025",
+  "race_number": "7",
+  "hearing_datetime": "28 JUN 17:30",
+  "parties": [
+    "GER 225070",
+    "GER 215510"
+  ],
+  "procedural_matters": [
+    "GER 215510 did not come to the hearing, the hearing proceeded in accordance with RRS 63.3(b). International jury is constituted under RRS. N1.4(b)."
+  ],
+  "facts": [
+    "Wind was 18-20 knots with gust over 20 knots and the waves were choppy.",
+    "During race 7 at the starboard (4s) gate mark on the first downwind.",
+    "GER 225070 was about 5 meters infront of GER 215510 at the zone.",
+    "As GER 225070 was rounding the mark, GER 215510 sailing faster became overlapped with GER 225070.",
+    "The bow of GER 215510 made contact with the back of the torso of the sailor of GER 225070.",
+    "After the incident, GER 225070 could not fully hike due to pain in his left side.",
+    "GER 225070 has no damage.",
+    "GER 225070s sailor has bruising on his left lower back.",
+    "Both boats finished the race.",
+    "No boat took a penalty.",
+    "GER 225070 was around 25th place at the time of the incident.",
+    "GER 225070 finished race 7 in 31st position."
+  ],
+  "rules": [
+    "RRS 14(a)",
+    "RRS 18.2(a)(2)"
+  ],
+  "conclusions": [
+    "GER 215510 not overlapped with GER 225070 and not in the zone at the time GER 225070 reached the zone, failed to give GER 225070 mark-room, and broke RRS 18.2(a)(2).",
+    "GER 215510 did not avoid contact with GER 225070 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GER 225070, the boat sailing within the mark-room to which she was entitled, to avoid contact with GER 215510 when it became clear that 215510 was not giving mark-room. GER 225070 did not break RRS 14(a).",
+    "GER 225070’s place in race 7 was not made significantly worse. Therefore, the requirements for redress in RRS 61.4 are not met."
+  ],
+  "decision": [
+    "Protest upheld. GER 215510 is DSQ in race 7. Redress is not given"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Michal Zak",
+    "members": [
+      "Josephine Wilken",
+      "Anna Cuccia"
+    ]
+  }
+}

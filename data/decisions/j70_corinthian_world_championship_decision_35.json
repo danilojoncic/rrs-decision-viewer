@@ -1,0 +1,47 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2026-05-29 18:50",
+  "parties": [
+    "SUI 1808 - 170 - Tarte -3Nuits.com - Lorenz Kausche"
+  ],
+  "procedural_matters": [
+    "SUI 1808 was represented by Lorenz Kausche.",
+    "The panel was changed in accordance with RRS 63.7(c)(2) by adding the following members: Yoann Peronneau and Christine Guba."
+  ],
+  "facts": [
+    "On 28 May 2026, during hearing No. 19, the international jury learned that SUI 1808, which was not a party to the hearing, was involved in the incident and may have broken a rule.",
+    "In accordance with RRS 63.2(d), the international jury closed the current hearing and lodged hearing No. 25, in which they protested SUI 1808 under RRS 60.4(c)(2).",
+    "On 29 May 2026, the panel of the international jury heard hearing No. 19 together with hearing No. 25 and decided to disqualify SUI 1808.",
+    "At 18:26, SUI 1808’s representative lodged a request to reopen hearing No. 25, claiming that an arbitration meeting was not held prior to the hearing, and that he was not offered to take a Post-Race Penalty."
+  ],
+  "rules": [
+    "RRS 60.4(c)(2)",
+    "RRS 63.2(d)",
+    "RRS 63.7(a)(2)",
+    "RRS T1(a)",
+    "RRS T2"
+  ],
+  "conclusions": [
+    "Since hearing request No. 25 was lodged by the international jury, an arbitration meeting could not be held according to RRS T2.",
+    "Since RRS 44.1(b) did not apply, SUI 1808 could have taken a Post-Race Penalty at any time after the race until the beginning of hearing No. 25, in accordance with RRS T1(a).",
+    "The international jury did not make a significant error in the",
+    "Original hearing:",
+    ". Therefore, the requirements in RRS 63.7(a)(2) for reopening the hearing are not met."
+  ],
+  "decision": [
+    "Hearing No. 19 heard with No. 25 will not be reopened."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Yoann Peronneau",
+    "members": [
+      "Pauline den Burger",
+      "Anastazja Lewandowska",
+      "Romain Gautier",
+      "Christine Guba"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by TC",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "2",
+  "hearing_datetime": "2025-07-31 09:45",
+  "parties": [
+    "ESP 255 - GODSPEED"
+  ],
+  "procedural_matters": [
+    "The Technical Committee was represented by Rafael Bonilla (TC member)",
+    "ESP 255 was represented by Jordi Amoros (helm).",
+    "David Maria (chairman of the panel of the International Jury) acted as interpreter for the TC representative during the hearing.",
+    "The hearing was suspended at 1005 for further inspections of the boat and equipment by the Technical Committee and resumed at 1040."
+  ],
+  "facts": [
+    "When ESP 255 docked in the harbor after sailing race 2, she was inspected by the Technical Committee.",
+    "ESP 255 did not carry her storm jib and storm trysail on board during race 2.",
+    "ESP 255's mainsail cannot be reefed so that the luff is reduced by 40% or more and she did neither carry a storm trysail on board during race 2.",
+    "ESP 255 did not have a heavy weather job onboard with an area, in unreefed condition, of 13.5% height of the foretriangle squared, and readily available method, independent of a luff groove, to attach to the stay.",
+    "The weight of the missing sails was less than 20 kg in total."
+  ],
+  "rules": [
+    "RRS 44.3(c)",
+    "RRS 4.26.2",
+    "RRS 4.27.3"
+  ],
+  "conclusions": [
+    "ESP 255 faild to have either a storm trysail or mainsail reefing to reduce the luff by at least 40% (or rotating wing mast if suitable) on board, and broke OSR 4.26.1.",
+    "ESP 255 failed to have a heavy weather jib as specified in OSR 4.27.3, and thereby broke OSR 4.26.2."
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons, a starting penalty of 20% (Band 2) was decided. The penalty was decreased because the breach was accidental and ESP 255 did not gain any advantage from the breach. There were no circumstances to justify increasing the penalty. The penalty is a 10% discretionary penalty, calculated using the method described in RRS 44.3(c) and applied to race 2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "David Gosalbez",
+    "members": [
+      "Cxema Pico",
+      "Giorgio Davanzo",
+      "Bruno Finzi"
+    ]
+  }
+}

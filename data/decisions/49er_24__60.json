@@ -1,0 +1,53 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "11",
+  "hearing_datetime": "10 JUL 18:15",
+  "parties": [
+    "GBR 4",
+    "ITA 75"
+  ],
+  "procedural_matters": [
+    "GBR 4 was represented by Rhos Hawes.",
+    "ITA 75 was represented by Lorenzo Pezzilli.",
+    "Lorenzo Bianchini (coach for ITA 75) attended the hearing as an observer.",
+    "Lorenzo Pezzilli (Helm of ITA 75) provided video evidence.",
+    "Mathias Berthet (NOR 71) was a witness for GBR 4.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 4 - 5 knots of wind and flat water.",
+    "GBR 4 was approaching Mark 1 on port tack, 2 boat lengths ahead and 2 boat lengths to leeward of ITA 75.",
+    "GBR 4 passed head to wind and tacked to starboard. On completion, she was outside the zone.",
+    "Within one second of GBR 4 reaching her new close-hauled course, ITA 75 started to luff to tack.",
+    "ITA 75 passed head to wind inside the zone, and before she reached a close-hauled course, GBR 4 luffed.",
+    "When GBR 4 luffed, the starboard back wing of ITA 75 was 0.5 metres from the port mid wing of GBR 4.",
+    "There was no contact and no boat took a penalty turn."
+  ],
+  "rules": [
+    "RRS 13",
+    "RRS 15",
+    "RRS 18.3",
+    "RRS 43.1",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "When GBR 4 tacked to starboard, she was required to give ITA 4 room to keep clear under RRS",
+    "After passing head to wind and before being on a close-hauled course, ITA 75 failed to keep clear of GBR 4. ITA 75 broke RRS 13.",
+    "After ITA 75 passed head to wind from port to starboard tack inside the zone, RRS 18.3 applied between her and GBR 4, who was on starboard tack and fetching the mark.",
+    "As ITA 75 broke RRS 13 while she was sailing within the room to which she was entitled under RRS 15, she is exonerated under RRS 43.1(b) for this breach.",
+    "As ITA 75 broke RRS 18.3 while trying to avoid GBR 4, who was still required to give her room under RRS 15, she was compelled to break RRS 18.3 and so is exonerated under RRS 43.1(a) for this breach."
+  ],
+  "decision": [
+    "Protest dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christina Örtendahl",
+    "members": [
+      "Jose Pico",
+      "Lisa Steppat"
+    ]
+  }
+}

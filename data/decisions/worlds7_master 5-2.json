@@ -1,0 +1,48 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 7 Masters World Championships",
+  "race_number": "6",
+  "hearing_datetime": "",
+  "parties": [
+    "USA 209744 - George Slook",
+    "ITA 215741 - Alessandro Castelli"
+  ],
+  "procedural_matters": [
+    "Before the hearing began, an arbitration was held and ITA 215741 took a 30% Post-Race Penalty in accordance with RRS T1(a), USA 209744 did not withdraw the protest.",
+    "Case 6 was heard together with hearing 5 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident.",
+    "Case 6 did not identify the incident as required by RRS 60.3(a).",
+    "By informing USA 209744 ashore after the races, ITA 215741 failed to hail ‘Protest’ at the first reasonable opportunity, as required by RRS 60.2(a).",
+    "As Case 5 is valid, the hearing is continued."
+  ],
+  "facts": [
+    "The incident occured in race 11, about 100 metres below the windward mark in the 2nd lap.",
+    "Wind speed 12 knots, waves 60 cm.",
+    "USA 209744 on starboard tack and ITA 215741 on port tack, both close-hauled and on a collision course.",
+    "When USA 209744 was approximately 2 metres from ITA 215741, ITA 215741 held her course and USA 209744 bore away 40° and crossed 30 cm. astern of ITA 215741.",
+    "No contact or injury, no boat took a penalty-turn."
+  ],
+  "rules": [
+    "RRS T1(a)",
+    "RRS 63",
+    "RRS 60.3(a)",
+    "RRS 60.2(a)",
+    "RRS 10"
+  ],
+  "conclusions": [
+    "ITA 215741 on port tack failed to keep clear of USA 209744 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "Case 5: By failing to keep clear of USA 209744, ITA 215741 broke RRS 10 in race 11 and the 30% post-race-penalty taken is the applicable penalty. Case 6: Protest invalid."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Johanna Poksi",
+    "members": [
+      "Giorgio Bolla",
+      "Iuan Gray",
+      "Niclas Kath",
+      "Elias Katsorhis"
+    ]
+  }
+}

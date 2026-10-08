@@ -1,0 +1,49 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 6 Masters World Championships",
+  "race_number": "1",
+  "hearing_datetime": "",
+  "parties": [
+    "GER 224874 - Alexandra Behrens",
+    "ESP 214374 - Silvia Ravetllat"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). Luciana Cardozo coach of Oriol Marron Puigdueto ESP 226658 translated for Oriol Marron Puigdueto, witness for ESP 214374."
+  ],
+  "facts": [
+    "The incident took place in race 1 (Inner loop)",
+    "Wind speed 6 knots",
+    "Waves choppy",
+    "The boats were approaching gate 4, Starboard mark.",
+    "When 5 boat lengths from the zone GER 224874, sailing by the lee, crossed clear ahead of ESP 214374.",
+    "3 unidentified boats were inside overlapped with GER 224874 who was on starboard tack.",
+    "On entering the zone GER 224874 was clear ahead of ESP 214374 who was also on starboard tack.",
+    "GER 224874 slowed while rounding the mark alongside the 3 inside overlapped boats.",
+    "ESP 214374 gained an inside overlap on GER 224874 when inside the zone.",
+    "When 30 cm separated the boats, GER 224874 bore off and avoided ESP 214374, rounding the mark outside ESP 214374.",
+    "There was no Contact.",
+    "No boat took a penalty.",
+    "There was no damage or injury."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 18.2(e)",
+    "RRS 18.2(a)(2)"
+  ],
+  "conclusions": [
+    "Since there was reasonable doubt that ESP 214374 obtained an overlap before GER 224874 reached the zone, in accordance with RRS 18.2(e) it is presumed that she did not do so.",
+    "ESP 214374 not overlapped with GER 224874 and not in the zone at the time GER 224874 reached the zone, failed to give GER 224874 mark-room, and broke RRS 18.2(a)(2)."
+  ],
+  "decision": [
+    "ESP 214374 is DSQ in race 1"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Giorgio Bolla",
+    "members": [
+      "Anastasios Fotis",
+      "Iuan Gray"
+    ]
+  }
+}

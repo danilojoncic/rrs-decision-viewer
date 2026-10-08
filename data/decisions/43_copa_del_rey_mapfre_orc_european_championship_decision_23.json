@@ -1,0 +1,38 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1 - ORC B",
+  "hearing_datetime": "2025-07-31 09:15",
+  "parties": [],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b)",
+    "Request heard in the absence of 36940 under RRS 63.1(b)"
+  ],
+  "facts": [
+    "Race 1 was run on 29.07.",
+    "Several boats requested redress due to incorrect mark colors in that race.",
+    "36940 did not request redress as a result of that incident.",
+    "The International Jury heard those requests jointly as case 01 on 29.07 17:15.",
+    "The decision to grant redress was posted on 29.07 20:00.",
+    "36940 lodged a request for redress on 30.07 09:48",
+    "36940 alleges an improper action of the International Jury in not granting her redress as the result of case 01."
+  ],
+  "rules": [
+    "RRS 1"
+  ],
+  "conclusions": [
+    "The condiditions of RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "Redress not given"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Pinar Coskuner Genc",
+    "members": [
+      "Michal Jodlowski",
+      "Andres Perez"
+    ]
+  }
+}

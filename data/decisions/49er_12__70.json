@@ -1,0 +1,45 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "2",
+  "hearing_datetime": "7 JUL 18:30",
+  "parties": [
+    "ITA 311",
+    "USA 118"
+  ],
+  "procedural_matters": [
+    "ITA 311 was represented by Bruno Festo (Crew)",
+    "USA 118 was represented by Duncan Williford (Crew)",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "40 seconds before the starting signal of race Q2, both boats were holding position on starboard tack with USA 118 clear ahead and 20 metres to leeward.",
+    "Both boats were moving slowly.",
+    "USA 118 tacked to port and continued on port for 5 seconds.",
+    "When ITA 311 was approximately 1 boat length from the bow of USA 118, ITA 311 luffed to pass head to wind and on to port tack.",
+    "USA 118 sailing faster bore away over the bow of ITA 311.",
+    "As she did so, ITA 311 passed head to wind back on to starboard, bore away, and passed behind USA 118.",
+    "There was no contact.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 16.1"
+  ],
+  "conclusions": [
+    "USA 118 kept clear of ITA 311 and did not break rule 10.",
+    "ITA 311 gave room to USA 118 whilst changing course and did not break rule 16.1"
+  ],
+  "decision": [
+    "Protest dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Jon Napier",
+    "members": [
+      "Jose Pico",
+      "Henning Jacobssen"
+    ]
+  }
+}

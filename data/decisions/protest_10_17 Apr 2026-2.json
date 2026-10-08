@@ -1,0 +1,42 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Request For Redress",
+  "event": "Optimist",
+  "race_number": "",
+  "hearing_datetime": "2 Jul 2025 at 10:00",
+  "parties": [
+    "ESP 3696 - ALEJANDRO VALERO",
+    "Race Committee"
+  ],
+  "procedural_matters": [
+    "PER 379 was represented Rodrigo Benedetto PER Coach.",
+    "ESP 3696 was represented by Fernando Alegre, ESP Coach.",
+    "Race Committee was represented by Elena Papazoglou, IODA Course Representative.",
+    "Julian Viciano, Team Leader ESP, attended the hearing as an observer.",
+    "Nelson BRA, IJ, member jury, acted as an interpreter for ESP.",
+    "Hearing No. 10 was heard together with hearing No. 11 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident"
+  ],
+  "facts": [
+    "ESP and PER requested redress alleging an error by the Race Committee in scoring the match making their scores significantly worse for the races sailed on 01 July 25.",
+    "Team Racing SI 17.7 states “A boat may not request redress under RRS 61.4 (b)(1). This changes RRS 61.1 (a) and RRS 61.4 (b)(1)”."
+  ],
+  "rules": [
+    "SI 17.7",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "A boat may not request redress under RRS 61.4 (b)(1) as per SI 17.7. Therefore, the request for redress is invalid."
+  ],
+  "decision": [
+    "Request is invalid under SI 17.7."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "IJ (",
+    "members": [
+      "Sandy Grosvenor USA",
+      "Masa Tanaka JPN",
+      "Nelson Ilha BRA"
+    ]
+  }
+}

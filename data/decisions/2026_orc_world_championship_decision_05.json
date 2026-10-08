@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by TC",
+  "event": "2026 ORC World Championship",
+  "race_number": "2",
+  "hearing_datetime": "2026-05-11 17:00",
+  "parties": [],
+  "procedural_matters": [
+    "The technical committee was represented by Zoran Grubisa (chairman of the technical committee)",
+    "GBR 188N -Django JP- was represented by Michele Ivaldi (tactician)."
+  ],
+  "facts": [
+    "GBR 188N -Django JP- was selected for a post-race equipment inspection on the water after race #2 (1st inshore race).",
+    "At the time of the inspection GBR 188N -Django JP- carried an asymmetric spinnaker on board that did not have an event sticker and that was not included in the list of spinnakers registered for the event.",
+    "GBR 188N -Django JP- did not use the spinnaker during the race.",
+    "GBR 188N -Django JP- stated that the sail was taken on board by one of the team members by mistake as there was a crew change between the offshore race and the inshore races."
+  ],
+  "rules": [
+    "NoR 1(e)(ii)"
+  ],
+  "conclusions": [
+    "GBR 188N -Django JP- failed to comply with NoR 1(e)(ii) by having a spinnaker on board that did not have an event sticker."
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons a starting penalty of 20% (Band 2) was decided.",
+    "The penalty was decreased because GBR 188N -Django JP- did not have a performance advantage as the sail was not used, the breach was an error in checking the sails to be carried on board and the party regrets the breach.",
+    "There were no circumstances to justify increasing the penalty.",
+    "The penalty is a 10% discretionary penalty, calculated using the method described in rule 44.3(c) and applied to race #2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Neven Baran",
+    "members": [
+      "Timo Haß",
+      "Marco Flavio Tosello",
+      "Line Juhl",
+      "Giuseppe D'amico"
+    ]
+  }
+}

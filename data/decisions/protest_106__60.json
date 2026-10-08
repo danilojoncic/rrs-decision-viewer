@@ -1,0 +1,39 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2025",
+  "race_number": "10",
+  "hearing_datetime": "29 JUN 19:00",
+  "parties": [
+    "GER 150",
+    "JURY"
+  ],
+  "procedural_matters": [
+    "GER 150 was represented by Paul Ost."
+  ],
+  "facts": [
+    "Cases 102, 103 and 104 were heard together in accordance with RRS 63.(2)(b). The decision was published in Case 104.",
+    "The decision in Case 104 was given and published on the Official Notice Board on 29/06/2025 at 17:27. GER 150 did not attend the hearing of Case 104.",
+    "Philipp Junker, the helm of GER 150, learned of the outcome of the hearing of Case 104 when he received a phone call from the Race Office on 29/06/2025 at 17:56.",
+    "GER 150 lodged a request for reopening of Case 104 on 29/06/2025 at 18:35."
+  ],
+  "rules": [
+    "RRS 63.7(b)(2)"
+  ],
+  "conclusions": [
+    "GER 150’s request to reopen the hearing was filed after the time limit stated in RRS 63.7(b)(2)."
+  ],
+  "decision": [
+    "The request to reopen the hearing is invalid."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Louis Mayo",
+    "members": [
+      "Cxema Pico",
+      "Gonzalo Heredia",
+      "Sandra Asle Hatch",
+      "Michalina Wroblewska"
+    ]
+  }
+}

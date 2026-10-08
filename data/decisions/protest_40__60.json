@@ -1,0 +1,60 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "5",
+  "hearing_datetime": "23 JUN 14:30",
+  "parties": [
+    "SUI 221735",
+    "SWE 224454"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "SUI 221735 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1).",
+    "However, there was good reason for the PC to extend the time limit.",
+    "Frederik Lassenius attend the hearing as a observer."
+  ],
+  "facts": [
+    "At race Q5 wind was 15 knots, choppy waves.",
+    "5 length from mark 1 SUI 221735 on starboard tack close-hauled course at the layline.",
+    "SWE 224454 on port tack on a closed hauled course to the same mark on a contact course to SUI 221735.",
+    "There where different boats windward overlapped to SUI 221735.",
+    "In the zone 2 boats lengths to the mark SWE 224454 luffed and passed head to wind in front of SUI 221735.",
+    "SUI 221735 attempted to luffed, but there was another boat directly windward of her.",
+    "SUI 221735 tried to bear away behind SWE 224454 but contact accurred between SUI 221735 bow and the rudder of SWE 224454.",
+    "After contact the rudder gudgeon of SWE 224454 was detouched.",
+    "There is minor gelcoat damage at SUI 221735.",
+    "SWE 224454 retired race 5",
+    "At race Q5 wind was 15 knots, choppy waves.",
+    "5 length from mark 1 SUI 221735 on starboard tack close-hauled course at the layline.",
+    "SWE 224454 on port tack on a closed hauled course to the same mark on a contact course to SUI 221735.",
+    "There where different boats windward overlapped to SUI 221735.",
+    "In the zone 2 boats lengths to the mark SWE 224454 luffed and passed head to wind in front of SUI 221735.",
+    "SUI 221735 attempted to luffed, but there was another boat directly windward of her.",
+    "SUI 221735 tried to bear away behind SWE 224454 but contact accurred between SUI 221735 bow and the rudder of SWE 224454.",
+    "After contact the rudder gudgeon of SWE 224454 was detouched.",
+    "There is minor gelcoat damage at SUI 221735.",
+    "SWE 224454 retired race 5"
+  ],
+  "rules": [
+    "RRS 13",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, SWE 224454 failed to keep clear of SUI",
+    "SWE 224454 broke RRS 13.",
+    "SWE 224454 did not avoid contact with SUI 221735 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for SUI 221735 the right-of-way boat to avoid contact with SWE 224454 when it became clear that SWE 224454 was not keeping clear. SUI 221735 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "By retiring from race 5 SWE 224454 took the applicably penalty. No further penalty applies."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Louis Mayo",
+    "members": [
+      "Damien Boldyrew",
+      "Henning Jacobsen"
+    ]
+  }
+}

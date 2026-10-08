@@ -1,0 +1,41 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "AUS",
+    "BRA"
+  ],
+  "procedural_matters": [
+    "N1.4(b) video provided by the OA. tracking provided by BRA observer AUS Jaime Swavley (coach) observer ricardo paranhos (coach)"
+  ],
+  "facts": [
+    "Race 2, wind 25 knots, waves 2 meters",
+    "Few seconds before the start",
+    "BRA and AUS on starboard-tack close-hauled",
+    "BRA was 1.5 lengths clear ahead and to leeward of AUS.",
+    "BRA was below the lay-line of the pin mark.",
+    "BRA tacked to port and crossed ahead of AUS, with a minimum distance of 1.5 meters with AUS.",
+    "After BRA’s tack, AUS luffed a short time and bear away immediately behind BRA.",
+    "No contact, no injury, no boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "BRA on port kept clear of AUS starboard boat as required by RRS 10"
+  ],
+  "decision": [
+    "Protest dismissed"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Maria Ramires",
+    "members": [
+      "Arnaud Mante",
+      "Johanna Poksi"
+    ]
+  }
+}

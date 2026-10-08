@@ -1,0 +1,53 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "8,",
+  "hearing_datetime": "",
+  "parties": [
+    "JPN 217704 - Haruto KURODA"
+  ],
+  "procedural_matters": [
+    "JPN 217704 was represented by Haruto KURODA.",
+    "TUR 225903 was represented by Berkay ABAY.",
+    "ESP 212354 was represented by Samuel BENEYTO.",
+    "The race committee was represented by Javier Blanco (ILCA 7 Course Representative).",
+    "Cases No. 8, 9 and 10 were heard together with case No. 7 in accordance with RRS 63.2(b) since all hearings arose from the same incident.",
+    "JPN 217704 requested a scoring inquiry at 7:59 the day after, which was answered at 9:47.",
+    "TUR 225903 requested a scoring inquiry at 22:05, which were answered at 9:45, the day after.",
+    "ESP 212354 requested a scoring inquiry at 22:31, which were answered at 9:47, the day after.",
+    "Gustavo Lima (Coach of ESP 212354) and Taisei Sambu (Coach of JPN 217704) attended the hearing as an observer.",
+    "The race committee provided video evidence.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The race committee used the black flag as the preparatory signal for race 1, second attempt, for the ILCA 7 Yellow fleet.",
+    "Eleven boats were identified in the triangle formed by the ends of the starting line and the first mark during the last minute before the starting signal.",
+    "General recall was signalled after the start.",
+    "Eleven sail numbers were displayed on the race committee signal vessel to be scored BFD in race 1. JPN 217704, TUR 225903, and ESP 212354 were not displayed on the board as BFD boats.",
+    "JPN 217704, TUR 225903, and ESP 212354 sailed race 1.",
+    "The race committee initially scored boat ESP 212354, JPN 217704, TUR 225903 according to their finishing position, and later amended their score to BFD under RRS 90.3(c).",
+    "The race committee posted a notice on the official notice board at 21:10 stating that JPN 217704, TUR 225903, and ESP 212354 would be scored BFD."
+  ],
+  "rules": [
+    "RRS 63.2(b)",
+    "RRS N1.4(b)",
+    "RRS 90.3(c)",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "The race committee shall correct a scoring error and make the corrected scores available to competitors if it determines from its own records or observations that it has scored a boat incorrectly according to RRS 90.3(c).",
+    "There was neither an improper action nor improper omission of the race committee by identifying the sail numbers of JPN 217704, TUR 225903, and ESP 212354 as BFD, therefore, the requirements for redress in RRS 61.4(b)(1) are not met. RULES: RRS 61.4(b)(1), 63.2(b), 90.3(c), N1.4(b)"
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gurvinderpal Julka",
+    "members": [
+      "Niclas Fure",
+      "Christina Ortendahl"
+    ]
+  }
+}

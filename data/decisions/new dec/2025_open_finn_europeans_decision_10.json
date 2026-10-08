@@ -1,0 +1,44 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Open Finn Europeans",
+  "race_number": "10",
+  "hearing_datetime": "2025-04-12 17:15",
+  "parties": [
+    "ITA 971 - Francesco Marino",
+    "ITA 44 - Juan Ignacio Cataneo"
+  ],
+  "procedural_matters": [
+    "Hearing held by a panel constituted as per RRS N1.4(b)",
+    "ITA 44 absent, hearing under RRS 63.1(b)"
+  ],
+  "facts": [
+    "Shortly after the starting signal of race 10.",
+    "ITA 971 on starboard, close-hauled course, ITA 44 on port close-hauled converging course.",
+    "It became obvious that ITA 44 is not keeping clear when he was 1 meter away from ITA 971",
+    "Contact occured between ITA 44 bow and ITA 971 hiking pad on the port side.",
+    "The hiking pad dettached and fell in the water.",
+    "ITA 44 took a two turns penalty shortly after the incident.",
+    "The hiking pad is worth around 200€.",
+    "The lack of the hiking pad had no effect on ITA 971 performance in race 10."
+  ],
+  "rules": [
+    "RRS 1",
+    "RRS 10",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "ITA 971 did not break RRS 14 as it was not reasonably possible for him to avoid contact from the moment it was obvious that ITA 44 is not keeping clear."
+  ],
+  "decision": [
+    "Protest upheld. No further penalty."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jan Stage",
+    "members": [
+      "Michal Jodlowski",
+      "Marco Flavio Tosello"
+    ]
+  }
+}

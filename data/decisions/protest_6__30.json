@@ -1,0 +1,60 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "87. Warnemünder Woche 2025",
+  "race_number": "4",
+  "hearing_datetime": "6 JUL 15:45",
+  "parties": [
+    "CRO 219191",
+    "DEN 210987"
+  ],
+  "procedural_matters": [
+    "Frederik Jensen (competitor sail DEN 225625) attended the hearing as an observer.",
+    "CRO 219191 did not ask to withdraw the protest after the arbitration meeting and neither boat took a Post-Race Penalty under RRS T1(a)."
+  ],
+  "facts": [
+    "At themoment of the incident there were 14 knots of wind and choppy water.",
+    "The incidenthappened close to the Race Committee vessel, 20 seconds to the startingsignal of race #4.",
+    "The start of race #4 was under RRS 30.4.",
+    "CRO 219191 was layingon the starting line on starboard tack on a reaching course almost 90 degreesto the wind.",
+    "DEN 210987 was sailingon port three and half boat lengths behind the line.",
+    "DEN 210987 tacked andwhen the tack was completed she established an overlap to leeward withCRO 219191 at alateral distance of one and half boat length.",
+    "DEN 210987 luffed andCRO 219191 heldher course.",
+    "Contact occurred between the starboard side of the bow of DEN 210987 and the port bow side of CRO 219191.",
+    "The Race Committeeidentified CRO 219191 andDEN 210987 as being in the triangle formed by the ends of the starting line and thefirst mark and scored both boats BFD.",
+    "The Race Committeedisplayed the General Recall and the sail numbers of CRO 219191 andDEN 210987 weredisplayed on a board before the next warning signal.",
+    "Neither of themsailed the next start.",
+    "There was nodamage to either boat.",
+    "Neither boat tooka penalty.",
+    "Warnemünder Woche 2025"
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 36",
+    "RRS 14",
+    "RRS 43",
+    "RRS 64.1(b)",
+    "RRS 30",
+    "RRS 4"
+  ],
+  "conclusions": [
+    "CRO 219191 towindward failed to keep clear of DEN 210987 to leeward, and broke RRS 11.",
+    "Since the race wasrestarted after the General Recall, and since CRO 219191 had caused neitherinjury nor serious damage, she shall not be penalized further, RRS 36(b).",
+    "Since DEN 210987 was right-of-way boat and the contact did not cause damage or injury, she isexonerated under RRS 43.1(c) for breaking RRS 14.",
+    "CRO 219191’s score in race #4 was made significantly worse through her own fault. Therefore, the requirements for redress in RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "Protest upheld. Since the provision of RRS 36(b) applies, no penalty is imposed on CRO 219191 under rule 60.5(c)(3).",
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Gregory Meagher",
+    "members": [
+      "Satish Kanwar",
+      "Anna Cuccia",
+      "Ron Barak",
+      "Stephen Procter"
+    ]
+  }
+}

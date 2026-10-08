@@ -1,0 +1,46 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "10",
+  "hearing_datetime": "24 JUL 16:20",
+  "parties": [
+    "GER 36382",
+    "ITA 36342"
+  ],
+  "procedural_matters": [
+    "GER 36382 was represented by Jan Marten (helm).",
+    "ITA 36342 was represented by Cosimo D'Incecco (helm).",
+    "Max Preinesberger, helm of GER 35834, gave evidence."
+  ],
+  "facts": [
+    "In Vaurien worlds race 10 the wind was approximately 10-12 knots with 30cm waves.",
+    "On the beat to windward GER 36382 was sailing on starboard close-hauled tack on a converging course with ITA 36342, who was sailing on port close-hauled tack.",
+    "When the distance between them was half a boat length, ITA 36342 started to luff and passed head to wind.",
+    "When ITA 36342 reached a close-hauled course, she was clear ahead of GER 36382 by 20cm.",
+    "Then GER 36382 luffed and passed head to wind.",
+    "No boat took a penalty.",
+    "There was no contact or injury."
+  ],
+  "rules": [
+    "RRS 12",
+    "RRS 15"
+  ],
+  "conclusions": [
+    "When acquiring right-of-way through her own actions, ITA 36342 gave GER 36382 room to keep clear, and complied with RRS 15.",
+    "GER 36382 clear astern kept clear of ITA 36342 clear ahead, and complied with RRS 12."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Niclas Kath",
+    "members": [
+      "Raoul Meyer",
+      "Angela Stenger",
+      "Johanna Poksi",
+      "Joanna Sachs"
+    ]
+  }
+}

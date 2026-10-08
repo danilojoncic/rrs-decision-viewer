@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "10",
+  "hearing_datetime": "24 JUL 17:00",
+  "parties": [
+    "ESP 36388",
+    "Javier Gonzalez-Pardo"
+  ],
+  "procedural_matters": [
+    "Race Committee of Vaurien Worlds was represented by Max von Buddenbrock, Race Committee member on the pinend.",
+    "ESP 36388 was represented by Sissel Acasuso Zubizarreta.",
+    "ESP 36388 provided video evidence."
+  ],
+  "facts": [
+    "Vaurien Worlds race 10 wind was 10-12 knots with small chops.",
+    "At the preparatory signal Race Commitee displayed the black flag.",
+    "ESP 36388 was starting at the pin-end.",
+    "ESP 36388 was identified in the triangle formed by the ends oft he starting line and the first mark during the last minute before the starting signal.",
+    "ESP 36388 was scored BFD in race 10."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the Race Committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress not given"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Angela Stenger",
+    "members": [
+      "Niclas Kath",
+      "Johanna Poksi",
+      "Raoul Meyer",
+      "Joanna Sachs"
+    ]
+  }
+}

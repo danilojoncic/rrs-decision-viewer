@@ -1,0 +1,36 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "Protestor: RC Protestee: Support person vessel 549 (Piotr",
+  "hearing_datetime": "22 JUN 16:40",
+  "parties": [
+    "RC",
+    "Support person vessel 549 (Piotr"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). Fabian Bach the Principal race officer of the Kiel Wohel 2025, attende the hearing as Race Commitee Representative Piotr Wojewski attended the hearing as support person vessel 549 Both parties presented photo evidences"
+  ],
+  "facts": [
+    "The supportperson vessel 549 was wearing a life jacket model SPINLOCK ALTO and the kill-cord was attached."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "ESTR 3.1",
+    "ESTR 3.2"
+  ],
+  "conclusions": [
+    "The support person vessel 549 did comply with the provisions of the ESTR 3.1 and 3.2 No rule broken."
+  ],
+  "decision": [
+    "No penalty applied"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Adrian Bauder",
+    "members": [
+      "Josephine Wilken",
+      "Anna Cuccia"
+    ]
+  }
+}

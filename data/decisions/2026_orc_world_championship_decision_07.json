@@ -1,0 +1,50 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 ORC World Championship",
+  "race_number": "2",
+  "hearing_datetime": "2026-05-11 18:30",
+  "parties": [],
+  "procedural_matters": [
+    "Hearing No. 7 was heard together with hearing No. 6 in accordance with RRS 63.2(b) since both hearings arose from the same incident.",
+    "ITA 211 -Robe da Mat- was represented by Tomislav Basic (tactician).",
+    "ITA 18266 -Nextgen- was represented by Claudio Arborea (tactician).",
+    "ITA 15852 -Magic Bus- was represented by Marco Cali (helmsman).",
+    "Pietro Cali (owner of Magic Bus) attended the hearing as an observer.",
+    "Jacob Marceneak (navigator of ITA 211) presented evidence from the tracking as a witness."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 5-6 knots of wind and bumpy cross waves.",
+    "ITA 211 -Robe da Mat- (11m LoA), ITA 18266 -Nextgen- (10 m LoA) and ITA 15852 -Magic Bus- (12m LoA) were sailing on the run towards mark 4p of the leeward gate, to be rounded to port.",
+    "All three boats were sailing at a VMG angle, which was approximately 130 degrees from the true wind. ITA 211 -Robe da Mat- and ITA 18266 -Nextgen- with the gennaker, and ITA 15852 -Magic Bus- with the spinnaker.",
+    "ITA 15852 -Magic Bus- entered the zone sailing on starboard tack, clear ahead of ITA 18266 -Nextgen- who was sailing at 4 knots.",
+    "ITA 18266 -Nextgen- entered the zone sailing on starboard tack, clear ahead of ITA 211 -Robe da Mat-, who was also on starboard tack and sailing at a speed of 5.7 knots.",
+    "When ITA 15852 -Magic Bus- was two boat lengths from the mark, she dropped the spinnaker while gybing to port tack on a VMG angle and slowed down to a speed of 2 knots and immediately after ITA 18266 -Nextgen- gybed to port tack as well and subsequently dropped the gennaker. ITA 18266 -Nextgen- sailing faster, established an outside overlap to leeward of ITA 15852 -Magic Bus-, at a lateral distance of 1.5 metres.",
+    "At that moment an inside overlap was established between ITA 211 -Robe da Mat-, still on starboard tack, ITA 15852 -Magic Bus-, and ITA 18266 -Nextgen-.",
+    "At the mark, ITA 211 -Robe da Mat- gybed to port tack and at that moment the lateral distance between her and ITA 15852 -Magic Bus- was one metre and between ITA 15852 -Magic Bus-, and ITA 18266 -Nextgen- the distance was one metre as well.",
+    "Both ITA 15852 -Magic Bus- and ITA 18266 -Nextgen- bore away.",
+    "There was no contact between the boats.",
+    "ITA 211 -Robe de Mat- rounded the mark in front of ITA 15852 -Magic Bus- and ITA 18266 -Nextgen-.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 18.2(a)(2)",
+    "RRS 63.2(b)"
+  ],
+  "conclusions": [
+    "ITA 211 -Robe da Mat- not overlapped with ITA 15852 -Magic Bus- and ITA 18266 -Nextgen- and not in the zone at the time ITA 15852 -Magic Bus- and ITA 18266 -Nextgen- reached the zone, failed to give ITA 15852 -Magic Bus- and ITA 18266 -Nextgen- mark-room, and broke RRS 18.2(a)(2)."
+  ],
+  "decision": [
+    "ITA 211 -Robe da Mat- is DSQ in race #2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Neven Baran",
+    "members": [
+      "Stavros Kouris",
+      "Pinar Coskuner Genc",
+      "Line Juhl",
+      "Bruno Finzi"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "27 JUN 10:30",
+  "parties": [
+    "International Jury",
+    "FRA 3475 (R6)"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "FRA 3475 was represented by Alex Johnson (helm).",
+    "The International Jury was represented by Timo Hass (vice-chair of the International Jury)",
+    "Henri Colomb (crew of FRA 3475) attended the hearing as observer."
+  ],
+  "facts": [
+    "On Jun 26th at 17:45, the International Jury published the decision for Case 48, disqualifying IND 3407 in race 6.",
+    "The online system requires a separate action to file score changes and thus inform the scorers; IND 3407 score change was not added into the case.",
+    "Assignments for the Final Series were based on the qualifying series ranking available at 21:00 hrs, and FRA 3475 was assigned to the Bronze Fleet as the first boat in that fleet.",
+    "In the morning of June 27th, the Race Committee observed the problem and implemented IND 3407 DSQ into the results.",
+    "With the corrected scores, the bronze/silver cut-off position was: HKG 3053",
+    "112 points in silver, NED 3253",
+    "113 points in bronze. FRA 3475, with 112 points, would be in silver fleet.",
+    "SI Addendum \"Qualifying and Final Series\" 3.4 states that \"Any recalculation of qualifying series rankings after boats have been assigned to the final series will not affect the assignments except that a redress decision may promote a boat to a higher fleet.\""
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "FRA 3475’s score in the final series was made significantly worse through no fault of her own by an omission of the International Jury, therefore the requirements in RRS 61.4(b)(1) are met."
+  ],
+  "decision": [
+    "FRA 3475 is to be promoted to the Silver fleet for the Final Series. No other boats shell be demoted into the bronze fleet."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Rick Mallinson",
+    "members": [
+      "Alessandro Berrone",
+      "Lance Burger"
+    ]
+  }
+}

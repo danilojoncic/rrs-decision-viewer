@@ -1,0 +1,35 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "1",
+  "hearing_datetime": "",
+  "parties": [
+    "POR 218251 - João MORAIS"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "POR 218251 and the race committee representative did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "Sufficient evidence was not available pertaining to the case."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "The protest committee was not in a position to decide the request for redress in the absence of sufficient evidence."
+  ],
+  "decision": [
+    "The request for redress is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Elliot Levy",
+    "members": [
+      "Luigi Bertini",
+      "Eurico Teodoro"
+    ]
+  }
+}

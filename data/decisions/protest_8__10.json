@@ -1,0 +1,55 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "CAN",
+    "HUN"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "During the hearing the protest committee clarified in accordance with RRS 63.2(c) that the hearing request was not only a request for redress but also a protest, and proceeded with it accordingly.",
+    "Nicolas Tosi [coach of CAN] attended the hearing as an observer.",
+    "Mateo Ferrer Skoknic [member of the International Jury] gave evidence as a witness."
+  ],
+  "facts": [
+    "The conditions at the time of the incident was 20 kts with 1.5 – 2 metre swell.",
+    "Approximately 2 minutes and 45 seconds before the starting signal, CAN was on starboard tack slightly above a close-hauled course and was sailing slowly on a converging course with HUN, who was on port tack on a reaching course sailing 12kts.",
+    "With 3 boat lengths distance between them CAN luffed and tacked.",
+    "With 1 boat length distance between them HUN bore away.",
+    "There was contact between the starboard bow of HUN and the starboard stern of CAN.",
+    "There is damage on the starboard hull cap of CAN consisting of 10 cm scratch, there are scratches on the rear beam.",
+    "The cap of the starboard hull of fell off and the hull filled with water.",
+    "There is damage on the starboard hull of HUN consisting of a gelcoat crack of 5-7 cm.",
+    "The hand of the crew of CAN suffered contusion.",
+    "CAN retired in race 3.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 61.4(b)(2)",
+    "RRS 63.2(c)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "HUN on port tack failed to keep clear of CAN on starboard tack, and broke RRS 10.",
+    "HUN did not avoid contact with CAN even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for CAN the right-of-way boat to avoid contact with HUN when it became clear that HUN was not keeping clear. CAN did not break RRS 14(a).",
+    "The fact that the cap fell of and the hull was filled with water is considered not to be physical damage.",
+    "CAN’s score in race 3 was made significantly worse, however this was not because of physical damage or injury caused by the action of HUN. Therefore the requirements for redress in RRS 61.4(b)(2) are not met."
+  ],
+  "decision": [
+    "HUN is DSQ in race 3. Redress is not given to CAN."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Mateo Skoknic",
+    "members": [
+      "Hella Bouma",
+      "Maria Massapina"
+    ]
+  }
+}

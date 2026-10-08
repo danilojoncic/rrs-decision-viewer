@@ -1,0 +1,37 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Reopening",
+  "event": "420 Open",
+  "race_number": "",
+  "hearing_datetime": "23 Jul 2025 at 17:15",
+  "parties": [
+    "SUI 57071 - Damian Berther",
+    "FRA 57379 - BERTILLE POSTEL"
+  ],
+  "procedural_matters": [
+    "SUI 57071 was represented by Damien Berther."
+  ],
+  "facts": [
+    "The video evidence SUI 57071 wishes to present was sought unsuccessfully by SUI 57071 before the hearing.",
+    "The video evidence was not available to SUI 57071 at the time of the original hearing."
+  ],
+  "rules": [
+    "RRS 63.7(a)(3)"
+  ],
+  "conclusions": [
+    "The video evidence that SUI 57071 plans to present is new and might be significant. Therefore, the requirements in RRS 63.7(a)(3) for reopening the hearing are met."
+  ],
+  "decision": [
+    "Hearings No. 4 & 6 will be reopened."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "David Hudson (RSA",
+      "Aylin Suntay (TUR",
+      "Joao Carmeiro (POR",
+      "Timo"
+    ]
+  }
+}

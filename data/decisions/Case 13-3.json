@@ -1,0 +1,39 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "F1",
+  "hearing_datetime": "",
+  "parties": [
+    "GRE 208698 - Alexandros ELEFTHERIADIS",
+    "POL 218577 - Hubert ROSZYK"
+  ],
+  "procedural_matters": [
+    "Panel of the International Jury was composed under RRS N1.4(b)"
+  ],
+  "facts": [
+    "Wind above 20 knots, waves up to 1,5 m.",
+    "GRE 208698 on starboard and POL 218577 on port on the beat to windward.",
+    "Boats were on converging course with GRE 208698 aiming just behind the middle of the hull of POL 218577.",
+    "GRE 208698 bore away at the distance 0,5 m and passed astern of POL 218577,"
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 10"
+  ],
+  "conclusions": [
+    "There was reasonable doubt that POL 218577 could have crossed, if GRE 208698 had not taken avoiding action (see WS Case 50).",
+    "POL 218577 on port tack failed to keep clear of GRE 208698 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "POL 218577 is DSQ in race no. 7."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Arto Kiiski",
+    "members": [
+      "Mirko Ukas",
+      "Uros Zvan"
+    ]
+  }
+}

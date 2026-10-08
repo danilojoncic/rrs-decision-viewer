@@ -1,0 +1,42 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "2025 Rooster-Monautix EurILCA Europa Cup and High Performance Grand Prix",
+  "race_number": "1",
+  "hearing_datetime": "2025-09-13 18:20",
+  "parties": [
+    "HUN 222140 - Vince DENES"
+  ],
+  "procedural_matters": [
+    "HUN 222140 was represented by Vince DENES.",
+    "The race committee was represented by Benedek FLUCK.",
+    "The international jury created a hearing request based on the content of the scoring inquiry of HUN 222140.",
+    "Ute REISINGER (member of the international jury) attended the hearing as an observer."
+  ],
+  "facts": [
+    "The race committee displayed the black flag as preparatory signal during the second attempt to start race 1 of the ILCA 6 class.",
+    "The race committee signalled general recall after the starting signal, and displayed the sail number of HUN 222140 at around 09:35 on 13 September 2025.",
+    "The protest time limit for the ILCA 6 class was 16:15.",
+    "HUN 222140 reviewed the video of the start with the race committee ashore at around 15:40.",
+    "HUN 222140 submitted a scoring inquiry at 18:08 on 13 September 2025 alleging that the race committee may have scored her incorrectly."
+  ],
+  "rules": [
+    "RRS 61.2(b)(1)"
+  ],
+  "conclusions": [
+    "HUN 222140 failed to deliver the request for redress within the protest time limit, as required by RRS 61.2(b) (1). There was no good reason for the international jury to extend the time."
+  ],
+  "decision": [
+    "Request for Redress Request No.: 05 Date & Time: 2025-09-13 18:33 CEST Printed: 2025-09-13 18:40 DECISION The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Danilo Joncic",
+    "members": [
+      "Søren Badstue",
+      "Hella Bouma",
+      "Yoann Peronneau",
+      "Wolfgang Reisinger"
+    ]
+  }
+}

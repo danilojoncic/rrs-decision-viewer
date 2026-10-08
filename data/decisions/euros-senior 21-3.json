@@ -1,0 +1,60 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA SENIOR EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "9",
+  "hearing_datetime": "",
+  "parties": [
+    "MON 227755 - Jeremy MOUTOUT",
+    "IRL 222017 - Finn LYNCH"
+  ],
+  "procedural_matters": [
+    "MON 227755 was represented by Jeremy Moutout.",
+    "IRL 222017 was represented by Finn Lynch.",
+    "Ben Walkemeyer (Coach of IRL 222017) was present in the hearing as an observer.",
+    "IRL 222017 presented video evidence during the hearing."
+  ],
+  "facts": [
+    "Wind conditions were 10kts and a sea state with half meter waves, and a current of 10 m/min with its direction slightly to the right of the wind direction.",
+    "Thirty seconds before the starting signal of race 9 of the ILCA 7 Gold fleet, IRL 222017 tacked from port to starboard into a gap between MON 227755 and a boat from MNE, who were stationary on starboard.",
+    "IRL 222017 was thereafter overlapped between MON 227755 to leeward and MNE to windward.",
+    "The closest lateral distance between MON 227755, IRL 222017, and MNE was 50cm.",
+    "Five seconds before the starting signal, MON 227755 who was below the layline to the pin luffed sharply up to head to wind. At the same time, IRL 222017 who was approaching the starting line on close-hauled, luffed, but MNE limited her luff.",
+    "Contact occurred between the masts and then the sails of MON 227755 and IRL 222017.",
+    "Immediately after the contact MON 227755 touched the pin end starting vessel with the port side of her hull.",
+    "After starting, MON 227755 took a One-Turn Penalty.",
+    "There was no damage or injury.",
+    "Both boats finished the race."
+  ],
+  "rules": [
+    "RRS 16.1",
+    "RRS 31",
+    "RRS 11",
+    "RRS 43.1(b)",
+    "RRS 14(a)",
+    "RRS 43.1(c)"
+  ],
+  "conclusions": [
+    "When changing course, MON 227755 the right-of-way boat failed to give IRL 222017 room to keep clear, and broke RRS 16.1.",
+    "MON 227755 touched the pin end starting vessel and broke RRS 31.",
+    "IRL 222017 to windward failed to keep clear of MON 227755 to leeward, and broke RRS 11.",
+    "Since IRL 222017 broke RRS 11 while she was sailing within the room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach.",
+    "MON 227755 did not avoid contact with IRL 222017 even though it was reasonably possible, and broke RRS 14(a).",
+    "Since MON 227755 was right-of way boat and the contact did not cause damage or injury, she is exonerated under RRS 43.1(c) for breaking RRS 14(a).",
+    "It was not reasonably possible for IRL 222017 the boat sailing within the room to which she was entitled to avoid contact with MON 227755 when it became clear that MON was not giving room. IRL 222017 did not break RRS 14(a).",
+    "Since MON 227755 broke RRS 11 and 31 in the same incident she need not take the penalty for breaking RRS 31. By taking, a One-Turn Penalty, MON 227755 did not take the applicable penalty."
+  ],
+  "decision": [
+    "MON 227755 is DSQ in race 9."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Wai Kai Chan Vicky",
+    "members": [
+      "Bence Borocz",
+      "Niclas Fure",
+      "Danilo Joncic",
+      "Johanna Poksi"
+    ]
+  }
+}

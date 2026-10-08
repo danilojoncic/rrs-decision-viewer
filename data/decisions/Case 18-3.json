@@ -1,0 +1,31 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "CYP 212431 - Pavlos KONTIDES"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "CYP 212431 asked to withdraw the request for reopening."
+  ],
+  "rules": [],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the request."
+  ],
+  "decision": [
+    "Request for reopening withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Charlotte Greppe",
+    "members": [
+      "Giorgio Bolla",
+      "Niclas Fure",
+      "Eunjin Kim",
+      "Heiko Thoelmann"
+    ]
+  }
+}

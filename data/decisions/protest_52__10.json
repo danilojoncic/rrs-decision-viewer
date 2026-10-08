@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "12",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP",
+    "BEL"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). Toni Mas, coach of ESP attended the hearing as observer. Nicolas Tosi, coach of BEL attended the hearing as observer."
+  ],
+  "facts": [
+    "Race 12, Mark 1",
+    "The wind conditions at the time of the incident were 7 knots and swell of 0,5 meters.",
+    "At the 1st upwind leg, ESP and BEL were sailing close-hauled on port",
+    "ESP was clear ahead of BEL",
+    "ESP on the starboard layline passed head to wind reaching starboard close-hauled at 3,5 boat lengths of the mark",
+    "BEL tacked on the layline inside the zone, reaching a starboard close-hauled 1 meter clear ahead of ESP",
+    "ESP bored away and overlapped to leeward of BEL",
+    "ESP touched the mark and was entagled with the mark",
+    "BEL round 1 meter from the mark",
+    "No damages or injury. No penalties taken."
+  ],
+  "rules": [
+    "RRS 18.3(b)"
+  ],
+  "conclusions": [
+    "BEL failed to give mark-room to ESP, the inside overlapped boat, who was on starboard tack since entering the zone and was fetching the mark. BEL broke RRS 18.3(b)."
+  ],
+  "decision": [
+    "BEL is DSQ in race 12."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Sukkyong KIM",
+    "members": [
+      "Arnaud Mante",
+      "Eurico Teodoro"
+    ]
+  }
+}

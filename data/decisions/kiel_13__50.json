@@ -1,0 +1,57 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "",
+  "hearing_datetime": "21 JUN 19:15",
+  "parties": [
+    "Technical Committee",
+    "NOR 15666 (R3)"
+  ],
+  "procedural_matters": [
+    "Rob Taylor (technical committee) attended the hearing as an observer.",
+    "Hasse Lindmo (crew member) attended the hearing as an observer. Procedural matters of the reopened hearing: The international Jury decided that it may have made a significant error and reopened the hearing on the 23.06.20206 in accordance with RRS 63.7(a)(2). The parties were not present."
+  ],
+  "facts": [
+    "The ORC of NOR 15666 states a crew weight of max. 888kg.",
+    "The TC established a calibrated set of scales at the dockside.",
+    "After the last race of the day and immediately after docking at the marina the crew of NOR 15666 crew was weighed by the TC.",
+    "The crew weight was 909.7kg.",
+    "After 45 min the crew was weighed again with a total of 895.3kg.",
+    "There was no weight check by the TC at any other time.",
+    "The helmsman of NOR 15666 did not weigh the crew prior to the regatta.",
+    "Facts found in the reopened hearing:",
+    "Facts 1-7 of the original hearing stand",
+    "On the 21st of June 2026 races 2 and 3 were sailed.",
+    "SI 11.5 states the following: Penalties for breaches of class rules, RRS 50 or 78.1, class rules, rules in the Notice of Race or Sailing Instructions marked ‘[DP]’ or [SP], should the case go to a hearing, are at the discretion of the international jury and may be less than a disqualification."
+  ],
+  "rules": [
+    "SI 11.5",
+    "RRS 78.1",
+    "ORC 44.3(c)",
+    "NoR 8.2"
+  ],
+  "conclusions": [
+    "At the time of weighing, NOR 15666's crew weight exceeded the maximum crew weight as stated on their ORC certificate and broke class rule ORC 200.1(a).",
+    "By not complying with ORC 200.1(a) NOR 15666 broke NoR RRS 78.1 (as modified by NoR 8.2).",
+    "As there was no evidence that NOR 15666 was in breach of ORC 200.1(a) at any other time and that the breach occurred whilst NOR 15666 was not racing the penalty shall apply to the closest race (Race 3) as specified in RRS 60.5(c).",
+    "Reopened hearing conclusions:",
+    "At the time of weighing, NOR 15666's crew weight exceeded the maximum crew weight as stated on their ORC certificate and broke class rule ORC 200.1(a).",
+    "By not complying with ORC 200.1(a) NOR 15666 broke NoR RRS 78.1 (as modified by NoR 8.2)."
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guide for Boats & Support Persons a starting penalty of 20% was decided.",
+    "The penalty was increased because the breach was not accidental.",
+    "The penalty is a 30% discretionary penalty, calculated using the method described in rule 44.3(c) and applied to races 2 and 3."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Johannes Liebig",
+    "members": [
+      "Howard Elliott",
+      "Alen Kustic",
+      "Rick Mallinson",
+      "Julia Schmidt"
+    ]
+  }
+}

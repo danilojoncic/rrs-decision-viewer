@@ -1,0 +1,40 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "7",
+  "hearing_datetime": "28 JUN 17:00",
+  "parties": [
+    "International Jury",
+    "Support person vessel GER 266 (),"
+  ],
+  "procedural_matters": [
+    "Upon receipt of a report from the Jury boat on the ILCA 4 race area, the International Jury decided to call a hearing under RRS 62.1 to consider whether a support person had broken a rule.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GER 215510 and Coach Bruno Schultze did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "Jury was represented by Adrian Bauder."
+  ],
+  "facts": [
+    "Bruno Schultze was driving support person vessel 266 on 28 June 2025.",
+    "Approximatly two and half minutes before the starting signal of race 7 and about 15 - 20 meters from the starting line close to the starting vessel, Bruno Schultze was observed approaching GER 215510, talking to her and picking up a bag.",
+    "At the start the Race Committee signaled a general recall."
+  ],
+  "rules": [
+    "ESTR 5.1"
+  ],
+  "conclusions": [
+    "GER 215510 received help from an outside source, and broke RRS 41. Because the race was general recalled no penalty is imposed.",
+    "Bruno Schultze broke Event Support Team Regulation 5.1.1 and 5.1.2."
+  ],
+  "decision": [
+    "Bruno Schultze must be anchored during the starting procedure of all the ILCA 4 races of the day 29 of June."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Louis Mayo",
+    "members": [
+      "Anna Cuccia",
+      "Gonzalo Heredia"
+    ]
+  }
+}

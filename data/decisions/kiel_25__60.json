@@ -1,0 +1,46 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "22 JUN 18:50",
+  "parties": [
+    "TUR 97",
+    "FRA 10"
+  ],
+  "procedural_matters": [
+    "TUR 97 was represented by Özlem Irmak Tomak (helm).",
+    "FRA 10 was represented by Manon Pennanéac'h (helm).",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Efe Özgenç (crew of TUR 97) attended the hearing as an observer."
+  ],
+  "facts": [
+    "The incident occurred at mark 3S in race 6.",
+    "The conditions at the time of the incident were 6 knots of wind with small waves.",
+    "When TUR 97 entered the zone on starboard tack, FRA 10 was sailing on port tack and inside overlapped on a collision course with TUR 97.",
+    "When TUR 97 was one boat width from the mark, FRA 10 gybed onto starboard tack and was then aiming at the mast of TUR 97.",
+    "When FRA 10 gybed, TUR 97 was sailing at a higher angle and was approximately half a boat length bow forward.",
+    "TUR 97 luffed around the mark, leaving approximately one and a half boat widths of space between her and the mark.",
+    "FRA 10 luffed to the inside of TUR 97 and within half a metre of her.",
+    "Both boats continued luffing to a close-hauled course while passing the mark.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 18.2(a)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "TUR 97, outside overlapped at the zone, gave FRA 10 mark-room, as required by RRS 18.2(a)(1)."
+  ],
+  "decision": [
+    "Protest dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Michal Zak",
+    "members": [
+      "Louis Mackenzie Mayo",
+      "Johannes Liebig"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA SENIOR EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "MNE 224085 - Ilija MARKOVIC",
+    "TUR 223714 - Berkay ABAY"
+  ],
+  "procedural_matters": [
+    "MNE 224085 was represented by Ilija Markovic.",
+    "TUR 223714 was represented by Berkay Abay.",
+    "Piotr Malinowski (POL 224193) gave evidence as a witness for MNE 224085.",
+    "The arbitrator decided that arbitration was not appropriate and a hearing of Case 04 was held.",
+    "The protest time limit for ILCA 7 Yellow fleet on 18th May was at 18:05, MNE 224085 submitted the protest at 18:15.",
+    "MNE 224085 was not towed back to harbor after the last race of the day and after arriving at the harbor he immediately put the boat in its designated spot and submitted the protest.",
+    "MNE 224085 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1) and SI 16.2. However, there was a good reason for the panel of the international jury to extend the time limit. Therefore the protest is valid under RRS 60.4(a)(1)."
+  ],
+  "facts": [
+    "The conditions during the time of the incident were 12 knots of wind and light chop.",
+    "Five boat lengths before mark 3p before the reach to the finish, MNE 224085 was sailing straight downwind on starboard tack towards mark 3p, with POL 224193, also on starboard tack, overlapped bow to bow at a lateral distance of 3-4 metres to leeward of her.",
+    "TUR 223714 was also sailing on starboard tack by the lee, overlapped to windward of MNE 224085 and on a converging course with MNE 224085.",
+    "Both boats held their courses.",
+    "Contact occurred between MNE 224085's starboard side of the bow and TUR 223714's port side of the hull amidships.",
+    "No damage occurred.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 60.3(b)(1)",
+    "RRS 60.4(a)(1)",
+    "SI 16.2",
+    "RRS 11",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "TUR 223714 to windward failed to keep clear of MNE 224085 to leeward, and broke RRS 11.",
+    "TUR 223714 did not avoid contact with MNE 224085 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for MNE 224085 the right-of-way boat to avoid contact with TUR 223714 when it became clear that TUR 223714 was not keeping clear. MNE 224085 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "TUR 223714 is DSQ from race 2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bence Borocz",
+    "members": [
+      "Niclas Fure",
+      "Katarzyna Goralska",
+      "Johanna Poksi",
+      "Cristian TABACU"
+    ]
+  }
+}

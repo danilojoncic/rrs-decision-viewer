@@ -1,0 +1,51 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress by PC",
+  "event": "Europa Cup ILCA Italy 2026",
+  "race_number": "3",
+  "hearing_datetime": "2026-06-16 11:00",
+  "parties": [
+    "FRA 218833 - MAYER Lorenzo"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The hearing was opened in accordance with SI 15.1.2.",
+    "FRA 218833 was represented by Lorenzo Mayer.",
+    "FRA 218833 provided video evidence and tracker evidence."
+  ],
+  "facts": [
+    "ITA 219260, FRA 218833, and ISR 211225 were sailing downwind at the third leg of race #3.",
+    "At 13:33, a Jury RIB saw FRA 218833 and ITA 219260 infringements of Rule 42 and signaled a penalty to ITA 219260 with yellow flag and whistle. ITA 219260 retired.",
+    "PC signaled to FRA 218833, and FRA 218833 did not take any action.",
+    "This judge registered the infringement of Rule 42 of FRA 218833.",
+    "At 13:57, FRA 218833 was properly signaled by another jury rib with a yellow flag for a different infringement at the 5th leg of the same race, and FRA 218833 took a 2-turn penalty.",
+    "While inserting the infringements into the system, the PC recorded that FRA 218833 received 2 yellow flags and did not retire on the second infringement, and scored FRA 218833 DNE in race #3.",
+    "The video evidence did not show the flag or wistle used by the first rib to signal the penalty to FRA 218833.",
+    "The tracker did not show FRA 218833 taking a 2-turn penalty at same time and place when ITA 219260 retired after being penalized."
+  ],
+  "rules": [
+    "RRS 1.2",
+    "RRS N1.4(b)",
+    "RRS P2.1",
+    "RRS P2.2"
+  ],
+  "conclusions": [
+    "PC did not penalize properly FRA 218833, as in Judges Manual I.9.1. FRA 218833 was not correctly informed about its first infringement.",
+    "FRA 218833 was not aware at the moment she received the second penalty that she already had the first penalty and took a 2-turn penalty as is required in RRS P2.1.",
+    "It was not FRA 218833's fault for not retiring at the moment of the second penalty, as it was not properly informed about the first one, and it did not break RRS P2.2.",
+    "P2.1 Penalty for FRA 218833 is canceled.",
+    "P2.2 Penalty for FRA 218833 is changed to a P2.1 penalty."
+  ],
+  "decision": [
+    "Redress is given. FRA 218833 is reinstated as its final position. Record of R42 penalties of FRA 218833 will be updated cancelling her first penality and recording the second penalty as unique penalty of the day."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Uros Zvan",
+    "members": [
+      "Niclas Fure",
+      "Tatiana Almeida",
+      "Charlotte Greppe"
+    ]
+  }
+}

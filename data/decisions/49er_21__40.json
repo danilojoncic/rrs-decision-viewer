@@ -1,0 +1,49 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "7",
+  "hearing_datetime": "9 JUL 17:00",
+  "parties": [
+    "FRA 19",
+    "FRA 63"
+  ],
+  "procedural_matters": [
+    "FRA 19 was represented by Mathilde Lovadina (Helm).",
+    "FRA 63 was represented by Manon Peyre (Helm).",
+    "Freya Black (Helm of GBR 24) gave evidence as a witness for FRA 19.",
+    "FRA 63 presented tracking evidence.",
+    "Cxema Pico (International Jury) presented video evidence.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "At the time of the incident there was 6-7 knots of wind and flat water.",
+    "FRA 19 on starboard tack was approaching mark 1, 1.5 boat lengths clear ahead of FRA 63 and overlapped outside of another boat.",
+    "FRA 19 rounded the mark keeping a distance of about 1/2 a boat length from the inside overlapped boat.",
+    "When she gybed, she was 2.5 boat lengths from the mark.",
+    "Immediately after this, FRA 63 gybed within 0.5 metres of the mark and becoming overlapped bow to bow and 1 boat length to windward of FRA 19.",
+    "Both boats continued sailing parallel to each other, for 2 to 3 boat lengths, with FRA 63 slowly overtaking FRA 19.",
+    "FRA 19 luffed and immediately after FRA 63 started luffing.",
+    "Both boats converged for about 2 boat lengths, and when the boats were 0.5 boat lengths apart with FRA 63 1/2 a boat length bow forward and both boats with the gennakers luffing, FRA 19 started heeling to windward, putting the windward wing in the water, and began to bear away.",
+    "There was no contact and no boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 16.1",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "By keeping clear FRA 63 complied with her obligations under rule 11 and broke no rule."
+  ],
+  "decision": [
+    "Protest dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jose Pico",
+    "members": [
+      "Christina Örtendahl",
+      "Lisa Steppat"
+    ]
+  }
+}

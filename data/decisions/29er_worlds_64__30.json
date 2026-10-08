@@ -1,0 +1,34 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "29er World Championship 2026",
+  "race_number": "13",
+  "hearing_datetime": "N/A",
+  "parties": [
+    "International Jury",
+    "POL 3320 (R13)"
+  ],
+  "procedural_matters": [
+    "The international jury decided that it may have made a significant error in Hearing No. 54.",
+    "In the original hearing, held in the absence of the party, the panel of the international jury was not able to assess whether the score of the boat was made significantly worse by physical damage, injury or the capsize mentioned in the hearing request form.",
+    "The panel of the international jury may have made a significant error in establishing as a fact that there was no relevant damage or injury."
+  ],
+  "facts": [],
+  "rules": [],
+  "conclusions": [],
+  "decision": [
+    "Hearing No. 54 will be reopened."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "",
+    "members": [
+      "Stavros Kouris",
+      "Niclas Kath",
+      "Chris Atkins",
+      "Holger Herburger",
+      "Lance Burger",
+      "Maria"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-30",
+  "parties": [
+    "UAE 43 - Ivana and aleks - Lyuben Todorov",
+    "BEL 1450 - Xekmatt"
+  ],
+  "procedural_matters": [
+    "UAE 43 was represented by Ivo Todorov (main sail trimmer).",
+    "Chavdar Alexandrov (owner of UAE 43) attended the hearing as an observer.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "During the consideration to reopen hearing No. 5, UAE 43 suggested that nobody had informed them that they were being protested at the time of the incident.",
+    "Immediately after the incident on the water, BEL 1450 shouted 'Protest' 5 times in the direction of UAE 43 and displayed a red protest flag.",
+    "After racing, UAE 43 had problems with her engine and arrived to the dock at approximately 1800",
+    "Place and time of the hearing were published on the online system as stated in SI 13.3.",
+    "UAE 43 had access to the online notice board while being afloat but did not check it until 1830.",
+    "The hearing was held at 1920 on 29 July and the decision was given at 1950."
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "RRS 63.7(a)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "UAE 43 was not unavoidably absent from the",
+    "Original hearing:",
+    ". Therefore, the requirements in RRS 63.7(a)(1) for reopening the hearing are not met."
+  ],
+  "decision": [
+    "Hearing No. 5 will not be reopened."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Giorgio Davanzo",
+    "members": [
+      "Pinar Coskuner Genc",
+      "Finn Mrugalla"
+    ]
+  }
+}

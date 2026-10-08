@@ -1,0 +1,54 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "44° Lake Garda Meeting Optimist",
+  "race_number": "5",
+  "hearing_datetime": "2026-04-03",
+  "parties": [
+    "USA 23632 - Caitlyn Flynn FLYNN",
+    "CRO 1377 - Jadran Rozic",
+    "USA 23632 - Caitlyn Flynn Flynn",
+    "CRO 1377 - Jadran Rozic Rozic"
+  ],
+  "procedural_matters": [
+    "CRO 1377 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The panel of the international Jury was composed in accordance with RRS N1.4(b).",
+    "Fernando Alegre, coach of USA 23632, attended the hearing as an observer.",
+    "Fiorella Nicolari, Ezio Fonda and Marin Kustic, members of international jury, attended the hearing as observers.",
+    "Hearing No. 6, No. 7 and No. 8 were heard together in accordance with RRS 63.2(b) since all three hearings arose from the same incident."
+  ],
+  "facts": [
+    "USA 23632, CRO 1377, ITA 249 were sailing in a red fleet.",
+    "ITA 249 informed the race committee at the finishing line about her protest.",
+    "USA 23632 informed the race committee at the finishing line about her protest.",
+    "The protest time limit for Devision A on 3rd April was 19:18.",
+    "USA 23632 delivered protest No. 6 at 19:18.",
+    "Protest No. 6 did not identify the incident.",
+    "At 19:21 USA 23632 delivered protest No. 8, a second protest, identifying the incident.",
+    "Protest No. 7 was delivered at 19:20.",
+    "After coming ashore and before delivering protest No. 7, ITA 249 took care of her boat and other topics for more than 10 minutes."
+  ],
+  "rules": [
+    "RRS 60.3(a)",
+    "RRS 60.3(b)(1)",
+    "RRS 60.4(1)(a)",
+    "RRS 63.1(b)",
+    "SI 18.1"
+  ],
+  "conclusions": [
+    "Protest No. 6 did not identify the incident as required by RRS 60.3(a). Therefore the protest is invalid under RRS 60.4(1)(a).",
+    "ITA 249 failed to deliver the protest No. 7 within the protest time limit, as required by RRS 60.3(b)(1) and SI 18.1. There was no good reason for the protest committee to extend the time limit. Therefore the protest is invalid under RRS 60.4(1)(a).",
+    "USA 2362 failed to deliver the protest No. 8 within the protest time limit, as required by RRS 60.3(b)(1) and SI 18.1. There was no good reason for the protest committee to extend the time limit. Therefore the protest is invalid under RRS 60.4(1)(a)."
+  ],
+  "decision": [
+    "Protests No. 6, No. 7 and No. 8 are invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Hermann Herburger",
+    "members": [
+      "Alen Kustic",
+      "Martin Clasen"
+    ]
+  }
+}

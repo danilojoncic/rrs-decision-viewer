@@ -1,0 +1,34 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest / Request for Redress",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "11",
+  "hearing_datetime": "",
+  "parties": [
+    "POL 226458 - Zofia POSPIESZNA",
+    "ITA 226847 - Giorgia BONALANA"
+  ],
+  "procedural_matters": [
+    "Before the hearing began ITA 226847 took a 30% Post-Race Penalty in accordance with RRS T1(a)."
+  ],
+  "facts": [
+    "POL 226458 asked to withdraw the protest and request for redress."
+  ],
+  "rules": [
+    "RRS T1(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest and request for redress."
+  ],
+  "decision": [
+    "Interntaiona Jury allows the protest to be withdrawn. ITA 226847 took a 30% Post-Race Penalty."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Philippe Mazard",
+    "members": [
+      "Danilo Joncic",
+      "Arto Kiiski"
+    ]
+  }
+}

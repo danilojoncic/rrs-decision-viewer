@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Reopening by PC",
+  "event": "2025 Star World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-12 19:15",
+  "parties": [
+    "SWE 7978 - INGVAR Krook",
+    "ITA 8557 - GIOVANNI Coppo"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "Vakaros Race Sense System is official system by the class to determinate positions of the boats.",
+    "International Jury used tracking by Vakaros Race Sense as an evidence at all hearings before hearing 11.",
+    "During the hearing of case no. 11 International Jury didn't take into account tracking evidence by Vakaros Race Sense System.",
+    "After the decision was made International Jury looked at the Vakaros Race Sense tracking.",
+    "Evidence by the Vakaros Race Sense system for case no. 11 could indicate that facts found were wrong."
+  ],
+  "rules": [
+    "RRS 63.7(a)(2)"
+  ],
+  "conclusions": [
+    "The International Jury may have made a significant error in the",
+    "Original hearing:",
+    ". Therefore, the requirements in RRS 63.7(a)(2) for reopening the hearing are met."
+  ],
+  "decision": [
+    "Case 11 will be reopened."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Hans Vengberg",
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

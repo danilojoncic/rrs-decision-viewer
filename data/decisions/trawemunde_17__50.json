@@ -1,0 +1,48 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "7",
+  "hearing_datetime": "21 JUL 16:40",
+  "parties": [
+    "NED 1731",
+    "CZE 1775"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "NED 1731 was represented by Daphne Somers.",
+    "CZE 1775 was represented by Monika Krenkova.",
+    "Lukas Smidtmajer (CZE 1737) gave evidence as a witness for CZE 1775.",
+    "Susanne Trenkamp (race official) gave evidence as a witness for the International Jury."
+  ],
+  "facts": [
+    "On 21st of July on the beach before racing, NED 1731 observed that CZE 1775 had a different jib, mainsail and gennaker than they had sailed on the previous days of the event.",
+    "NED 1731 asked CZE 1775 if they had filed an equipment substitution, and if the original equipment was damaged.",
+    "There were some small holes in the gennaker, but no damage to the mainsail or the jib.",
+    "After speaking to NED 1731, CZE 1775 filed an equipment substitution request at the race office at 09:31.",
+    "In the request to change the sails, CZE 1775 stated that she wanted to change to sails that were better in light wind.",
+    "Later, CZE 1775 went to the race office to check if there was an update on the request, and talked to the deputy PRO, who could not confirm any updates on the request.",
+    "CZE 1775 misunderstood, and believed the request was approved.",
+    "CZE 1775 went on the water with the new sails.",
+    "After CZE 1775 had left ashore, the request was denied by the Technical Committee, and the race office tried to contact CZE 1775.",
+    "CZE 1775 sailed with the new sail in race 7, which was the only race of the day.",
+    "Travemünder Woche 2026"
+  ],
+  "rules": [
+    "SI 19.2"
+  ],
+  "conclusions": [
+    "By racing with a new set of sails that were not approved by the Technical Committee, CZE 1775 broke SI 19.2."
+  ],
+  "decision": [
+    "Using the WS Discretionary Penalty Guidelines for Boats& Support Persons, a starting penalty of 50% was decided. There were no facts to justify decreasing or increasing the penalty. The penalty given to CZE 1775 is, 50% discretionary penalty, calculated using the method described in RRS 44.3(c ) and applied to race 7, but not worse than the score for DNF."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Ute Reisinger",
+    "members": [
+      "Sandra Hatch",
+      "Lisa Steppat"
+    ]
+  }
+}

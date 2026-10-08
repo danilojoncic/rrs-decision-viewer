@@ -1,0 +1,44 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Request For Redress",
+  "event": "Optimist",
+  "race_number": "2",
+  "hearing_datetime": "28 Jun 2025 at 18:15",
+  "parties": [
+    "AZE 27 - Kamal BASIRLI",
+    "Race Committee"
+  ],
+  "procedural_matters": [
+    "AZE 27 is represented by Kamal Basirli.",
+    "The race committee is presented by Elena Papazogliu, IODA CR.",
+    "Panaglis Papadacis, Coach of AZE 27, attended the hearing as an observer.",
+    "Burcu Algon Giorgianni attended the hearing as interpreter for AZE 27."
+  ],
+  "facts": [
+    "For the second start of race 2 for yellow fleet black flag was displayed as preparatory signal.",
+    "After the starting signal a general recall was displayed by the race committee.",
+    "AZE 27 sail number was posted by the race committee as being scored BFD.",
+    "The race was restarted and AZE 27 did not start.",
+    "Upon reviewing the records, the race committee found that AZE 27 had been misidentified."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "AZE 27s score in race 2 was made significantly worse through no fault of her own by an improper action of the race committee. RRS 61.4(b)(1) applies.",
+    "Redress is given to AZE 27.",
+    "AZE 27 is to be scored in race 2 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races in the qualifying series, except race 2. No other boat’s score shall change."
+  ],
+  "decision": [
+    "Redress is given to AZE 27. AZE 27 is to be scored in race 2 points average points of her scores in the qualifying series, except race 2. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Francisco Jauregui",
+      "Jernej Krampersek",
+      "Anastasia Weinberger"
+    ]
+  }
+}

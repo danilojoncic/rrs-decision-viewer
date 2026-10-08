@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "RS Feva European Championship 2025",
+  "race_number": "5",
+  "hearing_datetime": "2025-10-02 17:30",
+  "parties": [
+    "ITA 7046 - BRIAN FRABETTI",
+    "DEN 9191 - Alberte Klamer"
+  ],
+  "procedural_matters": [
+    "ITA 7046 was represented by Brain Frabetti. DEN 9191 was represented by Alberte Klamer. Laura Neri ITA 7046 crew gave evidence as a witness for ITA 7046."
+  ],
+  "facts": [
+    "Wind conditions: 15 knots, small waves.",
+    "30 seconds before the second attempt to start race 5, Blue fleet, ITA 7046 and unidentified boat with both sailors wearing red lifejackets were lined up below close-hauled course on starboard tack, in the middle of starting line in the first row.",
+    "After 10 seconds, when the distance between the boats was around 10 cm, the unidentified boat's crew pushed back ITA 7046 with a hand on the port shroud.",
+    "DEN 9191 was sailing below close-hauled course on starboard tack in the middle of the starting line, closer to the pin end, and in the second row.",
+    "More than 1 minute after the incident ITA 7046 identified DEN 9191 boat, solely based on the red colour of their lifejackets."
+  ],
+  "rules": [
+    "RRS 2"
+  ],
+  "conclusions": [
+    "The Jury could not clearly establish that ITA 7046 identified the correct boat. Therefore the Jury could not clearly establish that it was DEN 9191 that broke RRS 2."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Alen Kustic",
+    "members": [
+      "Martin Clasen",
+      "Peter Taylor",
+      "Katarzyna Goralska",
+      "Ezio Fonda"
+    ]
+  }
+}

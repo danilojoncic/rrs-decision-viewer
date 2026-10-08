@@ -1,0 +1,42 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "Optimist",
+  "race_number": "1",
+  "hearing_datetime": "20 Jun 2026 at 18:00",
+  "parties": [
+    "PUR 91 - Valeria Perez-Hermida",
+    "MLT 192 - Jack Vella"
+  ],
+  "procedural_matters": [
+    "- PUR 91 was represented by Valerja Perez - MLT 192 was represented by Jack Velle - Nicolas Dorescher Mora, MLT Team Leader, attended the hearing as observer. - Javier Figueroa, PUR coach, attended the hearing as observer. - Bouchra Tibary, Jury member, attended the hearing as observer. - PUR presented video evidence. - Hearing was held with three person panel under rule N1.4."
+  ],
+  "facts": [
+    "Soon after the start of Race 1 of the Blue fleet, wind speed was 16-17 kts, wave was not large and there was weak current from the course side.",
+    "8 boat length after the start, PUR 91 was sailing close-hauled on starboard tack, MLT 192 was sailing close-hauled on port tack, and both boats were on conversing course.",
+    "When MLT 192 bow was half boat length from PUR 91, MLT 192 started to tack to starboard.",
+    "After MLT 192 passed head to wind and before MLT 192 became close-hauled course, PUR 91 luffed and tacked but there was slight contact between the PUR 91 port bow and port MLT 192 middle of the starboard hull.",
+    "There was no damage or injury.",
+    "No boat took penalty."
+  ],
+  "rules": [
+    "RRS 13",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "Tacking boat MLT did not keep clear of PUR 91 which was on starboard tack, therefore MLT 192 broke rule 13. It was reasonably possible for MLT 192 to avoid contact and broke 14 as well.",
+    "It was not reasonably possible for PUR 91 to avoid contact, so PUR 91 did not broke rule 14."
+  ],
+  "decision": [
+    "DSQ MLT in Race 1"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Gonzalo Heredia (ARG",
+      "Mohamed Zanzoul (MAR",
+      "Masaaki Tanaka"
+    ]
+  }
+}

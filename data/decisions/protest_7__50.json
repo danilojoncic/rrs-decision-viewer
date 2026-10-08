@@ -1,0 +1,41 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "YES - Young Europeans Sailing 2026",
+  "race_number": "3",
+  "hearing_datetime": "24 MAY 17:25",
+  "parties": [
+    "International Jury",
+    "GER 222903 (R3)"
+  ],
+  "procedural_matters": [
+    "GER 222903 was represented by Luisa Helene Kloss.",
+    "The International Jury was represented by Heiko Thölmann, member of the International Jury."
+  ],
+  "facts": [
+    "In ILCA 6 women race 3 the wind was 5-6 knots with small sea state.",
+    "While rounding mark 2, GER 222903 touched mark 2 with the front port hull side and the mark spun along side her hull.",
+    "GER 222903 rounded the mark and sailed downwind for around 1 minute before taking a 1 turn penalty."
+  ],
+  "rules": [
+    "RRS 31",
+    "RRS 44.2"
+  ],
+  "conclusions": [
+    "GER 222903 touched mark 2 and broke RRS 31.",
+    "By delaying her penalty turns by 60 seconds after getting well clear of other boats after the incident, GER 222903 failed to comply with the requirements of RRS 44.2."
+  ],
+  "decision": [
+    "GER 222903 is disqualified in race 3."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bruno Le Maître",
+    "members": [
+      "Christopher Lindsay",
+      "Sandra Hatch",
+      "Eurico Teudoro",
+      "Niclas Kath"
+    ]
+  }
+}

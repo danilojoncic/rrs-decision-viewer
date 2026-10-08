@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "26 JUN 17:15",
+  "parties": [
+    "technical comittee",
+    "Torbjörn Svenson (coach 218) (), SWE"
+  ],
+  "procedural_matters": [
+    "The technical committee was represented by Ulrich Vogelmaier.",
+    "Torbjörn Svenson (coach 218) did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "SWE 223149 (Robin Svensson) did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Right after the finish of Race 1, Mr. Torbjörn Svenson(support person 218) was not wearing the kill cord.",
+    "The rib’s engine was running.",
+    "After beeing reminded by the technical committee that he isobliged to wear the killcord, Mr. Torbjörn Svenson wore the kill cord."
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "RRS N1.4(b)",
+    "ESTR 3.2"
+  ],
+  "conclusions": [
+    "By not wearing the kill cord while the engine was running, Mr. Torbjörn Svenson broke ESTR 3.2.",
+    "Using the World Sailing Discretionary Penalty Guidelines forBoats and Support Persons a starting penalty of level 2 was decided.",
+    "Although the breach could have affected safety, the supportperson promptly remedied the breach; the level 2 will hence stand."
+  ],
+  "decision": [
+    "Mr. Torbjörn Svenson shall stay ashore until the first race of his supported boat(s) on June 27th has started."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jan Stage",
+    "members": [
+      "Stavros Kouris",
+      "Jens Biederer"
+    ]
+  }
+}

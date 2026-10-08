@@ -1,0 +1,51 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 6 Masters World Championships",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "GBR 219061 - Robert Draper",
+    "ARM 170161 - Samvel Rostomyan"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "GBR 219061 is represented by Robert Draper.",
+    "ARM 170161 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "ARM 170161 did not come to the hearing when the protest committee gave the decision",
+    "For the Great Grand Master fleet, the PTL expired at 15:55; the protest was lodged at 16:01. The protestor came to the international jury at 15:50 and thereafter difficulties occured with the online connection. GBR 219061 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1). However, there was good reason for the international jury to extend the time limit. Therefore the protest is valid under RRS 60.4(1)(a)."
+  ],
+  "facts": [
+    "The incident occured in the zone of mark 3p at the end of the second run, race 4.",
+    "Wind speed 12 kts, choppy sea.",
+    "GBR 219061 entered the zone of mark 3p 1 boat length clear ahead of ARM 170161, both boats on port tack.",
+    "At the mark, while GBR 219061 was rounding the mark and assuming a reaching course, a contact with no damage or injury occured between the bow of ARM 170161 and the stern of GBR 219061.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 63.1(b)",
+    "RRS 60.3(b)(1)",
+    "RRS 60.4(1)(a)",
+    "RRS 12",
+    "RRS 18.2(a)(2)",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "ARM 170161 clear astern failed to keep clear of GBR 219061 clear ahead, and broke RRS 12.",
+    "ARM 170161 not overlapped with GBR 219061 at the zone and not in the zone at the time GBR 219061 reached the zone, failed to give GBR 219061 mark-room and broke RRS 18.2(a)(2)",
+    "ARM 170161 did not avoid contact with GBR 219061 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GBR 219061 the right-of-way boat to avoid contact with ARM 170161 when it became clear that ARM 170161 was not keeping clear. GBR 219061 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "ARM 170161 is DSQ in race 4."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Anastasios Fotis",
+    "members": [
+      "Giorgio Bolla",
+      "Iuan Gray"
+    ]
+  }
+}

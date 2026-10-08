@@ -1,0 +1,428 @@
+[
+  {
+    "file": "data/decisions/43_copa_del_rey_mapfre_orc_european_championship_decision_27.json",
+    "changes": [
+      "Moved conclusion text out of rules"
+    ],
+    "before": {
+      "origin_system": "rrs.org",
+      "request_type": "Event: 43 Copa del Rey MAPFRE - ORC European Championship Race Number: 2",
+      "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+      "race_number": "2",
+      "hearing_datetime": "2025-07-31 09:45",
+      "parties": [
+        "GER 5007 - Olymp - Juan Luis Paez Gutierrez"
+      ],
+      "procedural_matters": [
+        "OLYMP was represented by Juan Luis Paez."
+      ],
+      "facts": [
+        "Olymp asked to withdraw the request for redress."
+      ],
+      "rules": [
+        "There is no reason to refuse the request to withdraw the request for redress."
+      ],
+      "conclusions": [],
+      "decision": [
+        "Request for redress withdrawn."
+      ],
+      "jury": {
+        "type": "Protest Committee",
+        "chair": "Andres Perez",
+        "members": [
+          "Pinar Coskuner Genc",
+          "Michal Jodlowski"
+        ]
+      }
+    },
+    "after": {
+      "origin_system": "rrs.org",
+      "request_type": "Event: 43 Copa del Rey MAPFRE - ORC European Championship Race Number: 2",
+      "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+      "race_number": "2",
+      "hearing_datetime": "2025-07-31 09:45",
+      "parties": [
+        "GER 5007 - Olymp - Juan Luis Paez Gutierrez"
+      ],
+      "procedural_matters": [
+        "OLYMP was represented by Juan Luis Paez."
+      ],
+      "facts": [
+        "Olymp asked to withdraw the request for redress."
+      ],
+      "rules": [],
+      "conclusions": [
+        "There is no reason to refuse the request to withdraw the request for redress."
+      ],
+      "decision": [
+        "Request for redress withdrawn."
+      ],
+      "jury": {
+        "type": "Protest Committee",
+        "chair": "Andres Perez",
+        "members": [
+          "Pinar Coskuner Genc",
+          "Michal Jodlowski"
+        ]
+      }
+    }
+  },
+  {
+    "file": "data/decisions/43_copa_del_rey_mapfre_orc_european_championship_decision_22-2.json",
+    "changes": [
+      "Corrected hearing-type spelling"
+    ],
+    "before": {
+      "origin_system": "rrs.org",
+      "request_type": "Formal Comunication",
+      "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+      "race_number": "1",
+      "hearing_datetime": "2025-07-30",
+      "parties": [
+        "ESP 6810 - Genio IV SOLGREEN - Manuel De Tomas",
+        "ESP 6810 - Genio IV - Manuel De Tomas"
+      ],
+      "procedural_matters": [
+        "ESP 6810 was represented by Manuel De Tomas (helm).",
+        "Rafael De Tomas (crew member of ESP 6810) attended the hearing as an observer.",
+        "Andres Perez (chairman of the panel of the International Jury) acted as interpreter for the representative of ESP 6810."
+      ],
+      "facts": [
+        "ESP 6810 delivered the hearing request at 09:44 on 30 July.",
+        "During the hearing, the representative of ESP 6810 stated that he was aware of the fact that he was not a party of the original hearing but still wanted to request the International Jury to reopen the original hearing.",
+        "The representative of ESP 6810 also insisted that he did not want to request redress but wanted the International Jury to reopen the original hearing instead."
+      ],
+      "rules": [
+        "RRS 63.7(b)"
+      ],
+      "conclusions": [
+        "Since ESP 6810 was not a party to the original hearing, she does not have the right to request a reopening of the original hearing. Therefore, the request to reopen is invalid under RRS 63.7(b)."
+      ],
+      "decision": [
+        "ESP 6810’s request to reopen Hearings No. 1, 7, 8, 9, 10, 12, 13, 15 and 16 is invalid."
+      ],
+      "jury": {
+        "type": "International Jury",
+        "chair": "Andres Perez",
+        "members": [
+          "Pinar Coskuner Genc",
+          "Giorgio Davanzo",
+          "Finn Mrugalla",
+          "Bruno Finzi"
+        ]
+      }
+    },
+    "after": {
+      "origin_system": "rrs.org",
+      "request_type": "Formal Communication",
+      "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+      "race_number": "1",
+      "hearing_datetime": "2025-07-30",
+      "parties": [
+        "ESP 6810 - Genio IV SOLGREEN - Manuel De Tomas",
+        "ESP 6810 - Genio IV - Manuel De Tomas"
+      ],
+      "procedural_matters": [
+        "ESP 6810 was represented by Manuel De Tomas (helm).",
+        "Rafael De Tomas (crew member of ESP 6810) attended the hearing as an observer.",
+        "Andres Perez (chairman of the panel of the International Jury) acted as interpreter for the representative of ESP 6810."
+      ],
+      "facts": [
+        "ESP 6810 delivered the hearing request at 09:44 on 30 July.",
+        "During the hearing, the representative of ESP 6810 stated that he was aware of the fact that he was not a party of the original hearing but still wanted to request the International Jury to reopen the original hearing.",
+        "The representative of ESP 6810 also insisted that he did not want to request redress but wanted the International Jury to reopen the original hearing instead."
+      ],
+      "rules": [
+        "RRS 63.7(b)"
+      ],
+      "conclusions": [
+        "Since ESP 6810 was not a party to the original hearing, she does not have the right to request a reopening of the original hearing. Therefore, the request to reopen is invalid under RRS 63.7(b)."
+      ],
+      "decision": [
+        "ESP 6810’s request to reopen Hearings No. 1, 7, 8, 9, 10, 12, 13, 15 and 16 is invalid."
+      ],
+      "jury": {
+        "type": "International Jury",
+        "chair": "Andres Perez",
+        "members": [
+          "Pinar Coskuner Genc",
+          "Giorgio Davanzo",
+          "Finn Mrugalla",
+          "Bruno Finzi"
+        ]
+      }
+    }
+  },
+  {
+    "file": "data/decisions/29er_eurocup_series_decision_04.json",
+    "changes": [
+      "Removed publication timestamp from jury members"
+    ],
+    "before": {
+      "origin_system": "rrs.org",
+      "request_type": "Protest",
+      "event": "29er EuroCup Series",
+      "race_number": "4",
+      "hearing_datetime": "2026-05-01 17:45",
+      "parties": [
+        "GER 3542 - SUSANNE / NORTH SAILS - Lukas Wagner",
+        "HUN 14 - Mor Csekovszky"
+      ],
+      "procedural_matters": [],
+      "facts": [
+        "GER 3542 asked to withdraw the protest."
+      ],
+      "rules": [
+        "RRS T4"
+      ],
+      "conclusions": [
+        "There is no reason to refuse the request to withdraw the protest."
+      ],
+      "decision": [
+        "The arbitrator acting on behalf of the protest committee allows the protest to be withdrawn."
+      ],
+      "jury": {
+        "type": "Protest Committee",
+        "chair": "Katarzyna Goralska",
+        "members": [
+          "Published: 2026-05-01 18:31"
+        ]
+      }
+    },
+    "after": {
+      "origin_system": "rrs.org",
+      "request_type": "Protest",
+      "event": "29er EuroCup Series",
+      "race_number": "4",
+      "hearing_datetime": "2026-05-01 17:45",
+      "parties": [
+        "GER 3542 - SUSANNE / NORTH SAILS - Lukas Wagner",
+        "HUN 14 - Mor Csekovszky"
+      ],
+      "procedural_matters": [],
+      "facts": [
+        "GER 3542 asked to withdraw the protest."
+      ],
+      "rules": [
+        "RRS T4"
+      ],
+      "conclusions": [
+        "There is no reason to refuse the request to withdraw the protest."
+      ],
+      "decision": [
+        "The arbitrator acting on behalf of the protest committee allows the protest to be withdrawn."
+      ],
+      "jury": {
+        "type": "Protest Committee",
+        "chair": "Katarzyna Goralska",
+        "members": []
+      }
+    }
+  },
+  {
+    "file": "data/decisions/2025_open_finn_europeans_decision_09-2.json",
+    "changes": [
+      "Moved conclusion text out of rules"
+    ],
+    "before": {
+      "origin_system": "rrs.org",
+      "request_type": "Protest and Request for Redress",
+      "event": "2025 Open Finn Europeans",
+      "race_number": "10",
+      "hearing_datetime": "2025-04-12 17:15",
+      "parties": [
+        "ITA 12 - Antonio Braucci",
+        "NOR 55 - Arild Heldal"
+      ],
+      "procedural_matters": [],
+      "facts": [
+        "ITA 12 submitted a form that did not describe the incident.",
+        "ITA 12 asked to withdraw the protest."
+      ],
+      "rules": [
+        "There is no reason to refuse the request to withdraw the protest"
+      ],
+      "conclusions": [],
+      "decision": [
+        "The international jury allows the protest to be withdrawn."
+      ],
+      "jury": {
+        "type": "International Jury",
+        "chair": "Timo Haß",
+        "members": [
+          "Sylvie Harle",
+          "Stavros Kouris"
+        ]
+      }
+    },
+    "after": {
+      "origin_system": "rrs.org",
+      "request_type": "Protest and Request for Redress",
+      "event": "2025 Open Finn Europeans",
+      "race_number": "10",
+      "hearing_datetime": "2025-04-12 17:15",
+      "parties": [
+        "ITA 12 - Antonio Braucci",
+        "NOR 55 - Arild Heldal"
+      ],
+      "procedural_matters": [],
+      "facts": [
+        "ITA 12 submitted a form that did not describe the incident.",
+        "ITA 12 asked to withdraw the protest."
+      ],
+      "rules": [],
+      "conclusions": [
+        "There is no reason to refuse the request to withdraw the protest"
+      ],
+      "decision": [
+        "The international jury allows the protest to be withdrawn."
+      ],
+      "jury": {
+        "type": "International Jury",
+        "chair": "Timo Haß",
+        "members": [
+          "Sylvie Harle",
+          "Stavros Kouris"
+        ]
+      }
+    }
+  },
+  {
+    "file": "data/decisions/2025_open_finn_europeans_decision_09.json",
+    "changes": [
+      "Moved conclusion text out of rules"
+    ],
+    "before": {
+      "origin_system": "rrs.org",
+      "request_type": "Protest and Request for Redress",
+      "event": "2025 Open Finn Europeans",
+      "race_number": "10",
+      "hearing_datetime": "2025-04-12 17:15",
+      "parties": [
+        "ITA 12 - Antonio Braucci",
+        "NOR 55 - Arild Heldal"
+      ],
+      "procedural_matters": [],
+      "facts": [
+        "ITA 12 submitted a form that did not describe the incident.",
+        "ITA 12 asked to withdraw the protest."
+      ],
+      "rules": [
+        "There is no reason to refuse the request to withdraw the protest"
+      ],
+      "conclusions": [],
+      "decision": [
+        "The international jury allows the protest to be withdrawn."
+      ],
+      "jury": {
+        "type": "International Jury",
+        "chair": "Timo Haß",
+        "members": [
+          "Sylvie Harle",
+          "Stavros Kouris"
+        ]
+      }
+    },
+    "after": {
+      "origin_system": "rrs.org",
+      "request_type": "Protest and Request for Redress",
+      "event": "2025 Open Finn Europeans",
+      "race_number": "10",
+      "hearing_datetime": "2025-04-12 17:15",
+      "parties": [
+        "ITA 12 - Antonio Braucci",
+        "NOR 55 - Arild Heldal"
+      ],
+      "procedural_matters": [],
+      "facts": [
+        "ITA 12 submitted a form that did not describe the incident.",
+        "ITA 12 asked to withdraw the protest."
+      ],
+      "rules": [],
+      "conclusions": [
+        "There is no reason to refuse the request to withdraw the protest"
+      ],
+      "decision": [
+        "The international jury allows the protest to be withdrawn."
+      ],
+      "jury": {
+        "type": "International Jury",
+        "chair": "Timo Haß",
+        "members": [
+          "Sylvie Harle",
+          "Stavros Kouris"
+        ]
+      }
+    }
+  },
+  {
+    "file": "data/decisions/j_24_world_championship_2025_decision_09.json",
+    "changes": [
+      "Moved conclusion text out of rules"
+    ],
+    "before": {
+      "origin_system": "rrs.org",
+      "request_type": "Protest by TC",
+      "event": "J/24 World Championship 2025",
+      "race_number": "4",
+      "hearing_datetime": "2025-09-11",
+      "parties": [
+        "HUN 37 - J Bond - Tomai Balazs"
+      ],
+      "procedural_matters": [],
+      "facts": [
+        "After finishing race 4 HUN 37 was inspected by the technical committee.",
+        "The technical committee found HUN 37 not compliant with C5.1.4.",
+        "HUN 37 accepted a 10% as per the SI 15.6 and filled out a penalty report.",
+        "The TC asked to withdraw the protest."
+      ],
+      "rules": [
+        "There is no reason to refuse the request to withdraw the protest."
+      ],
+      "conclusions": [],
+      "decision": [
+        "The protest committee allows the protest to be withdrawn."
+      ],
+      "jury": {
+        "type": "Protest Committee",
+        "chair": "Robert Stewart",
+        "members": [
+          "Cxema Pico",
+          "Josephine Wilken"
+        ]
+      }
+    },
+    "after": {
+      "origin_system": "rrs.org",
+      "request_type": "Protest by TC",
+      "event": "J/24 World Championship 2025",
+      "race_number": "4",
+      "hearing_datetime": "2025-09-11",
+      "parties": [
+        "HUN 37 - J Bond - Tomai Balazs"
+      ],
+      "procedural_matters": [],
+      "facts": [
+        "After finishing race 4 HUN 37 was inspected by the technical committee.",
+        "The technical committee found HUN 37 not compliant with C5.1.4.",
+        "HUN 37 accepted a 10% as per the SI 15.6 and filled out a penalty report.",
+        "The TC asked to withdraw the protest."
+      ],
+      "rules": [],
+      "conclusions": [
+        "There is no reason to refuse the request to withdraw the protest."
+      ],
+      "decision": [
+        "The protest committee allows the protest to be withdrawn."
+      ],
+      "jury": {
+        "type": "Protest Committee",
+        "chair": "Robert Stewart",
+        "members": [
+          "Cxema Pico",
+          "Josephine Wilken"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "3",
+  "hearing_datetime": "7 JUL 16:00",
+  "parties": [
+    "GER 22",
+    "GBR 24"
+  ],
+  "procedural_matters": [
+    "GER 22 was represented by Freya FEILCKE.",
+    "GBR 24 was represented by Freya BLACK.",
+    "Isaura MAENHAUT (BEL 18) gave evidence as a witness for GER 22.",
+    "GBR 24 provided video evidence of the incident.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were about 14 knots of wind and flat water.",
+    "Approximately 3 seconds after the starting signal of race Q3, GER 22 and GBR 24 were sailing on starboard tack, with GBR 24 clear astern of GER 22.",
+    "GBR 24, sailing faster than GER 22, bore away to pass to leeward of GER 22, but contact occurred between GBR 24’s bow and GER 22’s port wing.",
+    "There was no damage to GBR 24 but there was damage to GER 22. The string between the wings was broken.",
+    "GBR 24 took a one-turn penalty.",
+    "During the second downwind, the wind had increased to 17-20 knots.",
+    "The tiller extension of GER 22 got stuck under the wing during a gybe and GER 22 capsized.",
+    "GER 22 tried to repair the broken string but could not.",
+    "GER 22 retired from race Q3.",
+    "Before capsizing, GER 22 was in approximately the top third of fleet."
+  ],
+  "rules": [
+    "RRS 12",
+    "RRS 14(a)",
+    "RRS 44.1(b)",
+    "RRS 61.4(b)(2)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GBR 24 clear astern failed to keep clear of GER 22 clear ahead, and broke RRS 12.",
+    "GBR 24 did not avoid contact with GER 22 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GER 22, the right-of-way boat, to avoid contact with GBR 24 when it became clear that GBR 24 was not keeping clear. GER 22 did not break RRS 14(a).",
+    "As GER 22 was not able to finish the race, the broken string is a serious damage.",
+    "Since GBR 24 caused serious damage by her breach, her penalty was to retire as required by RRS 44.1(b).",
+    "GER 22’s score in race Q3 was made significantly worse through no fault of her own by physical damage because of the action of GBR 24 that was breaking RRS 12 and 14(a) and was penalized. Therefore, the requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "GBR 24 is DSQ in race Q3.",
+    "Redress is given to GER 22. GER 22 is to be scored in race Q3 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races of the Preliminary Series, except race Q3. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christina Örtendahl",
+    "members": [
+      "Lisa Steppat",
+      "Yoann Peronneau"
+    ]
+  }
+}

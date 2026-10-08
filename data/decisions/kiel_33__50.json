@@ -1,0 +1,45 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "9",
+  "hearing_datetime": "23 JUN 18:00",
+  "parties": [
+    "IND 14",
+    "SUI 67"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "IND 14 was represented by Shraddha Verma (helm).",
+    "SUI 67 was represented by Julie Herzig (crew)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 5-6 knots of wind and very choppy waves.",
+    "IND 14 and SUI 67 were sailing downwind towards mark 4s of the gate. IND 14 entered the zone sailing on starboard tack and clear ahead of SUI 67, who was also on starboard tack.",
+    "At the mark, IND 14 started luffing and SUI 67 luffed shortly after, being still clear astern of IND 14.",
+    "After IND 14 reached a close-hauled course and left the mark astern, she was almost stationary. SUI 67 was sailing faster and her bow made contact with IND 14's transom.",
+    "There was no damage or injury.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 12",
+    "RRS 14(a)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "SUI 67 clear astern failed to keep clear of IND 14 clear ahead, and broke RRS 12.",
+    "SUI 67 did not avoid contact with IND 14 even though it was reasonably possible, and broke RRS 14(a).",
+    "When it became clear that SUI 67 was not keeping clear, it was not reasonably possible for IND 14, the right- of-way boat to avoid contact with SUI 67. IND 14 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "SUI 67 is DSQ in race 9P."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Johannes Liebig",
+    "members": [
+      "Julia Schmidt",
+      "Stavros Kouris"
+    ]
+  }
+}

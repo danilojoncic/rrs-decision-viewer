@@ -1,0 +1,37 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 220377 - Cristina GUILLEN"
+  ],
+  "procedural_matters": [
+    "The support person against whom the report was received was Max Urquizo, who was represented by Maria Ferre (Coach)."
+  ],
+  "facts": [
+    "The incident was not described in the report."
+  ],
+  "rules": [
+    "RRS 60.3(a)",
+    "RRS 62.1",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "The protest did not identify the incident as required by RRS 60.3(a). RRS 60.3(a), 62.1, 63.4(a)(1)"
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 63.4(a)(1). The protest committee decided not to call a hearing under rule RRS 62.1."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jose Manuel",
+    "members": [
+      "Carrera Luigi Bertini",
+      "Elliot Levy",
+      "jorge juan soriano",
+      "Mirko Ukas"
+    ]
+  }
+}

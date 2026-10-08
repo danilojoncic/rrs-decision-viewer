@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "2",
+  "hearing_datetime": "19 JUL 17:30",
+  "parties": [
+    "GER 3",
+    "GRN 26"
+  ],
+  "procedural_matters": [
+    "A panel of the international jury was constituted as per RRS N1.4(b).",
+    "GRN 26 did not come to the hearing.",
+    "The hearing proceeded as permitted by RRS 63.1(b)"
+  ],
+  "facts": [
+    "GER 3 arrived ashore at about 16:00.",
+    "GER 3 showered, dried and changed clothes for about 45 minutes.",
+    "The protest time limit was 16:15.",
+    "GER 3 submitted the protest at 17:14.",
+    "Damage was a 10cm gelcoat crack on the port gunwale.",
+    "GER 3 sailed and completed all races on the day."
+  ],
+  "rules": [
+    "RRS 60.3(b)",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "There was no good reason to extend the protest time limit per RRS 60.3(b)"
+  ],
+  "decision": [
+    "Protest is invalid."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Manuel Huensch",
+    "members": [
+      "Luke Scott",
+      "Raoul Meyer"
+    ]
+  }
+}

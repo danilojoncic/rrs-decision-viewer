@@ -1,0 +1,53 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2026 ILCA SENIOR EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "F3",
+  "hearing_datetime": "",
+  "parties": [
+    "GBR 227491 - Sam Whaley"
+  ],
+  "procedural_matters": [
+    "The race committee uses a board on the stern of the signal vessel and the event Telegram group to inform boats about UFD.",
+    "GBR 227491’s sail number was neither on the board, nor on the event Telegram group after the start of race F3.",
+    "A list of starting penalties was posted on the official notice board at 17:11 on 20 May. GBR 227491 was not included in that list.",
+    "An updated list of starting penalties was posted on the official notice board at 18:40 with GBR 227491 in it.",
+    "The message on the event Telegram group was edited at 19:35 including GBR 227491.",
+    "GBR 227491 submitted a scoring inquiry at 21:55 on 20 May.",
+    "GBR 227491’s scoring enquiry was reviewed with the race committee in the morning of 21 May. The race committee adjourned the review after racing in order to provide the video.",
+    "While waiting for the race committee to provide that video, GBR 227491 delivered the request for redress.",
+    "GBR 227491 failed to deliver the request for redress as soon as reasonably possible after the relevant information was available, as required by RRS 61.2(b)(3). However, as GBR 227491 acted in accordance with SI 16.6, there was good reason for the international jury to extend the time limit. Therefore the request for redress is valid under RRS 61.3."
+  ],
+  "facts": [
+    "Flag U was displayed as the preparatory signal in race F3 of the ILCA 7 Gold fleet.",
+    "One second before the starting signal, the EurILCA Course Representative called one boat in the triangle formed by the ends of the starting line and the first mark.",
+    "At that moment, the race committee identified MNE 226028 as the boat being inside the triangle formed by the ends of the starting line and the first mark.",
+    "After coming back ashore, the race committee determined from its own video of the start that MNE 226028 was not in the triangle formed by the ends of the starting line and the first mark, but that it was another boat directly to leeward to her.",
+    "The boat was later identified by the race committee as having a sail number beginning with 227.",
+    "Using the tracking the race committee determined that the boat directly to leeward of MNE 226028 was GBR 227491.",
+    "The race committee scored GBR 227491 UFD in race F3.",
+    "GBR 227491 confirmed during the hearing the relative positions of the boats on the tracking."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)",
+    "RRS 90.3(c)",
+    "SI 16.6"
+  ],
+  "conclusions": [
+    "By determining from its own records or observations that GBR 227491 was scored incorrectly and correcting that error, the race committee acted in accordance with RRS 90.3(c) and did not make any improper action.",
+    "By identifying GBR 227491 in the triangle formed by the ends of the starting line and the first mark and scoring her UFD, the race committee did not make any improper action or improper omission. The requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Danilo Joncic",
+    "members": [
+      "Katarzyna Goralska",
+      "Stavros Kouris",
+      "Johanna Poksi",
+      "Uros Zvan"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Star World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-11 20:20",
+  "parties": [
+    "GER 8581 - ARND Glunde",
+    "FRA 8431 - PHILIPPE PEDRONNO"
+  ],
+  "procedural_matters": [
+    "FRA 8431 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "GER 8581 was running in to the finish line on starboard to leeward of a group of boats on starboard.",
+    "To windward of GER 8581 was AUT 7857 then DEN 8492.",
+    "FRA 8431 was on port with a collision course along side DEN 8492",
+    "DEN 8492 was shouting \"Starboard\" to FRA 8431",
+    "FRA 8431 gybed on to port with her boom hitting the running rigging of DEN 8492"
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "FRA 8431 on port tack failed to keep clear of DEN 8492 on starboard tack, and broke RRS 10.",
+    "FRA 8431 did not avoid contact with DEN 8492 when it was reasonably possible, and broke RRS 14.",
+    "It was not reasonably possible for DEN 8492 the right-of-way boat to avoid casuing contact between DEN 8492 and FRA 8431 when it became clear that FRA 8431 was not keeping clear. DEN 8492 did not break RRS 14(b)."
+  ],
+  "decision": [
+    "FRA 8431 is DSQ race 3"
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Hans Vengberg",
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

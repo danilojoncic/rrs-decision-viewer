@@ -1,0 +1,41 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA 4 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "F5",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 219265 - Laszlo SASSI"
+  ],
+  "procedural_matters": [
+    "ITA 219265 did not come to the hearing, the hearing proceeded in their absence in accordance with RRS 63.1(b).",
+    "The race committee was represented by Michal Jodlowski (Course Race Officer Area B).",
+    "Max Jablecki (member of the RC) attended the hearing as an observer."
+  ],
+  "facts": [
+    "ITA 219265 delivered a request for redress form using the official notice board at 14:24.",
+    "ITA 219265 went to the race committee and asked to watch the video of the start of race 11 (F5)",
+    "The written request for redress delivered by ITA 219265 states: \"I would like to see the video of my start where i took bfd.\""
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "RRS 61.2",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "The request for redress did not identify the reasons for making it, as required by RRS 61.2."
+  ],
+  "decision": [
+    "The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Tonny Jensen",
+    "members": [
+      "Katarzyna Goralska",
+      "Zlatko Jakelic",
+      "Stavros Kouris",
+      "Ewa Szyfter"
+    ]
+  }
+}

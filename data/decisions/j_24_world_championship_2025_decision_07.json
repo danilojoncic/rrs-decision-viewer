@@ -1,0 +1,41 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "J/24 World Championship 2025",
+  "race_number": "2",
+  "hearing_datetime": "2025-09-10 17:40",
+  "parties": [
+    "USA 5399 - War canoe - Travis Odenbach"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "USA 5399 (Bow 45) was represented by Travis Odenbach.",
+    "Race Committee was represented by Daniel Gibbons (Pin end boat).",
+    "Daniel Gibbons (Pin end boat) provided video evidence."
+  ],
+  "facts": [
+    "In race 2 black flag was displayed as the preparatory signal.",
+    "Just before the start, the race committee identified USA 5399's (Bow 45) hull in the triangle formed by the ends of the starting line and the first mark.",
+    "USA 5399 was scored BFD in race 2."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.1",
+    "RRS 61.2",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jared Hickman",
+    "members": [
+      "Cxema Pico",
+      "Josephine Wilken"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "29er EuroCup Series",
+  "race_number": "10 final gold",
+  "hearing_datetime": "2026-05-03",
+  "parties": [
+    "FRA 6 - Alexandre MOSTINI"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "FRA 6 asked to withdraw the protest."
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "The protest committee allows the protest to be withdrawn."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Marco Sarcoli",
+    "members": []
+  }
+}

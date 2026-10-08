@@ -1,0 +1,52 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by PC",
+  "event": "Nacra15 World Championship, 2026",
+  "race_number": "1",
+  "hearing_datetime": "2026-07-28 18:40",
+  "parties": [],
+  "procedural_matters": [
+    "International jury was represented by Louis Mayo.",
+    "Jonathan Haines was called as a witness by Louis Mayo.",
+    "FRA 222 was represented by Tafanel Loevan.",
+    "Denange Jerone attended the hearing as a translator for FRA 222.",
+    "NED 219 was represented by Josse Lafeber (helm).",
+    "Willemijn Valkenburg (crew of NED 219) was called as a witness by Josse Lafber.",
+    "The panel was composed in accordance with RRS N 1.4(b).",
+    "During the hearing of case 1, the international jury discovered that there may be another boat involved in the incident that may have broken a rule.",
+    "The international jury decided to close the hearing for case 1 and hear cases 1 and 2 together, in accordance with RRS 63.2(b)."
+  ],
+  "facts": [
+    "Race 1, conditions: wind speed was 5 knots, flat water. There was a significant current, pushing the boats on starboard tack towards the mark.",
+    "FRA 222, NED 219 were sailing on a upwind course, starboard tack, approaching mark 1.",
+    "FRA 222 was clear ahead of NED 219 by a distance of a 5 boat lengths and 1 meter to windward.",
+    "At the mark, FRA 222 was sailing above close-hauled and drifted towards the mark. FRA 222’s port hull made contact with the mark in front of the daggerboard.",
+    "The mark slid along the FRA 222’s port hull for approximately 8 to 10 seconds.",
+    "When NED 219 was rounding the mark, the port hull touched it.",
+    "Neither of the boats took a penalty on the water.",
+    "After coming back ashore, NED 219 retired from the race."
+  ],
+  "rules": [
+    "RRS 2",
+    "RRS 31",
+    "RRS 1.4(b)",
+    "RRS 63.2(b)"
+  ],
+  "conclusions": [
+    "FRA 222 touched mark 1 and broke RRS 31.",
+    "By knowingly breaking rule 31 and not taking the appropriate penalty, FRA 222 failed to compete in compliance with the principles of sportsmanship and fair play as stated in RRS Basic Principles. FRA 222 broke RRS 2.",
+    "NED 219 touched mark 1 and broke RRS 31.",
+    "NED 219 took an applicable penalty by retiring."
+  ],
+  "decision": [
+    "FRA 222 is DNE in race 1. No further penalty for NED 219."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Stavros Kouris",
+    "members": [
+      "Julia Schmidt",
+      "Carol Haines"
+    ]
+  }
+}

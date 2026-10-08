@@ -1,0 +1,54 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest / Request for Redress",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "CYP 212431 - Pavlos KONTIDES",
+    "LAT 216766 - Karlis JUNKERS"
+  ],
+  "procedural_matters": [
+    "CYP 212431 is represented by Pavlos KONTIDES.",
+    "LAT 216766 is represented by Karlis JUNKERS.",
+    "None of the boats accepted the arbitration and the arbitration meeting was offered by Elliot Levy member of the IJ.",
+    "Heiko Thoelmann member of the IJ saw the incident and declared this fact to the parties attending the hearing as per RRS 63.4(d).",
+    "Melker Aniquist (RRS 42 Observer) attended the hearing as an observer."
+  ],
+  "facts": [
+    "Wind speed 7-8 kn, some swell sea, some current from the RC vessel towards the pin end.",
+    "About 1 minute before the starting signal of race 4 for the ILCA 7 Yellow fleet, CYP 212431 established an overlap 1.2 m. to leeward of LAT 216766, both on starboard tack.",
+    "About 30 seconds before the starting signal, LAT 216766 was drifting closing the distance to 30 cm, and CYP 212431 bore away slightly.",
+    "About 20 seconds before the starting signal, LAT 216766 backed the mainsail with his shoulder and started luffing and passed head to wind, heeling the boat to starboard and turning the stern towards CYP 212431, reducing the distance further.",
+    "In that moment, CYP 212431 was sculling to bear away, and his tiller extension was outside the gunwale.",
+    "When LAT 216766 flattend her boat, there was a contact between LAT’s port aft corner and CYP’s tiller extension. The extension was detached from the tiller and two bolts fell into the water.",
+    "LAT 216766 took immediately a 2-turns penalty. CYP 212431 retired from race 4, LAT 216766 finished the race."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 13",
+    "RRS 14(a)",
+    "RRS 61.4(b)",
+    "RRS 60.5(c)(2)"
+  ],
+  "conclusions": [
+    "LAT 216766, windward boat, did not keep clear of CYP 212431, leeward boat, and broke RRS 11.",
+    "After passing head to wind and before being on a close-hauled course, LAT 216766 failed to keep clear of CYP 212431. LAT 216766 broke RRS 13.",
+    "It was not reasonably possible for LAT 216766 avoid contact. LAT 216766 did not break RRS 14(a).",
+    "When it became clear that LAT 216766 was not keeping clear it was still reasonably possible for CYP 212431, the right- of-way boat, to avoid contact with LAT 216766. CYP 212431 broke RRS 14(a).",
+    "CYP’s score in race 4 was made significantly worse through her own fault. Therefore, the requirements for redress in RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "The protest is upheld. Since LAT 216766 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2). Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Charlotte Greppe",
+    "members": [
+      "Giorgio Bolla",
+      "Eunjin Kim",
+      "Elliot Levy",
+      "Heiko Thoelmann"
+    ]
+  }
+}

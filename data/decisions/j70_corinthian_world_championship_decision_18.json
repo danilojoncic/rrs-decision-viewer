@@ -1,0 +1,49 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "5",
+  "hearing_datetime": "2026-05-28 19:15",
+  "parties": [
+    "FRA 1126 - 189 - Canoubieres - Hind Gaigi",
+    "FRA 1307 - 156 - Le Tib - Nicolas ROSTAND"
+  ],
+  "procedural_matters": [
+    "FRA 1126 was represented by Hind Gaigi.",
+    "FRA 1307 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "Constance Jeanroy (crew of FRA 1126) attended the hearing as an observer.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 5.5 knots of wind and wavy.",
+    "FRA 1126 was sailing on a close-hauled course on starboard tack on the layline on the first upwind approaching the windward mark.",
+    "FRA 1307 was sailing close-hauled on port tack on a converging course with FRA 1126.",
+    "FRA 1307 held her course.",
+    "When FRA 1307 was about half a boat length away from FRA 1126, FRA 1126 luffed nearly head to wind.",
+    "Immediately after, FRA 1307 tacked onto starboard tack.",
+    "There was no contact, physical damage, or injury.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 61.4(b)(2)",
+    "RRS 63.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "FRA 1307 on port tack failed to keep clear of FRA 1126 on starboard tack, and broke RRS 10.",
+    "FRA 1126’s score in race 5 was not made worse by injury or physical damage. Therefore, the requirements for redress in RRS 61.4(b)(2) are not met."
+  ],
+  "decision": [
+    "FRA 1307 is DSQ in race 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bence Borocz",
+    "members": [
+      "Pauline den Burger",
+      "Yoann Peronneau",
+      "Christine Guba"
+    ]
+  }
+}

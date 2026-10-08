@@ -1,0 +1,56 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest / Request for Redress",
+  "event": "2026 ILCA 6 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "IRL 227337 - Siún NÍ CHOISTEALBHA",
+    "EST 226005 - Brigitta VILO"
+  ],
+  "procedural_matters": [
+    "IRL 227337 was represented by Siún NÍ CHOISTEALBHA EST 226005 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b). IRL 227337 provided photographic evidence of the damage. EST 226005 retired from race 4 through the online system."
+  ],
+  "facts": [
+    "The wind was 12 knots with choppy seas.",
+    "The incident happened halfway up the first upwind of race 4.",
+    "IRL 227337 and EST 226005 were sailing close-hauled on a converging course. IRL 227337 on starboard and EST 226005 on port.",
+    "The lateral distance between the boats was 10 boat lengths.",
+    "At 2 boat lengths of lateral distance EST 226005 began bearing away to duck behind IRL 227337.",
+    "Contact occurred between the bow of EST 226005 and IRL 227337 gudgeon on the hull, on the top and bottom parts that hold the rudder.",
+    "IRL 227337 top and bottom gudgeon parts were broken. Her rudder got separated from the boat and could not be utilized for steering.",
+    "IRL 227337 retired from the race due to damage sustained.",
+    "EST 226005 did not take any penalty on the water and completed the race, retiring from race 4 before the hearing.",
+    "Between the races IRL 227337 attempted to fix the damage but could not do it herself. Her coach needed to go back ashore for the top gudgeon. With the help of her coach, IRL 227337 was only able to fix the damage to the top gudgeon.",
+    "IRL 227337 raced in races 5 and 6 without the bottom gudgeon, only having the top gudgeon screwed on the boat.",
+    "IRL 227337 finished second to last in race 5 and fifth to last in race 6."
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 44.1(b)",
+    "RRS 14",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "EST 226005 on port tack failed to keep clear of IRL 227337 on starboard tack, and broke RRS 10. EST 226005 did not avoid contact with IRL 227337 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for IRL 227337 the right-of-way boat to avoid contact with EST 226005 when it became clear that EST 226005 was not keeping clear. IRL 227337 did not break RRS 14(a).",
+    "Since EST 226005 caused serious damage by her breach, her penalty was to retire as required by RRS 44.1(b), and therefore she took the appropriate penalty and shall not be further penalised.",
+    "IRL 227337s place in [races 4,5,6] was made significantly worse through no fault of her own by physical damage because of the action of EST 226005 that was breaking RRS 10 and 14 and took an appropriate penalty. Therefore, the requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "Protest is upheld. No further penalty for EST 226005.",
+    "Redress is given to IRL 227337. IRL 227337 is to be scored in races 4 and 5 points equal to the average of her scores, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races in the qualifying series, except race 4 and 5, in accordance to case 116. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Wai Kai Chan Vicky",
+    "members": [
+      "Myrto Antonopoulou",
+      "Danilo Joncic",
+      "Gurvinderpal Julka",
+      "Wee Lee Willy"
+    ]
+  }
+}

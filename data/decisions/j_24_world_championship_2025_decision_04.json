@@ -1,0 +1,46 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "J/24 World Championship 2025",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-10 16:50",
+  "parties": [
+    "BOW 26 - Jupiter - Conor Haughton",
+    "BOW 26 - Jupiter - Conor Haughton",
+    "BOW 26 - Jupiter - Conor Haughton"
+  ],
+  "procedural_matters": [
+    "IRL 5270 (Bow 26) was represented by Conor Haughton.",
+    "Race Committee was represented by Sean Semmens.",
+    "Conor Haughton provided electronic evidence.",
+    "Daniel Gibbons (Pin end boat) gave evidence as a witness for the race committee.",
+    "Daniel Gibbons (Pin end boat) provided video/audio evidence."
+  ],
+  "facts": [
+    "In race 3 black flag was displayed as the preparatory signal.",
+    "Just before the start, the race committee identified IRL 5270's (Bow 26) hull in the triangle formed by the ends of the starting line and the first mark.",
+    "IRL 5270 was scored BFD in race 3."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.1",
+    "RRS 61.2",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jared Hickman",
+    "members": [
+      "Robert Stewart",
+      "Marta Lloret Llinares",
+      "Cxema Pico",
+      "Carol Haines"
+    ]
+  }
+}

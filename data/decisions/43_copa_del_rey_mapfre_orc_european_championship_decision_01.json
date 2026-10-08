@@ -1,0 +1,66 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-29 17:15",
+  "parties": [
+    "ITA 5252 - Blue - AFONSO DOMINGOS",
+    "ESP 7552 - Teatro Soho - Luis Doreste",
+    "FRA 11152 - Alizee - Jorge Zarif",
+    "ESP 7352 - Aifos - Álvarez Maldonado PARAMES",
+    "FRA 11152 - Alizee - Jorge Zarif",
+    "ESP 3401 - Alitan IV - Juan Calvo",
+    "ESP 3401 - Alitan IV - Juan Calvo",
+    "ESP 3401 - Alitan IV - Juan Calvo",
+    "NED 4411 - Checkmate - Erik-Jan De ridder",
+    "ARG 5900 - Katara - Javier Conte"
+  ],
+  "procedural_matters": [
+    "Hearings 1, 7, 8, 9, 10, 12, 13, 15, 16 heard together as requests for redress as they concern the same improper action of the race committee.",
+    "Parties represented by: ITA 5252 Alfonso Domingos ARG 5900 Javier Conte NED 4411 Erik de Ridder ESP 3401 Juan Calvo ESP 3401 Juan Calvo ESP 7552 Luis Doreste FRA 11152 Jorge Zarif ESP 7352 Alejandro Alvares FRA 11152 Jorge Zarif RC Juan Antonio Llabres"
+  ],
+  "facts": [
+    "Course A",
+    "At the gate RC signalled Charlie plus and advised on the VHF increase of the distance from 1.7nm to 1.9.",
+    "In the announced position the RC positioned a black mark with a yellow offset.",
+    "As per SI 8.1 new mark for course A is a red mark, the offset mark is yellow.",
+    "The red mark was set at 1.6nm from the gate with no offset mark set nearby.",
+    "ITA 5252 sailed above red mark, bore away to the red mark, sailed 80 seconds below vmg, went later to the black mark. ITA 5252 won the race on corrected time.",
+    "ESP 7552 sailed right, sailed against the shift to reach the red mark, then followed to black.",
+    "FRA 11152 sailed similiar as ITA 5252.",
+    "ESP 7352 bore away and sailed to the red mark, left it to port and followed to black. ORC B:",
+    "Course B",
+    "At the gate RC signalled Charlie plus and advised on the VHF increase of the distance from 1.4nm to 1.6.",
+    "In the announced position the RC positioned a red mark with an orange offset.",
+    "As per SI 8.1 new mark for course B is a black mark, the offset mark is orange.",
+    "The black mark was set at 1.9nm from the gate with a yellow offset mark.",
+    "ARG 5900 in 3/4 of the beat realized that a boat moved the red mark. All fleet rounded the red mark, noone went around the black mark. ARG 5900 did not sail pass the layline. After the race they informed the RC that they retire from the race due to sailing the incorrect course.",
+    "NED 4411 was going to the black mark, when he was beyond the layline of the red mark they seen the fleet round the red mark so they followed the other boats.",
+    "ESP 3401 was first around the gate, going to the black mark, when he was beyond the layline of the red they seen 4 boats going to the red mark so they followed to the red mark."
+  ],
+  "rules": [
+    "SI 8.1",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "By setting a mark of a wrong color in the intended position and having a correct color mark in adifferent",
+    "The score of ITA 5252 was not made worse as they won the race hence he is not entitled to redress.",
+    "The score of ARG 5900 was not made worse through this improper action but through his retirement.",
+    "This improper action made the score of ORC 0: ESP 7552, FRA 11152, ESP 7352; ORC B: NED 4411, ESP 3401 worse through no fault of their own, hence they are entitled to redress as per RRS 61.4(b)(1)."
+  ],
+  "decision": [
+    "Redress is given to as follows: ORC 0: ESP 7552, FRA 11152, ESP 7352; ORC B: NED 4411, ESP 3401 are to be scored in race 1 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of their points in all inshore races sailed before the last scheduled day of the regatta, except race 1, but no worse than their original score in race 1. No other boat’s score shall change.",
+    "Redress is not given to ITA 5252 and ARG 5900."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Pinar Coskuner Genc",
+      "David Gosalbez",
+      "Michal Jodlowski",
+      "Bruno Finzi"
+    ]
+  }
+}

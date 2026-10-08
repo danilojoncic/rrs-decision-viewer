@@ -1,0 +1,50 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "87. Warnemünder Woche 2025",
+  "race_number": "6",
+  "hearing_datetime": "13 JUL 15:00",
+  "parties": [
+    "FIN 444",
+    "DEN 267"
+  ],
+  "procedural_matters": [
+    "Bo Jarvig, Coach of DEN 267, attended the hearing as an observer.",
+    "Jaakko Haataja, Coach of FIN 444, attended the hearing as an observer.",
+    "Hans Cimutta, Chief Scorer, attended the hearing as an observer.",
+    "Neither party accepted a post race penalty before the hearing started.",
+    "The protest was written in Finnish language. The protestee did not understand Finnish language and was given a translation and time to prepare.",
+    "The protestors finished about 30th in the last race.",
+    "It took 15 minutes to come in from the race course Bravo."
+  ],
+  "facts": [
+    "Protest submitted 1444 hrs. (13/07/2025).",
+    "Protest time limit 1441 hrs. (13/07/2025).",
+    "The protest was written in Fin nish language."
+  ],
+  "rules": [
+    "RRS 60.3(a)",
+    "RRS 60.3(b)(1)",
+    "RRS 63.4(a)(1)",
+    "SI 15.1",
+    "RRS 87"
+  ],
+  "conclusions": [
+    "Theprotest was not lodged within the protest time limit as required by SI 15.1",
+    "FIN 444 failed to deliver the protest within the protest time limit, as required byRRS 60.3(b)(1). There was no good reason for the jury to extend the time.",
+    "Theprotest did not describe the incident as required by RRS 60.3(a)."
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Dr. Jörn-Christoph Jansen",
+    "members": [
+      "Dr. Rainer Kornfeld",
+      "Elizabeth Procter",
+      "Karl Petter Haugen",
+      "Utz"
+    ]
+  }
+}

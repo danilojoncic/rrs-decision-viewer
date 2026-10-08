@@ -1,0 +1,41 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "Optimist Boys",
+  "race_number": "4",
+  "hearing_datetime": "28 Jul 2026 at 17:20",
+  "parties": [
+    "SUI 2055 - ERIK THIBAULT",
+    "AUT 2013 - Benjamin Lux"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "The conditions during the time of the incident in race 4 were 16-17 knots of wind and small waves.",
+    "SUI 2055 and AUT 2013 were sailing upwind 150 m below the finish line, SUI 2055 on starboard, AUT 2013 on port tack on converging courses.",
+    "When the distance between the boats was 1,5 m and AUT 2013 was pointing at SUI's bow, AUT 2013 bore away, SUI 2055 held her course.",
+    "There was a contact between SUI 2055 port quarter and AUT 2013 bow.",
+    "There is a scratch on SUI 2055 quarter.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "AUT 2013 on port tack failed to keep clear of SUI 2055 on starboard tack, and broke RRS 10.",
+    "AUT 2013 did not avoid contact with SUI 2055 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for SUI 2055, the right-of-way boat, to avoid contact with AUT 2013 when it became clear that AUT 2013 was not keeping clear. SUI 2055 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "AUT 2013 is DSQ in Race 4"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Aylin Suntay (IJ TUR",
+      "Anastasia Weinberger (IJ AUT",
+      "Baptiste Verniest"
+    ]
+  }
+}

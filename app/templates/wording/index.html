@@ -1,0 +1,148 @@
+{% extends "base.html" %}
+
+{% block title %}Preferred Wording · Judging Platform{% endblock %}
+
+{% block header_actions %}
+  <div class="header-meta">
+    <span>{{ result_count }} matched</span>
+    <span>{{ total_count }} phrases</span>
+  </div>
+{% endblock %}
+
+{% block content %}
+  <section class="wording-shell">
+    <form class="wording-search-bar" method="get" action="{{ url_for('wording_index') }}">
+      <label class="wording-query">
+        <span>Search preferred wording</span>
+        <input
+          type="search"
+          name="q"
+          value="{{ q }}"
+          placeholder="Search rule, phrase, decision, redress, validity..."
+          autocomplete="off"
+          autofocus
+        >
+      </label>
+
+      <label>
+        <span>Topic</span>
+        <select name="sheet">
+          <option value="">All topics</option>
+          {% for sheet, count in facets.sheets %}
+            <option value="{{ sheet }}" {% if selected_sheet == sheet %}selected{% endif %}>
+              {{ sheet }} ({{ count }})
+            </option>
+          {% endfor %}
+        </select>
+      </label>
+
+      <label>
+        <span>Type</span>
+        <select name="kind">
+          <option value="">All types</option>
+          {% for kind, count in facets.kinds %}
+            <option value="{{ kind }}" {% if selected_kind == kind %}selected{% endif %}>
+              {{ kind }} ({{ count }})
+            </option>
+          {% endfor %}
+        </select>
+      </label>
+
+      <button type="submit">Search</button>
+      <a href="{{ url_for('wording_index') }}">Reset</a>
+    </form>
+
+    <section class="wording-layout" aria-label="Preferred standard wording results">
+      <aside class="wording-side-panel">
+        <div>
+          <p class="eyebrow">Preferred Standard Wording</p>
+          <h1>Find the phrase, copy it, adapt the placeholders.</h1>
+        </div>
+        <div class="wording-topic-list">
+          <a href="{{ topic_url('') }}" class="{% if not selected_sheet %}active{% endif %}">
+            All topics <span>{{ total_count }}</span>
+          </a>
+          {% for sheet, count in facets.sheets %}
+            <a
+              href="{{ topic_url(sheet) }}"
+              class="{% if selected_sheet == sheet %}active{% endif %}"
+            >
+              {{ sheet }} <span>{{ count }}</span>
+            </a>
+          {% endfor %}
+        </div>
+      </aside>
+
+      <div class="wording-results">
+        <div class="wording-results-head">
+          <strong>
+            {% if result_count %}
+              Showing {{ start_index }}-{{ end_index }} of {{ result_count }}
+            {% else %}
+              No matching wording.
+            {% endif %}
+          </strong>
+          <span>Source: wording.xlsx</span>
+        </div>
+
+        {% if results %}
+          <div class="wording-list">
+            {% for entry in results %}
+              <article class="wording-card">
+                <header>
+                  <div>
+                    <p class="eyebrow">{{ entry.kind }}</p>
+                    <h2>{{ entry.label_or_kind }}</h2>
+                  </div>
+                  <button type="button" data-copy-text="{{ entry.wording|e }}">Copy</button>
+                </header>
+
+                <p class="wording-text">{{ entry.wording }}</p>
+
+                <footer>
+                  <span>{{ entry.source_label }}</span>
+                  {% if entry.rules %}
+                    <div class="rule-badges">
+                      {% for rule in entry.rules[:5] %}
+                        <span>{{ rule }}</span>
+                      {% endfor %}
+                    </div>
+                  {% endif %}
+                </footer>
+
+                {% if entry.placeholders %}
+                  <div class="placeholder-row">
+                    {% for placeholder in entry.placeholders[:8] %}
+                      <span>{{ placeholder }}</span>
+                    {% endfor %}
+                  </div>
+                {% endif %}
+              </article>
+            {% endfor %}
+          </div>
+
+          {% if page_count > 1 %}
+            <nav class="pagination" aria-label="Wording result pages">
+              {% if page > 1 %}
+                <a href="{{ page_url(page - 1) }}">Previous</a>
+              {% else %}
+                <span>Previous</span>
+              {% endif %}
+              <strong>Page {{ page }} of {{ page_count }}</strong>
+              {% if page < page_count %}
+                <a href="{{ page_url(page + 1) }}">Next</a>
+              {% else %}
+                <span>Next</span>
+              {% endif %}
+            </nav>
+          {% endif %}
+        {% else %}
+          <div class="empty-state">
+            <h2>No wording found</h2>
+            <p>Try a rule number, a topic, or a phrase from the decision text.</p>
+          </div>
+        {% endif %}
+      </div>
+    </section>
+  </section>
+{% endblock %}

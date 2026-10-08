@@ -1,0 +1,46 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "420 U17",
+  "race_number": "11",
+  "hearing_datetime": "26 Jul 2025 at 18:30",
+  "parties": [
+    "POR 56465 - Graça Empis",
+    "TUR 57052 - Ali Sinan Sentürk"
+  ],
+  "procedural_matters": [
+    "POR 56465 was represented by Leonor Correia De Sá (crew).",
+    "TUR 57052 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "POR 56465 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1). However, there was a good reason for the International Jury to extend the time limit.",
+    "Afonso Prieto, coach of POR 56465, attended the hearing as an observer.",
+    "Graca Empis, helm of POR 56465, attended the hearing as an observer."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 11 of the 420 U17 Silver fleet were 13 knots of wind and choppy sea.",
+    "TUR 57052 rounded mark 3P of the outerloop gate.",
+    "POR 56465 was sailing astern of TUR 57052 at a distance of one and a half boat lengths",
+    "TUR 57052´s entire hull on the prot side made contact with the mark as she was rounding the mark.",
+    "TUR 57052 did not take a penalty."
+  ],
+  "rules": [
+    "RRS 31",
+    "RRS 60.3(b)(1)",
+    "RRS 63.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "TUR 57052 touched mark 3P and broke RRS 31."
+  ],
+  "decision": [
+    "TUR 57052 is DSQ in race 11."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Luigi Bertini (ITA",
+      "Jose M Miranda Kiio (ESP",
+      "María Ramires (POR"
+    ]
+  }
+}

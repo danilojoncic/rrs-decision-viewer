@@ -1,0 +1,40 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "5",
+  "hearing_datetime": "22 JUL 17:30",
+  "parties": [
+    "RC",
+    "GER 3500 (R5)"
+  ],
+  "procedural_matters": [
+    "The Race Committee was represented by Coco Stach (Race Committee mark 1).",
+    "GER 3500 was represented by Knut Hohenstein."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 5 of RS Aero 7 were 20 knots of wind and 0.5-1 meter waves.",
+    "GER 3500 was approaching mark 2 for the first time on starboard tack on clouse-hauled.",
+    "When GER 3500 was bearing away to round the mark, the end of her boom slightly touched the mark.",
+    "GER 3500 did not see the mark-touch and continued sailing and finished the race."
+  ],
+  "rules": [
+    "RRS 31"
+  ],
+  "conclusions": [
+    "GER 3500 touched mark 2, and broke RRS 31."
+  ],
+  "decision": [
+    "GER 3500 is DSQ in race 5."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Gonzalo Heredia",
+    "members": [
+      "Sandra Hatch",
+      "Lisa Steppat",
+      "Jens Haun",
+      "Ute Reisinger"
+    ]
+  }
+}

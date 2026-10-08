@@ -1,0 +1,33 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 Izola Spring Cup 37",
+  "race_number": "4",
+  "hearing_datetime": "2026-04-04 17:20",
+  "parties": [
+    "CRO 56136 - Kiara Radnic Marul Vlahov"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "The protest did not identify the protestee and the incident as required by RRS 60.3(a)."
+  ],
+  "rules": [
+    "RRS 60.3(a)"
+  ],
+  "conclusions": [
+    "The protest did not confirmed the requirements of RRS 60.3(a)."
+  ],
+  "decision": [
+    "The protest is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Ilker Bayindir",
+    "members": [
+      "Uros Zvan",
+      "Cristian Tabacu",
+      "Christian Hotwagner",
+      "Lorenzo Walch"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 227162 - Thomas GUAITOLINI"
+  ],
+  "procedural_matters": [
+    "RC corrected result of ITA 227162 before the hearing starts."
+  ],
+  "facts": [
+    "ITA 227162 ask to withdraw request for redress."
+  ],
+  "rules": [],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the request for redress."
+  ],
+  "decision": [
+    "The International Jury allows the request for redress to be withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Uros Zvan",
+    "members": [
+      "Danilo Joncic",
+      "Philippe Mazard"
+    ]
+  }
+}

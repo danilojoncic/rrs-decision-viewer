@@ -1,0 +1,51 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2025",
+  "race_number": "3",
+  "hearing_datetime": "27 JUN 16:45",
+  "parties": [
+    "SWE 213529",
+    "Unknown"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Saratol Thörn (Coach of SWE 213529) attended the hearing as an observer.",
+    "Carl Thrane (DEN 223248) gave evidence as a witness for SWE 213529."
+  ],
+  "facts": [
+    "The wind was 18 kts with gusts and small choppy waves.",
+    "The incident took place during leg 4 of race 3.",
+    "SWE 213529 was sailing on a reach on starboard tack.",
+    "A unknown german boat (GER) approached from clear astern and established an overlap towindward of SWE 213529.",
+    "The sailor of SWE 213529 ducked down with her body to avoid the boom of GER.",
+    "The mainsheet of GER wrapped around the body and the neck of the sailor of SWE 213529.",
+    "The sailor of SWE 213529 was pulled out of her boat and into the water.",
+    "SWE 213529 capsized.",
+    "SWE swam 10 meters to get back to the boat.",
+    "SWE 213529 righted the boat and finishedthe race.",
+    "There is no injury.",
+    "There is no damage.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 61.4"
+  ],
+  "conclusions": [
+    "GER to windward failed to keep clear of SWE 213529 to leeward, and broke RRS 11.",
+    "GER did not avoid contact with SWE 213529 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for SWE 213529 the right-of-way boat to avoid contact with GER when it became clear that GER was not keeping clear. SWE 213529 did not break RRS 14(a).",
+    "SWE 213529's score was made signficantly worse through no fault of herown. However there was no injury or damage and no boat was penalized under RRS2 or RRS 69. Therefore, the requirements for redress in RRS 61.4 were not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Heiko Falch",
+    "members": [
+      "Josephine Wilken",
+      "Hella Bouma"
+    ]
+  }
+}

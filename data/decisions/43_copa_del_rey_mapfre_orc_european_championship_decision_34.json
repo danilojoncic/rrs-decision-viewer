@@ -1,0 +1,46 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "4",
+  "hearing_datetime": "2025-07-31 17:35",
+  "parties": [
+    "AUS 52 - VUDU - Michele Regolo",
+    "USA 52007 - Vesper"
+  ],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b).",
+    "Vudu represented by Michele Regolo.",
+    "Vesper represented by Morgan Larson.",
+    "Witness Nicolo Sanfelici navigator of Vesper.",
+    "Tracking and video evidence provided by the International Jury."
+  ],
+  "facts": [
+    "8-10 knots, TP 52 s.",
+    "Vudu and Vesper apporaching mark 1 on converging close-hauled courses, Vudu on starboard tack on the layline, Vesper on port tack.",
+    "Vesper passed head to wind 50-55 meters from the mark. The zone was 48 meters.",
+    "Vesper completed the tack overlapped to leeward and half bow ahead of Vudu with half a boat length gap between them.",
+    "7 seconds later Vesper luffed above close-hauled course shooting for the mark.",
+    "Vudu luffed above close-hauled.",
+    "Before Vesper bore away at the mark, Vudu bore away and the gap between the boats closed to around a meter.",
+    "No boat took penalty turns."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 11"
+  ],
+  "conclusions": [
+    "The boats were at the distance were any change of course by Vesper would cause immediate contact. Therefore as per definiton Keep Clear (b), Vudu on windward failed to keep clear of Vesper on leeward thus breaking RRS 11."
+  ],
+  "decision": [
+    "Vudu is disqualified from race 4."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

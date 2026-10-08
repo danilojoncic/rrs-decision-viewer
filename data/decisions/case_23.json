@@ -1,0 +1,42 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 228342 - Blanca FERRANDO BABE"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Borja Mas (Coach of ESP 228342) gave evidence during the hearing.",
+    "ESP 228342 presented the medical prescription of 15 Apr 2026 given for her, as evidence.",
+    "Qun Zhao (jury member) attended the hearing as an observer."
+  ],
+  "facts": [
+    "The crew of ESP 228342 had been vomiting on 14 Apr 2026.",
+    "The crew started vomiting again and started feeling faint between races 5 and 6 of ILCA 4 (Girls) (Yellow fleet), held on 15 Apr 2026.",
+    "Borja Mas (Coach of ESP 228342) administered an injection, as per the medical prescription of the crew of ESP 228342, to her to treat her symptoms.",
+    "Between races 5 and 6, ESP 228342 was then towed by Borja Mas.",
+    "Flag T had not been displayed either ashore or on the race committee vessel, during that period.",
+    "NoR 7.9 states that boats shall not be towed except when the race committee displays flag T either on shore or on the committee vessel. The rule does not apply when a boat or crew is in danger, a boat is damaged or the crew injured."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "NoR 7.9"
+  ],
+  "conclusions": [
+    "By being towed when flag T had not been displayed either ashore or on the race committee vessel, but when the crew of ESP 228342 was not well, ESP 228342 was in compliance with the exception available in NoR 7.9. No rule was broken."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Elliot Levy",
+    "members": [
+      "Pablo Garcia",
+      "Gurvinderpal Julka"
+    ]
+  }
+}

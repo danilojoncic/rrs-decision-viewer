@@ -1,0 +1,49 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 6 Masters World Championships",
+  "race_number": "10",
+  "hearing_datetime": "",
+  "parties": [
+    "AUS 224183 - Richard Longbottom",
+    "CAN 217965 - Allan Clark"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "AUS 224183 was represented by Richard Longbottom.",
+    "CAN 217965 was represented by Allan Clark.",
+    "Tim Woodford (CAN 187186) gave evidence as a witness for AUS 224183.",
+    "Chris Raab (USA 226424) gave evidence as a witness for CAN 217965.",
+    "The hearing is suspended at 18:33 in order to check if there is some evidence from the media, as the day races were broadcasted; the hearing is re-started at 18:47, no video evidence was found."
+  ],
+  "facts": [
+    "Wind speed 9 kts, light choppy sea.",
+    "The incident occured in the zone of mark 1 at the end of the first beat to windward, race 10.",
+    "When entering the zone on port tack, AUS 224183 luffed, passed head to wind and reached a close-hauled course on starboard tack on the starboard layline.",
+    "At that time CAN 217965 was on close-hauled port tack on a collision course with AUS 224183, 1 hull lenght to leeward of the port layline.",
+    "When about 1.5 m from AUS 224183 and 1 hull lenght from the mark, CAN 217965 suddenly luffed and passed head to wind.",
+    "At the same time AUS 224183 luffed, and before CAN 217965 assumed a close-hauled course, a contact with no damage or injury occured between the right aft quarter of CAN 217965 and left side of AUS 224183.",
+    "No boat took a penalty turn."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 13",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "After passing head to wind and before reaching a close-hauled course, CAN 217965 failed to keep clear of AUS 224183. CAN 217965 broke RRS 13.",
+    "CAN 217965 did not avoid contact with AUS 224183 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for AUS 224183, the right-of-way boat, to avoid contact with CAN 217965 when it became clear that CAN 217965 was not keeping clear. AUS 224183 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "By not keeping clear of AUS 224183, CAN 217965 broke RRS 13 and is DSQ in race 10."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Anastasios Fotis",
+    "members": [
+      "Giorgio Bolla",
+      "Iuan Gray"
+    ]
+  }
+}

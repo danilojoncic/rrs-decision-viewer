@@ -1,0 +1,38 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "0",
+  "hearing_datetime": "2025-08-01 19:55",
+  "parties": [
+    "POR 3440 - Syone Panther - Nuno Neves",
+    "ITA 4149 - Magica"
+  ],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b)",
+    "Syone Panther represented by Bruno Neves",
+    "Magica represented by Marco Corno"
+  ],
+  "facts": [
+    "The protest only contains that the incident happened during the first leg of the race 0, \"ITA 4149 did not stay away\" as the description of the incident and alleged breaking rule 11."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 11",
+    "RRS 60.3(a)"
+  ],
+  "conclusions": [
+    "The protest does not identify the incident as required by RRS 60.3(a)."
+  ],
+  "decision": [
+    "Protest invalid"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

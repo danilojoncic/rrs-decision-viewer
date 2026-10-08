@@ -1,0 +1,38 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "2026 ORC World Championship",
+  "race_number": "4",
+  "hearing_datetime": "2026-05-12 19:00",
+  "parties": [
+    "ITA 41048 - Sideracordis - Pier Vettor Grimani"
+  ],
+  "procedural_matters": [
+    "ITA 41048 -Sideracordis- was represented by Mauro Bailo (mainsail trimmer).",
+    "The race committee was represented by Stuart Childerley."
+  ],
+  "facts": [
+    "The hearing request did not contain any information to identify the reason for making it."
+  ],
+  "rules": [
+    "RRS 61.2(a)",
+    "RRS 61.3",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "The hearing request does not comply with RRS 61.2(a). Therefore, the request for redress is invalid under RRS 61.3."
+  ],
+  "decision": [
+    "The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Line Juhl",
+    "members": [
+      "Timo Haß",
+      "Neven Baran",
+      "Stavros Kouris",
+      "Giuseppe D'amico"
+    ]
+  }
+}

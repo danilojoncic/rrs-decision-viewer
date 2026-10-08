@@ -1,0 +1,45 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "Protestor: International Jury Protestee: Roman Hagara (AUT) (), AUT 97",
+  "hearing_datetime": "8 JUL 19:00",
+  "parties": [
+    "International Jury",
+    "Roman Hagara (AUT) (), AUT 97"
+  ],
+  "procedural_matters": [
+    "Roman Hagara attended the hearing.",
+    "AUT 97 did not attend the hearing. The hearing proceeded under 63.1(b).",
+    "The hearing panel was composed under rule N1.4(b)"
+  ],
+  "facts": [
+    "Roman Hagara (AUT) works for the Austrian Sailing Federation.",
+    "He has been on the water for 7 July and 8 July evaluating the performance of the AUT coach.",
+    "Roman Hagara is not coaching AUT 97.",
+    "The AUT coach has paid the required fees.",
+    "No additional fee has been paid for Roman Hagara."
+  ],
+  "rules": [
+    "SI 4.1",
+    "RRS 7.1"
+  ],
+  "conclusions": [
+    "NOR/SI 4.1 requires a \"Official Support fee: 100 Euro per supporter\".",
+    "The Jury interprets the word \"supporter\" to mean a support person as defined in the RRS.",
+    "As Roman Hagara is not providing physical or advisory support to a competitor, he is not a support person as defined.",
+    "The fee is not payable.",
+    "The Jury has warned Roman Hagara that if he engages in any support to AUT 97 itself, he must pay the €100 fee."
+  ],
+  "decision": [
+    "No action taken."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jon Napier",
+    "members": [
+      "Christina Örtendahl",
+      "Henning Jacobssen"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 6 Masters World Championships",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "ARG 218512 - Ricardo Reyes Anderson",
+    "ARM 170161 - Samvel Rostomyan"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "ARG 218512 was represented by Ricardo Anderson.",
+    "ARM 170161 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "ARM 170161 did not come to the hearing when the protest committee gave the decision.",
+    "The Hearing request was submitted 8 minutes after the protest time limit. ARG 218512 failed to deliver the Hearing request within the protest time limit, as required by RRS 60.3(b)(1). However, because there were technical issues with the network used to submit the digital request, there was good reason for the PC to extend the time limit."
+  ],
+  "facts": [
+    "Wind 7 knots with a 60cm chop. ARG 218512 on starboard and ARM 170161 on port tack were sailing close-hauled, and on a converging course. ARM 170161 held her course at all times. ARG 218512 tacked to port when the distance between the bows of the boats was approx 2 meters There was no contact between the boats and no injury. No boat took any penalty turn."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 63.1(b)",
+    "RRS 60.3(b)(1)",
+    "RRS 10"
+  ],
+  "conclusions": [
+    "ARM 170161 on port tack, failed to keep clear of ARG 218512 on starboard and broke rule 10"
+  ],
+  "decision": [
+    "ARM 170161 on port tack failed to keep clear and is DSQ in race 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Iuan Gray",
+    "members": [
+      "Giorgio Bolla",
+      "Anastasios Fotis"
+    ]
+  }
+}

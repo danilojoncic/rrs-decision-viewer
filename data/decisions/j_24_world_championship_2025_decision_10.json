@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "J/24 World Championship 2025",
+  "race_number": "4",
+  "hearing_datetime": "2025-09-11 16:30",
+  "parties": [
+    "BOW 26 - Jupiter - Conor Haughton",
+    "BOW 40 - Tata Patagonia - Ramiro Clemente Diaz"
+  ],
+  "procedural_matters": [
+    "Martin Mahon, helmsman of IRL 4265, gave evidence as a witness for IRL 5270.",
+    "Alberto Benedetti, trimmer of ITA 438, gave evidence as a witness for ARG 5453."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 20-22 knots and one metre waves.",
+    "ARG 5453 tacked from port to starboard tack clear ahead and slightly to leeward of IRL 5270, who was sailing a close-hauled course on starboard tack.",
+    "After ARG 5453 reached a close-hauled course, IRL 5270 luffed above a close-hauled course and established an overlap 1 metre to windward of ARG 5453."
+  ],
+  "rules": [
+    "RRS 15"
+  ],
+  "conclusions": [
+    "After reaching a close-hauled course and acquiring right-of-way as clear ahead boat, ARG 5453 initially gave IRL 5270 room to keep clear as required by RRS 15.",
+    "No rule broken."
+  ],
+  "decision": [
+    "Protest dismissed"
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Cxema Pico",
+    "members": [
+      "Robert Stewart",
+      "Marta Lloret Llinares",
+      "Jared Hickman",
+      "Josephine Wilken"
+    ]
+  }
+}

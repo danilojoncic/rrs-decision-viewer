@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "87. Warnemünder Woche 2025",
+  "race_number": "1",
+  "hearing_datetime": "5 JUL 16:30",
+  "parties": [
+    "IRL 219480",
+    "GER 225644"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "IRL 219480 did not ask to withdraw the protest after the arbitration meeting and neither boats took a Post-Race Penalty under RRS T1(a)."
+  ],
+  "facts": [
+    "The incident occurredon the last quarter of the first upwind leg of race #1.",
+    "At the moment ofthe incident the wind was around 15 knots and choppy water.",
+    "IRL 219480 was sailingon starboard on close-hauled course on a converging course with GER 225644 thatwas sailing on port on close-hauled course.",
+    "When the distance between them was two boat lengths, GER 225644 hailed to ask if she could pass.",
+    "When the distance between the boats was less than one boat length, the bow of IRL 219480 was aiming to the middle of the starboard side of GER 225644.",
+    "IRL 219480 crash tackedonto port and when the tack was completed the boats were overlapped bow to bowat lateral distance was half boat length.",
+    "Neither boat tooka penalty.",
+    "Both boats finishedthe race."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 10"
+  ],
+  "conclusions": [
+    "GER 225644 failed to keep claer of IRL 219480 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "GER 225644 is DSQ in race #1."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Sylvie Harlé",
+    "members": [
+      "Anna Cuccia",
+      "Jens Villumsen"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "44° Lake Garda Meeting Optimist",
+  "race_number": "Before race 6",
+  "hearing_datetime": "2026-04-04 18:15",
+  "parties": [
+    "DEN 8804 - Luca FlÃ¸e Toftgaard",
+    "SGP 3029 - Mikaela Hui Ting Wong"
+  ],
+  "procedural_matters": [
+    "DEN 8804 was represented by Luca FlÃ¸e Toftgaard.",
+    "SGP 3029 was represented by Mikaela Hui Ting Wong.",
+    "Stefan Siggaarrd, coach of DEN 8804, attended the hearing as an observer.",
+    "Marcus Wong, parent of SGP 3029, attended the hearing as an observer.",
+    "Fiorella Nicolari, Alberto Caporro and Marin Kustic, members of international jury, attended the hearing as observers."
+  ],
+  "facts": [
+    "DEN 8804 did not inform SGP 3029 about her intention to protest.",
+    "DEN 8804 did not inform the race committee at the finishing line about her intention to protest.",
+    "DEN 8804 delivered the protest at 17:58.",
+    "The protest time limit for Division A on 4th April was 17:06."
+  ],
+  "rules": [
+    "RRS 60.2(a)",
+    "RRS 60.4(1)(a)",
+    "NoR 1.4",
+    "SI 18.1"
+  ],
+  "conclusions": [
+    "DEN 8804 failed to hail ‘Protest’ at the first reasonable opportunity, as required by RRS 60.2(a). Therefore the protest is invalid under RRS 60.4(a)(1).",
+    "DEN 8804 failed to inform the race committee of her intention to protest immediately after she finished, as required by NOR 1.4. Therefore the protest is invalid under RRS 60.4(a)(1).",
+    "DEN 8804 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1) and SI 18.1. There was no good reason for the PC to extend the time limit. Therefore the protest is invalid under RRS 60.4(1)(a)."
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 60.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Martin Clasen",
+    "members": [
+      "Alen Kustic",
+      "Adrian Bauder",
+      "Ezio Fonda",
+      "Hermann Herburger"
+    ]
+  }
+}

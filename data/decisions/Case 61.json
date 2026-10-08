@@ -1,0 +1,35 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest / Request for Redress",
+  "event": "2025 ILCA 4 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "8",
+  "hearing_datetime": "",
+  "parties": [
+    "GRE 214206 - Eleni ALCHANATI",
+    "POL 220730 - Martyna SEROKA"
+  ],
+  "procedural_matters": [
+    "Appendix T applies"
+  ],
+  "facts": [
+    "During the arbitration meeting, POL 220730 took a 30% post race penalty.",
+    "GRE 214206 asked to withdraw the protest.",
+    "Subsequently GRE 214206 asked to withdraw the request for redress."
+  ],
+  "rules": [],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the request of redress."
+  ],
+  "decision": [
+    "POL 220730 took a 30% post race penalty. The arbitrator on behalf of the protest committee allows the protest to be withdrawn.",
+    "The panel of the international jury allows the request to redress to be withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Zlatko Jakelic",
+    "members": [
+      "Iuan Gray",
+      "Maria Ramires"
+    ]
+  }
+}

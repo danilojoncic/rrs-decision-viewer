@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "J/24 World Championship 2025",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-10 17:10",
+  "parties": [],
+  "procedural_matters": [
+    "HUN 37 (Bow 11) was represented by Balazs Tomai.",
+    "Race Committee was represented by David Rollinson (Deputy Race Officer).",
+    "David Rollinson (Deputy Race Officer) provided video evidence."
+  ],
+  "facts": [
+    "In race 3 black flag was displayed as the preparatory signal.",
+    "Just before the start, the race committee identified HUN 37's (Bow 11) hull in the triangle formed by the ends of the starting line and the first mark.",
+    "HUN 37 was scored BFD in race 3."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.1",
+    "RRS 61.2",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jared Hickman",
+    "members": [
+      "Robert Stewart",
+      "Marta Lloret Llinares",
+      "Cxema Pico",
+      "Carol Haines"
+    ]
+  }
+}

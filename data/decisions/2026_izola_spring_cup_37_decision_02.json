@@ -1,0 +1,37 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 Izola Spring Cup 37",
+  "race_number": "2",
+  "hearing_datetime": "2026-04-03 18:50",
+  "parties": [
+    "CRO 221178 - Ilca 4 - Juraj Lencovic",
+    "CZE 208237 - Ilca 4 - Mariana Balzerova"
+  ],
+  "procedural_matters": [
+    "CRO 221178 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "Protest was lodged by CZE 208237 as a protestor and not by CRO 221178 as stated in the protest delivered..",
+    "CRO 221178 is a protestee and not protestor as mentioned in the protest."
+  ],
+  "rules": [
+    "RRS 60.3(a)"
+  ],
+  "conclusions": [
+    "Protestor and protestee are not identified as required by rule 60.3(a)"
+  ],
+  "decision": [
+    "Protest is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cristian Tabacu",
+    "members": [
+      "Ilker Bayindir",
+      "Uros Zvan",
+      "Christian Hotwagner",
+      "Lorenzo Walch"
+    ]
+  }
+}

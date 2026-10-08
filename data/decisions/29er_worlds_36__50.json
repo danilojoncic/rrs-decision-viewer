@@ -1,0 +1,48 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "12",
+  "hearing_datetime": "7 JUL 15:20",
+  "parties": [
+    "GER 3450",
+    "GBR 3606"
+  ],
+  "procedural_matters": [
+    "The arbitrator decided that RRS 44.1(b) may apply and the arbitration meeting will not be held.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "GER 3450 was represented by Julia Ewald.",
+    "GBR 3606 was represented by Lila Edwards.",
+    "GER 3450 presented photo evidence of the damage."
+  ],
+  "facts": [
+    "The incident occurred in race F2 of the Silver fleet, on leg 1 and the wind speed was 18 to 25 knots and very gusty.",
+    "GER 3450 and GBR 3606 rounded mark 1, both on starboard tack, with GER 3450 overlapped to windward of GBR 3606 at a distance of 3 metres.",
+    "After rounding the mark, both boats bore away to a reaching course and they were in the process of hoisting their gennakers.",
+    "Both boats held their courses and maintained the distance between the hulls.",
+    "GER 3450 accelerated in a gust and heeled to leeward.",
+    "As GBR 3606 was blanketed by GER 3450, she heeled rapidly to windward.",
+    "There was a contact between the masthead of GBR 3606 and the mainsail of GER 3450, resulting in a 20 cm hole in the upper part of GER 3450's mainsail.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "GER 3450, the windward boat, failed to keep clear of GBR 3606, the leeward boat, and broke RRS 11.",
+    "It was reasonable possible for GER 3450, as the boat required to keep clear, to avoid contact by keeping a greater distance between the boats, considering the prevailing conditions. Therefore, she broke RRS 14(a).",
+    "It was not reasonable possible for GBR 3606, the right-of-way boat, to avoid contact when it became clear that GER 3450 is not keeping clear. Therefore, she did not break RRS 14(a)."
+  ],
+  "decision": [
+    "GER 3450 is scored DSQ in race F2."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Michalina Wroblewska",
+      "Holger Herburger"
+    ]
+  }
+}

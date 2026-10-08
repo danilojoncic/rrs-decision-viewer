@@ -1,0 +1,59 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Event: J70 Corinthian World Championship Race Number: 05",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "05",
+  "hearing_datetime": "2026-05-28 19:35",
+  "parties": [
+    "FRA 1472 - 183 - JGATOR - Bernard MORIEUL"
+  ],
+  "procedural_matters": [
+    "The technical committee was represented by Thomas Loesch.",
+    "FRA 1472 was represented by Julien Garotta",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The hearing was originally decided on 28 May 2026 at 20:37.",
+    "On 29 May, the international jury decided that they may have made a significant error in the original hearing and reopened the hearing without the parties at 11:30, in accordance with RRS 63.7(a)(2).",
+    "The panel was changed in accordance with RRS 63.7(c)(2), by adding the following new members: Bence Böröcz and Yoann Peronneau.",
+    "The parties were informed of the decision of the reopened hearing at 11:40."
+  ],
+  "facts": [
+    "The International J/70 class rules are closed class rules, where if it does not specifically say that you “may” then you “shall not.”",
+    "Building specification line 21a says: “Main sheet strop connecting fiddle block to boom between 434mm and 504mm.”",
+    "During registration, FRA 1472 signed a J/70 Class Rules Compliance Declaration Form, confirming the compliance of her equipment with all J/70 Class Rules and Building Specifications.",
+    "On 28 May 2026, during the post-race inspection, FRA 1472’s main sheet strop was measured by the technical committee and was found to be 550 mm long.",
+    "On 28 May 2026, FRA 1472 sailed in races 3, 4 and 5.",
+    "During the day, FRA 1472 did not manipulate their main sheet strop in any way."
+  ],
+  "rules": [
+    "RRS 44.3(c)",
+    "RRS 60.5(d)(3)",
+    "RRS 63.7(a)(2)",
+    "RRS 63.7(c)(2)",
+    "RRS 78.1",
+    "RRS N1.4(b)",
+    "SI 14.8"
+  ],
+  "conclusions": [
+    "The main sheet strop of FRA 1472 was 46mm above the maximum allowed length.",
+    "By sailing with her main sheet strop outside measurement tolerances, FRA 1472 broke the International J/70 class rules and RRS 78.1.",
+    "While sailing in races 3, 4 and 5, FRA 1472 did not obtain a competitive advantage by her breach.",
+    "FRA 1472 broke the same class rule in earlier races on 28 May 2026; therefore the same penalty will be imposed for all such races without further protest, in accordance with RRS 60.5(d)(3).",
+    "Under SI 14.8, the penalty for this breach shall not be less than a ten percent (10%) scoring penalty.",
+    "Reopened hearing conclusions: Conclusion 4 is replaced by:",
+    "In accordance with the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons, since the breach did not affect racing performance, the penalty should be applied to the race sailed nearest in time to the time of the incident (race 5)."
+  ],
+  "decision": [
+    "Original hearing decision: Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons, a starting penalty of 5% was decided. There were no facts to justify decreasing or increasing the penalty. However, the penalty is increased to 10% in accordance with SI 14.8. The penalty given to FRA 1472 is a 10% discretionary penalty, calculated using the method described in RRS 44.3(c) and applied to all races of the day (race 3, 4, and 5), but not worse than the score for DNF.",
+    "Reopened hearing decision: Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons, a starting penalty of 5% was decided. There were no facts to justify decreasing or increasing the penalty. However, the penalty is increased to 10% in accordance with SI 14.8. The penalty given to FRA 1472 is a 10% discretionary penalty, calculated using the method described in RRS 44.3(c) and applied to race 5, but not worse than the score for DNF."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Anastazja Lewandowska",
+    "members": [
+      "Bence Borocz",
+      "Yoann Peronneau",
+      "Pauline den Burger",
+      "Romain Gautier"
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{% extends "base.html" %}
+
+{% block title %}Decision Viewer{% endblock %}
+
+{% block header_actions %}
+  <div class="header-meta">
+    <span>{{ result_count }} matched</span>
+    <span>{{ total_count }} indexed</span>
+  </div>
+{% endblock %}
+
+{% block content %}
+  <section class="library-shell">
+    <form class="top-filters" method="get" action="{{ url_for('index') }}">
+      <div class="top-filter-primary">
+        <label class="search-field">
+          <span>Search</span>
+          <input
+            type="search"
+            name="q"
+            value="{{ q }}"
+            placeholder="Event, boat, rule, facts..."
+            autocomplete="off"
+          >
+        </label>
+        <button type="submit">Search</button>
+        <a href="{{ url_for('index') }}">Reset</a>
+      </div>
+
+      <div class="top-filter-secondary">
+        <label>
+          <span>Event</span>
+          <select name="event">
+            <option value="">All events</option>
+            {% for event, count in facets.events %}
+              <option value="{{ event }}" {% if selected_event == event %}selected{% endif %}>
+                {{ event }} ({{ count }})
+              </option>
+            {% endfor %}
+          </select>
+        </label>
+
+        <label>
+          <span>Type</span>
+          <select name="request_type">
+            <option value="">All types</option>
+            {% for request_type, count in facets.request_types %}
+              <option value="{{ request_type }}" {% if selected_request_type == request_type %}selected{% endif %}>
+                {{ request_type or "Unknown" }} ({{ count }})
+              </option>
+            {% endfor %}
+          </select>
+        </label>
+
+        <label>
+          <span>Source</span>
+          <select name="origin_system">
+            <option value="">All sources</option>
+            {% for origin_system, count in facets.origin_systems %}
+              <option value="{{ origin_system }}" {% if selected_origin_system == origin_system %}selected{% endif %}>
+                {{ origin_system }} ({{ count }})
+              </option>
+            {% endfor %}
+          </select>
+        </label>
+
+        <div class="facet-dropdown" data-facet-dropdown>
+          <button
+            class="facet-toggle"
+            type="button"
+            data-facet-toggle
+            aria-expanded="{{ 'true' if selected_rules else 'false' }}"
+            aria-controls="rules-filter-panel"
+          >
+            <span>Rules</span>
+            <small>{{ selected_rules|length }}</small>
+          </button>
+          <div
+            class="facet-panel"
+            id="rules-filter-panel"
+            data-facet-panel
+            {% if not selected_rules %}hidden{% endif %}
+          >
+            <label class="facet-search-label">
+              <span>Find Rule</span>
+              <input class="facet-search" type="search" placeholder="Type 14a, 63.1, case 50..." data-facet-search="rules" autocomplete="off">
+            </label>
+            <div class="facet-options" data-facet-options="rules">
+              {% for rule, count in facets.rules %}
+                <label data-facet-text="{{ rule }}">
+                  <input type="checkbox" name="rules" value="{{ rule }}" {% if rule in selected_rules %}checked{% endif %}>
+                  <span>{{ rule }}</span>
+                </label>
+              {% endfor %}
+            </div>
+            <div class="facet-actions">
+              <button type="submit">Apply</button>
+              <button type="button" data-facet-clear="rules">Clear</button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </form>
+
+    <section class="results-area" aria-label="Decision results">
+      <div class="learning-toolbar">
+        <div>
+          <strong>Cases</strong>
+          <span>
+            {% if result_count %}
+              Showing {{ start_index }}-{{ end_index }} of {{ result_count }}
+            {% else %}
+              No matching decisions.
+            {% endif %}
+          </span>
+        </div>
+        <div class="toolbar-buttons">
+          <button type="button" data-open-section="facts">Open Facts</button>
+          <button type="button" data-open-section="conclusions">Open Conclusions</button>
+          <button type="button" data-open-section="decision">Open Decisions</button>
+          <button type="button" data-close-sections>Close All</button>
+        </div>
+      </div>
+
+      {% if results %}
+        <div class="decision-list">
+          {% for record in results %}
+            <article class="decision-card">
+              <div class="decision-card-head">
+                <div>
+                  <div class="title-flags">
+                    <p class="eyebrow">{{ record.request_type or "Decision" }}</p>
+                    {% if record.review_flags %}
+                      <div class="review-flags" aria-label="Review flags">
+                        {% for flag in record.review_flags %}
+                          <span>{{ flag }}</span>
+                        {% endfor %}
+                      </div>
+                    {% endif %}
+                  </div>
+                  <h2>
+                    <a href="{{ url_for('decision_detail', decision_id=record.id) }}">{{ record.event or record.filename }}</a>
+                  </h2>
+                </div>
+                <div class="card-actions">
+                  <a class="open-link" href="{{ url_for('decision_detail', decision_id=record.id) }}?focus=1">Full</a>
+                  <a class="open-link" href="{{ url_for('decision_detail', decision_id=record.id) }}">Open</a>
+                </div>
+              </div>
+
+              {% if record.parties %}
+                <div class="party-row">
+                  {% for party in record.parties %}
+                    <span>{{ party }}</span>
+                  {% endfor %}
+                </div>
+              {% endif %}
+
+              {% if record.rules %}
+                <div class="chip-row">
+                  {% for rule in record.rules %}
+                    <span class="chip rule-chip">{{ rule }}</span>
+                  {% endfor %}
+                </div>
+              {% endif %}
+
+              <div class="sections">
+                {% include "partials/section.html" with context %}
+              </div>
+            </article>
+          {% endfor %}
+        </div>
+
+        {% if page_count > 1 %}
+          <nav class="pagination" aria-label="Result pages">
+            {% if page > 1 %}
+              <a href="{{ page_url(page - 1) }}">Previous</a>
+            {% else %}
+              <span>Previous</span>
+            {% endif %}
+            <strong>Page {{ page }} of {{ page_count }}</strong>
+            {% if page < page_count %}
+              <a href="{{ page_url(page + 1) }}">Next</a>
+            {% else %}
+              <span>Next</span>
+            {% endif %}
+          </nav>
+        {% endif %}
+      {% else %}
+        <div class="empty-state">
+          <h2>No decisions found</h2>
+          <p>Nothing matches the current filters.</p>
+        </div>
+      {% endif %}
+    </section>
+  </section>
+{% endblock %}

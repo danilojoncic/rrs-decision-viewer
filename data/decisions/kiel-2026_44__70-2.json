@@ -1,0 +1,41 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "26 JUN 15:50",
+  "parties": [
+    "BRA 3247",
+    "Jury green fleet."
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "BRA 3247 was represented by Joao Joppert (crew).",
+    "The international jury was represented by Stavros Kouris (member of international jury).",
+    "Ignacio Varisco (coach of BRA 3247) attended the hearing as an observer."
+  ],
+  "facts": [
+    "On 25.06.2026, BRA 3247 was signalled a yellow flag by the jury on the first downwind of race 1.",
+    "The penalty was posted on the notice board after all races had finished.",
+    "While BRA 3247 was eating in the restaurant at 20:00, she checked the result on her coach’s phone and found out she was DSQ.",
+    "BRA 3247 finished eating, drove back to the hotel and took a bath, charged the computer and submitted the hearing request afterwards.",
+    "BRA 3247 submitted the request of redress at 00:57 on 26.06.2026."
+  ],
+  "rules": [
+    "RRS 61.2(b)(3)"
+  ],
+  "conclusions": [
+    "BRA 3247 failed to deliver the request for redress as soon as reasonably possible after the relevant information was available, as required by RRS 61.2(b)(3). There was no good reason for the international jury to extend the time."
+  ],
+  "decision": [
+    "The request for redress is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Rick Mallinson",
+      "Wai Kai Chan Vicky"
+    ]
+  }
+}

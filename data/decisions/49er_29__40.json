@@ -1,0 +1,45 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "10",
+  "hearing_datetime": "10 JUL 19:15",
+  "parties": [
+    "BEL 18",
+    "FRA 19"
+  ],
+  "procedural_matters": [
+    "BEL 18 was represented by Isaura MAENHAUT.",
+    "FRA 19 was represented by Mathilde LOVADINA.",
+    "Sophie STEINLEIN (GER 5) was a witness for BEL 18.",
+    "FRA 19 provided video evidence of the incident.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 3 - 5 knots of wind and flat water.",
+    "Approaching mark 1, BEL 18 and FRA 19 were sailing on port tack, with BEL 18 two boat lengths clear ahead and two boat lengths to leeward of FRA 19.",
+    "BEL 18 entered the zone and tacked onto starboard tack one boat length above the starboard layline.",
+    "Immediately after BEL 18 tacked, FRA 19 luffed and passed head to wind.",
+    "Before FRA 19 reached a close-hauled course, BEL 18 luffed and the minimum distance between the boats was 20 cm.",
+    "There was no contact.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 15",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "When acquiring right-of-way through her own actions, BEL 18 luffed to give FRA 19 room to keep clear, as required by RRS 15."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jon Napier",
+    "members": [
+      "Henning Jacobssen",
+      "Yoann Peronneau"
+    ]
+  }
+}

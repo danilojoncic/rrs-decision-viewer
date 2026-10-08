@@ -1,0 +1,48 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "21 JUN 15:45",
+  "parties": [
+    "GER 11",
+    "GBR 102"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "GER 11 was represented by Richard Shultheis (helm).",
+    "GBR 102 was represented by Sam Jones (helm).",
+    "Ryan Seaton (coach of GER 11) was present during the hearing as an observer.",
+    "Tyfus Butowski (helm of POL 73) presented evidence during the hearing as a witness.",
+    "The international jury presented video evidence."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 7-8 knots of wind and small chop.",
+    "Shortly after having rounded mark 1, GER 11 was sailing on starboard tack overlapped half a boat length to leeward of GBR 102, also on starboard tack. GER 11's bow was in front of GBR 102.",
+    "While hoisting the gennaker, GER 11 lost speed and GBR 102's bow passed in front, rolling the other boat while remaining overlapped.",
+    "GER 11 luffed smoothly and the lateral distance between the boats decreased to half a metre. GBR 102 luffed as well.",
+    "GER 11 immediately bore away.",
+    "There was no contact.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 16.1",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GBR 102 to windward kept clear of GER 11 to leeward, as required by RRS 11.",
+    "When GER 11, the right-of-way boat, changed course she gave room to GBR 102 to keep clear, as required by RRS 16.1."
+  ],
+  "decision": [
+    "The protest is dismissed. No rule is broken."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Giorgio Davanzo",
+    "members": [
+      "Hrvoje Ban",
+      "Stavros Kouris"
+    ]
+  }
+}

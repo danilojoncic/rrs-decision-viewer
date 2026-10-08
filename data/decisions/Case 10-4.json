@@ -1,0 +1,30 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA 4 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "CZE 223526 - Liliana DYMAK"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "CZE 223526 came to the Race Office to see a recording of the start of the 4th race of the red fleet.",
+    "After watching the video, CZE 223526 asked to withdraw the request of redress."
+  ],
+  "rules": [],
+  "conclusions": [
+    "There is no reason for the international jury to refuse the request for redress to be withdrawn."
+  ],
+  "decision": [
+    "The panel of the international jury allows the request for redress to be withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Zlatko Jakelic",
+    "members": [
+      "Joep Straus",
+      "Ewa Szyfter"
+    ]
+  }
+}

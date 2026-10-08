@@ -1,0 +1,55 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "2",
+  "hearing_datetime": "7 JUL 18:15",
+  "parties": [
+    "FRA 441",
+    "SWE 44"
+  ],
+  "procedural_matters": [
+    "FRA 441 was represented by Théo REVIL.",
+    "SWE 44 was represented by Marius WESTERLIND.",
+    "FRA 441 and SWE 44 provided video evidence of the incident.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 20 knots of wind, gusty and flat water.",
+    "After rounding mark 1, FRA 441 and SWE 44 were sailing on starboard tack, with SWE 44 overlapped more than 2 boat lengths to windward of FRA 441.",
+    "SWE 44 was sailing a lower course and on a converging course with FRA 441.",
+    "SWE 44 started hoisting her spinnaker.",
+    "While SWE 44 was hoisting her spinnaker, her spinnaker retrieval line of SWE 44 caught the throat of FRA 441’s helm.",
+    "FRA 441’s helm fell back into the water, with his foot stuck in the foot strap.",
+    "FRA 441 capsized.",
+    "After righting her boat, the helm of FRA 441 could not stand on his feet and could not go on the trapeze.",
+    "FRA 441 retired from race Q2.",
+    "Before the incident, FRA 441 was at around the 5th position.",
+    "SWE 44 did not take a penalty and finished race Q2."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 61.4(b)(2)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "SWE 44 to windward failed to keep clear of FRA 441 to leeward, and broke RRS 11.",
+    "SWE 44 did not avoid contact with FRA 441 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for FRA 441, the right-of-way boat, to avoid contact with SWE 44 when it became clear that SWE 44 was not keeping clear. FRA 441 did not break RRS 14(a).",
+    "FRA 441’s score in race Q2 was made significantly worse through no fault of her own by injury because of the action of SWE 44 that was breaking RRS 11 and 14(a) and was penalized.",
+    "The requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "SWE 44 is DSQ in race Q2.",
+    "Redress is given to FRA 441. FRA 441 is to be scored in race Q2 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races in the Preliminary Series, except race Q2. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christina Örtendahl",
+    "members": [
+      "Lisa Steppat",
+      "Yoann Peronneau"
+    ]
+  }
+}

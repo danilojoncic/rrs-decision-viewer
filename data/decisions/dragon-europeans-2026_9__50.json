@@ -1,0 +1,46 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Dragon Europeans 2026",
+  "race_number": "5",
+  "hearing_datetime": "1 JUL 18:05",
+  "parties": [
+    "SWE 800",
+    "DEN 428"
+  ],
+  "procedural_matters": [
+    "SWE 800 was represented by Richard Sydenhamm. DEN 428 was represented by Theis Palm. John Winquist(witness of SWE 800), crew of FIN 95 attended the hearing. Kasper Harsburg(witness of DEN 428), crew of DEN 428 attended the hearing."
+  ],
+  "facts": [
+    "Wind 10 knots, choppy.",
+    "At race 5, first upwind, 10 boat lengths from mark 1 lay line, SWE 800 on starboard and DEN 428 on port were sailing on a converging course.",
+    "When DEN 428 luffed and passed head to wind, distance between the bow of SWE 800 and starboard midway between the shrouds and stern of DEN 428 was less than half a meter.",
+    "SWE 800 luffed immediately.",
+    "There was no contact.",
+    "When DEN 428 finished her tack, she became overlapped half a metre to leeward of SWE 800’s bow from her starboard midship.",
+    "Overlap broke after both boats sailed for approximately for 1 boat length.",
+    "DEN 428 sailed on starboard tack 8-10 boat lengths after the incident and was not overlapped with any boat.",
+    "DEN 428 rounded mark 1 and bore away.",
+    "DEN 428 took one penalty turn 2/3 of the leg to mark 1a.",
+    "SWE 800 rounded the mark behind DEN 428."
+  ],
+  "rules": [
+    "RRS 13"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, DEN 428 failed to keep clear of SWE 800. DEN 428 broke RRS 13. By delaying her penalty turns by 10 boat lengths and rounding mark 1 after the incident, DEN 428 failed to comply with the requirements of RRS 44.2."
+  ],
+  "decision": [
+    "DEN 428 is DSQ from Race 5."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Christine Guba",
+    "members": [
+      "Pinar Coşkuner Genç",
+      "Gordon Davies",
+      "Tonny Vedeler Jensen",
+      "Staffan"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 6 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "12",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 221986 - Lorenzo GHIROTTI",
+    "GRE 223379 - Emmanouil Anastasios VOMVYLAS"
+  ],
+  "procedural_matters": [
+    "ITA 221986 was represented by Lorenzo GHIROTTI.",
+    "GRE 223379 was represented by Emmanouil Anastasios VOMVYLAS.",
+    "ITA 221986 did not ask to withdraw the protest after the arbitration meeting and neither boat took a Post-Race Penalty under RRS T1(a)."
+  ],
+  "facts": [
+    "The wind was about 15 knots with choppy seas.",
+    "GRE 223379 and ITA 221986 were sailing upwind towards mark 1, both on starboard tack.",
+    "When the boats were on the starboard layline, they were overlapped, with ITA 221986 to leeward.",
+    "The lateral distance between the boats was 1.5m.",
+    "When the boats were 1m from mark 1, GRE 223379 held his course for 3 seconds and ITA 221986 bore away to round the mark.",
+    "There was no contact between the boats as they rounded the mark.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS T1(a)",
+    "RRS 11"
+  ],
+  "conclusions": [
+    "GRE 223379 to windward kept clear of ITA 221986 to leeward and complied with RRS 11.",
+    "No rules were broken."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Pauline den Burger",
+    "members": [
+      "Wai Kai Chan Vicky",
+      "Danilo Joncic",
+      "Ioannis Kleidonas",
+      "Wee Lee Willy"
+    ]
+  }
+}

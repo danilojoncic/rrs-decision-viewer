@@ -1,0 +1,41 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Request For Redress",
+  "event": "Optimist Boys",
+  "race_number": "",
+  "hearing_datetime": "31 May 2025 at 10:30",
+  "parties": [
+    "ESP 3583 - STIJN OOSTERHAVEN",
+    "Protest Committee"
+  ],
+  "procedural_matters": [
+    "1) ESP 3583 represented by Stiin Oosterhaven. 2) Race committee represented by Pinar Coskuner Genc 3) Adriano Barcelo coach of ESP 3583 attended the hearing as observer. 4) ESP 3583 lodged scoring inquiry. RC published answer at 17:51. ESP 3583 lodged request for redress at 18:33. Request for redress is valid. 5) RC presented photo and video evidence on the request by Int. Jury."
+  ],
+  "facts": [
+    "Race committee used \"U\" flag as a preparatory signal.",
+    "Race committee identified ESP 3583 in the triangle formed by both ends of the starting line and mark no. 1 during last minute before starting signal.",
+    "Race committee scored ESP 3583 UFD."
+  ],
+  "rules": [
+    "RRS 30.3",
+    "RRS 61.2(b)(3)",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Susanne Kuusansalo",
+      "Miguel Amaral",
+      "Uros Zvan",
+      "Ilker Bayindir",
+      "Aylin"
+    ]
+  }
+}

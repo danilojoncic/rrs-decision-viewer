@@ -1,0 +1,46 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "ILCA 6 Men",
+  "race_number": "4",
+  "hearing_datetime": "16 Apr 2025 at 18:20",
+  "parties": [
+    "Protest Committee",
+    "Witnesses"
+  ],
+  "procedural_matters": [
+    "Competitors supported by support person Andre Teply, the designated driver of suport vessel 247, who attended the hearing are: CZE 216804, CZE 222017 and CZE 225197.",
+    "Competitor supported by support person Andre Teply who did not attend the hearing is: CZE220071.",
+    "The hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "The wind was 20 knots and there were 2m waves.",
+    "After the preparatory signal had been displayed for race 4 of ILCA 6 Men (Red fleet), support vessel 247, driven by support person Andre Teply, was positioned 50m leeward of the starting line, for around 45 seconds.",
+    "During this period support person Andre Teply was passing instructions to CZE 225197.",
+    "CZE 225197 sailed race 4 and was scored."
+  ],
+  "rules": [
+    "NoR 18.5",
+    "RRS 41"
+  ],
+  "conclusions": [
+    "By being positioned 50m from the starting line, from the time of the preparatory signal for the first fleet, support person Andre Teply failed to comply with Support Vessel Regulations 5.1.1 and 5.1.2 and therefore broke Notice of Race 18.5.",
+    "CZE. 225197 received help from an outside source, and broke RRS 41."
+  ],
+  "decision": [
+    "Using the WS Discretionary Penalty Policy for Support Persons, a starting penalty of band 3 was decided.",
+    "The prevailing weather conditions are not suitable to prevent the coach 247 of going afloat for safety reasons.",
+    "From the first preparatory signal on 17 April 2025, Coach 247 (Andre Teply) shall be on board his vessel, on anchor 100m or more to leeward of the Race 2025 ILCA 6 Youth European Championships & Open European Trophy Control Start Vessel.",
+    "He shall remain anchored in that position until the end of those races of the day in which his competitors are taking part, or until flag V is displayed from the Signal Vessel, or a member of the jury releases him.",
+    "Boats CZE 225197, CZE 216804, CZE 220071 and CZE 222017 are warned under RRS 62.4 that a penalty may be imposed if Coach 247 (Andre Teply) commits a further breach of any rule."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Iuan Gray",
+    "members": [
+      "Paulo Sousa",
+      "Giogio Bolla",
+      "Julka Gurvinderpal"
+    ]
+  }
+}

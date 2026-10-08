@@ -1,0 +1,34 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 Izola Spring Cup 37",
+  "race_number": "5",
+  "hearing_datetime": "2026-04-04 17:45",
+  "parties": [
+    "SRB 220617 - Nenad Zakic Zakic",
+    "ITA 222390 - Gabriele Orlando"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "ITA 222390 asked to withdraw a protest."
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "Protest withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Lorenzo Walch",
+    "members": [
+      "Ilker Bayindir",
+      "Uros Zvan",
+      "Cristian Tabacu",
+      "Christian Hotwagner"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-30 09:30",
+  "parties": [
+    "ARG 5900 - KATARA - javier Conte"
+  ],
+  "procedural_matters": [
+    "Julian Somodi represented Katara."
+  ],
+  "facts": [
+    "The request was lodged on July 30th at 08:45.",
+    "The request refers to an incident in the racing area that happened around 13:00 on July 29th.",
+    "The protest time limit for July 29th was 17:10.",
+    "Katara lodged a request for redress on July 29th for the same situation, and was a party to the hearing that discussed it."
+  ],
+  "rules": [
+    "RRS 61.2(b)(1)"
+  ],
+  "conclusions": [
+    "Katara failed to deliver the request for redress within the protest time limit, as required by RRS 61.2(b)(1). There was no good reason for the jury to extend the time."
+  ],
+  "decision": [
+    "Request for redress invalid"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Pinar Coskuner Genc",
+      "Giorgio Davanzo",
+      "Finn Mrugalla",
+      "Bruno Finzi"
+    ]
+  }
+}

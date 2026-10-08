@@ -1,0 +1,50 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "Nacra15 World Championship, 2026",
+  "race_number": "10",
+  "hearing_datetime": "2026-07-30 20:00",
+  "parties": [
+    "ITA 393 - Alessandro Vargiu",
+    "FRA 362 - Anahita FONTANILLE",
+    "FRA 267 - Milo SASSOLAS"
+  ],
+  "procedural_matters": [
+    "Case 18 was heard together with cases 20 and 21 in accordance with RRS 63.2(b) since they arose from the same incident.",
+    "FRA 362 was represented by Anahita Fontainville.",
+    "ITA 393 was represented by Alessandro Vargiu.",
+    "FRA 267 was represented by Milo Sassolas.",
+    "The race committee was represented by David Rollinson, course race officer.",
+    "Daniel Gibbons, race officer on the pin end vessel, gave evidence as a witness, called by the race committee.",
+    "Cases 20 and 21 were delivered after the protest time limit had expired. However, the international jury decided there was a good reason to extend the time limit."
+  ],
+  "facts": [
+    "The second attempt to start race 10 was under a black flag.",
+    "The race committee observed a wind direction of 260 degrees at approximately 30 seconds before the starting signal.",
+    "Within 10 seconds prior to the starting signal, a large right hand wind shift arrived at the starboard end of the start line, while the race committee were focused on their start sequence duties. The wind shift did not arrive at the port end of the start line until after the starting signal.",
+    "During the one minute period, 11 boats, including FRA 267, FRA 362 and ITA 393, sailed into the triangle formed by the ends of the start line and the first mark, and were identified by the race committee.",
+    "Immediately after the starting signal, it became obvious that the wind direction had shifted dramatically and that boats could lay mark 1 without tacking.",
+    "Shortly after, the race committee abandoned the race by displaying flag N with three sound signals.",
+    "The race committee displayed the sail numbers of the boats that it had identified, and these boats were scored BFD in race 10.",
+    "The preamble to the World Sailing Race Management Guidelines states: \"These guidelines do not change the rules that apply at an event. Failure to observe these guidelines, is not grounds for redress.\""
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "Given the timeframe when the wind shift arrived and the race committee's duties at that time, failing to postpone or abandon the race prior to the starting signal was not an improper omission by the race committee. Furthermore, abandoning the race after the starting signal was not an improper action by the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Stavros Kouris",
+    "members": [
+      "Louis Mayo",
+      "Will Davies",
+      "Julia Schmidt",
+      "Carol Haines"
+    ]
+  }
+}

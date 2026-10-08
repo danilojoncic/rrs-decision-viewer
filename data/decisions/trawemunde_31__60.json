@@ -1,0 +1,47 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "7",
+  "hearing_datetime": "23 JUL 16:30",
+  "parties": [
+    "FRA 10",
+    "Race Committee (RS Vareo (European"
+  ],
+  "procedural_matters": [
+    "FRA10 was represented by Brieuc Drogou.",
+    "Race Committee was represented by Anastasia Weinberger.",
+    "Anastasia Weinberger presented video evidence.",
+    "Max v. Buddenbrock was a witness for the Race Committee.",
+    "Max v. Buddenbrock presented video evidence."
+  ],
+  "facts": [
+    "During Race 7 of the Vaurien World Championship, wind was 10 knots with choppy waves.",
+    "The preparatory flag for Race 7 was black flag.",
+    "No adjustment was made to thepin end during the starting sequence.",
+    "FRA 10 was on starboard tack atthe pin end of the starting line.",
+    "FRA 10 was observed in thetriangle formed by the ends of the starting line and the first mark during thelast 10 seconds of the starting sequence.",
+    "FRA 10 was scored BFD.",
+    "FRA 10 started the race andfinished in first position."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improperaction nor an improper mission of the race committee. Therefore, the requirementsfor redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Giuseppe d'Amico",
+    "members": [
+      "Johanna Poksi",
+      "Luke Scott",
+      "Mehnaz Jamil",
+      "Lisa Steppat"
+    ]
+  }
+}

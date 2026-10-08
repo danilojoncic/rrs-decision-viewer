@@ -1,0 +1,49 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "5",
+  "hearing_datetime": "5 JUL 13:50",
+  "parties": [
+    "GBR 2826",
+    "SGP 3562"
+  ],
+  "procedural_matters": [
+    "The arbitrator decided that RRS 44.1(b) may apply. None of the boats took a post-race penalty.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GBR 2826 was represented by Claude Young (green fleet).",
+    "SGP 3562 was represented by Sean Kum (red fleet).",
+    "Michalina Wroblewska (member of the panel) gave evidence as a witness."
+  ],
+  "facts": [
+    "The incident occurred in race Q4 and the wind speed was more than 20 knots.",
+    "GBR 2826 and SGP 3562 were on broad reach on bow-to-bow collision course, with GBR 2826 on starboard tack (green fleet, leg 2) and SGP 3562 on port tack (red fleet, leg 4).",
+    "When the boats were one boat length apart, GBR 2826 bore away to avoid risk of contact.",
+    "Immediately thereafter, SGP 3562 bore away as well and lost control of her boat.",
+    "There was contact between the hulls and SGP 3562 capsized.",
+    "Both boats were entangled for at least 1 minute.",
+    "The contact resulted in the following damages of the boats' equipment: Scratches in the gelcoat of GBR 2826 ranging from the bow to the daggerboard A small chip on the daggerboard of SGP 3562 The rudder of SGP 3562 split into two pieces.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "The damage is serious.",
+    "SGP 3562 on port tack failed to keep clear of GBR 2826 on starboard tack and broke RRS 10.",
+    "It was reasonable possible for SGP 3562 to avoid contact and therefore broke RRS 14(a).",
+    "It was not reasonable possible for GBR 2826 to avoid contact when it became clear that SGP 3562 is not keeping clear and therefore did not break RRS 14(a)."
+  ],
+  "decision": [
+    "SGP 3562 is disqualified in race Q4."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Holger Herburger",
+      "Michalina Wroblewska"
+    ]
+  }
+}

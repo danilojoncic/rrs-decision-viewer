@@ -1,0 +1,42 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "Finn Masters Worlds 2026",
+  "race_number": "1",
+  "hearing_datetime": "2026-02-24 17:40",
+  "parties": [
+    "AUS 3 - Annie - Larry Kleist"
+  ],
+  "procedural_matters": [
+    "Jan Kemp attended the hearing as an observer."
+  ],
+  "facts": [
+    "AUS 3 was aware of her score of DSQ in race 1 as a result of an incomplete appendix P penalty, on 2026-02-23 on water after she finished the race.",
+    "The protest time limit on 2026-02-23 was 17h15.",
+    "The request was lodged on 2026-02-24 at 10h51."
+  ],
+  "rules": [
+    "RRS 61.2(b)(1)",
+    "RRS 61.3",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "AUS 3 failed to deliver the request for redress within the protest time limit",
+    "as required by RRS 61.2(b)(1).",
+    "There was no good reason for the PC to extend the time.",
+    "Therefore the request for redress is invalid under RRS 61.3."
+  ],
+  "decision": [
+    "The request is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Michal Jodlowski",
+    "members": [
+      "Philippe Mazard",
+      "David Hudson",
+      "Greg Kemp",
+      "Lauren Twigg"
+    ]
+  }
+}

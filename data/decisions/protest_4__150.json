@@ -1,0 +1,50 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "YES - Young Europeans Sailing 2025",
+  "race_number": "2",
+  "hearing_datetime": "8 JUN 20:20",
+  "parties": [
+    "SWE 3254",
+    "RC"
+  ],
+  "procedural_matters": [
+    "?1. Hearing No. 4 was heard together with hearing No. 9 in accordance with RRS 63.2(b) since both hearings arose from the same incident."
+  ],
+  "facts": [
+    "During the incident the conditions were 10-15 knots of wind and a choppy sea state.",
+    "The race committee intented to change the course of the second upwind leg.",
+    "SWE 3254 rounded mark 4 of the downwind gate in first place with a lead of 100-150 meters.",
+    "The mark layer at the downwind gate displayed a board with flag C, a minus sign and the new compass bearing of 290 degrees. The mark layer gave sound signals for the first time 10 seconds after SWE 3254 rounded the mark.",
+    "SWE 3254 was approximately 70 meters from the mark when she heard the sound signals. The helmsman of SWE 3254 looked back, but was unable to see what was displayed except flag C.",
+    "SWE 3254 rounded the old upwind mark which had not been removed.",
+    "The leg to the new mark (marked with a black band) was 60 meters shorter and moved 10-15 degrees to the left of the course.",
+    "SWE 3254 rounded the new upwind mark in 6th place.",
+    "SWE 3254 finished in 5th place.",
+    "SI 11.3 states that a new mark, as described in SI 13, will be of the same color and shape as the old one, but will be marked with a black band.",
+    "SI 13 states that to change the next leg of the course, the race committee will lay a new mark."
+  ],
+  "rules": [
+    "RRS 33",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "The race committee failed to signal the changing of the position of the next mark before the first boat began the leg. Therefore they did not meet the requirements of RRS 33.",
+    "The new mark complied with this SI.",
+    "When SWE 3254 heard the sound signal and saw the flag C, she should have looked for the new mark as described by the SI and which was clearly visible in the course.",
+    "SWE 3254’s score in race 2 was made significantly worse through her own fault. Therefore, the requirements for redress in RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Frank Brinkers",
+    "members": [
+      "Heiko Thölmann",
+      "Danilo Joncic",
+      "Miroslav Bjelajac",
+      "Nicole de By"
+    ]
+  }
+}

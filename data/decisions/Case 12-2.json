@@ -1,0 +1,39 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "GRE 217949 - Hermionie Ghicas"
+  ],
+  "procedural_matters": [
+    "The hearing was conducted by a panel under N1.4(b).",
+    "Damir Nakrast (coach) attended the hearing as an observer."
+  ],
+  "facts": [
+    "GRE 217949 sailed race 3 without the mast retention line tied.",
+    "GRE 217949 tied the mast retention line before the finish",
+    "The Technical Committee noticed GRE 217949 tie her mast retention line immediately before the finish.",
+    "Photo and video taken at the finish line by the Media team confirms GRE 217949 tying her mast retention line before the finish.",
+    "The Technical Committee applied a standard penalty of 30% in accordance with SI 17.10."
+  ],
+  "rules": [
+    "SI 17.10",
+    "RRS 61.4(b)"
+  ],
+  "conclusions": [
+    "GRE 217949’s score was made significantly worse of her own fault. Therefore, the requirements of RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Doug Elder",
+    "members": [
+      "Steven Holmstrom",
+      "Elizabeth Rouget"
+    ]
+  }
+}

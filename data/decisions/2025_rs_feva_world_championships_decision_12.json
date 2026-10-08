@@ -1,0 +1,30 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "4",
+  "hearing_datetime": "2025-07-31",
+  "parties": [
+    "FRA 8603 - Mixed - Bleijs Elliot",
+    "ITA 8730 - F - Matilde Lucifora"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "FRA 8603 requested to withdraw the protest."
+  ],
+  "rules": [
+    "RRS T4(b)",
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "The arbitrator on behalf of the protest committee allows the protest to be withdrawn."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Joep Straus",
+    "members": []
+  }
+}

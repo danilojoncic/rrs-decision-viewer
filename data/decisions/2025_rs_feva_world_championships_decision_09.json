@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-31",
+  "parties": [
+    "GBR 7355 - C Webber",
+    "LTU 4 - Benas Šapkinas"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "GBR 7355 and LTU 4 were approaching mark 3s, reaching on starboard tack below the layline.",
+    "Six boat lengths from the mark, GBR 7355 was clear ahead of LTU 4. 3, LTU luffed and goes to windward of GBR 7355.",
+    "GBR 7355 said the move was idiotic.",
+    "With a metre in between the boats, GBR 7355 slowly luffed; while LTU 4 was holding steady course.",
+    "When the boats were 30 cm apart, GBR 7355 stopped luffing and bore away.",
+    "No contact occurred.",
+    "No boats took a penalty."
+  ],
+  "rules": [
+    "RRS 11"
+  ],
+  "conclusions": [
+    "LTU 4 to windward failed to keep clear of GBR 7355 to leeward, and broke RRS 11."
+  ],
+  "decision": [
+    "LTU 4 is DSQ in race F1."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jean-Luc Michon",
+    "members": [
+      "Alexander Bratt",
+      "Antonio Mata"
+    ]
+  }
+}

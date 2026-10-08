@@ -1,0 +1,58 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 226609 - Nicolò Giuseppe Cassitta",
+    "GRE 225861 - Konstantinos Portosalte"
+  ],
+  "procedural_matters": [
+    "The hearing was conducted by a panel under N1.4(b).",
+    "On Aug. 1, a previously unknown video of the incident taken from the Race Committee vessel was provided to GRE 225861 who requested to reopen case 8 (case 25). Case 25 found that the new video evidence is significant evidence.",
+    "In case 25, the protest committee decided to reopen the hearing."
+  ],
+  "facts": [
+    "The wind was 12-14 knots with 1 meter waves.",
+    "45 seconds before the start, ITA 226609 was on starboard immediately behind the Race Committee vessel.",
+    "Four boats, also on starboard, were abeam of him to leeward, the boat immediately to leeward to him was CRO.",
+    "40 seconds before the start, ITA 226609 drifted to leeward and made contact with the starboard side of the CRO.",
+    "30 seconds before the start, ITA 226609 luffed and a space of 1 ½ boat widths was created between ITA 226609 and CRO.",
+    "CRO bore off and the space increased.",
+    "GRE 225861 was on starboard astern and to leeward of ITA 226609.",
+    "GRE 225861 sailed into the space between ITA 226609 and CRO which was now of one boat length.",
+    "15 seconds before the start, ITA 226609 bore off 30 degrees and touched the Race Committee safety buoy.",
+    "10 seconds before the start, ITA 226609 continued to bear off and made contact with the starboard side transom of GRE 225861.",
+    "5 seconds before the start, ITA 226609 luffed to close-hauled and detached from GRE 225861.",
+    "At go, ITA 226609 stalled and started race 3 clear astern of GRE 225862 and the line of other boats starting.",
+    "30 seconds after the start, ITA 226609 did one tack and one gybe two boat lengths in front of the Race Committee vessel."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14",
+    "RRS 14(a)",
+    "RRS 31"
+  ],
+  "conclusions": [
+    "ITA 226609 to windward failed to keep clear of CRO to leeward, and broke RRS 11.",
+    "ITA 226609 did not avoid contact with CRO even though it was reasonably possible, and broke RRS 14 (a).",
+    "It was not reasonably possible for CRO to avoid ITA 226609 when it became clear that ITA 226609 was not keeping clear. CRO did not break RRS 14(a).",
+    "ITA 226609 touched a mark at broke RRS 31.",
+    "ITA 226609 to windward failed to keep clear of GRE 225861 to leeward, and broke RRS 11.",
+    "ITA 226609 did not avoid contact with GRE 225861 even though it was reasonably possible, and broke RRS 14 (a).",
+    "It was not reasonably possible for GRE 225861 to avoid ITA 226609 when it became clear that ITA 226609 was not keeping clear. GRE 225861 did not break RRS 14(a).",
+    "ITA 226609 took an applicable penalty for breaking RRS 31, but did not take an applicable penalty for breaking RRS 11, 14(a)."
+  ],
+  "decision": [
+    "ITA 226609 is DSQ in race 3."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Doug Elder",
+    "members": [
+      "Steven Holmstrom",
+      "Elizabeth Rouget"
+    ]
+  }
+}

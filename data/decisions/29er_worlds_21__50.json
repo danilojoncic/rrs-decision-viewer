@@ -1,0 +1,49 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "29er World Championship 2026",
+  "race_number": "8",
+  "hearing_datetime": "N/A",
+  "parties": [
+    "GBR 3579",
+    "The Race Committee"
+  ],
+  "procedural_matters": [
+    "GBR 3579 was represented by Jack Solly (crew).",
+    "The race committee was represented by Manel Llige Puig.",
+    "Stefan Giessen, deputy race officer on race area Charlie, presented recording tape evidence as a witness.",
+    "Courtney Bilsroch (coach of GBR 3579) attended the hearing as an observer.",
+    "Protest is invalid since a boat cannot protest a race committee according to RRS 60.1, the panel continued with the redress hearing.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions during the starting sequence of race Q7 of the White fleet were 15 knots of wind.",
+    "The Uniform flag was displayed as the preparatory signal.",
+    "GBR 3579 was positioned on 2/3 of the pin end side of the starting line.",
+    "Approximately 1 minute and 5 seconds before the starting signal, the race committee made one short sound signal.",
+    "At that moment, GBR 3579 synced her timer to 1 minute.",
+    "The Uniform flag was removed 1 minute before the starting signal with another longer sound signal.",
+    "GBR 3579 was identified in the triangle formed by the ends of the starting line and the first mark during the last minute before the starting signal.",
+    "GBR 3579 was scored UFD in race Q7."
+  ],
+  "rules": [
+    "RRS 26",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "By making an extra sound signal 1 minute and 5 seconds before the starting signal, the race committee made an improper action.",
+    "However, since the race committee took the time according to the visual signals as required by RRS 26, GBR 3579's place in race Q7 was made significantly worse in part through her own fault.",
+    "Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Holger Herburger",
+      "Johanna Poksi"
+    ]
+  }
+}

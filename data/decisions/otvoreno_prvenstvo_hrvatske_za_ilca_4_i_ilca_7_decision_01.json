@@ -1,0 +1,36 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "Otvoreno PRVENSTVO HRVATSKE za ILCA 4 i ILCA 7",
+  "race_number": "2",
+  "hearing_datetime": "2025-11-23 12:15",
+  "parties": [
+    "CRO 222303 - Antun Tomašević",
+    "CRO 227053 - Lovre Bakotić"
+  ],
+  "procedural_matters": [
+    "CRO 222303 was represented by Antun Tomašević CRO 227053 was represented by Lovre Bakotić"
+  ],
+  "facts": [
+    "SI 10.2 states the following: “a boat that protests shall approach IMMIDIATELY after finish the race committee vessel on finish by its starboard side and inform RC about her protest and against whom the protest will be lodged. The Competitor must then wait till verbal acknowledgment is given. “ CRO 222303 did not notify the comitteee vessel of his intention of protesting after finishing."
+  ],
+  "rules": [
+    "SI 10.2"
+  ],
+  "conclusions": [
+    "CRO 222303 failed to notify the race committee after finishing as required by SI 10.2"
+  ],
+  "decision": [
+    "Protest invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Danilo Joncic (ME",
+    "members": [
+      "Franco Battistin (HR",
+      "Uros Zvan (SI",
+      "Dragomir Andonović (RS",
+      "Tullio Giraldi (IT"
+    ]
+  }
+}

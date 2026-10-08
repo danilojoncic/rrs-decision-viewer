@@ -1,0 +1,52 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "1",
+  "hearing_datetime": "",
+  "parties": [
+    "GBR",
+    "RC"
+  ],
+  "procedural_matters": [
+    "GBR was represented by Marcus King.",
+    "ITA was represented by Lorenzo Sirena.",
+    "Race Committee was represented by Bence Kárpáti (World Sailing Course Representative).",
+    "Maddie Jinks (GBR crew) and Gianluka Piccino (ITA coach) attended the hearing as an observer.",
+    "Jonathan McGovern (GBR coach) was a witness for GBR and presented tracking evidence.",
+    "Patric Loydell (Member of the International Jury) presented evidence.",
+    "Hearing No. 2 was heard together with hearing No. 4 in accordance with RRS 63.2(b) since both hearings arose from the same incident."
+  ],
+  "facts": [
+    "Before the competitors had rounded the leeward gate during race 1, the Race Committee displayed Flag C and green with sound signals, and proceeded to move the mark into its new location.",
+    "When ITA rounded the leeward gate, they were in 1st position and GBR in 2nd.",
+    "When GBR and ITA were 50-80m from the windward mark, it was still motoring into its new location.",
+    "The mark continued motoring for approximately 30m, before reaching its new location.",
+    "GBR and ITA proceeded to sail towards and round a pink robotic mark.",
+    "The windward mark of the Multihull course is described in the SI as a Yellow robotic mark.",
+    "GBR and ITA did not round their Yellow windward mark.",
+    "GBR finished in 6th position and ITA in 1st position.",
+    "GBR and ITA were scored NSC."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)",
+    "RRS 63.2(b)"
+  ],
+  "conclusions": [
+    "By having the windward mark motoring into location when the leaders were 50-80m away from the mark, the Race Committee made an improper action however GBR and ITA’s place in race 1 was made significantly worse through their own fault by not rounding the windward mark of their course. Therefore the requirements in 61.4(b)(1) are not met.",
+    "By scoring ITA and GBR NSC in Race 1, the Race Committee did not make an improper action."
+  ],
+  "decision": [
+    "Redress is denied."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Hella Bouma",
+    "members": [
+      "Sukkyong KIM",
+      "Anna Cuccia",
+      "Maria Massapina",
+      "Patric Loydell"
+    ]
+  }
+}

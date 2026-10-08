@@ -1,0 +1,44 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest & Redress",
+  "event": "420 U17",
+  "race_number": "4",
+  "hearing_datetime": "23 Jul 2025 at 15:50",
+  "parties": [
+    "ESP 57348 - LUCIA SOTOMAYOR LLARGUÉS",
+    "GBR 57349 - Sebastian Bailey"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "ESP 57348 was represented by Anna Renteria.",
+    "GBR 57349 was represented by Sebastian Bailey.",
+    "Before the hearing began GBR 57349 took a 30% Post-Race Penalty in accordance with RRS T1(a)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 4 of U-17 white fleet were 18 knots of wind and 1,5m waves.",
+    "Before the start ESP 57348 and GBR 57349 were both sailing on starboard, with ESP 57438 to leeward of GBR 57349 at a lateral distance of 2 metres between the boats.",
+    "At the start GBR 57349 bore away reducing quickly the distance between the boats to 1 metre.",
+    "5 seconds after the start, contact occurred between ESP 57348´s crew and the jib of GBR 57349.",
+    "No injury or damage occurred."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 61.4(b)",
+    "RRS T1(a)"
+  ],
+  "conclusions": [],
+  "decision": [
+    "The protest is upheld. Since GBR 57349 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is not given to ESP 57348."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Luigi Bertini (ITA",
+      "José Miranda (ESP",
+      "Maria Ramires (POR"
+    ]
+  }
+}

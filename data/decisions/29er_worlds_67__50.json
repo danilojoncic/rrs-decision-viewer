@@ -1,0 +1,32 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "12",
+  "hearing_datetime": "N/A",
+  "parties": [
+    "International Jury",
+    "HKG 2840 (R12), IRL 3157 (R12)"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "The evidence in the form of a video taken by the NED coach became available during the morning of 9th of July. It was not available to the parties before the initial hearing. The video identifies other boats involved in the incident, and therefore is significant."
+  ],
+  "rules": [
+    "RRS 63.7(a)(3)"
+  ],
+  "conclusions": [
+    "Significant new evidence became available within a reasonable time. Therefore, the requirements in RRS 63.7(a)(3) for reopening the hearing are met."
+  ],
+  "decision": [
+    "Cases 46, 50 and 57 will be reopened."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Chris Atkins",
+    "members": [
+      "Michalina Wroblewska",
+      "Lance Burger"
+    ]
+  }
+}

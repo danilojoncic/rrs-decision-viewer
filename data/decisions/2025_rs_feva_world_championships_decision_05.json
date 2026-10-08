@@ -1,0 +1,43 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest upheld",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "4",
+  "hearing_datetime": "2025-07-29",
+  "parties": [
+    "FRA 5406 - Zunquin Côme",
+    "GBR 1067 - F - Isla Nicol"
+  ],
+  "procedural_matters": [
+    "Jean-Luc Michon (member of the international jury) acted as an interpreter for FRA 5406. Thomas Bruneaux (coach of FRA 5406) attended the hearing as an observer. The panel of the International Jury was composed in accordance with RRS N1.4(a)."
+  ],
+  "facts": [
+    "The boats were sailing on the first upwind leg.",
+    "FRA 5406 sailed on starboard tack; GBR 1067 sailed on port tack. The boats were on a collision course.",
+    "At less than a boat-length distance from each other, GBR 1067 was pointing at the bow of FRA 5406.",
+    "FRA 5406 luffed, tacked, and capsized.",
+    "GBR 1067 sailed well clear of other competitors and took a one-turn penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 44.2",
+    "SI 16.1"
+  ],
+  "conclusions": [
+    "GBR 1067 on port tack failed to keep clear of FRA 5406 on starboard tack, and broke RRS 10.",
+    "Since RRS 44.1(b) did not apply, GBR 1067 took an applicable penalty by One-Turn Penalty."
+  ],
+  "decision": [
+    "Protest upheld DECISION Protest and Request for Redress Request No.: 05"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Michal Kwiatek",
+    "members": [
+      "Jean-Luc Michon",
+      "Alexander Bratt",
+      "Joep Straus",
+      "Antonio Mata"
+    ]
+  }
+}

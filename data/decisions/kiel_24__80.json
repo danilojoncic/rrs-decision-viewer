@@ -1,0 +1,51 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "22 JUN 18:20",
+  "parties": [
+    "TUR 97",
+    "NZL 28"
+  ],
+  "procedural_matters": [
+    "Hearing No. 24 was heard together with hearing No. 27 in accordance with RRS 63.2(b) since both hearings arose from the same incident.",
+    "TUR 97 was represented by Ozlem Irmak Tomak (helm).",
+    "NZL 28 was represented by Will Mason (crew).",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)",
+    "TUR 97 presented video evidence of the incident.",
+    "Howard Elliott (member of the international jury) gave evidence as a witness.",
+    "Tessa Clinton (helm of NZL 28), Jenny Armstrong (coach of NZL 28), Efe Ozgenc (crew of TUR 97) and Sergen Birincioglu (coach of TUR 97) attended the hearing as observers."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 7-8 knots of wind with choppy water. The course for Mixed Dinghy (470) was an Outer Trapezoid course.",
+    "While rounding mark 2, TUR 97 touched the mark and after rounding it, she took a One-Turn Penalty, beginning with a gybe and then tacking onto starboard tack.",
+    "When TUR 97 reached a close-hauled course, NZL 28 was rounding the mark. At that moment, both boats were on a bow-to -ow collision course at a distance of one boat length.",
+    "NZL 28 bore away to a broad reach and sailed to starboard of TUR 97, who was bearing away continuously.",
+    "When TUR 97’s bow was aiming at the port aft quarter of NZL 28, NZL 28 gybed onto port tack.",
+    "Immediately after, TUR 97 luffed sharply and and passed less than one metre astern of NZL 28.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 16.1",
+    "RRS 43.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "When changing course, TUR 97, the right-of-way boat, gave NZL 28 room to keep clear, as required by RRS 16.1.",
+    "NZL 28 on port-tack failed to keep clear of TUR 97 on starboard-tack, and broke RRS 10.",
+    "Since NZL 28 broke RRS 10 while she was sailing within the room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach."
+  ],
+  "decision": [
+    "Protest upheld. Since NZL 28 is exonerated by RRS 43.1(b) for her breach of RRS 10, no penalty is imposed on NZL 28."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Michal Zak",
+    "members": [
+      "Johannes Liebig",
+      "Michalina Wroblewska"
+    ]
+  }
+}

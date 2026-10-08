@@ -1,0 +1,42 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "F1",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 221420 - Isabel HERNANDEZ PENA"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "One member of the original panel composition was replaced, Jean-Bernard Luther was replaced by Heiko Thölmann as required by RRS 63.7(c)(2).",
+    "ESP 221420 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "The decision on the original case nr. 35 was given on 15th August at 20:30.",
+    "The International Jury considered if it may have made a significant error.",
+    "There was no evidence presented to support this assumption."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 63.7(c)(2)",
+    "RRS 63.1(b)",
+    "RRS 63.7(a)(2)"
+  ],
+  "conclusions": [
+    "The protest committee did not make a significant error in the",
+    "Original hearing:",
+    ". Therefore, the requirements in RRS 63.7(a)(2) for reopening the hearing are not met."
+  ],
+  "decision": [
+    "Hearing Nr. 35 will not be reopened."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Niclas Fure",
+    "members": [
+      "Elliot Levy",
+      "Heiko Thoelmann"
+    ]
+  }
+}

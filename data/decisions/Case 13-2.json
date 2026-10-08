@@ -1,0 +1,46 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA 6 Women's & ILCA 7 Men's World Championships",
+  "race_number": "3,4,5",
+  "hearing_datetime": "",
+  "parties": [
+    "TPE 214123 - Tsai-Chien Wu"
+  ],
+  "procedural_matters": [
+    "TPE 214123 was represented by Tsai-Chien Wu.",
+    "The organizing authority was represented by Ferdinand Ziegelmayer (representative of the boat provider).",
+    "Kamolwan Chanyim (coach of TPE 214123) attended the hearing as an observer.",
+    "Qu Chun, Jiang Zuoru, Xu Xiaolong, Zhou Dongning (all members of the international jury) and Fengyi Hu (jury secretary) attended the hearing as observers."
+  ],
+  "facts": [
+    "30 seconds before the start of race 3 for the ILCA 7 Men's Red fleet, the front deck cunningham holding ring on the right side popped out.",
+    "On 17 May 2025, TPE 214123 finished in races 3 and 4 but did not race in race 5.",
+    "TPE 214123 received his boat on 7 May 2025 for the pre-event charter period.",
+    "TPE 214123 went on the water for pre-event training and the previous five racing days.",
+    "The boat provider experienced this issue for the first time.",
+    "TPE 214123 did not report any issues regarding the boat to the organizing authority before the event started.",
+    "Notice of Race 6.9 states: \"Failure of equipment supplied by the organizing authority shall not be grounds for redress, unless the international jury decides that it was the result of a manufacturing defect that could have been reasonably anticipated by the organizing authority. This changes RRS 61.4(b)(1).\""
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "Due to the rarity of the defect, it was not reasonably possible for the organizing authority to anticipate it.",
+    "Because it was not reasonably possible for the organizing authority to anticipate this equipment failure, it is not grounds for redress under Notice of Race 6.9.",
+    "There was neither an improper action nor improper omission of the organizing authority. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Damien Boldyrew",
+    "members": [
+      "Jacob Mossin Andersen",
+      "Myrto Antonopoulou",
+      "suk-kyong Kim",
+      "Jerrold Ng"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "8",
+  "hearing_datetime": "21 JUL 15:00",
+  "parties": [
+    "GER 137",
+    "Race Committee"
+  ],
+  "procedural_matters": [
+    "GER 137 was represented by Jan Heinrich Meyer.",
+    "Race Committee was represented by Kevin Majan."
+  ],
+  "facts": [
+    "Race 8 for Finn class started at 12:15pm on July 21st in above 6 knots of wind.",
+    "50 minutes into the race, the wind dropped to below 4 knots.",
+    "Throughout the race, the wind did not drop below 2 knots.",
+    "This is a German ranking list regatta which is bound by the Supplementary Documents for the German Prescriptions for the Finn Class. According to point 6 of Supplementary Documents for the German Prescriptions for the Finn class, the wind should not drop below 2 knots for a longer time during the race."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Thorsten Sperl",
+    "members": [
+      "Johanna Poksi",
+      "Gonzalo Heredia",
+      "Luke Scott",
+      "Mehnaz Jamil"
+    ]
+  }
+}

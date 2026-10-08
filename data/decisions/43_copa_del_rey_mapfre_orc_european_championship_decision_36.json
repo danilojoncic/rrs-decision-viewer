@@ -1,0 +1,38 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "4",
+  "hearing_datetime": "2025-07-31 19:00",
+  "parties": [
+    "GBR 66 - L’Immens - Augusto Cortina"
+  ],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b)",
+    "GBR 66 represented by Augusto Cortina",
+    "RC represented by Aleix Ballester"
+  ],
+  "facts": [
+    "SI 14 states: \"(...) length of course, directions of leg and the wind direction and speed will not be grounds for request for redress by a boat. This changes RRS 61.1(a).\"",
+    "The request for redress concerns the wind direction and the direction of the leg."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 61.1(a)",
+    "SI 14"
+  ],
+  "conclusions": [
+    "The alleged improper action can not be grounds for a request for redress by a boat as per RRS 61.1(a) as amended by SI 14."
+  ],
+  "decision": [
+    "Request for redress invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

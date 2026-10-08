@@ -1,0 +1,72 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "YES - Young Europeans Sailing 2025",
+  "race_number": "",
+  "hearing_datetime": "9 JUN 15:15",
+  "parties": [
+    "GER 2314",
+    "GER 1362"
+  ],
+  "procedural_matters": [
+    "GER 2314 was represented by Franka Kohmann.",
+    "GER 1362 was represented by Malte Kreutzer.",
+    "Yoanne Fraunholz (coach of GER 2314) attended the hearing as an observer.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The protest committee decided that it may have made a significant error and reopened on its own the hearing on 09.06.2025 in accordance with RRS 63.7(a)(2).The parties were not present.",
+    "The panel is changed as follows in accordance with RRS 63.7(c)(2): Bence Börocz being replaced by Chris Watts."
+  ],
+  "facts": [
+    "The incident occurred shortly before the first race on 9 June at appoximately 10:00.",
+    "The wind was about 15 kts with choppy water.",
+    "GER 2314 was sailing on a beat from the race committee signal vessel on starboard tack, approaching GER 1362, reaching on port tack, on a collision course.",
+    "GER 2314 hailed 'Starboard' to GER 1362 when the distance between the two boats was 8 metres, and luffed sharply shortly after.",
+    "When GER 1362 noticed GER 2314, she immediately luffed.",
+    "A collision occurred between the bow of GER 1362 and the front third of the port side of GER 2314 with damage: the lower hull and the upper hull got separated at a length of 1 metre with a crack 3 cm wide.",
+    "After putting tape on the damaged part of the boat, GER 2314 sailed back to the harbour and completed none of the races on 9 June.",
+    "After making sure no injury occurred, GER 1362 sailed in race 3.",
+    "The 29er class completed 2 races before 9 June, and additional 4 races on 9 June.",
+    "GER 2314 did not hail protest at the time of the incident. After coming ashore, she contacted the omaanacghe2 soail. fc oGm ER 1362 to discuss insuRreaponrt cCerea tmed MaOtNte 9 rJUsN, 2b02u5 t2 3d:14id not make an attempt to contact GER",
+    "The incident occurred shortly before the first race on 9 June at appoximately 10:00.",
+    "The wind was about 15 kts with choppy water.",
+    "GER 2314 was sailing on a beat from the race committee signal vessel on starboard tack, approaching GER 1362, reaching on port tack, on a collision course.",
+    "GER 2314 hailed 'Starboard' to GER 1362 when the distance between the two boats was 8 metres, and luffed sharply shortly after.",
+    "When GER 1362 noticed GER 2314, she immediately luffed.",
+    "A collision occurred between the bow of GER 1362 and the front third of the port side of GER 2314 with damage: the lower hull and the upper hull got separated at a length of 1 metre with a crack 3 cm wide.",
+    "After putting tape on the damaged part of the boat, GER 2314 sailed back to the harbour and completed none of the races on 9 June.",
+    "After making sure no injury occurred, GCEaRs e1 3D6e2t asialsiled in race 3.",
+    "The 29er class completed 2 races beAsfo orf e9 J9U NJ u20n2e5, A at 2n3d:1 4additional 4 races on 9 June.",
+    "GER 2314 did not hail protest at the time of the incident. After coming ashore, she contacted the coach of GER 1362 to discuss insurance matters, but did not make an attempt to contact GER 1362."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 60.2(c)",
+    "RRS 61.4(b)(3)",
+    "RRS 63.7",
+    "RRS N1.4(b)",
+    "World Sailing Case 116"
+  ],
+  "conclusions": [
+    "At the time of the incident it was obvious to GER 2314 that serious damage resulted. Nevertheless, GER 2314 failed to attempt to inform GER 1362 of the protest within the protest time limit, as required by RRS 60.2(c).",
+    "GER 1362 on port tack failed to keep clear of GER 2314 on starboard tack, and broke RRS 10.",
+    "GER 1362 did not avoid contact with GER 2314 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GER 2314 the right-of-way boat to avoid contact with GER 1362 when it became clear that GER 1362 was not keeping clear. GER 2314 did not break RRS 14(a).",
+    "By breaking RRS 10 and 14(a) in the incident, GER 1362 caused physical damage to GER",
+    "GER 2314’s score in the series was made significantly worse through no fault of her own by physical damage because of the action of GER 1362, a vessel that was not racing that was required to keep clear."
+  ],
+  "decision": [
+    "The protest is invalid.",
+    "Redress is given to GER 2314. Decision of the original hearing: GER 2314 is to be scored in race 3 points equal to average points of races 1 and 2.",
+    "Decision of the reopend hearing: GER 2314 is to be scored in race 3 and 4 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races in the series, except race 3 and 4.. No other boat’s score shall change.",
+    "No other boat’s score shall change"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Heiko Thölmann",
+    "members": [
+      "Bence Börocz",
+      "Mohammed Ali Soukeur"
+    ]
+  }
+}

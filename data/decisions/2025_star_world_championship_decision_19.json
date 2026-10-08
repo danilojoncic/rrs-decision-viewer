@@ -1,0 +1,31 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "2025 Star World Championship",
+  "race_number": "5",
+  "hearing_datetime": "2025-09-13 10:00",
+  "parties": [],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "SWE 7978 ask to withdraw her request to reopen hearing no. 11"
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the request to reopening."
+  ],
+  "decision": [
+    "Request to reopen is withdrawn."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Hans Vengberg",
+    "members": [
+      "Bartol Hodanic",
+      "Uros Zvan"
+    ]
+  }
+}

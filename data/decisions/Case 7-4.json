@@ -1,0 +1,53 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "6,",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 222798 - Sofia VISNOVIC"
+  ],
+  "procedural_matters": [
+    "Case 7 was heard together with Case 6 and Case 5 in accordance with RRS 63.(2)(b) since all cases arose from the same incident.",
+    "ITA 222798 was represented by Sofia Visnovic.",
+    "EST 227283 was represented by Romi Safin.",
+    "BEL 221112 was represented by Danae Kapnisis.",
+    "Race Committee was represented by Yiannis Papazoglou."
+  ],
+  "facts": [
+    "Sailing Instruction 6.2 states: Flag D displayed with one sound means “The warning signal will be made not less than 60 minutes after flag D is displayed” no boat shall leave her allocated place until this signal is made.",
+    "Sea state: 5–10 knots of wind with choppy waves.",
+    "The Delta flag was displayed on shore at 09:30, together with the Tango (towing allowed) and Blue flag (class flag ILCA 6 Woman).",
+    "ITA 222798, EST 227283 and BEL 221112 launched into the water at 09:35.",
+    "The last ILCA 6 Woman left the boat ramp at 09:55.",
+    "ITA 222798, EST 227283 and BEL 221112 were aware of the minimum 60-minute time difference between the Delta flag and the Warning signal, as stated in SI 6.2.",
+    "The race area was approximately 2.6 nautical miles from the boat ramp and upwind of the marina.",
+    "The coach boat of ITA 222798, EST 227283 and BEL 221112 experienced a problem and was unable to tow them to the race area.",
+    "ITA 222798, EST 227283 and BEL 221112 sailed on their own, without any coach towing them.",
+    "Race Committee informed the coaches of the intention to raise the orange flag at 10:40, and announced this on VHF. No one objected.",
+    "The orange flag was displayed at 10:40.",
+    "The warning signal for ILCA 6 Woman was diplayed at 10:45 (75 minutes after displaying flag D ashore).",
+    "ITA 222798, EST 227283 and BEL 221112 arrived to the race area 12 minutes after the starting signal of Race 4 for ILCA 6 Women."
+  ],
+  "rules": [
+    "RRS 63",
+    "SI 6.2",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action or improper omission of the Race Committee. Therefor the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Johanna Poksi",
+    "members": [
+      "Danilo Joncic",
+      "Arto Kiiski",
+      "Philippe Mazard",
+      "Uros Zvan"
+    ]
+  }
+}

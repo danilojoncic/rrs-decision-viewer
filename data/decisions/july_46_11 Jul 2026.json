@@ -1,0 +1,44 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "420 Women",
+  "race_number": "10",
+  "hearing_datetime": "11 Jul 2026 at 18:15",
+  "parties": [
+    "ESP 57718 - Neus Fernandez Darder",
+    "USA 57599 - Sophia Alexopoulos"
+  ],
+  "procedural_matters": [
+    "ESP 57718 was represented by Neus Fernandez Darder (helm). USA 57599 was represented by Sophia Alexopoulos (helm). Ilan Basik Tashtash (coach of the US Team) attended the hearing as an observer. Steve Keen (coach of USA 57599) provided video evidence."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 7 to 8 knots of wind and flat water.",
+    "During the last minute of the start of race 10, USA 57599 tacked to starboard tack and was nearly stationary slightly below a close-hauled course.",
+    "ESP 57718 tacked to starboard tack one boat length astern and half a boat length to windwarod of USA 57599.",
+    "Shortly after ESP 57599 bore away and established an overlap from clear astern awithin one meter leeward of USA 57599.",
+    "Two seconds later USA 57599 started to luff.",
+    "ESP 57718 luffed and as USA 57599 did not respond further to the luff, ESP 57718 stopped luffing.",
+    "USA 57599 drifted to leeward and contact without damage occured between the hulls when USA 57599 was nearly head to wind and ESP 57718 was close-hauled with ESP 57718´s bow parallel to the shrouds of USA 57599.",
+    "ESP 57718 bore away and USA 57599 tacked to port tack.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "USA 57599 to windward failed to keep clear of 57718 to leeward, and broke RRS 11. USA 57599 did not avoid contact with ESP 57718 even though it was reasonably possible, and broke RRS 14(a). It was not reasonably possible for ESP 57118 the right-of-way boat to avoid contact with USA 57599 when it became clear that USA 57599 was not keeping clear. ESP 57118 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "USA 57599 is DSQ in race 10."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Gonzalo Heredia (IJ ARG",
+      "César Sans (IJ ESP",
+      "Murat Suntay (IJ TUR"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2026-05-28 21:20",
+  "parties": [
+    "ITA 572 - 109 - White Hawk - Noe Gianfranco",
+    "ITA 572 - 109 - White Hawk - Noe Gianfranco",
+    "ITA 572 - 109 - White Hawk - Noe Gianfranco",
+    "SWE 994 - 128 - FolkesLivs - Ingvar Ferby"
+  ],
+  "procedural_matters": [
+    "ITA 572 was represented by Noe Gianfranco.",
+    "Hearing No. 23 was heard together with hearing No. 24 in accordance with RRS 63.2(b) since both hearings arose from the same incident.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "On 28 May 2026, the protest time limit was 18:58.",
+    "ITA 572 was protested in hearing No. 16.",
+    "Hearing No. 16 was delivered and listed on the Official Notice Board at 18:14.",
+    "Hearing No. 16 was scheduled at 18:58 for 19:15.",
+    "ITA 572 left the venue and later checked the Official Notice Board for the first time at 19:30.",
+    "Hearing No. 16 started at 19:50 and was decided at 20:12.",
+    "ITA 572 did not come to the hearing.",
+    "ITA 572 requested to reopen hearing No. 16 at 20:12 because he was not present at the hearing."
+  ],
+  "rules": [
+    "RRS 63.2(b)",
+    "RRS 63.7(a)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "ITA 572 was not unavoidably absent from the hearing. Therefore, the requirements in RRS 63.7(a)(1) for reopening the hearing are not met."
+  ],
+  "decision": [
+    "Hearing No. 16 will not be reopened."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bence Borocz",
+    "members": [
+      "Yoann Peronneau",
+      "Christine Guba"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "29er World Championship 2026",
+  "race_number": "13",
+  "hearing_datetime": "8 JUL 16:40",
+  "parties": [
+    "GER 3459",
+    "USA 2634"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "GER 3495 was represented by Maximilian Kießling.",
+    "USA 2634 was represented by Theo Goodman.",
+    "GER 3495 presented video evidence.",
+    "Emma Machuke, coach of GER 3495, attended the hearing as an observer.",
+    "Tomas DiLuciano, coach of USA 2634, attended the hearing as an observer."
+  ],
+  "facts": [
+    "The incident occurred in race F3, Bronze fleet, near the 2s gate mark.",
+    "The conditions during the incident were wind speed 20 knt and choppy sea.",
+    "GER 3459 and USA 2634 entered the zone of mark 2s on a downwind course, with GER 3459 on port tack and overlapped inside and USA 2634 on starboard tack. At that moment the distance between them was approximately 20m.",
+    "When GER 3459 was on the starboard layline, she gybed to starboard and was 5 metres clear ahead of USA 2634.",
+    "While GER 3459 was rounding the mark, USA 2634 established an overlap between her and the mark.",
+    "Contact occurred between USA 2634's bow and GER 3459's third aft of starboard side of the hull, and USA 2634's mast and GER 3459's crew.",
+    "There is damage to GER 3459 boat: 2 holes in the hull, one of them is a 10 cm hole through the hull, second one is a 10 cm crack of the laminate.",
+    "GER 3459's crew is injured and is in a hospital with a concussion. He will not be able to sail tomorrow.",
+    "USA 2634's bowsprit is damaged, first 15 cm of the pole are cracked and bent.",
+    "Both boats retired from that race."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 18.2(a)(1)",
+    "RRS 44.1(b)",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "USA 2634 to windward failed to keep clear of GER 3459 to leeward, and broke RRS 11.",
+    "USA 2634 outside overlapped at the zone failed to give GER 3459 mark-room, and broke RRS 18.2(a)(1).",
+    "USA 2634 did not avoid contact with GER 3459 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GER 3459, the boat sailing within the mark-room to which she was entitled, to avoid contact with USA 2634 when it became clear that USA 2634 was not keeping clear. GER 3459 did not break RRS 14(a).",
+    "The damage is serious.",
+    "Since USA 2634 caused injury and serious damage by her breach, her penalty was to retire as required by RRS 44.1(b).",
+    "GER 3459’s score in race F3 was made significantly worse through no fault of her own by injury and physical damage because of the action of USA 2634 that was breaking RRS 11 and 18.2(a)(1) and took an appropriate penalty. Therefore, the requirements for redress in RRS 61.4(b)(2) are met and she is entitled to redress."
+  ],
+  "decision": [
+    "Protest is upheld, no further penalty is applied.",
+    "Redress is given. Redress is given to GER 3459. GER 3459 is to be scored in race F3 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races in the Final series, except race F3. No other boats' score shall change."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Holger Herburger",
+    "members": [
+      "Johanna Poksi",
+      "Julia Schmidt"
+    ]
+  }
+}

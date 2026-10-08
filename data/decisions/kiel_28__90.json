@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "3",
+  "hearing_datetime": "22 JUN 19:15",
+  "parties": [
+    "Technical Committee",
+    "GER 191131 (R3)"
+  ],
+  "procedural_matters": [
+    "The technical committee was represented by Melissa Goldstraß (member of the technical committee).",
+    "Bastian Henning attended the hearing.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "GER 191131, the boat being supported by Mr. Bastian Henning, was represented by Philipp Buhl.",
+    "Charlotte May (member of the technical committee) attended the hearing as an observer."
+  ],
+  "facts": [
+    "Following race 3 of the ILCA 7 fleet, Mr. Bastian Henning (support person 182) was not wearing a personal flotation device while waiting afloat between the finishing line and the starting area.",
+    "At the time of the incident Mr. Bastian Henning was not briefly changingor adjusting clothing or personal equipment.",
+    "At the time of the incident the personal flotation device was stored ina box at the back of his vessel.",
+    "During the hearing Mr. Bastian Henning admitted that he was not wearinga personal flotation device and apologized."
+  ],
+  "rules": [
+    "ESTR 3.1",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "By not wearing a personal flotation device while being afloat and notbriefly changing or adjusting clothing or personal equipment, Mr. BastianHenning broke ESTR 3.1.",
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats andSupport Persons a starting penalty of level 2 was decided.",
+    "Although the breach could have affected safety, the support person wasapologetic and promptly remedied the breach; the level 2 will hence stand."
+  ],
+  "decision": [
+    "Mr. Bastian Henning shall stay ashore until the first race of his supported boat(s) on June 23rd has started."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Giorgio Davanzo",
+    "members": [
+      "Lance Burger",
+      "Hermann Herburger"
+    ]
+  }
+}

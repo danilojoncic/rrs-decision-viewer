@@ -1,0 +1,38 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by PC",
+  "event": "Europa Cup ILCA Italy 2026",
+  "race_number": "1",
+  "hearing_datetime": "2026-06-14 17:10",
+  "parties": [
+    "ITA 215993 - GIOVANNELLI NiccolÃ²"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "ITA 215993 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The Protest Committee was represented by Uros Zvan (International Judge)."
+  ],
+  "facts": [
+    "During the pre-start of race 1, around 3'30'' - 3'00'' to the start, ITA 215993 was stopped with the sail flapping at the pre- start area around 60 meters from the starting line.",
+    "At his time his coach was 10 meters from the sailor, giving verbal instructions for at least 30 seconds."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 63.1(b)",
+    "RRS 41"
+  ],
+  "conclusions": [
+    "ITA 215993 received help from an outside source and broke RRS 41."
+  ],
+  "decision": [
+    "ITA 215993 is DSQ in race #1."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Pascal Andreovist",
+    "members": [
+      "Tatiana Almeida",
+      "Miroslav Bjelajac"
+    ]
+  }
+}

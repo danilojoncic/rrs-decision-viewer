@@ -1,0 +1,44 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Open Finn Europeans",
+  "race_number": "1",
+  "hearing_datetime": "2025-04-08 17:50",
+  "parties": [
+    "ITA 13 - Giulio Piccialli",
+    "POL 26 - Boguslaw Nowakowski"
+  ],
+  "procedural_matters": [
+    "ITA 13 was represented by Giulio Piccialli.",
+    "POL 26 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were wind around 15 knots with small chop.",
+    "Around 1 minute 15 seconds after the start of race 1, ITA 13 and POl 26 were sailing on a close-hauled course, with ITA 13 on starboard tack and POL 26 on port tack.",
+    "Both boats were sailing on converging courses.",
+    "At a distance of half a boat length from POL 26, ITA 13 tacked onto port.",
+    "If ITA 13 would have held her course contact would have occured between ITA 13’s bow and the starbord side of the hull of POL 26 amidships.",
+    "No contact occurred between the boats.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "POL 26 on port tack failed to keep clear of ITA 13 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "POL 26 is DSQ in race 1"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Timo Haß",
+    "members": [
+      "Sylvie Harle",
+      "Stavros Kouris",
+      "Marco Flavio Tosello",
+      "Jan Stage"
+    ]
+  }
+}

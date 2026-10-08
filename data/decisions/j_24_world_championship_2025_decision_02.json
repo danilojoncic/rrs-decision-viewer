@@ -1,0 +1,44 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "J/24 World Championship 2025",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-10 16:30",
+  "parties": [
+    "BOW 40 - Tata Patagonia - Ramiro Clemente Diaz"
+  ],
+  "procedural_matters": [
+    "ARG 5453 (Bow 40) was represented by Ramiro Clemente Diaz.",
+    "Race Committee was represented by Sean Semmens.",
+    "Valentin Campero (trimmer on ARG 5453) gave evidence as a witness for ARG 5453.",
+    "David Rollinson (Deputy Race Officer) gave evidence as a witness for the race committee.",
+    "David Rollinson (Deputy Race Officer) provided video evidence."
+  ],
+  "facts": [
+    "In race 3 black flag was displayed as the preparatory signal.",
+    "Just before the start, the race committee identified ARG 5453's (Bow 40) hull in the triangle formed by the ends of the starting line and the first mark.",
+    "ARG 5453 was scored BFD in race 3."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.1",
+    "RRS 61.2",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress not given."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jared Hickman",
+    "members": [
+      "Robert Stewart",
+      "Marta Lloret Llinares",
+      "Cxema Pico",
+      "Carol Haines"
+    ]
+  }
+}

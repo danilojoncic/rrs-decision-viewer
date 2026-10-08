@@ -1,0 +1,48 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "1",
+  "hearing_datetime": "",
+  "parties": [
+    "FIN",
+    "CHN (Mixed Two Person Multihull)"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "João Prieto, coach of FIN, and Alisa Kylavaini, crew of FIN, attended the hearing as observers."
+  ],
+  "facts": [
+    "SI 11.4 states that races will be started signaling the preparatory signal at 3 minutes. 2. Before start of Race 1 of 29er Female.",
+    "Wind Speed 23 knots with gusts up to 30 knots and 2,1 meters swell.",
+    "At 4 minutes to the starting signal, FIN was stationary on a close-hauled course on starboard tack, 6 boat lengths below the RC vessel.",
+    "CHN was sailing on a run on starboard tack.",
+    "CHN was aiming 1 boat length to windward of the starboard side of FIN.",
+    "At 3 minutes 50 seconds CHN capsized, with her mast making contact with jib of FIN, and subsequently her hull and main sail.",
+    "FIN completed race 1.",
+    "There is damage on the luff of the main sail of FIN and the jib has a 43 cm tear starting in the clew.",
+    "There was a scratch on the face of the crew of FIN. 11. CHN retired in race 3."
+  ],
+  "rules": [
+    "SI 11.4"
+  ],
+  "conclusions": [
+    "Since CHN and FIN were not racing but were sailing near the racing area and intended to race, the rules of part 2 apply.",
+    "CHN the windward boat failed to keep clear of FIN the leeward boat, CHN broke RRS 11.",
+    "It was not reasonably possible for FIN, the right-of-way boat, to avoid contact with CHN when it became clear that CHN was not keeping clear. FIN did not break RRS 14(a). 4. CHN did not avoid contact with FIN even though it was reasonably possible, and broke RRS 14(a).",
+    "The damage on the jib of FIN is serious.",
+    "Since CHN caused serious damage by her breach, her penalty was to retire as required by RRS 44.1(b).",
+    "By retiring in race 3 CHN took the appropriate penalty. Therefore, she won't be further penalized under RRS 60.5(c)(2)."
+  ],
+  "decision": [
+    "The protest is upheld. Since CHN took an applicable penalty, she is not further penalized."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Patric Loydell",
+    "members": [
+      "Sukkyong KIM",
+      "Eurico Teodoro"
+    ]
+  }
+}

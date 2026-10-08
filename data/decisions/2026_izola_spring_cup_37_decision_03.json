@@ -1,0 +1,35 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Video prova o registrazione della prova numero 2 ilca4",
+  "event": "2026 Izola Spring Cup 37",
+  "race_number": "2",
+  "hearing_datetime": "2026-04-03",
+  "parties": [
+    "ITA 224914 - Alessandro Ferluga"
+  ],
+  "procedural_matters": [
+    "Davorin Vuga, member of the International Jury acted as a translator for ITA 224914"
+  ],
+  "facts": [
+    "Request for redress doesn't state the reason for making it."
+  ],
+  "rules": [
+    "RRS 61.2(a)"
+  ],
+  "conclusions": [
+    "By not stating reason for making it the request for redress does not comply with rule 61.2(a)"
+  ],
+  "decision": [
+    "Request for redress is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cristian Tabacu",
+    "members": [
+      "Ilker Bayindir",
+      "Uros Zvan",
+      "Christian Hotwagner",
+      "Lorenzo Walch"
+    ]
+  }
+}

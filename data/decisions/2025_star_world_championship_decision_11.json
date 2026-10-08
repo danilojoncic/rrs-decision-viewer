@@ -1,0 +1,63 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Star World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-11 20:40",
+  "parties": [
+    "ITA 8557 - GIOVANNI Coppo",
+    "SWE 7978 - INGVAR Krook"
+  ],
+  "procedural_matters": [
+    "SWE 7978 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b). SWE 7978 represented by Ingvar Krook later joined the hearing. Jury continue with the hearing when SWE 7978 joined.",
+    "ITA 8557 represented by Giovanni Coppo.",
+    "Witness ITA 8584 represented by Mario Boroi.",
+    "Reopened hearing:",
+    "SWE 7978 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "ITA 8557 represented by Giovanni Coppo."
+  ],
+  "facts": [
+    "ITA 8557, GER 8361 and SWE 7978 were approaching the starboard leeward gate mark.",
+    "ITA 8557 and GER 8361 overlapped at the zone. ITA 8557 outside and GER 8361 inside. SWE 7978 was clear astern.",
+    "GER 8361 rounded the mark, followed by ITA 8557.",
+    "While ITA 8557 was rounding the mark SWE 7978 established inside overlap and with her bow hit ITA 8557 's starboard aft side of the hull.",
+    "Contact caused a dent with the crack which takes water in.",
+    "No boat took penalty turns.",
+    "Reopened hearing:",
+    "ITA 8557 and SWE 7978 were approaching the starboard leeward gate mark.",
+    "When SWE 7978 reached the zone, ITA 8557 has not reached the zone at that moment.",
+    "From entering the zone SWE 7978 sailed a course, which leads her away from it. She gybed in a distance of 2 boat length from the mark and established an inside overlap with ITA 8557, who was 1 boats length to leeward.",
+    "While rounding the mark contact occurred between the bow of SWE 7978 and ITA 8557 's starboard aft side of the hull.",
+    "Contact caused a dent with the crack which takes water in.",
+    "No boat took penalty turns."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14",
+    "RRS 18.2(a)(2)"
+  ],
+  "conclusions": [
+    "SWE 7978 to windward failed to keep clear of ITA 8557 to leeward, and broke RRS 11.",
+    "SWE 7978 not overlapped with ITA 8557 and not in the zone at the time ITA reached the zone, failed to give ITA 8557 mark-room, and broke RRS 18.2(a)(2).",
+    "SWE 7978 did not avoid contact with ITA 8557 when it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for ITA 8557 the right-of-way boat to avoid contact with SWE 7978 when it became clear that SWE 7978 was not keeping clear and giving mark-room. ITA 8557 did not break RRS 14(a).",
+    "Reopened hearing conclusions:",
+    "SWE 7978 to windward failed to keep clear of ITA 8557 to leeward, and broke RRS 11.",
+    "ITA 8557 not overlapped with SWE 7978 and not in the zone at the time SWE 7978 reached the zone was entitled to mark-room in accordance with RRS 18.2(a)(2). Since SWE 7978 did not sail close to the mark, which was her proper course, she took more mark-room than she was entitled to.",
+    "SWE 7978 did not avoid contact with ITA 8557 when it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for ITA 8557, the right-of-way boat, to avoid contact with SWE 7978 when it became clear that SWE 7978 was not keeping clear. ITA 8557 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "SWE 7978 is DSQ in race no. 3."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Hans Vengberg",
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

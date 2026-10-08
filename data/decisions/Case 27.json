@@ -1,0 +1,43 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "F3",
+  "hearing_datetime": "",
+  "parties": [
+    "USA 222917 - Jake Homberger",
+    "AUS 204568 - Jasper Stay"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "USA 222917 was sailing upwind on leg 1 close-hauled on starboard tack.",
+    "AUS 204568 was sailing close-hauled on port tack.",
+    "The boats were on a collision course.",
+    "When USA 222917 was ½ boat length away from AUS 204568, with her bow aiming at the cockpit of AUS 204558, USA 222917 bore away.",
+    "AUS 204568 held her course.",
+    "USA 222917 passed 1 meter behind AUS 204568.",
+    "There was no contact.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 10"
+  ],
+  "conclusions": [
+    "USA 222917 had a reasonable apprehension of collision.",
+    "AUS 204568, a port-tack boat, failed to keep clear of USA 222917, and broke rule 10."
+  ],
+  "decision": [
+    "AUS 204568 is to be scored DSQ in race 9"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Kevin Hawkins",
+    "members": [
+      "Doug Elder",
+      "Gabriela Santanna"
+    ]
+  }
+}

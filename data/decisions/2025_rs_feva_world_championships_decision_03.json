@@ -1,0 +1,30 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "3",
+  "hearing_datetime": "2025-07-29 19:30",
+  "parties": [],
+  "procedural_matters": [
+    "Arbitration Inappropriate - The arbitrator deems the incident inappropriate for arbitration. The panel of the International Jury was composed in accordance with RRS N1.4(a). The hearing for cases 03 and 02 started together at 19:40 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident. FRA 8804 was not present at the beginning of the joint hearing. FRA 8804 joined at 19:44 and the hearing was restarted. FRA 8804 said he did not have time to prepare and said he would need 5 minutes. The hearing paused, and restarted at 19:54. Anneroos van den Biggelaar, coach of NED 3469, attended the hearing as an observer. Hugo Porret, coach of FRA 8804, attended the hearing as an observer."
+  ],
+  "facts": [],
+  "rules": [
+    "RRS 60.3(a)"
+  ],
+  "conclusions": [
+    "The protest did not identify the incident as required by RRS 60.3(a)."
+  ],
+  "decision": [
+    "The protest is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Nicole de By",
+    "members": [
+      "Joep Straus",
+      "Antonio Mata",
+      "Michal Kwiatek"
+    ]
+  }
+}

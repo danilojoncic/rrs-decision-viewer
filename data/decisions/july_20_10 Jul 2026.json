@@ -1,0 +1,43 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "420 Open",
+  "race_number": "7",
+  "hearing_datetime": "25 Jul 2025 at 18:15",
+  "parties": [
+    "BRA 57305 - Joana Freitas",
+    "FRA 57530 - EMY COMBET"
+  ],
+  "procedural_matters": [
+    "The panel of the international Jury was composed according to RRS N 1.4(b)",
+    "BRA 57305 was represented by Joana Freitas.",
+    "FRA 57530 was represented by Julliette Peyre.",
+    "Joaquim Malhao, coach of BRA 57305, attended the hearing as an observer.",
+    "Melisa Paradeda, helm of BRA 55511, gave evidence as a withness."
+  ],
+  "facts": [
+    "The wind at the time of the incident was 13 knots.",
+    "BRA 57305 rounded mark 3p clear ahead of FRA 57530.",
+    "Five boat lengths after rounding the mark and while heading for the finishing line, FRA 57530 established an overlap one and a half metres to windward of BRA 57305.",
+    "BRA 57305 luffed smoothly and FRA 57530 luffed and avoided contact."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 1.4(b)"
+  ],
+  "conclusions": [
+    "FRA 57530 to windward kept clear of BRA 57305 to leeward, as required by RRS 11."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Joao Carneiro (POR",
+      "David Hudson (RSA",
+      "Aylin Suntay (TUR"
+    ]
+  }
+}

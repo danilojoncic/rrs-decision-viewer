@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#173f3a">
+  <meta name="description" content="Search and explore real-world sailing decisions.">
+  <title>Decision Viewer · Sailing decision archive</title>
+  <script>
+    (() => {
+      let theme;
+      try { theme = localStorage.getItem('decision-viewer.theme'); } catch {}
+      document.documentElement.dataset.theme = ['light', 'dark'].includes(theme) ? theme : (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    })();
+  </script>
+  <link rel="stylesheet" href="./assets/styles.css">
+  <script src="./assets/decisions-data.js" defer></script>
+  <script src="./assets/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to decisions</a>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <div class="brand-title"><strong>Decision Viewer</strong><span class="updated-label">Updated at <time id="updated-at">—</time></span></div>
+    </div>
+    <div class="header-actions">
+      <button id="info-toggle" type="button" aria-haspopup="dialog" aria-controls="info-dialog">Info</button>
+      <button id="theme-toggle" type="button" aria-label="Dark mode" aria-pressed="false">Dark mode</button>
+      <img class="country-flag" src="./assets/montenegro.svg" alt="Montenegro flag" width="80" height="40">
+    </div>
+  </header>
+
+  <section class="intro" aria-labelledby="page-title">
+    <div>
+      
+      <h1 id="page-title">Sailing decisions</h1>
+      <p>Search an incident, boat, or rule. Select a result to read the full decision.</p>
+    </div>
+    <div class="library-stats" aria-label="Decision statistics">
+      <div><strong id="total-count">—</strong><span>decisions</span></div>
+      <div><strong id="event-count">—</strong><span>events</span></div>
+    </div>
+  </section>
+
+  <main id="main" tabindex="-1">
+    <div class="workspace-bar">
+      <div><strong>Decision archive</strong><span id="workspace-summary">Browse every case</span></div>
+      <div class="workspace-actions">
+        <button id="filter-toggle" type="button" aria-expanded="false" aria-controls="filters"><span aria-hidden="true">☷</span> Filters <b id="filter-badge" hidden>0</b></button>
+      </div>
+    </div>
+
+    <div class="app-shell">
+      <aside class="filter-rail" id="filters" aria-label="Decision filters">
+        <div class="filter-heading"><div><p class="eyebrow">FILTERS</p><h2>Filter decisions</h2></div><button data-action="reset" class="text-button" type="button">Clear all</button></div>
+
+        <label class="field"><span>Event</span><select id="event-filter"><option value="">All events</option></select></label>
+        <div class="filter-pair">
+          <label class="field"><span>Hearing type</span><select id="type-filter"><option value="">All types</option></select></label>
+          <label class="field"><span>Year</span><select id="year-filter"><option value="">All years</option></select></label>
+        </div>
+
+        <details class="filter-section" open>
+          <summary><span>Rules</span><b id="rules-count"></b></summary>
+          <div class="facet-mode"><span>Selected rules match</span><select id="rule-mode" aria-label="Rule matching mode"><option value="any">any</option><option value="all">all</option></select></div>
+          <input id="rule-search" type="search" placeholder="Find a rule…" aria-label="Find a rule">
+          <div id="rule-options" class="facet-options"></div>
+        </details>
+      </aside>
+
+      <section class="results-pane" aria-label="Decision search results">
+        <form id="search-form" role="search">
+          <label class="search-label" for="search">Search the decisions</label>
+          <div class="search-input-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search decisions…" autocomplete="off" aria-describedby="search-help"><kbd>/</kbd></div>
+          <div class="search-help-row"><p id="search-help">All words must match. Use quotes for an exact phrase.</p><button id="search-tips-toggle" type="button" aria-expanded="false" aria-controls="search-tips">Search tips</button></div>
+          <div id="search-tips" hidden><p>Use rule:, event:, party:, year:, or case: to search a field. Put - before a word to exclude it.</p>
+            <button type="button" data-query='rule:11 contact'>rule:11 contact</button>
+            <button type="button" data-query='event:"Kieler Woche"'>event:"Kieler Woche"</button>
+            <button type="button" data-query='"room to keep clear" -dismissed'>"room to keep clear" -dismissed</button>
+          </div>
+        </form>
+        <div id="selected-filters" class="selected-filters" aria-label="Active filters" hidden></div>
+        <div class="results-toolbar">
+          <div><strong id="result-count" role="status" aria-live="polite">Loading decisions…</strong><span id="result-context"></span></div>
+          <label class="sort-label"><span>Sort by</span><select id="sort"><option value="relevance">Best match</option><option value="event">Event A–Z</option><option value="newest">Newest first</option><option value="rules">Most rules</option></select></label>
+        </div>
+        <div id="results" class="decision-list"></div>
+        <nav id="pagination" class="pagination" aria-label="Result pages"></nav>
+      </section>
+
+      <article id="reader" class="case-viewer" tabindex="-1" aria-label="Decision reader"></article>
+    </div>
+  </main>
+
+  <footer class="site-footer"><span>Sailing Decision Viewer</span></footer>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+
+  <dialog id="info-dialog" class="info-dialog" aria-labelledby="info-title">
+    <div class="info-heading"><h2 id="info-title">About Decision Viewer</h2><button id="info-close" type="button" aria-label="Close information" autofocus>×</button></div>
+    <h3>Who made it</h3>
+    <p id="creator-description">Created by Danilo Jončić.</p>
+    <h3>How to use it</h3>
+    <p>Search by incident, boat, event, or rule. Narrow the results by event, hearing type, year, or rules, then select a decision to read its facts, conclusions, and outcome. Search tips show examples of more specific searches.</p>
+    <h3>How it stays up to date</h3>
+    <p>Cases are stored as JSON files in the GitHub repository. Each successful publication rebuilds the viewer from those files. The date beside the title shows when this version was built, in UTC. Refresh the page after a new version is published to see the latest cases.</p>
+  </dialog>
+
+  <noscript><p class="noscript-warning">Enable JavaScript in your browser to search decisions.</p></noscript>
+</body>
+</html>

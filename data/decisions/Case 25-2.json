@@ -1,0 +1,45 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 217178 - MARTINEZ Carlos",
+    "CZE 222017 - TOMES Jiri"
+  ],
+  "procedural_matters": [
+    "ESP 217178 did not ask to withdraw the protest after the arbitration meeting and neither boat took a Post- Race Penalty under RRS T1(a).",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "ESP 217178 was represented by MARTINEZ Carlos.",
+    "CZE 222017 was represented by TOMES Jiri.",
+    "Elliot Levy (international jury member) gave evidence during the hearing."
+  ],
+  "facts": [
+    "During race 5, there was 5 to 6 knots of wind with choppy waves.",
+    "ESP 217178 and SWE 216413, on starboard tack, and CZE 222017, on port tack, were sailing downwind on leg 5.",
+    "At the zone of mark 3P, ESP 217178, SWE 216413 and CZE 222017 were overlapped, with ESP 217178 on the inside, SWE 216413 in the middle and CZE 222017 on the outside.",
+    "At the mark, ESP 217178 and SWE 216413 gybed onto port tack leaving a gap of approximately one boat length between ESP 217178 and the mark.",
+    "CZE 222017 rounded the mark between ESP 217178 and the mark.",
+    "There was no contact between the boats, nor the mark."
+  ],
+  "rules": [
+    "RRS T1(a)",
+    "RRS N1.4(b)",
+    "RRS 18.2(a)(1)"
+  ],
+  "conclusions": [
+    "CZE 222017 outside overlapped at the zone gave ESP 217178 mark-room, and complied with RRS 18.2(a)(1). No rules were broken."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christina Ortendahl",
+    "members": [
+      "Elliot Levy",
+      "Jean-Bernard Luther"
+    ]
+  }
+}

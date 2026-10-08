@@ -1,0 +1,47 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "2",
+  "hearing_datetime": "22 JUN 16:20",
+  "parties": [
+    "IRL 216111",
+    "IND 222138"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "IND 222138 presented video evidence."
+  ],
+  "facts": [
+    "The conditions at the time of incident were: wind 5 knots and choppy sea.",
+    "At 1 1/2 minutes before the start, IRL 216111 and IND 222138 were sailing on a close-hauled starboard tack, approaching the starting line at the race committee end.",
+    "IRL 216111 was clear ahead of IND 222138 and 0,5 meters to leeward of IND 222138.",
+    "There were two boats in close proximity to leeward of IRL 216111.",
+    "1 minute before the starting of IRL 216111 was 0,5 meters from the portside of RC vessel.",
+    "IND 222138 established 1/4 windward overlap with IRL 216111 and changed course by bearing away toward IRL 216111.",
+    "IND 222138 was then on convergent course aiming to the starboard aft quarter of IRL 216111.",
+    "IND 222138 bow made contact with the starboard aft quarter of IRL 216111.",
+    "No damage or injury.",
+    "No penalty taken."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "IND 222138 to windward failed to keep clear of IRL 216111 to leeward, and broke RRS 11.",
+    "IND 222138 did not avoid contact with IRL 216111 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for IRL 216111 the right-of-way boat to avoid contact with IND 222138 when it became clear that IND 222138 was not keeping clear. IRL 216111 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "IND 222138 is DSQ in race Q2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Sandra Asle Hatch",
+    "members": [
+      "Angela Stenger",
+      "Eurico Teodoro"
+    ]
+  }
+}

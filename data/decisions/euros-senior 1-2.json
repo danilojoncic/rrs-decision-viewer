@@ -1,0 +1,41 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA SENIOR EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 213024 - Christian GIRANI"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "ITA 213024 was represented by Christian Girani.",
+    "The technical committee was represented by Charlotte Abadie (chair of the technical committee)."
+  ],
+  "facts": [
+    "After crossing the finishing line in race 3, ITA 213024 has been called for inspection by the technical committee.",
+    "The technical committee found a loop formed using a splice at the free end of the traveller on ITA 213024.",
+    "The control line on the two ends of the cleat of the traveller system had different thickness."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "Class Rule 3",
+    "Class Rule 3(a)",
+    "RRS 44.3(c)"
+  ],
+  "conclusions": [
+    "By having a splice at the free end of traveler line, ITA 213024 broke class rule 3.(h). i.",
+    "By having a line of the traveller system not uniform in thickness, ITA 213024 broke class rule 3(a). i."
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons a starting penalty of 20% was decided (Band 2). There were no circumstances to justify decreasing the penalty. There were no circumstances to justify increasing the penalty. The penalty given to ITA 213024 is a 20% discretionary penalty, calculated using the method described in rule 44.3(c) and applied to race number 03."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Uros Zvan",
+    "members": [
+      "Bernadette Delbart",
+      "Danilo Joncic"
+    ]
+  }
+}

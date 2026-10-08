@@ -1,0 +1,50 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "10",
+  "hearing_datetime": "10 JUL 20:00",
+  "parties": [
+    "HKG 80",
+    "IRL 168"
+  ],
+  "procedural_matters": [
+    "HKG 80 was represented by Russell AYLSWORTH.",
+    "IRL 168 was represented by Ben O SHAUGHNESSY.",
+    "HKG 80 provided video evidence.",
+    "The panel of the International Jury provided tracking evidence.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 5 - 6 knots of wind and flat water.",
+    "During the starting sequence, HKG 80 was stationary on starboard tack just below the starting line.",
+    "IRL 168 was sailing on starboard tack, clear astern of HKG 80, and established an overlap less than 1m to leeward of HKG 80.",
+    "Shortly after the overlap was established, there was a contact between HKG 80's port tiller extension and IRL 168 's starboard wing.",
+    "HKG 80 tacked onto port tack.",
+    "HKG 80 tacked back to starboard tack, overlapped to windward of IRL 168.",
+    "HKG 80 drifted and there was contact between the starboard wing of IRL 168 and the port wing of HKG 80.",
+    "There was no damage or injury.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 15",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "In the first phase of the incident, when acquiring right-of-way through her own actions, IRL 168 failed to initially give HKG 80 room to keep clear, and broke RRS 15.",
+    "In the second phase of the incident, after HKG 80 tacked back onto starboard tack (which she was not compelled to do), HKG 80 to windward failed to keep clear of IRL 168 to leeward, and broke RRS 11."
+  ],
+  "decision": [
+    "IRL 168 is disqualified in race 10.",
+    "HKG 80 is disqualified in race 10."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jon Napier",
+    "members": [
+      "Henning Jacobssen",
+      "Yoann Peronneau"
+    ]
+  }
+}

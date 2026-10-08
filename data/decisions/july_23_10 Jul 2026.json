@@ -1,0 +1,48 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "420 U17",
+  "race_number": "7",
+  "hearing_datetime": "25 Jul 2025 at 19:20",
+  "parties": [
+    "ESP 56971 - Amalia Coll Company",
+    "GRE 56946 - Andreas Psomiadis"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Magda Resano (Spain coach) attended the hearing as an observer.",
+    "José Kiio Miranda (member of the international jury) attended the hearing as interpreter for ESP 56971.",
+    "ESP 56971 was represented by Amalia Coll Company.",
+    "GRE 56946 was represented by Andreas Psomiadis.",
+    "ESP 56971 provided video evidence."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 7 of the 420 U17 Gold fleet were 10 knots of wind and less than 1 metre waves.",
+    "One minute after the start of race 7 ESP 56971, FRA 56985 and GRE 56946 were sailing on starboard tack.",
+    "GRE 56946 was two metres clear ahead of FRA 56985, which was slightly to windward. GRE 56946 was two and a half boat lengths clear ahead of ESP 56971, which was slightly to windward of FRA 56985.",
+    "GRE 56946 tacked onto port tack and crossed ahead of FRA 56985.",
+    "GRE 56946 crossed ahead of ESP 56971.",
+    "From the time GRE 56946 completed her tack to the point where she cleared ESP 56971, ESP 56971 did not change her course.",
+    "There was no contact between boats.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GRE 56946 on port tack kept clear of ESP 56971 on starboard tack as required by RRS 10."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Aylin Suntay (TUR",
+      "Carol Haines (GBR",
+      "Maria Massapina (POR"
+    ]
+  }
+}

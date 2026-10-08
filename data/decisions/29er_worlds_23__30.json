@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "29er World Championship 2026",
+  "race_number": "6",
+  "hearing_datetime": "6 JUL 16:00",
+  "parties": [
+    "NED 2931",
+    "RC, Starting vessels of course bravo"
+  ],
+  "procedural_matters": [
+    "The race committee was represented by Sebastian Mayer, deputy race officer on race area Bravo.",
+    "NED 2931 was represented by Felix Mulder.",
+    "Alexander Bartelt, member of the race committee on the pin-end vessel, gave evidence.",
+    "Cas van Dongen, coach of NED 2931, attended the hearing as an observer.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Race Q5 for Red fleet, the wind was 10-12 knots with small chops.",
+    "At the preparatory signal the race committee displayed the black flag.",
+    "NED 2931 was identified in the triangle formed by the ends of the starting line and the first mark during the last minute before the starting signal.",
+    "NED 2931 was scored BFD in race Q5."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Maria Ramirez",
+    "members": [
+      "Julia Schmidt",
+      "Niclas Kath"
+    ]
+  }
+}

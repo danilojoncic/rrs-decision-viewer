@@ -1,0 +1,51 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest / Request for Redress",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "USA 221753 - Alders Kulynych-Irvin",
+    "CAN 218606 - Hannah Winters"
+  ],
+  "procedural_matters": [
+    "The hearing was conducted by a panel under N1.4(b).",
+    "USA 221753 coach Pedro Mascarenhas and CAN 218606 coach Chris Watters attended the hearing as observers.",
+    "The request for redress was valid.",
+    "In accordance with RRS 63.2(c) the protest committee changed the type of case to a Protest as it deemed appropriate to do so having considered the information in the case.",
+    "USA 221753 did not hail at the time of the incident. USA 221753 approached CAN 218606 on land after racing and told her of her intent to protest. The protest was valid under RRS 60.2(c)."
+  ],
+  "facts": [
+    "The wind was 10-12 knots and the sea state was 2 foot waves.",
+    "One minute after the start, USA 221753 was sailing on port on a converging course with CAN 218606 on starboard.",
+    "when the bow of CAN 218606 was a ½ boat length from USA 221753’s startboard side, CAN 218606 bore off 50 degrees to take the stern of USA 221753.",
+    "There was contact between the bow of CAN 218606 and the rudder of USA 221753.",
+    "The rudder of USA 221753 broke off at the top pintle.",
+    "USA 221753 retired from the race.",
+    "CAN 218606 did not take a penalty."
+  ],
+  "rules": [
+    "RRS 63.2(c)",
+    "RRS 60.2(c)",
+    "RRS 10",
+    "RRS 61.4(b)",
+    "RRS 60.5(c)(2)"
+  ],
+  "conclusions": [
+    "USA 221753 on port tack failed to keep clear of CAN 218606 on starboard tack and broke RRS 10.",
+    "When it became clear that USA 221753 was not keeping clear, it was not reasonably possible for CAN 218606 to avoid contact with USA 221753. CAN therefore did not break 14.",
+    "USA 221753’s score in race 4 was made significantly worse through her own fault. Therefore, the requirements for redress in RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "USA 221753 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is not given to USA 221753."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Doug Elder",
+    "members": [
+      "Steven Holmstrom",
+      "Elizabeth Rouget"
+    ]
+  }
+}

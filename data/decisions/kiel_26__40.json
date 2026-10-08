@@ -1,0 +1,49 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "22 JUN 18:40",
+  "parties": [
+    "TUR 1",
+    "IND 14"
+  ],
+  "procedural_matters": [
+    "TUR 1 was represented by Zeynep Cacur (helm).",
+    "IND 14 was represented by Verma Shraddha (helm).",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Sharma Ravindra Kumar (crew of IND 14), attended the hearing as an observer.",
+    "Lutfi Celepoven (crew of TUR 1), attended the hearing as an observer."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 6 were 5-7 knots of wind with small chop.",
+    "TUR 1 reached the zone of mark 3p before the last reach to the finish clear ahead of IND 14 by less than one metre and a boat width to leeward of mark 3p.",
+    "At the mark TUR 1 slowed down to let an unidentified GBR boat, clear ahead of her, round the mark.",
+    "TUR 1 started luffing towards the mark.",
+    "At that moment IND 14 was clear astern of TUR 1.",
+    "IND 14 kept her course and established an overlap to windward of TUR 1 by sailing between her and the mark.",
+    "The boats were on converging courses and when the lateral distance between them was 30 cm TUR 1 bore away sharply.",
+    "IND 14 rounded the mark ahead of TUR 1.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 18.2(a)(2)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "IND 14 to windward failed to keep clear of TUR 1 to leeward, and broke RRS 11.",
+    "IND 14 not overlapped with TUR 1 and not in the zone at the time TUR 1 reached the zone, failed to give TUR 1 mark-room, and broke RRS 18.2(a)(2)."
+  ],
+  "decision": [
+    "IND 14 is disqualified in race 6."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Alen Kustic",
+    "members": [
+      "Stavros Kouris",
+      "Alessandro Berrone"
+    ]
+  }
+}

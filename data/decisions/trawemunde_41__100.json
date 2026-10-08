@@ -1,0 +1,45 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "2",
+  "hearing_datetime": "23 JUL 18:10",
+  "parties": [
+    "ITA 4401",
+    "IRL 2358"
+  ],
+  "procedural_matters": [
+    "ITA 4401 was represented by Lorenzo Caio Beretta.",
+    "IRL 2358 was represented by Jessica Dadley-Young."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 2 were 10-15 knots of wind and choppy sea. The mark was spinning and moving side to side.",
+    "ITA 4401 and IRL 2358 were approaching the leeward mark befor the finish, with IRL 2358 on port tack, and ITA 4401 on starboard tack.",
+    "They entered the zone with ITA 4401 inside overlapped and slightly bow forward of IRL 2358. 4. ITA 4401 sailed close to the mark, went one boat length farther, and gybed and rounded the mark onto a reaching course towards the finish.",
+    "When ITA 4401 was passing the mark, the distance between the boats was 1,5 meter.",
+    "At the mark, IRL 2358 bore away slightly, luffed and rounded the mark behind ITA 4401.",
+    "After rounding the mark, IRL 2358 sailed to windward of ITA 4401.",
+    "No contact occured. No penalty taken."
+  ],
+  "rules": [
+    "RRS 18.4",
+    "RRS 18.2(a)(1)"
+  ],
+  "conclusions": [
+    "Since ITA 4401 as the inside overlapped rigth-of-way boat did not sail farther from the mark than needed to sail her proper course, she did not break RRS 18.4.",
+    "IRL 2358, outside overlapped at the zone gave ITA 4401 mark-room, and complied with RRS 18.2(a)(1)."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Sandra Hatch",
+    "members": [
+      "Iona Smith",
+      "Jens Haun",
+      "Ralf Tiedje",
+      "Ute Reisinger"
+    ]
+  }
+}

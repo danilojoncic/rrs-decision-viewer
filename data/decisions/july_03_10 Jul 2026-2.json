@@ -1,0 +1,50 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Request For Redress",
+  "event": "Protestor GBR 55 - Martin Wrigley",
+  "race_number": "5",
+  "hearing_datetime": "10 Mar 2026 at 21:00",
+  "parties": [
+    "GBR 55 - Martin Wrigley",
+    "Race Committee"
+  ],
+  "procedural_matters": [
+    "GBR 55 was represented by Martin Wrigley (helm).",
+    "The RC did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "Bettine Harris, crew of GBR 55, attended the hearing as an observer."
+  ],
+  "facts": [
+    "Flag U was displayed as the preparatory signal in race 5 of the 470 Blue fleet.",
+    "GBR 55 was identified inside the triangle formed by the ends of the starting line and the first mark within the last minute before the starting signal.",
+    "After the starting signal of race 5, the RC informed the coaches via VHF of the boats that were identified as UFD.",
+    "A list of the boats being identified as UFD was also published on the event WhatsApp group at 13:55.",
+    "The results, which showed GBR 55 scored as UFD in race 5, were posted at 14:31 on the Official Notice Board and on the event WhatsApp group.",
+    "The RC uploaded the start video of race 5 and shared the related link on the event WhatsApp group at 17:15.",
+    "During the hearing, the representative of GBR 55 stated that they were in doubt about being on the course side of the starting line in race 5 but they did not have any supporting evidence until the RC uploaded the video.",
+    "GBR 55 did not ask the RC to provide the video before it was uploaded.",
+    "From 1730 onwards, GBR 55 was in the debrief with her coach where she was informed of the start video being uploaded.",
+    "GBR 55 delivered the request for redress at 18:47."
+  ],
+  "rules": [
+    "RRS 61.2(b)(1)",
+    "RRS 61.3",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "GBR 55 failed to deliver the request for redress within two hours after the incident, as required by RRS 61.2(b)(1). There was no good reason for the International Jury to extend the time until 18:47. Therefore, the request for redress is invalid under RRS 61.3."
+  ],
+  "decision": [
+    "The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Finn Mrugalla",
+      "Stavros Kouris",
+      "Alen Kustic",
+      "Iuan Gray",
+      "Eurico Teodoro"
+    ]
+  }
+}

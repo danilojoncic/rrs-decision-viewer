@@ -1,0 +1,42 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-29 18:15",
+  "parties": [
+    "ITA 41048 - sideracordis - Pier Vettor Grimani"
+  ],
+  "procedural_matters": [
+    "ITA 41048 was respresented by Francesco Ivaldi (tactician)",
+    "The Race Committee did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "ITA 41048's request for redress alleges an improper action of the Race Committee in the racing area which occurred during race 1 at approximately 1300.",
+    "The protest time limit for ORC B on 29 July was 1710.",
+    "ITA 41048 delivered the request for redress at 1838."
+  ],
+  "rules": [
+    "RRS 61.2(b)(1)",
+    "RRS 61.3",
+    "RRS 63.1(b)",
+    "RRS 63.4(a)(1)",
+    "RRS N1.4(b)",
+    "SI 13.1"
+  ],
+  "conclusions": [
+    "ITA 41048 failed to deliver the request for redress within the protest time limit, as required by RRS 61.2(b)(1) and SI 13.1. There was no good reason for the International Jury to extend the time. Therefore, the request for redress is invalid under RRS 61.3."
+  ],
+  "decision": [
+    "Since the request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cxema Pico",
+    "members": [
+      "Giorgio Davanzo",
+      "Finn Mrugalla"
+    ]
+  }
+}

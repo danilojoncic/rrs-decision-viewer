@@ -1,0 +1,49 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "ISR 220245 - Yahav Geva"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The wind was blowing 10 knots with 30 cm waves and chop.",
+    "Approximately 20 seconds after the starting signal of race 5, a boat from BAH was sailing on leg 1 close-hauled on starboard tack.",
+    "ISR was also sailing close-hauled on starboard tack, one-half boat length ahead of the boat from BAH.",
+    "ISR luffed and tacked to port.",
+    "Immediately after ISR completed her tack, the bow of BAH hit the starboard side of ISR just forward of the transom.",
+    "Five boat lengths away from the incident, the international jury saw and heard the contact.",
+    "There was no damage.",
+    "No boat took a penalty at the time of the incident.",
+    "ISR was aware of the contact.",
+    "At the moment of the incident, ISR was aware she had broken a rule.",
+    "ISR did not take a penalty ashore."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 10",
+    "RRS 14",
+    "RRS 2"
+  ],
+  "conclusions": [
+    "ISR, as a port-tack boat, failed to keep clear and broke rule 10.",
+    "Because ISR did not act to avoid contact when it was reasonably possible to do so, ISR broke rule 14.",
+    "ISR did not take an applicable penalty.",
+    "By knowingly breaking rules 10 and 14, and not taking an applicable penalty, ISR failed to compete in compliance with the principles of sportsmanship and fair play as stated in the Basic Principles. ISR broke rule 2."
+  ],
+  "decision": [
+    "ISR is to be scored DNE in race 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gabriela Santanna",
+    "members": [
+      "Kevin Hawkins",
+      "Boguslaw Moczorodynski"
+    ]
+  }
+}

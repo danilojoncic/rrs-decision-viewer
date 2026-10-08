@@ -1,0 +1,48 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "4",
+  "hearing_datetime": "22 JUN 19:15",
+  "parties": [
+    "SWE 216957",
+    "TUR 211921"
+  ],
+  "procedural_matters": [
+    "Ian Elliott (coach of SWE 216957) attended the hearing as an observer. Eros Gumus attended the hearing as interpreter for TUR 211921 ."
+  ],
+  "facts": [
+    "The protest form was submitted by SWE 216957 at 18:33.",
+    "The protest time limit was 18:29.",
+    "The protest time limit is 90 minutes for Course Lima.",
+    "SWE 216957 was racing on course Lima.",
+    "The last race of the day was abandoned at 16:59.",
+    "SWE 216957 was looking for his coach, did not find him and found someone else to tow him.",
+    "SWE 216957 was towed ashore in the middle of the yellow fleet.",
+    "SWE 216957 came ashore at 18:18.",
+    "His coach was still on the water at that time.",
+    "After putting his boat away he tried to find someone to find his coach for 10 minutes.",
+    "His coach arrived 3 minutes afterwards.",
+    "It took SWE 216957 1 minute to fill out the protest form."
+  ],
+  "rules": [
+    "RRS 60.3(b)(1)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "SWE 216957 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1). There was no good reason for the PC to extend the time limit."
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Anna Cuccia",
+    "members": [
+      "Adrian Bauder",
+      "Gurvinderpal Julka",
+      "Svenja Hünsch",
+      "Johanna Poksi"
+    ]
+  }
+}

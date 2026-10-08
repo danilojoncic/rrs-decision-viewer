@@ -1,0 +1,48 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "29er World Championship 2026",
+  "race_number": "13",
+  "hearing_datetime": "8 JUL 19:05",
+  "parties": [
+    "CAN 3429",
+    "GER 3544"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "In the 3rd race of the day (race F3), the wind was 20+ knots.",
+    "GER 3544 (windward) and CAN 3429 (leeward) were approaching the finishing line overlapped.",
+    "About 3 lengths from the finish line vessel, GER 3544 heeled rapidly to leeward and capsized. Before capsizing her mast and mainsail struck the head and neck area of the crew of CAN 3429, knocking her into the water. This caused CAN 3429 to capsize and drift to leeward of the finishing vessel.",
+    "GER 3544 finished while capsized. CAN 3429 righted and then sailed to windward and finished. She lost 10 places as a result of the incident.",
+    "CAN 3429 sustained a damaged trapeze wire, which was patched to enable her crew to hike hard but with caution in the next race F4 (the final race of the day), and was replaced at the end of the day.",
+    "The crew of CAN 3429 sailed race F4 impaired by her neck injury, which remains painful at the end of the day."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14",
+    "RRS 18.2(a)",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "GER 3544 failed to keep clear of CAN 3429, and give her mark-room, and made contact, breaking rules 11, 14 and 18.2(a).",
+    "It was not reasonably possible for CAN 3429 to avoid contact when it became clear GER 3544 was not keeping clear; she did not break rule 14.",
+    "CAN 3429 sustained injury and damage in the incident. However the places she lost in race F3 were due to her capsize and the extra distance she had to sail as a result, and not the damage and injury, and therefore she is not entitled to redress in race F3.",
+    "CAN 3429 is entitled to redress in race F4 in accordance with RRS 61.4(b)(2)."
+  ],
+  "decision": [
+    "GER 3544 is DSQ in race F3.",
+    "CAN 3429 is awarded redress in race F4. Her finishing score shall be equal to the average of her points in all other Final Series races (rounded as in RRS A9(a)). However if this score is higher than her finishing score in race F4, she shall be scored in her finishing place.",
+    "No other boats' scores are changed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Chris Atkins",
+      "Stavros Kouris",
+      "Maria Ramirez"
+    ]
+  }
+}

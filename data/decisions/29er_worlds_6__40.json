@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "2",
+  "hearing_datetime": "4 JUL 15:50",
+  "parties": [
+    "USA 3380",
+    "DEN 3396"
+  ],
+  "procedural_matters": [
+    "The protest hearing followed an arbitration meeting. No boat took a post-race penalty. The panel of the International Jury was composed in accordance with RRS N1.4(b). USA 3380 was represented by Sean Kaseburg. DEN 3396 was represented by Anne Olesen."
+  ],
+  "facts": [
+    "The incident occurred in race 1, leg 4, the wind speed was 7-9 knots, gusting 16 knots.",
+    "USA 3380 and DEN 3396 were approaching mark 2p before the finish.",
+    "Approaching the zone, DEN 3396 was sailing on port tack on a broad reach course, while USA was on starboard tack on a broad reach, overlapped inside.",
+    "DEN 3396 gybed to starboard tack and 1 boat length clear ahead of USA 3380 and at this moment broke the overlap.",
+    "There was reasonable doubt whether the overlap was broken inside or outside the zone.",
+    "When DEN 3396 was at the mark, she bore away and slowed down.",
+    "USA 3380 was sailing a course close to the mark and had to luff to avoid a collision."
+  ],
+  "rules": [
+    "RRS 18.2(a)(1)",
+    "RRS 18.2(e)"
+  ],
+  "conclusions": [
+    "Since there was reasonable doubt that DEN 3396 broke the overlap in time before the first boat reached the zone, in accordance with RRS 18.2(e) it is presumed that she did not do so.",
+    "DEN 3396 outside overlapped at the zone failed to give USA mark-room, and broke RRS 18.2(a)(1)."
+  ],
+  "decision": [
+    "DEN 3396 is scored DSQ in race 1."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Holger Herburger",
+      "Julia Schmidt"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "YES - Young Europeans Sailing 2025",
+  "race_number": "6",
+  "hearing_datetime": "9 JUN 15:45",
+  "parties": [
+    "DEN 2734",
+    "DEN 3174"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were wind of 15 to 20 knots and choppy sea state.",
+    "Halfway up the first upwind leg, DEN 2734 was sailing on a close-hauled course on port tack.",
+    "DEN 3174 was reaching, coming downwind in another fleet on also sailing on port tack.",
+    "DEN 2734 hailed.",
+    "DEN 3174 luffed, lost control of the boat and heeled to leeward.",
+    "DEN 2734 bore away.",
+    "There was contact between the top of the sail of DEN 3174 and the middle shroud on the port side of DEN 2734.",
+    "There was a tangle.",
+    "Both boats capsized.",
+    "It took approximately one minute to untangle and upright the boat of DEN 2734.",
+    "DEN 3174 took a one turn penalty and retired from the race.",
+    "DEN 2734 was in last place after uprighting the boat.",
+    "DEN 2734 finished race 6.",
+    "There was no damage or injury to either boat."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14",
+    "RRS 44.1",
+    "RRS 61.4(b)(2)",
+    "RRS N1.4(b)",
+    "NoR 12.1"
+  ],
+  "conclusions": [
+    "DEN 3174 to windward failed to keep clear of DEN 2734 to leeward, and broke RRS 11.",
+    "DEN 3174 did not avoid contact with DEN 2734 even though it was reasonably possible, and broke RRS 14(a)",
+    "It was not reasonably possible for DEN 2734 the right-of-way boat to avoid contact with DEN 3174 when it became clear that DEN 3174 was not keeping clear.",
+    "DEN 3174 did not break RRS 14(a).",
+    "NOR 12.1 states that for 29ers RRS 44.1(b) is changed to a One-Turn Penalty.",
+    "By taking a One-Turn Penalty DEN 3174 took an applicable penalty as required by NOR 12.1.",
+    "DEN 2734’s place in race 6 was made significantly worse through no fault of her own because of the action of DEN 3174 that was breaking RRS 11 and 14, and she took the appropriate penalty.",
+    "However, there was no damage or injury.",
+    "Therefore, the requirements for redress in RRS 61.4(b)(2) are not met."
+  ],
+  "decision": [
+    "Redress not given"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Danilo Joncic",
+    "members": [
+      "Pauline den Burger",
+      "Niclas Kath"
+    ]
+  }
+}

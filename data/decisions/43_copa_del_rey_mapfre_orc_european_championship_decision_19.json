@@ -1,0 +1,42 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-30 09:00",
+  "parties": [
+    "ITA 3176 - Earlybird"
+  ],
+  "procedural_matters": [
+    "Arnd Howar, from Earlybird, attended the hearing as an observer.",
+    "The technical committee was represented by Zoran Grubisa.",
+    "EarlyBird was represented by Manuel Weiller."
+  ],
+  "facts": [
+    "On July 29th Early Bird ITA 3176 was selected for a post-race measurement flotation check.",
+    "Freeboard measurements were FFM = 0.833m and FAM = 0.668m with SG = 1.025, which gave a new displacement of 1907 kg, that is 29 kg less than the displacement recorded in the original certificate.",
+    "The original certificate had an APH of 493.8",
+    "The technical committee measured the righting moment as 72.8 kgm, which is 0.1 kgm less than the righting moment recorded in the original certificate.",
+    "A test certificate was run with new freeboard and stability measurements resulting in APH of 492.7 s/NM that is 1.1 s/NM faster than the original certificate.",
+    "The difference between the new and the old APH is 0.223%."
+  ],
+  "rules": [
+    "ORC 305.2(b)"
+  ],
+  "conclusions": [
+    "Since the difference in APH is greater than 0.1% and smaller than 0.25%, ORC 305.2(b) applies."
+  ],
+  "decision": [
+    "A new certificate shall be issued based on the new measurement data and all races of the series shall be rescored using the new certificate data."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Pinar Coskuner Genc",
+      "Giorgio Davanzo",
+      "Finn Mrugalla",
+      "Bruno Finzi"
+    ]
+  }
+}

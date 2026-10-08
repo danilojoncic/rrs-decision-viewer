@@ -1,0 +1,42 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "BAH 198661 - Erik Jensen"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "After race 5, in the Men's Yellow fleet, the TC inspected BAH 198661.",
+    "BAH 198661 did not have a colored band that indicated to which fleet she was assigned.",
+    "Before the race, BAH 198661 had attached the colored band to her mast.",
+    "Approximately 2 minutes before the starting signal of the race, the colored band began to detach from the mast.",
+    "BAH 198661 removed the colored band from the mast and threw it to the nearby vessel that was supporting BAH",
+    "The support vessel was approximately 2 meters away from BAH 198661 at that moment.",
+    "The colored band landed inside the support vessel."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "SI 3.1",
+    "RRS 41"
+  ],
+  "conclusions": [
+    "By not racing with the required colored band for her fleet in race 5, BAH 198661 broke SI 3.1.",
+    "By discarding the colored band into the support vessel that was supporting BAH 198661, BAH 198661 received outside help and broke rule 41."
+  ],
+  "decision": [
+    "BAH 198661 is disqualified from race 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gabriela Santanna",
+    "members": [
+      "Kevin Hawkins",
+      "Elizabeth Rouget"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Star World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-11 20:00",
+  "parties": [
+    "GER 8581 - ARND Glunde",
+    "AUT 8577 - RAINER Wilhelm"
+  ],
+  "procedural_matters": [
+    "AUT 8577 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "AUT tacked on to starboard at the mark.",
+    "GER had to luff above a close-hauled course to avoid AUT"
+  ],
+  "rules": [
+    "RRS 18.3(a)"
+  ],
+  "conclusions": [
+    "AUT 8577 caused GER 8581, who was on starboard tack since entering the zone, to sail above close-hauled to avoid contact. AUT 8577 broke RRS 18.3(a)."
+  ],
+  "decision": [
+    "AUT 8577 DSQ race 3"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Hans Vengberg",
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

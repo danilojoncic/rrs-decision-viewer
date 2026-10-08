@@ -1,0 +1,47 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "World Championships 49er, 49erFX, Nacra 17 - 2026",
+  "race_number": "5",
+  "hearing_datetime": "13 MAY 15:45",
+  "parties": [
+    "GER 875",
+    "-"
+  ],
+  "procedural_matters": [
+    "GER 875 was represented by Moritz Dorau. ESP 5 was represented by Conrad Konitzer. Benjamin Bildstein the coach of GER attended the hearing as an observer. NED 987 represented by Robbert HUISMAN gave evidence as a witness for GER 875."
+  ],
+  "facts": [
+    "Race 5, 23 knots.",
+    "GER 875 and ESP 5 both sailing downwind on starboard tack.",
+    "ESP 5 clear ahead and to windward of GER 875 with the lateral distance of 150 metres between the boats.",
+    "ESP 5 gybed on port tack on the converging course with GER 875.",
+    "ESP 5 hold her course.",
+    "When distance between the boats was half a boat length, and GER 875 was pointing in the middle of the ESP 5's wing GER 875 luffed sharply.",
+    "GER 875 capsized.",
+    "While the boat was capsizing, a crew member fell onto the boat and injured.",
+    "ESP 5 retired from the race no. 5 after finished the race.",
+    "The crew member has sustained injuries; he has damaged his right leg and he is still under medical observation."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 61"
+  ],
+  "conclusions": [
+    "ESP 5 on port tack failed to keep clear of GER 875 on starboard tack, and broke RRS 10.",
+    "GER 875 score in race 5 was made significantly worse through no fault of her own by injury because of the action of ESP 5 that broke a RRS 10 and took the appropriate penalty. Therefore, the requirements for redress in RRS 61.4(b)(2) as changed by RRS B5.61.4 are met."
+  ],
+  "decision": [
+    "The protest is upheld. Since ESP 5 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2). Redress is given to GER 875. GER 875 is to be scored in race 5 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in races no. 4 and no. 5. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Paul BASTARD",
+    "members": [
+      "Ilca HEINRICH",
+      "Alexis DUVERNOY",
+      "Nicole DE BY",
+      "Aleksander PRUSINSKI"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "Nacra15 World Championship, 2026",
+  "race_number": "5",
+  "hearing_datetime": "2026-07-29 19:10",
+  "parties": [
+    "ITA 257 - giulio zezza",
+    "FRA 270 - Felix TRON"
+  ],
+  "procedural_matters": [
+    "ITA 257 was represented by Giulio Zezza (crew).",
+    "FRA 270 was represented by Felix Tron (helm).",
+    "Jerome Demange (FRA 270's coach) attended the hearing as an interpreter for FRA 270.",
+    "Vittoria Montevecchi (ITA 246's crew) gave evidence during the hearing as a witness for ITA 257.",
+    "ITA 257 did not ask to withdraw the protest after the arbitration meeting and neither boat took a Post-Race Penalty under RRS T1(a)]."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 15, gusting 17 knots of wind and steep waves.",
+    "ITA 257 was sailing on starboard tack, on the last downwind leg at a speed of 12-13 knots. FRA 270 was sailing on port tack on a collision course with ITA 257, at a speed of 14 knots.",
+    "When the boats were 7 boat lengths apart, ITA 257 was aiming 4 boat lengths in front of FRA 270's bow.",
+    "At that moment, ITA 257 eased both the mainsheet and gennaker sheet, and luffed slightly. FRA 270 held her course and crossed in front of ITA 257.",
+    "There was no contact.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS T1(a)"
+  ],
+  "conclusions": [
+    "There was reasonable doubt that FRA 270 could have crossed, if ITA 257 had not taken avoiding action (see WS Case 50).",
+    "FRA 270 on port tack failed to keep clear of ITA 257 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "FRA 270 is DSQ in race 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Louis Mayo",
+    "members": [
+      "Stavros Kouris",
+      "Julia Schmidt",
+      "Carol Haines",
+      "Jonathan Haines"
+    ]
+  }
+}

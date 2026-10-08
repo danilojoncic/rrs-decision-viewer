@@ -1,0 +1,48 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 6 Women's & ILCA 7 Men's World Championships",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 223701 - Marga Perello",
+    "CAN 220149 - Lilly Rainham"
+  ],
+  "procedural_matters": [
+    "ESP 223701 did not ask to withdraw the protest after the arbitration meeting and neither boat took a Post-Race Penalty under RRS T1(a).",
+    "ESP 223701 was represented by Marga Pirelli.",
+    "CAN 220149 was represented by Lilly Rainham.",
+    "Kyle Martin (Coach of CAN 220149) attended the hearing as an observer.",
+    "Charlotte Rose (USA 222035) gave evidence as a witness for CAN 220149.",
+    "ESP 223701 presented tracking as evidence during the hearing."
+  ],
+  "facts": [
+    "At race 3, wind was 6 knots, sea state was choppy.",
+    "ESP 223701 and CAN 220149 were on the first beat approaching mark 1.",
+    "ESP 223701 was on starboard tack and above the layline. CAN 220149 was on port tack. Both boats were on a collision course.",
+    "6 boat lengths away from the mark, CAN 220149 tacked onto the starboard layline.",
+    "After CAN 220149 passed head to wind and before she was on a close-hauled course, ESP 223701 luffed and tacked to port.",
+    "The closest distance between the two boats was 0.5 m.",
+    "There was no contact between the two boats.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 13"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, CAN 220149 failed to keep clear of ESP 223701. CAN 220149 broke RRS 13."
+  ],
+  "decision": [
+    "CAN 220149 is DSQ in race 3."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jacob Mossin",
+    "members": [
+      "Andersen Damien Boldyrew",
+      "Zuoru Jiang",
+      "Anastazja Lewandowska",
+      "Dongning Zhou"
+    ]
+  }
+}

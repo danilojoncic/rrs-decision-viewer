@@ -1,0 +1,40 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "6",
+  "hearing_datetime": "",
+  "parties": [
+    "GRE 214206 - Eleni ALCHANATI",
+    "ESP 226191 - Claudia CONESA"
+  ],
+  "procedural_matters": [
+    "ESP 226191 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "GRE 214206 and ESP 226191 were sailing on a run.",
+    "GRE 214206 was clear ahead on starboard tack, while ESP 226191 was on port tack.",
+    "The boats were on converging courses.",
+    "When the distance between the boats was 30 cms, GRE 214206 bore away, while ESP 226191 continued to hold her course.",
+    "There was no contact.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "RRS 10"
+  ],
+  "conclusions": [
+    "ESP 226191 on port tack failed to keep clear of GRE 214206 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "ESP 226191 is DSQ in race 6."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Tonny Jensen",
+    "members": [
+      "Jean-Bernard Luther",
+      "Mirko Ukas"
+    ]
+  }
+}

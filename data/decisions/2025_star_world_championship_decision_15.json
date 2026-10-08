@@ -1,0 +1,39 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "2025 Star World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-12 19:00",
+  "parties": [
+    "FRA 8431 - Stiletto - PHILIPPE PEDRONNO",
+    "GER 8581 - ARND Glunde"
+  ],
+  "procedural_matters": [
+    "FRA 8431 represented by Philippe Pedronno."
+  ],
+  "facts": [
+    "FRA 8431 arrived in the harbor between last boats well after protest time limit expire.",
+    "During mooring the boat FRA 8431 got a rope trapped between the rudder and keel and need to sort it.",
+    "After FRA 8431 moored the boat, she immediately checked Official Notice Board and saw a protest against her was lodged.",
+    "She immediately went to the Jury Room and arrived just after the decision was given."
+  ],
+  "rules": [
+    "RRS 63.7(a)(1)"
+  ],
+  "conclusions": [
+    "FRA 8431 was unavoidably absent from the hearing. Therefore, the requirements in RRS 63.7(a)(1) for reopening the hearing are met."
+  ],
+  "decision": [
+    "Case no. 13 will be reopened."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Hans Vengberg",
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

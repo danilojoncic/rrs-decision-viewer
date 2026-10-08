@@ -1,0 +1,43 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "420 Open",
+  "race_number": "8",
+  "hearing_datetime": "25 Jul 2025 at 19:00",
+  "parties": [
+    "SLO 56869 - Jaka Valjavec",
+    "UKR 57726 - Sviatoslav Madonich"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "The conditions in race 8 of the 420 open gold fleet were 13 knots of wind and 1 meter waves.",
+    "At the starting line, 30 seconds before the start, SLO 56869 was close-hauled on starboard tack to windward of UKR 57726, bow to bow, at a lateral distance of one boat length.",
+    "UKR 57726 bore away.",
+    "The distance between boats was one and a half boat lengths.",
+    "20 seconds before the start, SLO 56869 bore away and UKR 57726 luffed up to head to wind.",
+    "Immediately after that, SLO 56869 luffed up to head to wind.",
+    "UKR 57726 backed the jib and bore away.",
+    "The minimum distance between boats was half a boat length.",
+    "No contact occurred.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "SLO 56869 to windward kept clear of UKR 57726 to leeward, as required by RRS 11."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Tatiana Almeida (BRA",
+      "Timo Hass (GER",
+      "Maria Ramires (POR"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "Europa Cup ILCA Italy 2026",
+  "race_number": "2",
+  "hearing_datetime": "2026-06-14 17:40",
+  "parties": [
+    "RED 226692 - Wiktor Raszka",
+    "SUI 221910 - LIATARD Lewin"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Jakub Rodziewicz, coach of POL 226692, and Gianfranco Cardona (Jury member) attended the hearing as observers.",
+    "POL 226692 was represented by Wiktor Raszka.",
+    "SUI 221910 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "POL 226692 established leeward overlap with SUI 221910 at a distance of 2 meters from the clear astern approximately 60 seconds before the starting signal.",
+    "POL 226692 luffed slowly.",
+    "Boats were almost stationary with POL 226692 above close-hauled and SUI 221910 on close-hauled with a gap between boats of 1,5 meters.",
+    "SUI 221910 was drifting sideways to leeward. The gap between boats slowly decreased, and contact occurred between the aft last quarter of POL 226692, and the bow of SUI 40 seconds to the start.",
+    "No damage occurred."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 43.1(c)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "SUI 221910 to windward failed to keep clear of POL 226692 to leeward, and broke RRS 11.",
+    "SUI 221910 did not avoid contact with POL 226692 when it was reasonably possible, and broke RRS 14(a).",
+    "When it became clear that SUI 221910 was not keeping clear, it was reasonably possible for POL 226692, the right- of-way boat, to avoid contact with SUI 221910. POL 226692 broke RRS 14(a).",
+    "Since POL 226692 was the right-of-way boat and the contact did not cause damage or injury, she is exonerated under RRS 43.1(c) for breaking RRS 14(a)."
+  ],
+  "decision": [
+    "SUI 221910 is DSQ in race no. 2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Charlotte Greppe",
+    "members": [
+      "Uros Zvan",
+      "Alessio Brugnerotto"
+    ]
+  }
+}

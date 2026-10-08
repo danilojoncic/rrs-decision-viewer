@@ -1,0 +1,52 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Star World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-11",
+  "parties": [
+    "GER 8470 - HELGE Spehr",
+    "USA 8520 - DARREN Mason"
+  ],
+  "procedural_matters": [
+    "Hearing request was lodge on the Penalty Report form. As it met all the requirements of RRS 60.3(a) and as RRS does not prescribe a specific form for a hearing request (Preamble of part 5) it was accepted as a protest.",
+    "GER 8470 represented Helge Sper",
+    "USA 8520 represented Mason Darren"
+  ],
+  "facts": [
+    "Wind 10 to 12 knots with corresponding waves.",
+    "GER 8470 on starboard and USA 8520 on port on the first beat to windward on the converging courses.",
+    "USA 8520 was aiming at bow of GER 8470.",
+    "At the distance of one boat lengths USA 8520 bore away. GER 8520 kept course.",
+    "Contact occurred between bow of USA 8520 and aft port side (1 m from the stern) of the hull of GER 8470.",
+    "Contact caused a damage in form of whole in hull on GER 8470 with water leaking in.",
+    "Both boats retired."
+  ],
+  "rules": [
+    "RRS 60.3(a)",
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 61.4(b)(2)",
+    "RRS 60.5(c)(2)"
+  ],
+  "conclusions": [
+    "USA 8520 on port tack failed to keep clear of GER 8470 on starboard tack and broke RRS 10.",
+    "USA 8520 did not avoid contact with GER 8470 when it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GER 8470 the right-of-way boat to avoid contact with USA 8520 when it became clear that USA 8520 was not keeping clear. GER 8470 did not break RRS 14(a).",
+    "GER 8470 score in race 3 & 4 was made significantly worse through no fault of her own by physical damage because of the action of USA 8520 that was breaking RRS rule of Part 2 and took an appropriate penalty. Therefore, the requirements of rule 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "The protest is upheld. Since USA 8520 took an applicable penalty by retiring, she is not further penalized under RRS 60.5(c)(2).",
+    "Redress is given to GER 8470. GER 8470 is to be scored in races 3 & 4 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in races 1, 2 & 5. This shall not change the score of the other boats. However, more than half GER 8470 race scores in this series must be based on her finishing position in races she starts, and any grant of redress in excess of this amount shall not be applied to the boat's score."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Hans Vengberg",
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

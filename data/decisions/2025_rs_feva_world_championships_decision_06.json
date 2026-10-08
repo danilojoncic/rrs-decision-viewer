@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by PC",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "2, 3 and 4",
+  "hearing_datetime": "2025-07-29",
+  "parties": [
+    "FRA 8798 - Leandre Maurey",
+    "FRA 7693 - Noa Littoz"
+  ],
+  "procedural_matters": [
+    "Noa Littoz and Louis Tenconi represented FRA 7693. Yulian Degeulle and Leandre Maurey represented FRA 8798."
+  ],
+  "facts": [
+    "Martin Tenconi, father of Louis Tenconi, is the support person for FRA 7693 and FRA 8798.",
+    "After the preparatory signals and before the starting signals of races 2, 3 and 4, respectively, Martin Tenconi was in the limits of the starting area of the Yellow fleet, where the boats where racing.",
+    "The jury asked Martin Tenconi to leave 4 times over the 3 starting procedures.",
+    "Martin Tenconi admitted that he was in the limits of the starting area of the Yellow fleet, where the boats where racing.",
+    "The professional coach of FRA 7693 and FRA 8798 was absent. Martin Tenconi is not a professional coach and he was replacing the professional coach. He is not used to getting the young sailors organized on the race course."
+  ],
+  "rules": [
+    "SI 25.4"
+  ],
+  "conclusions": [
+    "The support person of FRA 7693 and FRA 8798 broke SI 25.4."
+  ],
+  "decision": [
+    "A warning is issued to the support person of FRA 7693 and FRA 8798."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jean-Luc Michon",
+    "members": [
+      "Alexander Bratt",
+      "Joep Straus",
+      "Antonio Mata",
+      "Michal Kwiatek"
+    ]
+  }
+}

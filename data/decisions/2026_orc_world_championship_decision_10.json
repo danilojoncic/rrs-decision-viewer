@@ -1,0 +1,52 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 ORC World Championship",
+  "race_number": "91",
+  "hearing_datetime": "2026-05-12 20:20",
+  "parties": [],
+  "procedural_matters": [
+    "ITA 35307 -Moxie- was represented by Paolo Bonsignore (helmsman).",
+    "ITA 15702 -Miss Lilly- was represented by Carlo Levantino (Tactician)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 14 knots of wind and 1/2 metre waves.",
+    "During the starting procedure of race #5, ITA 35307 -Moxie- and ITA 15702 -Miss Lilly- were sailing on starboard tack, approaching the middle of the starting line.",
+    "ITA 35307 -Moxie- was sailing close-hauled clear astern of ITA 15702 -Miss Lilly-.",
+    "ITA 15702 -Miss Lilly- was overlapped to windward of some other boats 30 metres below the starting line, moving slowly above close-hauled.",
+    "ITA 15702 -Miss Lilly- bore away behind the other boats. At that moment, ITA 35307 -Moxie- was one boat length clear astern of ITA 15702 -Miss Lilly- but was sailing faster.",
+    "ITA 35307 -Moxie- established an overlap to leeward of ITA 15702 -Miss Lilly- and immediately contact occurred between ITA 35307 -Moxie-'s bow and the port aft quarter of ITA 15702 -Miss Lilly-.",
+    "The contact resulted in a broken lower lifeline on the port aft side of ITA 15702 -Miss Lilly-. In addition ITA 15702 - Miss Lilly-'s last port stanchion was bent and there was a superficial crack on the gelcoat. ITA 35307 -Moxie- suffered some scratches on the hull.",
+    "No boat took any penalty.",
+    "The race committee signalled a general recall. The race was restarted. Both boats raced in the restarted race."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 15",
+    "RRS 36(b)",
+    "RRS 43.1(b)",
+    "RRS 60.5(c)(3)"
+  ],
+  "conclusions": [
+    "When acquiring right-of-way through her own actions, ITA 35307 -Moxie- failed to initially give ITA 15702 -Miss Lilly- room to keep clear, and broke RRS 15.",
+    "ITA 15702 -Miss Lilly- to windward failed to keep clear of ITA 35307 -Moxie to leeward and broke RRS 11.",
+    "Since ITA 15702 -Miss Lilly- broke RRS 11 while she was sailing within the room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach.",
+    "ITA 35307 -Moxie- did not avoid contact with ITA 15702 -Miss Lilly- even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for ITA 15702 -Miss Lilly-, the boat sailing within the room to which she was entitled, to avoid contact with ITA 35307 -Moxie- when it became clear that ITA 35307 -Moxie- was not giving room. ITA 15702 - Miss Lilly- did not break RRS 14(a).",
+    "The damage caused was not serious (see WS Case 141). Since the race was restarted and ITA 35307 -Moxie- had caused neither injury nor serious damage, she shall not be penalized as per RRS 36(b)."
+  ],
+  "decision": [
+    "The protest is upheld. Since the provision of RRS 36(b) applies, no penalty is imposed on ITA 35307 -Moxie- under RRS 60.5(c)(3)."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Timo Haß",
+    "members": [
+      "Neven Baran",
+      "Stavros Kouris",
+      "Pinar Coskuner Genc",
+      "Marco Flavio Tosello"
+    ]
+  }
+}

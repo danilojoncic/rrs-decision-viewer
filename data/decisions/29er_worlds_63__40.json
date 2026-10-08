@@ -1,0 +1,40 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "29er World Championship 2026",
+  "race_number": "13",
+  "hearing_datetime": "8 JUL 19:40",
+  "parties": [
+    "POL 3320",
+    "USA 1254"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "POL 3320 came to the race office around 16:50 for an arbitration meeting. Before the meeting, the damage was assessed and it was deemed that it may be serious.",
+    "POL 3320 was told that a hearing will be scheduled shortly with the first available panel to hear the request for redress.",
+    "A hearing was scheduled to begin at 18:10. The schedule was posted on the official notice board at 17:48.",
+    "Both helm and crew of POL 3320 were at the boat park repairing the damage to their boat, together with their coach and another person.",
+    "Some parts were needed for repairing the boat (glue), but it was neither the helm nor the crew of POL 3320 that went looking for those parts.",
+    "Neither the helm nor the crew of POL 3320 checked the official notice board at any time for the time and place of the hearing.",
+    "The hearing started at 18:15 in the absence of POL 3320 in accordance with RRS 63.1(b)."
+  ],
+  "rules": [
+    "RRS 63.7(a)(1)"
+  ],
+  "conclusions": [
+    "POL 3320 was not unavoidably absent from the hearing. Therefore, the requirements in RRS 63.7(a)(1) for reopening the hearing are not met."
+  ],
+  "decision": [
+    "Hearing No. 54 will not be reopened."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Stavros Kouris",
+    "members": [
+      "Chris Atkins",
+      "Maria Ramirez"
+    ]
+  }
+}

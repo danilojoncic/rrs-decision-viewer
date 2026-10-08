@@ -1,0 +1,59 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "5",
+  "hearing_datetime": "2025-08-01",
+  "parties": [
+    "BEL 733 - Morpheus - Steven Verstraete",
+    "ITA 2945 - Thetis - Luca Locatelli"
+  ],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b).",
+    "The International Jury decided to protest Thetis under RRS 60.4(c)(2) based on the information from case 49 since she was involved in the incident and might have broken a rule.",
+    "Cases 49 and 53 were heard together under 63.2(b) as they concern the same incident.",
+    "Thetis represented by Paolo Scutellaro.",
+    "Tanit 6 represented by Diego Campos.",
+    "Morpheus represented by Jan Alleman."
+  ],
+  "facts": [
+    "The boats were around 13 meters long.",
+    "The wind was around 10 knots.",
+    "Morpheus was on starboard tack close-hauled, Thetis and Tanit were on port tack close-hauled collision course with Morpheus, with Thetis aiming bow to bow with Morpheus.",
+    "Thetis and Tanit were overlapped, with Thetis around a boat length to leeward, bow to bow.",
+    "Around 3 boat lengths away from Morpheus, the tactician of Thetis hailed for room to tack multiple times using words \"you have to tack, please tack, tack tack\".",
+    "Tanit heard the hail.",
+    "There was initially no response from Tanit.",
+    "When Thetis and Morpheus were around 1 boat length away, all 3 boats luffed; Thetis and Tanit tacked.",
+    "The smallest distance between Morpheus and Thetis was around 4 meters."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 60.4(c)(2)",
+    "RRS 19.2(a)",
+    "RRS 20.1",
+    "RRS 20.2(c)",
+    "RRS 10",
+    "RRS 11",
+    "RRS 19.2(b)"
+  ],
+  "conclusions": [
+    "Thetis and Tanit had to keep clear of Morpheus, hence she was an obstruction to them.",
+    "Thetis, as the right-of-way boat versus Tanit, had the right to choose on which side to pass the obstruction as per RRS 19.2(a).",
+    "Thetis was approaching an obstruction and needed to make a substantial course change to avoid it safely and was sailing close-hauled course, hence she was entitled to hail for room to tack as per RRS 20.1.",
+    "Thetis did not hail for room to tack using the words required by RRS 20.2(c).",
+    "Thetis, on port, failed to keep clear of Morpheus on starboard breaking RRS 10.",
+    "Tanit kept clear and gave room to Thetis complying with her obligations under RRS 11 and 19.2(b)."
+  ],
+  "decision": [
+    "Thetis is disqualified from race 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

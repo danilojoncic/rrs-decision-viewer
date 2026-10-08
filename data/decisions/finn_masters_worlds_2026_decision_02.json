@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "Finn Masters Worlds 2026",
+  "race_number": "2",
+  "hearing_datetime": "2026-02-23 17:20",
+  "parties": [
+    "NZL 19 - Gryfinn - Denis Mowbray",
+    "NZL 9 - Rob Coutts"
+  ],
+  "procedural_matters": [
+    "David Hudson, Lauren Twigg and Jan Kemp observing."
+  ],
+  "facts": [
+    "The incident occured in the racing area.",
+    "NZL 19 did not hail protest nor did he inform NZL 9 of his intention to protest.",
+    "No crew was in danger."
+  ],
+  "rules": [
+    "RRS 60.2(a)(1)",
+    "RRS 60.4(a)(1)"
+  ],
+  "conclusions": [
+    "NZL 19 failed to hail protest as required by RRS 60.2(a)(1)",
+    "therefore the protest is invalid as per RRS 60.4(a)(1)."
+  ],
+  "decision": [
+    "Protest is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Mikayla Thompson",
+    "members": [
+      "Michal Jodlowski",
+      "Philippe Mazard",
+      "Jamie Sutherland",
+      "Greg Kemp"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "Initiator: Race Committee Respondent: NZL (R4)",
+  "hearing_datetime": "",
+  "parties": [
+    "Race Committee",
+    "NZL (R4)"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "NZL was represented by NZL | Tom Pilkington.",
+    "RC was represented by Leon Zhou",
+    "Bence Karpati Race Officer on Course C attended the hearing as an observer.",
+    "NZL did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "The RC rechecked the video on both side of the starting line and realized that the NZL was close to the RC vessel and far below the starting line during the final minut of the starting sequence of race 4."
+  ],
+  "rules": [
+    "RRS 61.4(b)"
+  ],
+  "conclusions": [
+    "NZL’s score in race 4 was made significantly worse through no fault of her own by being identified incorrectly BFD in race 4 by the race committee."
+  ],
+  "decision": [
+    "Redress is given to NZL. NZL is to be scored in race 4 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races sailed before the last scheduled day of the ragata if racing is later scheduled on that day exept race 4. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Patric Loydell",
+    "members": [
+      "Sukkyong KIM",
+      "Maria Massapina",
+      "Anna Cuccia"
+    ]
+  }
+}

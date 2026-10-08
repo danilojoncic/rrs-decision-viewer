@@ -1,0 +1,34 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "29er EuroCup Series",
+  "race_number": "SUI 3327",
+  "hearing_datetime": "2026-05-01 18:00",
+  "parties": [
+    "SUI 3327 - Lotta Rohner"
+  ],
+  "procedural_matters": [
+    "SUI 3327 was represented by Lotta Rohner [helm]"
+  ],
+  "facts": [
+    "SUI 3327 asked to withdraw the protest."
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "The protest committee allows the protest to be withdrawn."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Anna Cuccia",
+    "members": [
+      "Katarzyna Goralska",
+      "Max Pawłowski",
+      "Marco Sarcoli"
+    ]
+  }
+}

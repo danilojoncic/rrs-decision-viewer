@@ -1,0 +1,56 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "29er World Championship 2026",
+  "race_number": "14",
+  "hearing_datetime": "8 JUL 18:55",
+  "parties": [
+    "GER 3450",
+    "HKG 3498"
+  ],
+  "procedural_matters": [
+    "GER 3450 was represented by Julia Ewald.",
+    "HKG 3498 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "Tim Engstler, crew of GER 3541, gave evidence.",
+    "GER 3450 provided photo evidence.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b). Facts on validity:",
+    "The protest was submitted at 15:43. Protest limit was silver fleet on July 8th was 15:29.",
+    "GER 3450 took some time to return ashore due to being slow after taking in water. Immediately after returning ashore GER 3450 lodged the protest. There was therefore good reason for the protest committee to extend the protest time limit."
+  ],
+  "facts": [
+    "F5 silver fleet the wind conditions were 18 knots with chop.",
+    "GER 3450 was stationary on starboard tack on a close-hauled course 20 meters from the committee vessel, 35 seconds before her starting signal.",
+    "HKG 3498 was sailing along the line on a reach on starboard tack from the committee vessel.",
+    "HKG 3498 was on a collision course and overlapped to windward of GER 3450.",
+    "Contact occurred between the bow of HKG 3498 and the front part of the starboard side of GER 3450.",
+    "The gunwale on the front starboard side of GER 3450 was split on a length of approximately 50cm with several cracks along it. GER 3450 was taking in water which was causing her to be significantly slower.",
+    "GER 3450 finished race F5 in 37th place and F6 in 34th place.",
+    "HKG 3498 started and finished race F5.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 44.1(b)",
+    "RRS 60.3(b)(1)",
+    "RRS 61.4(b)(2)",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "HKG 3498 to windward failed to keep clear of GER 3450 to leeward, and broke RRS 11.",
+    "HKG 3498 did not avoid contact with GER 3450 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GER 3450 the right-of-way boat to avoid contact with HKG 3498 when it became clear that HKG 3498 was not keeping clear. GER 3450 did not break RRS 14(a).",
+    "GER 3450’s place in races F5 and F6 was made significantly worse through no fault of her own by physical damage because of the action of HKG 3498 that was breaking RRS 11 and 14(a) and was penalized. Therefore, the requirements for redress in RRS 61.4(b)(2) are met."
+  ],
+  "decision": [
+    "HKG 3498 is DSQ in race F5. Redress is given to GER 3450. GER 3450 is to be scored in race F5 and F6 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races sailed in the final series except race F5 and F6, but not worse than her finishing place in those races. No other boats' score shall change."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Michalina Wroblewska",
+    "members": [
+      "Lance Burger",
+      "Niclas Kath"
+    ]
+  }
+}

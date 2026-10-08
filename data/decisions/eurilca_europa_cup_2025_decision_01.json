@@ -1,0 +1,48 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Event: EurILCA EUROPA CUP 2025 Race Number: 1",
+  "event": "EurILCA EUROPA CUP 2025",
+  "race_number": "1",
+  "hearing_datetime": "2025-12-28 18:30",
+  "parties": [
+    "CRO 224120 - MARUSIC",
+    "CRO 223130 - MOHAČ",
+    "CRO 227745 - IVANOVA",
+    "CZE 223526 - DYMAK",
+    "CZE 212985 - ZACHVEJ",
+    "EST 224243 - MÜNT",
+    "CZE 226723 - GRODL"
+  ],
+  "procedural_matters": [
+    "CRO 224120 - MARUSIC and",
+    "EST 224243 - MÜNT did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)",
+    "The Race Commitee was represented by Franjo Juric",
+    "Uros Zvan (Member of the Int. Jury) gave evidence as a witness for the RC."
+  ],
+  "facts": [
+    "SIs Addendum A.4 requires boats to leave mark 3p on port when sailing from mark no. 2 to the finish.",
+    "CRO 224120, CRO 223130, CRO 227745, CZE 223526, EST 224243, CZE 226723 after rounding mark no. 2 left mark 3p on starboard and finished.",
+    "CZE 212985 left mark 3p to port and finished"
+  ],
+  "rules": [
+    "RRS 28.1"
+  ],
+  "conclusions": [
+    "By not passing mark 3p on the required side CRO 224120, CRO 223130, CRO 227745, CZE 223526, EST 224243, CZE 226723 failed to sail the course and broke RRS 28.1.",
+    "By leaving mark 3p to port CZE 212985 raced in compliance with RRS 28.1 and did not break a rule."
+  ],
+  "decision": [
+    "CRO 224120, CRO 223130, CRO 227745, CZE 223526, EST 224243, CZE 226723 are DSQ in race nr. 1.",
+    "The Protest against CZE 212985 is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Heiko Thoelmann",
+    "members": [
+      "Uros Zvan",
+      "Lorenzo Walch",
+      "Jernej Krampersek",
+      "Krisztina Kákonyi"
+    ]
+  }
+}

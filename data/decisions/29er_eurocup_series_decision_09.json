@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "29er EuroCup Series",
+  "race_number": "11",
+  "hearing_datetime": "2026-05-03",
+  "parties": [
+    "ITA 3582 - Francesco COLOTTO",
+    "CZE 3570 - Karolina Lojkova"
+  ],
+  "procedural_matters": [
+    "CZE 3570 is reppresented by Karolyn LojKova ITA 3582 is reppresented by Franceso Calotto"
+  ],
+  "facts": [
+    "At the moment of the incident, the wind was less than 10 knots, and the lake was almost calm.",
+    "CZE 3570 was sailing on port tack, inside, while ITA was sailing on starboard tack, aiming for mark 2S.",
+    "When entering the zone, ITA 3582 was overlapped with CZE 3570, bow to bow.",
+    "During the rounding of the mark, there was contact between the port amidships of CZE 3570 and the starboard amidships of ITA 3582.",
+    "No boat took a penalty turn.",
+    "There were no injuries or damage, and both boats finished the race."
+  ],
+  "rules": [
+    "RRS 18.2(a)(1)"
+  ],
+  "conclusions": [
+    "ITA 3582 outside overlapped at the zone failed to give CZE 3570 mark-room, and broke RRS 18.2(a)(1)."
+  ],
+  "decision": [
+    "Protest upheld.",
+    "ITA 3582 is DSQ on race 11"
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Katarzyna Goralska",
+    "members": [
+      "Anna Cuccia",
+      "Marco Sarcoli"
+    ]
+  }
+}

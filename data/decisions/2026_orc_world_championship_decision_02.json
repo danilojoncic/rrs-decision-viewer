@@ -1,0 +1,37 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "2026 ORC World Championship",
+  "race_number": "1",
+  "hearing_datetime": "2026-05-10 19:00",
+  "parties": [],
+  "procedural_matters": [
+    "US 20456 was represented by Davide Marrella (Trimmer).",
+    "The race committee was represented by Stuart Childerley (Principal Race Officer).",
+    "Zoran Grubisa (ORC technical expert) provided information on the technical aspects of the scoring system."
+  ],
+  "facts": [
+    "The scoring method used by the race committee for the Tre Golfi Offshore Race was Time on Distance based on weather routing.",
+    "The scoring parameters for the weather routing were wind strength and wind direction among other.",
+    "US 20456 alleged that the race committee selected the wrong weather model for identifying the scoring parameters."
+  ],
+  "rules": [
+    "SI 18.2"
+  ],
+  "conclusions": [
+    "US 20456 is not entitled to request redress on the race committee's decision on the scoring method and parameters as stated in Sailing Instruction 18.2. The international jury could therefore not proceed any further."
+  ],
+  "decision": [
+    "The hearing is closed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Timo Haß",
+    "members": [
+      "Neven Baran",
+      "Stavros Kouris",
+      "Josje Hofland",
+      "Line Juhl"
+    ]
+  }
+}

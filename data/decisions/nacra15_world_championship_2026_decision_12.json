@@ -1,0 +1,48 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "Nacra15 World Championship, 2026",
+  "race_number": "9",
+  "hearing_datetime": "2026-07-30 19:10",
+  "parties": [
+    "SUI 195 - Louis HAYOZ",
+    "USA 333 - Maxwell WEAVER"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "SUI 195 was represented by Augustin Hayaz.",
+    "USA 333 was represented by Maxwell Weaver."
+  ],
+  "facts": [
+    "Conditions 12 knots, slight sea.",
+    "Both boats were sailing downwind on port, towards the leeward gate mark to be rounded to port. SUI 195 was 1 boat length beyond the port lay line, sailing faster, and USA 333 was on the lay line to the mark.",
+    "When SUI 195 was 3 boat lengths from the mark, USA 333 was clear astern.",
+    "When SUI 195 was 2 boat lengths from the mark, she dropped her spinnaker and slowed down.",
+    "Shortly after, USA 333, now sailing faster, became overlapped to windward.",
+    "When at the mark, SUI 195 began to head up. Contact occurred between the starboard bow of USA 333 and midships of the port hull of SUI 195.",
+    "The damage to SUI 195 allowed water into the hull. There are multiple scuff marks on the port side of SUI 195's hull as well.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14",
+    "RRS 18.2(a)(2)"
+  ],
+  "conclusions": [
+    "USA 333 to windward failed to keep clear of SUI 195 to leeward, and broke RRS 11.",
+    "USA 333, not overlapped with SUI 195 and not in the zone at the time SUI reached the zone, failed to give SUI mark- room, and broke RRS 18.2(a)(2).",
+    "USA 333 did not avoid contact with SUI 195 when it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for SUI 195, the boat sailing within the mark-room to which she was entitled, to avoid contact with USA 333 when it became clear that USA 333 was not giving mark-room. SUI did not break RRS 14(a)."
+  ],
+  "decision": [
+    "USA 333 is DSQ in race 9."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Stavros Kouris",
+    "members": [
+      "Louis Mayo",
+      "Will Davies"
+    ]
+  }
+}

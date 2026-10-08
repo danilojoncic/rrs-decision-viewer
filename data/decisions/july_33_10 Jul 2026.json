@@ -1,0 +1,48 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "420 U17",
+  "race_number": "12",
+  "hearing_datetime": "27 Jul 2025 at 15:50",
+  "parties": [
+    "FRA 57191 - TIMEO DELERCE",
+    "ITA 57563 - Filippo Comelli"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "FRA 57191 was represented by Timeo Delerce.",
+    "ITA 57563 was represented by Filippo Comelli.",
+    "FRA 57191 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1). However, there was good reason for the International Jury to extend the time limit."
+  ],
+  "facts": [
+    "At the time of the incident in race 12 of the 420 U17 gold fleet the conditions were 15 knots of wind and waves of 1,5 metres.",
+    "Before the start FRA 57191 and ITA 57563 were both sailing on starboard tack with ITA 57563 to windward of FRA 57191 overlapped bow to bow with a distance of one metre between the boats.",
+    "The boats were approaching the race committee signal vessel.",
+    "ITA 57563 bore away and contact occured between the boats with the sides of the hulls.",
+    "The contact caused damage to the barberhauler pin of FRA 57191.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 60.3(b)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "ITA 57563 to windward failed to keep clear of FRA 57191 to leeward, and broke RRS 11.",
+    "ITA 57563 did not avoid contact with FRA 57191 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for FRA 57191, the right-of-way boat, to avoid contact with ITA 57563 when it became clear that ITA 57563 was not keeping clear. FRA 57191 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "ITA 57563 is DSQ in race 12."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Luigi Bertini (ITA",
+      "Timo Hass (GER",
+      "Maria Massapina (POR"
+    ]
+  }
+}

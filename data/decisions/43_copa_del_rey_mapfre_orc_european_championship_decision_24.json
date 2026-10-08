@@ -1,0 +1,41 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1, 2 y siguientes",
+  "hearing_datetime": "2025-07-30 17:40",
+  "parties": [
+    "GBR 66 - L´Immens - Augusto Cortina"
+  ],
+  "procedural_matters": [
+    "GBR 66 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "GBR 66 presented photographic evidence of the damage and progress of the repair process on her boat.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The panel of the International Jury was changed in accordance with RRS 63.7(c)(1) keeping the majority of the original members: Andres Perez (ESP) and Pinar Coskuner Genc (TUR) were members of the original panel; Finn Mrugalla (GER) was added as a new member."
+  ],
+  "facts": [
+    "GBR 66 provided both a report and photographic evidence of the repair process on her boat which shows that the repairs had not been completed.",
+    "GBR 66 did not sail in race 2, the short offshore race, which was sailed on 30 July.",
+    "At the time of the original hearing, it was uncertain if the repairs would be completed for racing on 30 July (see Fact Found No. 8 of the original hearing)"
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "RRS 63.7(a)(3)",
+    "RRS 63.7(c)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "The evidence that GBR 66 plans to present is new and might be significant. Therefore, the requirements in RRS 63.7(a)(3) for reopening the hearing are met."
+  ],
+  "decision": [
+    "Hearing No. 11 will be reopened."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Finn Mrugalla",
+      "Pinar Coskuner Genc"
+    ]
+  }
+}

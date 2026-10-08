@@ -1,0 +1,54 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "29er World Championship 2026",
+  "race_number": "3",
+  "hearing_datetime": "4 JUL 15:40",
+  "parties": [
+    "GER 3442",
+    "GBR 3491"
+  ],
+  "procedural_matters": [
+    "GER 3442 was represented by Amelia Kutz (helm).",
+    "GBR 3491 was represented by Basil Sanderson Wood (crew).",
+    "GER 3442 represented photo evidence.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions during the time of the incident were 17 kts of wind and light chop.",
+    "When entering the zone of mark 2p for the last time, GER 3442 and GBR 3491 were sailing on port tack towards the mark, with GER 3442 overlapped approximately 8 boat lengths to windward of GBR 3491.",
+    "GER 3442 was sailing nearly on running course and GBR 3491 was sailing on higher course.",
+    "When GER 3442 was at the mark, she was close to it and the lateral distance between the hulls was about 1 m.",
+    "GBR 3491 heeled the boat to windward and the top of her mast went through the main sail of GER 3442, resulting in a 20 cm tear in the upper part of the main sail of GER 3442.",
+    "No boat took a penalty.",
+    "GER 3442's coach taped the sail between races 2 and 3.",
+    "GER 3442 stated that the feel of the sail was ''weird'' in race 3, however she made no claim that her score was made significantly worse.",
+    "GER 3442 finished race 1 in 21st place, race 2 in 26th place and race 3 in 26th place."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 18.2(a)(1)",
+    "RRS 43.1(b)",
+    "RRS 61.4(b)"
+  ],
+  "conclusions": [
+    "GBR 3491 outside overlapped at the zone failed to give GER 3442 mark-room, and broke RRS 18.2(a)(1).",
+    "GBR 3491 did not avoid contact with GER 3442 even though it was reasonably possible, and broke RRS 14(a).",
+    "GER 3442 to windward failed to keep clear of GBR 3491 to leeward, and broke RRS 11.",
+    "Since GER 3442 broke RRS 11 while she was sailing within the mark-room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach.",
+    "It was not reasonably possible for GER 3442 the boat sailing within the mark-room to which she was entitled to avoid contact with GBR 3491 when it became clear that GBR 3491 was not giving mark-room. GER 3442 did not break RRS 14(a).",
+    "GER 3442 ’s place in race 3 was not made significantly worse. Therefore, the requirements for redress in RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "GBR is DSQ in race 2. Redress not given"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Niclas Kath",
+    "members": [
+      "Maria Ramirez",
+      "Johanna Poksi"
+    ]
+  }
+}

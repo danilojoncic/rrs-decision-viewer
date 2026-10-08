@@ -1,0 +1,39 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by TC",
+  "event": "2025 Star World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-11 21:00",
+  "parties": [
+    "ARG 8239 - FEDE Calegari"
+  ],
+  "procedural_matters": [
+    "Hearing request was lodge on the Penalty Report form. As it met all the requirements of RRS 60.3(a) and as RRS does not prescribe a specific form for a hearing request (Preamble of part 5) it was accepted as a protest.",
+    "Technical committee represented by Peter Möckl.",
+    "ARG 8239 represented by Fede Calegari."
+  ],
+  "facts": [
+    "After the race no. 3 Technical Committee inspected boat ARG 8239.",
+    "ARG 8239 was not able to present personal flotation device when requested by the Technical Committee."
+  ],
+  "rules": [
+    "Star Class Rule 31.2.2(a)",
+    "SI 15.3"
+  ],
+  "conclusions": [
+    "By not having personal flotation device on board ARG 8239 broke class rule 31.2.2(a)"
+  ],
+  "decision": [
+    "Using the WS Discretionary Penalty Policy, a starting penalty of 20% was decided for races sailed in September 11th for ARG 8239. There were no reason to increase or decrease penalty."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Hans Vengberg",
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

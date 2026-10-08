@@ -1,0 +1,51 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "15",
+  "hearing_datetime": "8 JUL 17:55",
+  "parties": [
+    "GER 3160",
+    "PUR 2884"
+  ],
+  "procedural_matters": [
+    "PUR 2884 asked for more time to prepare. The hearing was postponed until 18:10.",
+    "PUR 2884 stated at 18:10 that she has had enough time to prepare.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "GER 3160 was represented by Olha Lubianska.",
+    "PUR 2884 was represented by Diego Rivera."
+  ],
+  "facts": [
+    "At the time of the incident, the wind speed was 20 knots with choppy sea.",
+    "In race F5 of the Silver fleet, about 20 - 25 seconds before the start, GER 3160 was on starboard tack sailing slowly towards the starting line.",
+    "PUR 2884 approached from clear astern of GER 3160 on a reach.",
+    "PUR 2884 established an overlap to leeward of GER 3160.",
+    "Immediately thereafter, the starboard bow of PUR 2884 collided with the port quarter of GER",
+    "There was damage to the port quarter of GER 3160, which is a split ranging from the aft quarter approximately 20 cm forward along the sheer line.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 15",
+    "RRS 43.1(b)"
+  ],
+  "conclusions": [
+    "When acquiring right-of-way through her own actions, PUR 2884 failed to initially give GER 3160 room to keep clear, and broke RRS 15.",
+    "PUR 2884 failed to avoid contact with GER 3160 when it was reasonably possible and broke RRS 14(a).",
+    "GER 3160 was to windward of PUR 2884 and failed to keep clear of PUR 2884 and broke RRS",
+    "Since GER 3160 broke RRS 11 while she was sailing within the room to which she was entitled under RRS 15, she is exonerated under RRS 43.1(b) for this breach.",
+    "It was not reasonable possible for GER 3160 to avoid contact and therefore she did not break RRS 14(a)."
+  ],
+  "decision": [
+    "PUR 2884 is DSQ in Race F5."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Michalina Wroblewska",
+    "members": [
+      "Niclas Kath",
+      "Lance Burger"
+    ]
+  }
+}

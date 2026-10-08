@@ -1,0 +1,45 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "44° Lake Garda Meeting Optimist",
+  "race_number": "5",
+  "hearing_datetime": "2026-04-04 09:30",
+  "parties": [
+    "ITA 2 - Roman Vyevyenko",
+    "PUR 103 - Ines Mendez-Larminaux"
+  ],
+  "procedural_matters": [
+    "ITA 2's name of the skipper was corrected in the hearing request before the hearing.",
+    "ITA 2 was represented by Roman Vyevyenko.",
+    "PUR 103 was represented by Ines Mendez-Larminaux.",
+    "PUR 103 presented photo evidence.",
+    "Javier Figueroa coach of PUR 103 attended the hearing as an observer.",
+    "Fiorella Nicolari, Ezio Fonda, Marin Kustic members of the international jury attended the hearing as observers."
+  ],
+  "facts": [
+    "The wind and sea conditions were 12 knots with moderate chop.",
+    "In race 5, on the leg 1, ITA 2 on starboard-tack and PUR 103 on port-tack were sailing on converging courses.",
+    "At a distance of about 1 boat length between ITA 2 and PUR 103, ITA 2 luffed slighty.",
+    "At a distance of about half a boat length between, ITA 2 bore away to a close-hauled course.",
+    "ITA 2 passed astern of PUR 103 at a distance of 50 cm between PUR 103’s rudder and ITA 2’s starboard bow.",
+    "There was no contact.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "PUR 103 on port tack kept clear of ITA 2 on starboard tack and complied with rule 10."
+  ],
+  "decision": [],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Adrian Bauder",
+    "members": [
+      "Alberto Caporro",
+      "Alen Kustic",
+      "Martin Clasen",
+      "Hermann Herburger"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "POR",
+    "RC"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "POR and RC did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "On 17/12/2025 at 17:39hrsPOR filed a scoring inquiry claiming that she was incorrectly scored UFD. The RC’s decision was to make no change to the boat’s score on 17/12/2025 at 18:35hrs. Subsequently, POR filed this request for redress based on the same claim on 17/12/2025 at 18:59hrs."
+  ],
+  "facts": [
+    "Protest time limit was 13:20hrs.",
+    "SI 15.2 says that: A request for redress based on an incident identified in a scoring enquiry will meet the time limit if: 15.2.1 the scoring enquiry was submitted within the time limit specified in RRS 61.2 (b) as changed by SI 15.1; [...]"
+  ],
+  "rules": [
+    "RRS 62.1(b)"
+  ],
+  "conclusions": [
+    "The scoring inquiry was made outside the PTL. POR failed to deliver the request for redress within [the protest time limit, as required by RRS 61.2(b)(1)."
+  ],
+  "decision": [
+    "Request for redress invelid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Patric Loydell",
+    "members": [
+      "Sukkyong KIM",
+      "Maria Massapina",
+      "Anna Cuccia"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "EurILCA Europa Cup France",
+  "race_number": "5",
+  "hearing_datetime": "2025-05-04 15:30",
+  "parties": [
+    "ESP 221172 - ESPJC128 - CASALINS DONOSO Javier"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "Race 5, start under U flag",
+    "221172 was observed over the line at the starting signal",
+    "RC put the number 211172 on the board and in their records",
+    "Later ashore RC noticed that number 211172 doesn`t exist, they found only one number similar to 221172, it was 211172",
+    "RC corrected an error and put UFD to the score of 221172"
+  ],
+  "rules": [
+    "RRS 90.3(c)"
+  ],
+  "conclusions": [
+    "RC properly observed 221172 over the line at the starting signal of race 5",
+    "RC properly corrected it`s spelling error in one didit of number 221172 and scored him UFD",
+    "221172 did not bring any evidences that he was not over the line at the starting signal"
+  ],
+  "decision": [
+    "Redress not given"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bernadette Delbart",
+    "members": [
+      "Boguslaw Moczorodynski",
+      "Tonny Jensen",
+      "Cathy Delany-Hobbs",
+      "Frederic Bertin"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "29er World Championship 2026",
+  "race_number": "",
+  "hearing_datetime": "6 JUL 15:25",
+  "parties": [
+    "GBR 2738",
+    "German Coach Boat (possibly 153)"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GBR 2738 was represented by Ethan Hill.",
+    "Philip Hadamczik did not attend the protest hearing but showed up during the redress hearing. He apologized to Ethan Hill for the incident during the hearing and he had already sent beforehand a voice message to the sailors in which he apologized for the incident.",
+    "Since the protest alleges a rule breach by a support person, it does not comply with the definition protest and is therefore invalid under RRS 60.4(a)(1).",
+    "Philip Hadamczik did not attend the redress hearing."
+  ],
+  "facts": [
+    "The incident occurred between race Q5 and Q6 of the Yellow fleet.",
+    "GBR 2738 was 100 metres to leeward of the race committee vessel on port tack.",
+    "Coach Philip Hadamczik (GER, coach from Berlin, coach rib 153) was looking on his phone while driving his rib towards GBR 2738 coming from her windward side with a speed of 10 knots.",
+    "GBR 2738 hailed to the coach rib when 5 metres apart.",
+    "At that time the rib changed course but contact occurred between the rib and GBR 2738's port wing.",
+    "The contact resulted in a 30 cm crack all the way into the lamination.",
+    "The damage was temporarily covered using tape and GBR 2738 went ashore as she feared that water might come into the hull.",
+    "GBR 2738 did not compete in races Q6, Q7, Q8."
+  ],
+  "rules": [
+    "RRS 18",
+    "RRS 61.4(b)(3)"
+  ],
+  "conclusions": [
+    "The coach rib as a power-driven vessel operating normally, did not keep clear of GBR 2738 and broke IRPCAS 18.",
+    "GBR 2738 score was made significantly worse through no fault of her own by physical damage because of the action of a vessel not racing that is determined to be at fault under the IRPCAS. Therefore, the requirements for redress in RRS 61.4(b)(3) are met."
+  ],
+  "decision": [
+    "Redress is given to GBR 2738. GBR 2738 is to be scored in race Q6, Q7, and Q8 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races in the qualifying series, except for races Q6, Q7, Q8. No other boats' score shall change."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Holger Herburger",
+      "Johanna Poksi"
+    ]
+  }
+}

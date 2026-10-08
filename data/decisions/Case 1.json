@@ -1,0 +1,44 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA Under-21 World Championships",
+  "race_number": "1",
+  "hearing_datetime": "",
+  "parties": [
+    "AUS 216366 - Hamish Gilsenan",
+    "IRL 211114 - Andrew Kingston"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "Wind 12-15 kts, 0,5 m choppy waves.",
+    "When entering the zone of gate mark 3p, AUS 216366 as outside of two unidntified boats, all on port tack and overlapped bow to bow.",
+    "IRL 211114 also on port tack 1 m clear astern of these three boats.",
+    "At the mark AUS 216366 and two unidentified boats luffed and broke the overlap and lined up bow to stern with AUS 216366 most astern boat.",
+    "When AUS 216366 was at the mark with distance of slightly more than 1 boat width from it, IRL 211114 sailed between AUS 216366 and the mark.",
+    "Contact occurred between the boom of IRL 211114 and back of the sailor and then the mast of AUS 216366 with no damage or injury.",
+    "No boat touched a mark.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 18.2(a)(2)",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "IRL 211114 not overlapped with AUS and not in the zone at the time AUS 216366 reached the zone, failed to give AUS 216366 mark-room, and broke RRS 18.2(a)(2).",
+    "IRL 211114 did not avoid contact with AUS 216366 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for AUS 216366 the boat sailing within the mark-room to which she was entitled to avoid contact with IRL 211114 when it became clear that IRL 211114 was not giving mark-room. AUS 216366 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "IRL 211114 is DSQ in Race 1."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Ron Barak",
+    "members": [
+      "Gordon Davies",
+      "Jean-Luc Michon",
+      "Ailbe Millerick",
+      "Johanna Poksi"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Star World Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-09-11 20:00",
+  "parties": [
+    "GER 8581 - Arnd Glunde"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "Hearing request doesn't include respondent and doesn't describe the incident."
+  ],
+  "rules": [
+    "RRS 60.3(a)"
+  ],
+  "conclusions": [
+    "The protest did not identify the protestee and incident as required by RRS 60.3(a)."
+  ],
+  "decision": [
+    "Protest is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Hans Vengberg",
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

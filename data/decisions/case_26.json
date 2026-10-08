@@ -1,0 +1,42 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "6",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 227176 - Mia PAOLETTI",
+    "ITA 222844 - Margherita GIANNANTONIO"
+  ],
+  "procedural_matters": [
+    "ITA 227176 presented video evidence during the hearing."
+  ],
+  "facts": [
+    "ITA 222844 and ITA 227176 were holding their positions on the pre-course side of the starting line, 20 seconds before the starting signal.",
+    "The boats were overlapped, with ITA 222844 to leeward.",
+    "The distance between the boats was 50 cms.",
+    "The crew of ITA 222844 reached out with his hand and touched the boat of ITA 227176.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 14(a)",
+    "RRS 2"
+  ],
+  "conclusions": [
+    "ITA 222844 did not avoid contact with ITA 227176 even though it was reasonably possible, and broke RRS 14(a).",
+    "By deliberatley breaking rule 14(a) and not taking the appropriate penalty, ITA 222844 failed to compete in compliance with the principles of sportsmanship and fair play as stated in RRS Basic Principles. ITA 222844 broke RRS 2."
+  ],
+  "decision": [
+    "ITA 222844 is DNE in race 6."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Tonny Jensen",
+    "members": [
+      "Luigi Bertini",
+      "Pablo Garcia",
+      "jorge juan soriano",
+      "Mirko Ukas"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "J/24 World Championship 2025",
+  "race_number": "7",
+  "hearing_datetime": "2025-09-12 19:10",
+  "parties": [
+    "BOW 23 - Nitro - Mark Prue",
+    "BOW 51 - Jabberwocky - Gail Berriman"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The hearing was scheduled on the ONB at 18:45 for a starting time of 19:10.",
+    "The hearing started at 19:18.",
+    "GBR 4271, bow 51, did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "GBR 4034, bow 23, was represented by Mark Prue."
+  ],
+  "facts": [
+    "Wind was 12-15 knots and waves were mildly choppy.",
+    "Race 7 on leg 6 downwind to the finish line.",
+    "GBR 4271, bow 51, was one boat length to leeward of GBR 4034, bow 23, and clear astern at the zone.",
+    "Inside the zone, GBR 4271, bow 51, established an overlap from behind to leeward of GBR 4034, bow 23.",
+    "When GBR 4034, bow 23, was at two boat lengths, GBR 4271, bow 51, luffed pointing to windward of the mark.",
+    "There was contact between the pulpit of GBR 4271, bow 51, and the main sheet of GBR 4034, bow 23.",
+    "When GBR 4034, bow 23, was one and a half boat lengths from the mark, GBR 4271, bow 51, slowed down and bore away.",
+    "GBR 4034, bow 23, then bore down and crossed the finish line, finishing race 7."
+  ],
+  "rules": [
+    "RRS 18.2(a)(2)",
+    "RRS 14(a)",
+    "RRS N1.4(b)",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "GBR 4271, bow 51, did not give mark-room and they broke rule 18.2(a)(2).",
+    "GBR 4271, bow 51, did not avoid contact and they broke rule 14(a).",
+    "GBR 4034, bow 23, to windward failed to keep clear of GBR 4271, bow 51, to leeward, and broke RRS 11.",
+    "Since GBR 4034, bow 23, broke RRS 11 while she was sailing within the mark-room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach."
+  ],
+  "decision": [
+    "GBR 4271 is DSQ in race 7."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Jared Hickman",
+    "members": [
+      "Cxema Pico",
+      "Josephine Wilken"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "YES - Young Europeans Sailing 2025",
+  "race_number": "1",
+  "hearing_datetime": "8 JUN 19:30",
+  "parties": [
+    "International Jury",
+    "GER 223725 (ILCA 6 (men)) (R1)"
+  ],
+  "procedural_matters": [
+    "GER 223725 was represented by Levian Buescher.",
+    "Maximillien Walkenbach (coach of GER 223725) attended the hearing as a party.",
+    "Hearing No. 1 was heard together with hearing No. 5 in accordance with RRS 63.2(b) since both hearings arose from the same incident."
+  ],
+  "facts": [
+    "The wind was 15 kts with choppy water at the start of race 1 for the ILCA 6 men.",
+    "3:20 before the start, GER 223725 handed his jacket to his coach 30 metres to leeward of the starting line.",
+    "The start was clear, and GER 223725 started and finished the race."
+  ],
+  "rules": [
+    "RRS 41",
+    "ESTR 5.1.2"
+  ],
+  "conclusions": [
+    "By handinghis jacket to his coach, GER 223725 received outside help, and broke RRS 41 while racing.",
+    "Maximillien Walkenbach was less than 50 metres to leeward of the starting line, therefore he broke ESTR 5.1.2."
+  ],
+  "decision": [
+    "GER 223725 is DSQ in race 1.",
+    "For each race held on 09/06/2025, Maximillien Walkenbach shall anchor his support person vessel 70 metres below the starting line from the time the orange flag is displayed until all starts of that race are completed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gidon Hallside",
+    "members": [
+      "Anna Cuccia",
+      "Pauline den Burger",
+      "Maria Ramires",
+      "Mohammed Ali Soukeur"
+    ]
+  }
+}

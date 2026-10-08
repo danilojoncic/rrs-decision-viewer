@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "9",
+  "hearing_datetime": "29 JUN 14:50",
+  "parties": [
+    "Race Comittee",
+    "GER 214752 (R9)"
+  ],
+  "procedural_matters": [
+    "The race committee was represented by Christina Buch.",
+    "GER 21475 and Coach Lenny Schulze (support person vessel GER 247) did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "3 minutes before the startig signal of race 9 and 50 meters to leeward from the staring line, GER 214752 was 2 meters to leeward of support person vessel GER 247.",
+    "At that time GER 214752 was talking to her coach on support person vessel GER 247.",
+    "2 minutes before the starting signal and 50 meters to leeward from the staring line GER 214752 was 1 boat length in front of support coach vessel GER 247.",
+    "At that time GER 214752 was communicating with her coach on support person vessel GER 247 using handsignals."
+  ],
+  "rules": [
+    "RRS 41",
+    "ESTR 5.1.1"
+  ],
+  "conclusions": [
+    "GER 214752 received help from an outside source, and broke RRS 41.",
+    "Lenny Schultze broke ESTR 5.1.1."
+  ],
+  "decision": [
+    "GER 214752 is DSQ in race 9.",
+    "Lenny Schulze shall apologize in writing to the OA within 24 hours."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Svenja Hünsch",
+    "members": [
+      "Adrian Bauder",
+      "Bence Böröcz",
+      "Gonzalo Heredia",
+      "Eurico Teodoro"
+    ]
+  }
+}

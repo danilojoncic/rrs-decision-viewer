@@ -1,0 +1,44 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "29er EuroCup Series",
+  "race_number": "9",
+  "hearing_datetime": "2026-05-03 16:10",
+  "parties": [
+    "ITA 11 - FOCUS - Emilia Salvatore",
+    "FRA 6 - Alexandre MOSTINI"
+  ],
+  "procedural_matters": [
+    "ITA 11 is reppresented by Emilia Salvatore FRA 6 is reppresented by Alex Mostini"
+  ],
+  "facts": [
+    "At the moment of incident the wind was 7-8 knots and the lake water was almost calm",
+    "ITA 11 and FRA 6 were sailing on the first beat (mid-beat) to winward, near the port layline, on opposite tack, in race",
+    "ITA 11 was on starboard and FRA 6 on port",
+    "ITA 11 and FRA 6 were on a converging course FRA 6 and ITA 11 were sailing quite the same speed and FRA 6 a bit ahed of ITA 11",
+    "When the bow of ITA 11 was at less than half boat length from the starboard midship of FRA 6, ITA 6 bore away and passed behind the stearn of FRA 6. The distance between ITA 11 bow and FRA 6 stern was approximately 50 cm",
+    "FRA 6 hold her course",
+    "No damages neither in juries",
+    "None took a penalty turn",
+    "Both boats compleated the course."
+  ],
+  "rules": [
+    "RRS 10",
+    "World Sailing Case 50"
+  ],
+  "conclusions": [
+    "There was reasonable doubt that FRA 6 could have crossed, if ITA 11 had not taken avoiding action (see WS Case 50).",
+    "FRA 6 on port failed to keep clear of ITA on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "Protest uphold and FRA6 is DSQ in race 9"
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Anna Cuccia",
+    "members": [
+      "Katarzyna Goralska",
+      "Marco Sarcoli"
+    ]
+  }
+}

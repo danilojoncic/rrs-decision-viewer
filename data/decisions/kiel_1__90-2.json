@@ -1,0 +1,49 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "20 JUN 18:45",
+  "parties": [
+    "TC",
+    "GER 8406 (R1)"
+  ],
+  "procedural_matters": [
+    "The hearing was held on-line, using Microsoft Teams. The panel of the international jury attended the hearing in person.",
+    "The technical committee was represented by Robert Jacobsen (member of the technical committee), who attended the hearing on-line.",
+    "GER 8406 was represented by Volker Hein (skipper of GER 8406), who attended the hearing on-line.",
+    "Rob Taylor (chair of the technical committee) was present during the hearing as an observer.",
+    "Nick Gottwald (tactician of GER 8406) was present during the hearing as an observer."
+  ],
+  "facts": [
+    "During race 1 of the Aalregatta, GER 8406 used a headsail with no sail edge attached and tacked in front of the forestay. That sail was not included in the inventory of sails in her ORC certificate.",
+    "GER 8406's certificate that was used to register for the Aalregatta, was issued on 17 March 2026 and had an APH of 500.2.",
+    "This certificate had no sails declared as headsails set flying.",
+    "The technical committee ran a test certificate on 20 June 2026 with a headsail set flying with a sail area of 96.43 m² that resulted in an APH of 498.1.",
+    "The difference in APH is 0.419%."
+  ],
+  "rules": [
+    "RRS 78.1",
+    "ORC 304.1(c)(ii)",
+    "RRS 304.1(c)(ii)",
+    "RRS 305.2(d)"
+  ],
+  "conclusions": [
+    "By not including in the sails inventory all headsails set flying, GER 8406 failed to ensure compliance of any measurement data to those printed on the certificate, and broke ORC rule 304.1(c)(ii).",
+    "By not ensuring that the boat is maintained to comply with her class rules while racing, GER 8406 broke RRS 78.1.",
+    "Since it was determined that GER 8406 broke ORC rule 304.1(c)(ii), the noncompliance shall be calculated as a difference in percentage of APH, in accordance with ORC rule 305.2. Further, 305.2(d) states \"If the difference is 0.40% or more, a boat shall be disqualified (DSQ) in any race in which her rating was incorrect.\""
+  ],
+  "decision": [
+    "GER 8406 is disqualified (DSQ) in race 1."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Timo Hass",
+    "members": [
+      "Jens Biederer",
+      "Lance Burger",
+      "Stavros Kouris",
+      "Wai Kai Chan Vicky"
+    ]
+  }
+}

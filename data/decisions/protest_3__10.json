@@ -1,0 +1,41 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "87. Warnemünder Woche 2025",
+  "race_number": "1",
+  "hearing_datetime": "5 JUL 17:00",
+  "parties": [
+    "GER 211211",
+    "FRA 225757"
+  ],
+  "procedural_matters": [
+    "GER 211211 did not withdraw the protest after the arbitration meeting."
+  ],
+  "facts": [
+    "Sailingconditions: Wind 14-16 knots, moderate swells.",
+    "Priorto the start of race #1, GER 211211 211211 was approaching on the starting lineon starboard tack.",
+    "Fiveseconds after the starting signal, GER 211211 became overlapped to windward ofan unidentified third boat to leeward.",
+    "GER 211211 luffed, avoiding contact.",
+    "Noboat took a penalty, both finished the race."
+  ],
+  "rules": [
+    "RRS 11"
+  ],
+  "conclusions": [
+    "GER 211211to windward kept clear of an unidentified boat to leeward, as required by RRS 11.",
+    "No rules broken."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Ron Barak",
+    "members": [
+      "Dr. Jörn-Christoph Jansen",
+      "Karl Petter Haugen",
+      "Dr. Rainer Kornfeld",
+      "Gregory"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "7",
+  "hearing_datetime": "2026-05-30 16:40",
+  "parties": [
+    "SUI 1879 - 171 - Yapado - christian hasler",
+    "FRA 276 - 161 - JEROBOAM - Clément BRILLAUD"
+  ],
+  "procedural_matters": [
+    "SUI 1879 was represented by Christian Hasler.",
+    "FRA 276 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "Hugo Abeguile (crew of SUI 838) gave evidence as a witness for SUI 1879.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 5 knots of wind and small waves.",
+    "SUI 1879 was approaching the windward mark on starboard tack on a closed-hauled course.",
+    "FRA 276 was approaching the windward mark on port tack on a closed hauled course, on a converging course with SUI 1879.",
+    "After SUI 1879 entered the zone, and when the distance between SUI 1879 and FRA 276 was one boat length, FRA 276 luffed to head to wind.",
+    "Immediately after, when the distance between the boats was less than one meter, SUI 1879 luffed above closed- hauled.",
+    "There was no contact.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 18.3(a)",
+    "RRS 63.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "After FRA 276 passed head to wind from port to starboard tack inside the zone, RRS 18.3 applied between her and SUI 1879, who was on starboard tack and fetching the mark.",
+    "FRA 276 caused SUI 1879, who was on starboard tack since entering the zone and was fetching the mark, to sail above close-hauled to avoid contact. FRA 276 broke RRS 18.3(a)."
+  ],
+  "decision": [
+    "FRA 276 is DSQ in race 7."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Pauline den Burger",
+    "members": [
+      "Anastazja Lewandowska",
+      "Christine Guba"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "7",
+  "hearing_datetime": "26 JUN 17:45",
+  "parties": [
+    "NED 1120",
+    "GER 3161"
+  ],
+  "procedural_matters": [
+    "NED 1120 was represented by Esther de Jong.",
+    "GER 3161 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions were: wind 12-13 knots, 40 cm chop.",
+    "NED 1120 was sailing close-hauled on starboard tack approaching mark 1 for second rounding.",
+    "GER 3161 was sailing close-hauled on port tack on a converging course with NED 1120.",
+    "When boats were about 50cm apart, NED 1120 was aiming GER 3161 midship. At this point NED 1120 luffed abruptly and passed head to wind.",
+    "GER 3161 subsequently luffed, tacked onto starboard tack and continued sailing to the mark.",
+    "There was no contact.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "GER 3161 on port failed to keep clear of NED 1120 on starboard, and broke RRS 10."
+  ],
+  "decision": [
+    "GER 3161 is DSQ in race 7"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Rick Mallinson",
+      "Claudio Uras"
+    ]
+  }
+}

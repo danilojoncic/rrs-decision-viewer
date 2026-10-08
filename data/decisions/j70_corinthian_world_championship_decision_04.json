@@ -1,0 +1,49 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "2",
+  "hearing_datetime": "2026-05-27 18:50",
+  "parties": [
+    "SUI 1808 - 170 - Tarte -3Nuits.com - Lorenz Kausche",
+    "FRA 397 - 186 - Shark caviar - Julia D'AMODIO"
+  ],
+  "procedural_matters": [
+    "SUI 1808 was represented by Lorentz Kausche.",
+    "FRA 397 was represented by Lilou Ruat.",
+    "Prior to the hearing, an arbitration meeting was held; Anastazja Lewandowska (member of the international jury) acted as arbitrator.",
+    "SUI 1808 did not ask to withdraw the protest after the arbitration meeting and neither boat took a Post-Race Penalty under RRS T1(a).",
+    "Julia d’Amodo (crew of FRA 397) attended the hearing as an observer.",
+    "SUI 1808 provided tracking evidence.",
+    "FRA 397 provided video evidence.",
+    "The international jury provided video evidence.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 6 knots of wind and no waves.",
+    "20 seconds before the starting signal, SUI 1808 was sailing on starboard tack towards the race committee signal vessel on a close-hauled course at a speed of 1.5 knots.",
+    "FRA 397 was also approaching the starting line on starboard tack, clear astern of SUI 1808.",
+    "FRA 397, sailing faster, established an overlap to windward of SUI 1808.",
+    "FRA 397 bore away and passed SUI 1808 on the windward side at a distance of less than 10 cm.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS N1.4(b)",
+    "RRS T1(a)"
+  ],
+  "conclusions": [
+    "FRA 397 to windward failed to keep clear of SUI 1808 to leeward, and broke RRS 11. See Definition Keep Clear (b)."
+  ],
+  "decision": [
+    "FRA 397 is DSQ in race 2."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bence Borocz",
+    "members": [
+      "Pauline den Burger",
+      "Romain Gautier"
+    ]
+  }
+}

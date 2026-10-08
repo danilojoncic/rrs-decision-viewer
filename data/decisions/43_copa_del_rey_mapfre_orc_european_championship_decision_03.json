@@ -1,0 +1,30 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-29 17:10",
+  "parties": [
+    "ORC 2 - GBR66"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "GBR 66 asked to withdraw the protest."
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "The International Jury allows the protest to be withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cxema Pico",
+    "members": [
+      "Finn Mrugalla"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "2025 Rooster-Monautix EurILCA Europa Cup and High Performance Grand Prix",
+  "race_number": "1",
+  "hearing_datetime": "2025-09-13 16:40",
+  "parties": [
+    "GBR 222281 - Archie MUNRO-PRICE"
+  ],
+  "procedural_matters": [
+    "GBR 222281 was represented by Archie MUNRO-PRICE.",
+    "The race committee was represented by Benedek FLUCK.",
+    "The race committee provided video evidence.",
+    "Dániel HOLLÓ (member of race committee) gave evidence as a witness.",
+    "Wolfgang REISINGER (member of the international jury) and Réka ABDAI (member of the race committee) attended the hearing as observers."
+  ],
+  "facts": [
+    "The race committee displayed the black flag as preparatory signal during the third attempt to start race 1 of the ILCA 6 class.",
+    "The race committee identified GBR 222281 in the triangle formed by the ends of the starting line and the first mark, close to the pin-end, during the last seconds to start.",
+    "The race committee scored GBR 222281 as BFD in race 1."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Request for Redress Request No.: 01 Date & Time: 2025-09-13 17:07 CEST Printed: 2025-09-13 17:34 DECISION Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Filip Moczorodynski",
+    "members": [
+      "Bence Borocz",
+      "Hella Bouma",
+      "Ute Reisinger",
+      "Danilo Joncic"
+    ]
+  }
+}

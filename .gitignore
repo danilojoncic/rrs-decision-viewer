@@ -1,0 +1,15 @@
+# Local and generated files
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+/tmp/
+/output/
+/*_CV.*
+/data/decisions/**/.drafts/
+/data/decisions/.drafts/
+/Decision Viewer.html

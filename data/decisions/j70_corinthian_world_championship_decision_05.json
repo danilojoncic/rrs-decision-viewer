@@ -1,0 +1,42 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Event: J70 Corinthian World Championship Race Number: 02",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "02",
+  "hearing_datetime": "2026-05-27 18:00",
+  "parties": [
+    "FRA 1412 - 188 - MAIRE - LUC ANGELS"
+  ],
+  "procedural_matters": [
+    "The technical committee was represented by Thomas Loesch.",
+    "FRA 1412 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The technical committee provided photographic evidence of the incident.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "FRA 1412 was towed out of the harbour at 10:31 on 27 May 2026.",
+    "The first race on 27 May 2026 (race 2) was scheduled to start at 11:05, but started at 14:25."
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "RRS N1.4(b)",
+    "SI 14.8"
+  ],
+  "conclusions": [
+    "By being towed, FRA 1412 received outside assistance after leaving its dock, and broke Class Rule I.3.",
+    "None of the exceptions provided for in Class Rule I.3 applied.",
+    "As the race start was postponed, FRA 1412 did not obtain a competitive advantage.",
+    "Under SI 14.8, the penalty for this breach shall not be less than a ten percent (10%) scoring penalty."
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons, a starting penalty of 5% was decided. There were no facts to justify decreasing or increasing the penalty. However, the penalty is increased to 10% in accordance with SI 14.8. The penalty given to FRA 1412 is a 10% discretionary penalty, calculated using the method described in RRS 44.3(c) and applied to race 2, but not worse than the score for DNF."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christine Guba",
+    "members": [
+      "Anastazja Lewandowska",
+      "Yoann Peronneau"
+    ]
+  }
+}

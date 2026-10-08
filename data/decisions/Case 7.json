@@ -1,0 +1,37 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA Under-21 World Championships",
+  "race_number": "8",
+  "hearing_datetime": "",
+  "parties": [
+    "NED 223974 - Nicolaas Van Nunen"
+  ],
+  "procedural_matters": [
+    "Heard with Case 8 as the hearing requests concerned the same incident."
+  ],
+  "facts": [
+    "At the start of Race 3, the RC displayed U flag as the preparatory signal. The starting sound signal was made 59 seconds after the preparatory signal was removed. The class flag was removed 60 seconds after the preparatory signal was removed. ITA 219260 and NED 223974 were identified as being half a boat length on the course side of the starting line at the starting signal. ITA 219260 and NED 223974 were scored UFD in Race 3."
+  ],
+  "rules": [
+    "RRS 64.1(b)",
+    "RRS 26",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "ITA 219260 and NED 223974 score in race 3 was made significantly worse through their own fault. Therefore, the requirements for redress in RRS 64.1(b) are not met. The visual starting signal was removed at the correct time, as required by RRS 26. There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress not given to ITA 219260 and NED 223974."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Gonzalo Heredia",
+    "members": [
+      "Gordon Davies",
+      "Jean-Luc Michon",
+      "Ailbe Millerick",
+      "Johanna Poksi"
+    ]
+  }
+}

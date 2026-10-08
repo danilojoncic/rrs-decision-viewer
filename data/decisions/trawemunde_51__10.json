@@ -1,0 +1,57 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "8",
+  "hearing_datetime": "24 JUL 16:00",
+  "parties": [
+    "ISR 9396",
+    "EST 5328"
+  ],
+  "procedural_matters": [
+    "ISR 9396 was represented by Eyal Tal Tamari.",
+    "EST 5328 was represented by Oliver Tein.",
+    "Ema Raudyte (helm to LTU 111) gave evidence as witness for ISR 9396.",
+    "Jens Haun gave evidence as a witness for the International Jury.",
+    "Tal Harari attended the hearing as an interpreter of ISR 9396.",
+    "Ants Haavel attended the hearing as an interpreter of EST 5328."
+  ],
+  "facts": [
+    "RS Feva race 9 the wind was 9-10kn, small waves.",
+    "EST 5328 on port and ISR 9396 on starboard were approaching the last mark before the finish.",
+    "Just outside the zone ISR 9396 gybed to port. The lateral distance between both boats was about one boat length.",
+    "Both boats on port tack entered the zone at the same time, with ISR 9396 inside overlapped.",
+    "EST 5328 rounded the mark in a distance of half a boat width. ISR 9396 luffed and touched the mark.",
+    "Immediately after there was contact between ISR 9396 starboard side and EST 5328 port side.",
+    "ISR 9396 took a one turn penalty.",
+    "Travemünder Woche 2026"
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 18.2(a)(1)",
+    "RRS 43.1(b)",
+    "RRS 43.1(c)"
+  ],
+  "conclusions": [
+    "EST 5328 overlapped at the zone failed to give ISR 9396 mark-room, and broke RRS 18.2(a)(1).",
+    "EST 5328 did not avoid contact when it was reasonably possible, and broke RRS 14(a).",
+    "ISR 9396 to windward failed to keep clear of EST 5328 to leeward, and broke RRS 11.",
+    "ISR 9396, the boat sailing within the mark-room to which she was entitled to did not act to avoid contact with EST 5328, when it was reasonably possible. ISR 9396 broke RRS 14(a).",
+    "Since ISR 9396 broke RRS 11 while she was sailing within the mark-room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach.",
+    "Since ISR 9396 was sailing within the mark-room to which she was entitled to and the contact did not cause damage or injury, she is exonerated under RRS 43.1(c) for breaking RRS 14(a)."
+  ],
+  "decision": [
+    "EST 5328 is DSQ in race 8."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Ute Reisinger",
+    "members": [
+      "Giuseppe d'Amico",
+      "Iona Smith",
+      "Ralf Tiedje",
+      "Jens Haun"
+    ]
+  }
+}

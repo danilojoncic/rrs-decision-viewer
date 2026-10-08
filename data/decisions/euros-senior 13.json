@@ -1,0 +1,42 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA SENIOR EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "GRE 223502 - Spyros PROVELEGIOS"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "GRE 223502 was controlled by the Technical Committee at the finishing line after race 5, bronze fleet.",
+    "Technical Committee found the free end of the vang attached to the centreboard retention shock cord.",
+    "After equipment inspection GRE 223502 tied the end of the vang correctly.",
+    "Technical Committee stated that:",
+    "Attaching the free end of the vang to the centerboard retention shock cord may provide an advantage, although the advantage is not certain.",
+    "Attaching the free end of the vang to the centerboard retention shock cord could possibly compromise safety, although this is not certain."
+  ],
+  "rules": [
+    "Class Rule 3",
+    "RRS 44.3"
+  ],
+  "conclusions": [
+    "By having the free end of the vang attached to the centreboard retention shock cord GRE 223502 broke class rule 3. b) x",
+    "ILCA class rules 3. b) x"
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons a starting penalty of 20% was decided (Band 2).",
+    "There were no circumstances to justify decreasing the penalty. There were no circumstances to justify increasing the penalty.",
+    "The penalty given to GRE 223502 is 20% discretionary penalty, calculated using the method describe in RRS 44.3(c ) and applied to race 5, but not worse than the score for DNF."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Wai Kai Chan Vicky",
+    "members": [
+      "Bernadette Delbart",
+      "Niclas Fure",
+      "Katarzyna Goralska",
+      "Johanna Poksi"
+    ]
+  }
+}

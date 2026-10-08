@@ -1,0 +1,55 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 218448 - Pietro Passariello",
+    "ITA 220744 - Michele Figurelli"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "No boat took a Post-Race Penalty before the start of the hearing."
+  ],
+  "facts": [
+    "The wind was 12 knots, with 1-meter waves and chop.",
+    "At the zone of mark 3p at the end of leg 3 in race 5 ITA 218448 was clear ahead of ITA 220744.",
+    "When rounding the mark, ITA 218448 was clear ahead of ITA 220744.",
+    "At the mark, ITA 220744 accelerated on a wave, and her bow hit the rudder of ITA 218448.",
+    "The mounting plate for the rudder gudgeon of ITA 218448 detached from the boat.",
+    "ITA 218448 was unable to continue racing and did not finish.",
+    "ITA 218448 was unable to sail in race 6.",
+    "ITA 220744 continued racing in race 5 and finished.",
+    "ITA 220744 learned about the extent of the damage to ITA 218448 when both boats came ashore.",
+    "No boat took a penalty at the time of the incident.",
+    "No boat took a penalty ashore."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 12",
+    "RRS 18.2(a)(2)",
+    "RRS 14",
+    "RRS 2"
+  ],
+  "conclusions": [
+    "ITA 220744, a boat clear astern, failed to keep clear of ITA 218448 and broke rule 12.",
+    "ITA 220744, a boat clear astern at the zone, failed to give mark-room to ITA 218448 and broke rule 18.2(a)(2).",
+    "ITA 220744 did not avoid contact with ITA 218448 when it was reasonably possible to do so. ITA 220744 broke rule 14.",
+    "It was not reasonably possible for ITA 218448 to avoid contact with ITA 220744 when it was clear that ITA 220744 was not keeping clear. ITA 218448 did not break rule 14.",
+    "The damage to ITA 218448 was serious. When ITA 220744 learned about the serious damage, her appropriate penalty was to retire. She did not and broke rule 2.",
+    "ITA 218448 is entitled to redress because of physical damage because of the action of ITA 220744, and because ITA 220744 was penalized. ITA 218448 is also entitled to redress because of the action of ITA 220744, and ITA 220744 was penalized under rule 2."
+  ],
+  "decision": [
+    "ITA 220744 is to be scored DNE in race 5.",
+    "Redress is given to ITA 218448. Her scores in races 5 and 6 shall be points equal to the average (calculated to the nearest tenth of a point, 0.05 to be rounded upward) of her points in races 1 through 4. No other boats’ scores shall be changed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gabriela Santanna",
+    "members": [
+      "Kevin Hawkins",
+      "Elizabeth Rouget"
+    ]
+  }
+}

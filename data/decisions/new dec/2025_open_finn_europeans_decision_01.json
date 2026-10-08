@@ -1,0 +1,43 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Open Finn Europeans",
+  "race_number": "2",
+  "hearing_datetime": "2025-04-08 17:30",
+  "parties": [
+    "ITA 51 - Arkadii Kistanov",
+    "ESP 7 - David Terol"
+  ],
+  "procedural_matters": [
+    "ITA 51 was represented by Arkadii Kistanov.",
+    "ESP 7 was represented by David Terol."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 7-8 knots of wind and a small chop.",
+    "ITA 51 and ESP 7 were sailing on the run just after having left mark 1 astern. ITA 51 was on starboard tack and clear astern of ESP 7, who was also on starboard tack.",
+    "ESP 7 gybed to port and was thereafter on a converging course with ITA 51.",
+    "ITA 51 sailing deeper and faster, established an overlap to windward of ESP 7 at a lateral distance of 60 cm.",
+    "Two seconds later, when the distance between the boats was 10-15 cm, ITA 51 bore away.",
+    "No contact occurred between the boats.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "ESP 7 on port failed to keep clear of ITA 51 on starboard and broke RRS 10."
+  ],
+  "decision": [
+    "ESP 7 is DSQ in race 2"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Sylvie Harle",
+    "members": [
+      "Timo Haß",
+      "Stavros Kouris",
+      "Marco Flavio Tosello",
+      "Jan Stage"
+    ]
+  }
+}

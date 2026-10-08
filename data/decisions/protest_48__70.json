@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "5",
+  "hearing_datetime": "24 JUN 15:50",
+  "parties": [
+    "International Jury",
+    "Coach Keith Videlo - GBR 577, GBR"
+  ],
+  "procedural_matters": [
+    "The International Jury decided to call an hearing under RRS 62.1",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Keith Videlo - coach vessel registration number GBR 577 - did not come to the hearing. The hearing proceeded in accordance with RRS 63.1(b).",
+    "Charlotte Videlo (GBR 221854) did not come to the hearing. The hearing proceeded in accordance with RRS 63.1(b).",
+    "Anna Cuccia, International Jury member, presented the allegation on behalf of the International Jury.",
+    "The International Jury provided photo evidence."
+  ],
+  "facts": [
+    "During the starting procedure of race F5, gold fleet, the Coach boat registration number GBR 577 was about 25 m behind the RC starting vessel and about 15 m behind the racing boats.",
+    "At the moment of the incident the preparatory signal was displayed.",
+    "Coach boat registration number GBR 577 immediatelly moved away from the starting line as soon as the International Jury signalled to him to do so.",
+    "When the International Jury informed the Coach boat registration number GBR 577, about the intention to protest, he apologised for the incident."
+  ],
+  "rules": [
+    "ESTR 5.1.1",
+    "ESTR 5.1.2"
+  ],
+  "conclusions": [
+    "By being at about 25 m meters of the boats racing during the starting procedure of the Gold fleet, coach GBR 577 broke ESTR 5.1.1",
+    "By being less than 50 meters of the starting line, and RC starting vessel, during the starting procedure of the Gold fleet, coach GBR 577 broke ESTR 5.1.2"
+  ],
+  "decision": [
+    "Coach GBR 577 is issued a warning GBR 221854 is issued a warning that any further breach of a rule by her coach may result in a penalty to her."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Michal Zak",
+    "members": [
+      "Anna Cuccia",
+      "Josephine Wilken"
+    ]
+  }
+}

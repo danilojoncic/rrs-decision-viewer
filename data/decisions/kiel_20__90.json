@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "5",
+  "hearing_datetime": "22 JUN 15:15",
+  "parties": [
+    "International Jury",
+    "Ramon Olicen (USA 205), USA 43 (R5)"
+  ],
+  "procedural_matters": [
+    "Ramon Olicen attended the hearing.",
+    "At the beginning of the hearing Julia Schmidt and Louis Mayo (members of the international jury panel) declared that they saw the incident and gave evidence as witnesses.",
+    "USA 43 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "After race 5, Mr. Ramon Olicen (support person 205) was motoring the rib with a speed of approximately 5 knots, into the direction of the race committee signal vessel, with the kill cord line dangling from the throttle.",
+    "After waving at the jury vessel, Mr. Ramon Olicen reached down to the kill cord line and attached it to his leg.",
+    "During the hearing Mr. Ramon Olicen admitted that he was not wearing the kill cord and apologized."
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "ESTR 3.2"
+  ],
+  "conclusions": [
+    "By not wearing the kill cord while the engine was running, Mr. Ramon Olicen broke ESTR 3.2.",
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats and Support Persons a starting penalty of level 2 was decided.",
+    "Although the breach could have affected safety, the support person was apologetic and promptly remedied the breach; the level 2 will hence stand."
+  ],
+  "decision": [
+    "Mr. Ramon Olicen shall stay ashore until the first race of their supported boat(s) on June 23rd has started."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Giorgio Davanzo",
+    "members": [
+      "Stavros Kouris",
+      "Louis Mackenzie Mayo",
+      "Jens Biederer",
+      "Julia Schmidt"
+    ]
+  }
+}

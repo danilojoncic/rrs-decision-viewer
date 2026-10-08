@@ -1,0 +1,50 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 Izola Spring Cup 37",
+  "race_number": "4",
+  "hearing_datetime": "2026-04-04 17:25",
+  "parties": [
+    "CRO 56136 - Kiara Radnic Marul Vlahov",
+    "HUN 56977 - Attila Fehervari Mate Voller",
+    "CRO 56136 - Kiara Radnic Marul Vlahov",
+    "HUN 56977 - Attila Fehervari Mate Voller"
+  ],
+  "procedural_matters": [
+    "Hearing No. 6 was heard together with Hearing No. 7 in accordance with RRS 63.2(b) since both hearings arose from the same incident."
+  ],
+  "facts": [
+    "Race 4, windward leg.",
+    "Wind speed 5 knots, flat sea.",
+    "CRO 56136 on starboard and HUN 56977 on port on the beat to windward on converging courses.",
+    "Both boats kept the course with any changes with HUN 56977 aiming to the mast of CRO 56136.",
+    "Collision occurred between the boats with damage on the port side of the hull of CRO 56136 in the form of delamination and some cracks on the gunwhale. Delamination is 0,5 m long with a gap of more than 1 cm wide. Water leaked into the hull.",
+    "During the hearing HUN 56977 admitted that at the time of incident she knows she broke a rule.",
+    "Both boats continued racing and finished.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14",
+    "RRS 2"
+  ],
+  "conclusions": [
+    "HUN 56977 on port tack failed to keep clear of CRO 56136 on starboard tack, and broke RRS 10",
+    "HUN 56977 did not avoid contact with CRO 56136 when it was reasonably possible, and broke RRS 14.",
+    "CRO 56136 did not avoid contact with HUN 56977 when it was reasonably possible, and broke RRS 14.",
+    "By knowingly breaking rule 10 and 14 and not taking the appropriate penalty, HUN 56977 failed to compete in compliance with the principles of sportsmanship and fair play as stated in RRS Basic Principles. HUN 56977 broke RRS 2."
+  ],
+  "decision": [
+    "HUN 56977 is DNE in race no.4 CRO 56136 is DSQ in race no.4"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Ilker Bayindir",
+    "members": [
+      "Uros Zvan",
+      "Cristian Tabacu",
+      "Christian Hotwagner",
+      "Lorenzo Walch"
+    ]
+  }
+}

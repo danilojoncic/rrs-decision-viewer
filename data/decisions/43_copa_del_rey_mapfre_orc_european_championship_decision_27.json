@@ -1,0 +1,31 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Event: 43 Copa del Rey MAPFRE - ORC European Championship Race Number: 2",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "2",
+  "hearing_datetime": "2025-07-31 09:45",
+  "parties": [
+    "GER 5007 - Olymp - Juan Luis Paez Gutierrez"
+  ],
+  "procedural_matters": [
+    "OLYMP was represented by Juan Luis Paez."
+  ],
+  "facts": [
+    "Olymp asked to withdraw the request for redress."
+  ],
+  "rules": [],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the request for redress."
+  ],
+  "decision": [
+    "Request for redress withdrawn."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Andres Perez",
+    "members": [
+      "Pinar Coskuner Genc",
+      "Michal Jodlowski"
+    ]
+  }
+}

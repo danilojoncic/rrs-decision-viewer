@@ -1,0 +1,50 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by PC",
+  "event": "BPER BANCA Crotone International Carnival Race 2026",
+  "race_number": "3",
+  "hearing_datetime": "2026-02-16",
+  "parties": [
+    "ITA 8968 - ORSI LORENZO",
+    "ITA 9559 - MACHEDA GIUSEPPE"
+  ],
+  "procedural_matters": [
+    "ITA 9559 was represented by MACHEDA GIUSEPPE.",
+    "International Jury was represented by Uros Zvan (SLO).",
+    "ITA 8968 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "Member of the International Jury Danilo Joncic (MNE) gave testimony as a witness for the International Jury.",
+    "Member of the International Jury Giuseppe D'Amico (ITA) was present in the role of Italian interpreter."
+  ],
+  "facts": [
+    "Race 4, during leg 3, the run towards the gate marks.",
+    "Wind was 10-12 knots, sea state was choppy.",
+    "4 boats were sailing downwind by the lee on starboard, overlapped approaching to round the starboard gate mark (3A).",
+    "The inside boat closest to the starboard gate mark (3A) was ITA 8968, ITA 9559 was to leeward of ITA 8968. The two other unidentified boats were both to leeward of ITA 9559.",
+    "ITA 9559 slowed down and became clear astern.",
+    "2 unidentified boats left the starboard gate mark (3A) to starboard slowly, clear ahead of ITA 9559.",
+    "ITA 9559 gybed to port at the starboard gate mark (3A), passing between the marks (3A & 3B).",
+    "ITA 8968 left both gate marks (3A & 3B) to port.",
+    "Both ITA 8968 and ITA 9559 finished the race."
+  ],
+  "rules": [
+    "RRS 28.1",
+    "RRS 63.1(b)"
+  ],
+  "conclusions": [
+    "ITA 9559 sailed the course and did not break any rule.",
+    "By not passing the gate marks (3A & 3B) on the required side, ITA 8968 failed to sail the course, and broke RRS 28.1."
+  ],
+  "decision": [
+    "Protest against ITA 9559 is dismissed. ITA 8968 is DSQ in race 3."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Michal Kwiatek",
+    "members": [
+      "Giuseppe Gentile",
+      "Uros Zvan",
+      "Danilo Joncic",
+      "Massimo Andrea Racco"
+    ]
+  }
+}

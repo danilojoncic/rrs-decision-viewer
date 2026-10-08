@@ -1,0 +1,35 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "Nacra15 World Championship, 2026",
+  "race_number": "10",
+  "hearing_datetime": "2026-07-30 20:25",
+  "parties": [],
+  "procedural_matters": [
+    "No party came to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "The protest/redress form does not identify the initiator, respondents or any incident."
+  ],
+  "rules": [
+    "RRS 60.4(a)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "The protest did not identify the protestor and protestee nor the incident as required by RRS 60.3(a).",
+    "The request for redress did not identify the reasons for making it, as required by RRS 61.2."
+  ],
+  "decision": [
+    "The protest and request for redress is invalid - the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Louis Mayo",
+    "members": [
+      "Stavros Kouris",
+      "Will Davies",
+      "Julia Schmidt",
+      "Carol Haines"
+    ]
+  }
+}

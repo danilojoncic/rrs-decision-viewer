@@ -1,0 +1,59 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "1",
+  "hearing_datetime": "9 JUL 17:25",
+  "parties": [
+    "International Jury",
+    "ITA 3340 (R1)"
+  ],
+  "procedural_matters": [
+    "ITA 3340 was represented by Lisa Iacomelli (crew).",
+    "Elena Gonella (helm of ITA 3340) gave evidence as a witness.",
+    "Stavros Kouris (member of international jury) gave evidence as a witness.",
+    "International jury submitted the protest on 9 July at 09:08, right after finding out that ITA 3340 has not provided the third party liability insurance information to GER 3541 on 9 July at 09:00. The protest is valid under RRS 60.3(a)(2).",
+    "The hearing was suspended at 18:03 in order for ITA 3340 to find the insurance from the Italian Sailing Federation, the hearing restarted at 18:09."
+  ],
+  "facts": [
+    "There was a collision between GER 3541 and ITA 3340 during race F3 (silver) on 7 July 2026. GER 3541 was damaged as a result of this collision.",
+    "GER 3541 lodged a protest against ITA 3340, alleging that ITA 3340 broke a rule, under Case",
+    "Before the protest was heard on 7 July 2026, at approximately 15:00, ITA 3340 undertook orally and in writing to provide her third party liability insurance information to GER 3541.",
+    "As a result of this undertaking, GER 3541 withdraw the protest against ITA 3340.",
+    "On the 8 July at 18:25, the consideration of GER 3541’s request to reopen Case 34, was held. By then ITA 3340 had not given any insurance details to GER 3541, because ITA 3340 was waiting to see the video about the incident, and she stated that she did not have to provide the information as she was not at fault. After the above consideration by the international jury, ITA 3340 stated again that she would provide the third party liability information.",
+    "Around 20:00 in the evening of 8 July, on a WhatsApp conversation with GER 3541, ITA 3340 sent a document that included information about being a member of the Italian Sailing Federation. It did not provide third party liability insurance information.",
+    "ITA 3340 believed that the information as being a member of the Italian Sailing Federation was insurance information.",
+    "During the hearing ITA 3340 received further information by mobile phone, including a certificate from the FIV (Italian Sailing Federation) that it provides third party liability insurance for its members. ITA 3340 did not provide a copy of an insurance policy wording or a policy schedule.",
+    "There was a collision between GER 3541 and ITA 3340 during race F3 (silver) on 7 July 2026. GER 3541 was damaged as a result of this collision.",
+    "GER 3541 lodged a protest against ITA 3340, alleging that ITA 3340 broke a rule, under Case",
+    "Before the protest was heard on 7 July 2026, at approximately 15:00, ITA 3340 undertook orally and in writing to provide her third party liability insurance information to GER 3541.",
+    "As a result of this undertaking, GER 3541 withdraw the protest against ITA 3340.",
+    "On the 8 July at 18:25, the consideratioCna osfe G DEeRta 3i5ls41’s request to reopen Case 34, was held. As of 9 JUL 2026 At 21:50 By then ITA 3340 had not given any insurance details to GER 3541, because ITA 3340 was waiting to see the video about the incident, and she stated that she did not have to provide the information as she was not at fault. After the above consideration by the international jury, ITA 3340 stated again that she would provide the third party liability information.",
+    "Around 20:00 in the evening of 8 July, on a WhatsApp conversation with GER 3541, ITA 3340 sent a document that included information about being a member of the Italian Sailing Federation. It did not provide third party liability insurance information.",
+    "ITA 3340 believed that the information as being a member of the Italian Sailing Federation was insurance information.",
+    "During the hearing ITA 3340 received further information by mobile phone, including a certificate from the FIV (Italian Sailing Federation) that it provides third party liability insurance for its members. ITA 3340 did not provide a copy of an insurance policy wording or a policy schedule."
+  ],
+  "rules": [
+    "RRS 2",
+    "NoR 20",
+    "SI 33"
+  ],
+  "conclusions": [
+    "The giving of an undertaking to provide third party liability insurance information, causing a protest to be withdrawn, and failing to provide any information before GER 3541 took further action, is not in compliance of recognized principles of sportsmanship and fair play. It is clearly established that ITA 3340 broke RRS 2.",
+    "The penalty is applied, according to RRS 60.5(c), to the race sailed nearest in time to the incident, which is after signing the undertaking on 7 July and sending insurance information to GER 3541 on 8 July. The race closest in time is F6.",
+    "Each participating boat in the 2026 29er World Championship is required to have a valid third- party liability insurance, and to exchange the insurance policy information after an incident with damage in terms of NoR 20 and SI 33. On balance of probabilities the international jury finds that ITA 3340 has such valid third-party liability insurance, as required by NoR 20 and SI 33."
+  ],
+  "decision": [
+    "ITA 3340 is scored DNE in race F6. The penalty is applied to the race sailed nearest in time to the incident, which is F6"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Stavros Kouris",
+      "Holger Herburger",
+      "Maria Ramirez",
+      "Johanna Poksi"
+    ]
+  }
+}

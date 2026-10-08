@@ -1,0 +1,57 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest / Request for Redress",
+  "event": "2025 ILCA 4 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "19",
+  "hearing_datetime": "",
+  "parties": [
+    "POL 184167 - Mateusz KUCHOWICZ",
+    "SWE 206634 - Leo FLOREN"
+  ],
+  "procedural_matters": [
+    "Hearing No. 18 was heard together with hearing No. 19 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Wind conditions: 5 kts with small waves.",
+    "POL 184167 and SWE 206634 were sailing downwind overlapped, with POL 184167 on starboard tack slightly to the back, and to the port side of SWE 206634 sailing on a port tack.",
+    "The lateral distance between POL 184167 and SWE 206634 was around 1m.",
+    "There were around 8 to 10 boats overlapped to the port side of POL 184167, some of them sailing inside the zone and aiming for the mark 3p.",
+    "POL 174480, sailing on port tack, was less than 1 boom length beside POL 184167 and overlapped to leeward of her.",
+    "POL 184167 luffed slightly.",
+    "Shortly after, SWE 206634 luffed and closed the distance from POL 184167 to less than 30 cm.",
+    "SWE 206634 bore away and immediately a contact occured between POL 184167's starboard side of the hull amidships and the aft quarter of SWE 206634's port side of the hull.",
+    "POL 184167's bow was pushed to leeward and contact occured between POL 184167's port side and POL 174480's starboard side.",
+    "There was no damage or injury.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 63",
+    "RRS N1.4(b)",
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 14(b)",
+    "RRS 43.1(a)",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "SWE 206634 on port tack failed to keep clear of POL 184167 on starboard tack, and broke RRS 10.",
+    "SWE 206634 did not avoid contact with POL 184167 even though it was reasonably possible, and broke RRS 14(a).",
+    "SWE 206634 caused contact between POL 184167 and POL 174480 even though it was reasonably possible to avoid causing it, and broke RRS 14(b).",
+    "It was not reasonably possible for POL 184167 the right-of-way boat to avoid contact with POL 174480 when it became clear that SWE 206634 was not keeping clear. POL 184167 did not break RRS 14(a).",
+    "It was not reasonably possible for POL 174480 to avoid contact with POL 184167. POL 174480 did not break RRS 14(a).",
+    "POL 174480 on port tack failed to keep clear of POL 184167 on starboard tack and broke RRS 10. Since POL 174480 was compelled to break RRS 10 as a consequence of SWE 206634 breaking RRS 10 and 14(b), she is exonerated under RRS 43.1(a) for this breach.",
+    "Since there was no injury or physical damage caused because of the action of SWE 206634 that was breaking RRS 10 and 14(a) and 14(b), the requirements for redress in RRS 61.4(b)(2) are not met."
+  ],
+  "decision": [
+    "SWE 206634 is DSQ in race 6. Redress is not given to POL 184167."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Iuan Gray",
+    "members": [
+      "Jean-Bernard Luther",
+      "Ewa Szyfter"
+    ]
+  }
+}

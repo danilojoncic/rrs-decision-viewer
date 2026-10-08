@@ -1,0 +1,62 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "4",
+  "hearing_datetime": "5 JUL 14:45",
+  "parties": [
+    "International Jury",
+    "USA 3145 (R5)"
+  ],
+  "procedural_matters": [
+    "During Hearing No. 10, which was a valid protest, the panel of the international jury learned that USA 3145 was involved in the incident and may have broken a rule. The panel of the international jury decided to protest USA 3145, proceeded under RRS 63.2(d) and heard the original and new protests together.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "USA 3145 was represented by Thomas Zaydon.",
+    "FRA 2743 was represented by Nino Corti",
+    "GBR 3260 was represented by Dirk Rogers",
+    "GBR 3260 presented the video evidence.",
+    "Tomas Diluciano (coach of USA 3145) attended the hearing as an observer."
+  ],
+  "facts": [
+    "The Black Flag was displayed as the preparatory signal for Race Q4 of the 29er Red fleet.",
+    "The conditions at the time of the incident were 18 knots of wind.",
+    "Ten seconds before the starting signal, GBR 3260, FRA 2743, and USA 3145 were sailing on starboard tack, along the starting line near the pin end. USA 3145 was 2 metres clear ahead of FRA 2743, who was 8 metres clear ahead of GBR 3260.",
+    "At the pin end, USA 3145 tacked onto port tack. When she reached a close-hauled course, USA 3145 was less than 4 metres from FRA 2743. FRA 2743's bow was pointing slightly in front of USA 3145's mast.",
+    "FRA 2743 tacked immediately onto port tack, crossing the starting line, and immediately made an effort to bear away. At that moment the distance between FRA 2743 and GBR 3260 was 5 metres.",
+    "Within a second, while FRA 2743 was stalled on a reaching course, GBR 3260 luffed and heeled to windward, and contact occurred between FRA 2743's bowsprit and GBR 3260's port side of the hull amidships and below water level.",
+    "The contact resulted in a hole of 15 centimetres diameter through GBR 3260 hull resulting in water coming into the boat.",
+    "No boat took any penalty.",
+    "There was no general recall.",
+    "USA 3145 and FRA 2743 were scored BFD in race Q4.",
+    "FRA 2743 never returned completely on the pre-start side of the line after the incident."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 14(b)",
+    "RRS 28.1",
+    "RRS 30.4",
+    "RRS 43.1(a)",
+    "RRS 60.4(c)(2)",
+    "RRS 63.2(d)"
+  ],
+  "conclusions": [
+    "USA 3145 on port tack failed to keep clear of FRA 2743 on starboard tack, and broke RRS 10.",
+    "USA 3145 caused contact between FRA 2743 and GBR 3260, even though it was reasonably possible to avoid causing it, and broke RRS 14(b).",
+    "FRA 2743 on port tack failed to keep clear of GBR 3260 on starboard tack, and broke RRS 10",
+    "It was not reasonably possible for FRA 2743 to avoid contact with GBR 3260. FRA 2743 did not break RRS 14(a).",
+    "FRA 2743 was compelled to break RRS 10 and 30.4 as a consequence of USA 3145 breaking RRS 10, therefore she is exonerated under RRS 43.1(a) for these breaches. However, FRA 2743 did not comply with the definition start and broke RRS 28.1. FRA 2743 shall be scored OCS in race Q4.(See WS Case 140).",
+    "It was not reasonably possible for GBR 3260, the right-of-way boat to avoid contact with FRA 2743 when it became clear that 2743 was not keeping clear. GBR 3260 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "USA 3145 is DSQ in race Q4. FRA 2743 shall be scored OCS in race Q4"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Stavros Kouris",
+    "members": [
+      "Niclas Kath",
+      "Julia Schmidt"
+    ]
+  }
+}

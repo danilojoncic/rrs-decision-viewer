@@ -1,0 +1,51 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA 6 Women's & ILCA 7 Men's World Championships",
+  "race_number": "2,",
+  "hearing_datetime": "",
+  "parties": [
+    "CHN 220297 - Min Gu"
+  ],
+  "procedural_matters": [
+    "Cases 1, 2, and 3 were heard together according to RRS 63.2(b) as they are closely connected incidents.",
+    "The race committee was represented by Sandy Grosvenor.",
+    "CHN 229287 was represented by Min Gu.",
+    "GER 223716 was represented by Amelie Elstner.",
+    "HKG 191713 was represented by Stephanie Norton.",
+    "Zuoru Jiang (member of the international Jury) acted as interpreter for Min Gu.",
+    "Sukkyong Kim (member of the international Jury) attended the hearing as an observer.",
+    "The video evidence from the race committee start signal vessel and the coach of Min Gu was presented during the hearing.",
+    "On 15 May 2025, the protest time limit for ILCA 6 Yellow Fleet was 16:50.",
+    "GER 223716 submitted a scoring enquiry at 16:50, claiming that she should not be scored BFD. At 17:08, the race committee decided to make no change to her score. Subsequently, GER 223716 filed a request for redress 9 minutes later.",
+    "HKG 191713 submitted a scoring enquiry at 16:54, claiming that she should not be scored BFD. At 17:08, the race committee decided to make no change to her score. Subsequently, she filed a request for redress 9 minutes later.",
+    "HKG 191713 was initially filing a request for redress before being told that she should submit a scoring enquiry first. HKG 191713 failed to deliver the request within the protest time limit as required by RRS 61.2(b)(1). The international jury was convinced that HKG 191713 started filing her request for redress as soon as possible after returning ashore. Therefore, there was a good reason for the international jury to extend the time limit."
+  ],
+  "facts": [
+    "The race committee used a black flag as the preparatory signal for Race 1.",
+    "The hulls of HKG 191713, GER 223716, and CHN 220297 were correctly identified in the triangle formed by the ends of the starting line and the first mark in the last 4 seconds before the starting signal.",
+    "General recall was signalled by the race committee after the start.",
+    "The sail numbers of HKG 191713, GER 223716, and CHN 220297 were displayed on the race committee vessel as BFD boats."
+  ],
+  "rules": [
+    "RRS 63.2(b)",
+    "RRS 61.2(b)(1)",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee by identifying the sail numbers of HKG 191713, GER 223716, and CHN 220297 as BFD, therefore, the requirements for redress in RRS 61.4(b)(1) are not met. Rules: 61.2(b)(1), 61.4(b)(1) and 63.2(b)"
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Xiaolong XU",
+    "members": [
+      "Jacob Mossin Andersen",
+      "Damien Boldyrew",
+      "Jerrold Ng",
+      "Dongning Zhou"
+    ]
+  }
+}

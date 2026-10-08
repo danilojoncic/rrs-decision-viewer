@@ -1,0 +1,49 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "7",
+  "hearing_datetime": "18:40:46",
+  "parties": [
+    "GER 191899 - Philip WALKENBACH",
+    "GRE 203690 - Georgios PAPADAKOS"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Melker Ahlquist (Rule 42 observer) attended the hearing as an observer.",
+    "Alexander Schlonski (Coach of GER 191899) attended the hearing as an observer.",
+    "GER 191899 provided video evidence."
+  ],
+  "facts": [
+    "Wind speed about 8 kn. and small chop.",
+    "GER 191899 and GRE 203690 were sailing on starboard tack below the starting line near the RC signal vessel at 50 sec to the starting signal.",
+    "GER 191899 heading was head to wind at that moment, and she was overlapped to leeward of GRE 203690, who was sailing on a close-hauled course.",
+    "There was another boat to leeward and overlapped with GER 191899 at a lateral distance of less than a boatwidth.",
+    "When the lateral distance between GER 191899 and GRE 203690 was 1.5 boatwidth GER hailed GRE 203690.",
+    "10 sec later a contact occurred between the starboard first 3rd of GER 191899 and the port first 3rd of GRE 203690.",
+    "No damage occurred.",
+    "No penalty taken. Rules Applicable: RRS 11, 14, N1.4(b) and Case 107"
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14",
+    "World Sailing Case 107",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GRE 203690 to windward failed to keep clear of GER 191899 to leeward, and broke RRS 11.",
+    "GRE 203690 did not avoid contact with GER 191899 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for GER 191899 the right-of-way boat to avoid contact with GRE 203690 when it became clear that GRE 203690 was not keeping clear. GER 191899 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "GRE 203690 is DSQ in race nr. 7"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Charlotte Greppe",
+    "members": [
+      "Jean-Bernard Luther",
+      "Heiko Thoelmann"
+    ]
+  }
+}

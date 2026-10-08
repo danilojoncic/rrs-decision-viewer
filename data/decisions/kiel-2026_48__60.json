@@ -1,0 +1,51 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "26 JUN 17:00",
+  "parties": [
+    "GER 3457",
+    "IND 3407"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GER 3457 was represented in the hearing by Maiken Fromm (helm).",
+    "IND 3407 was represented in the hearing by Lahari Kommaravelly (helm).",
+    "Tobias Matern (coach of GER 3457) attended the hearing as an observer.",
+    "K. C. Ganapathy (coach of IND 3407) attended the hearing as an observer.",
+    "Ben Greenhalgh (crew of GBR 3513) gave evidence as a witness.",
+    "Eswa Suragani (crew of IND 3407) gave evidence as a witness.",
+    "GER 3457 provided video evidence during the hearing."
+  ],
+  "facts": [
+    "The incident occurred during race 6 of 29er yellow fleet.",
+    "The conditions at the moment of the incident were 8 knots of wind with choppy waves.",
+    "GER 3457 entered the zone of mark 4p while sailing on a broad reach on starboard tack.",
+    "At that moment IND 3407 was sailing on a broad reach on starboard tack clear astern of GER",
+    "GER 3457 gybed at less than one boat length from the mark and was now sailing towards it.",
+    "IND 3407 gybed and overlapped to windward of GER 3407.",
+    "IND 3407 rounded the mark close to it and about 50 centimetres to windward of GER 3457 side by side and then both boats luffed to close-hauled course.",
+    "IND 3407 left the mark astern clear ahead of GER 3457.",
+    "There was no contact and neither boat took penalty turns."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 18.2(a)(2)"
+  ],
+  "conclusions": [
+    "IND 3407 not overlapped with GER 3457 and not in the zone at the time GER 3457 reached the zone, failed to give GER 3457 mark-room, and broke RRS 18.2(a)(2).",
+    "IND 3407 to windward failed to keep clear of GER 3457 to leeward, and broke RRS 11."
+  ],
+  "decision": [
+    "IND 3407 is to be scored DSQ in race 6."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Rick Mallinson",
+    "members": [
+      "Alessandro Berrone",
+      "Lance Burger"
+    ]
+  }
+}

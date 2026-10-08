@@ -1,0 +1,40 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "10",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 210172 - Marc O'CONNOR"
+  ],
+  "procedural_matters": [
+    "Albert Vadell (coach of ESP 210172) attended the hearing as an observer.",
+    "ESP 210172 represented by Marc O'Connor.",
+    "Race Committee represented by Marko Misura.",
+    "On request of ESP 210172 race committee presented a video from the pin end."
+  ],
+  "facts": [
+    "Race 10 ILCA 7 men gold fleet was started with black flag as preparatory signal.",
+    "ESP 210172 was find in the triangle formed by both ends of the starting line and mark no. 1",
+    "Race committee scored ESP 210172 BFD in race no. 10"
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Danilo Joncic",
+    "members": [
+      "Arto Kiiski",
+      "Johanna Poksi",
+      "Mirko Ukas",
+      "Uros Zvan"
+    ]
+  }
+}

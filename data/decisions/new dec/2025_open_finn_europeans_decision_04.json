@@ -1,0 +1,37 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request to Reopen",
+  "event": "2025 Open Finn Europeans",
+  "race_number": "1",
+  "hearing_datetime": "2025-04-08 19:00",
+  "parties": [
+    "POL 26 - Boguslaw Nowakowski",
+    "ITA 13 - Giulio Piccialli"
+  ],
+  "procedural_matters": [
+    "POL 26 was represented by Boguslaw Nowakowksi."
+  ],
+  "facts": [
+    "In the request POL 26 made a statement about her view concerning the incident that was the reason for the protest by ITA 13.",
+    "POL 26 did not state any reasons why she did not attend the hearing."
+  ],
+  "rules": [
+    "RRS 63.7"
+  ],
+  "conclusions": [
+    "POL 26´s request to reopen Hearing No. 2 did not identify the reason for making it."
+  ],
+  "decision": [
+    "POL 26’s request to reopen Hearing No. 2 is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Sylvie Harle",
+    "members": [
+      "Timo Haß",
+      "Stavros Kouris",
+      "Marco Flavio Tosello",
+      "Jan Stage"
+    ]
+  }
+}

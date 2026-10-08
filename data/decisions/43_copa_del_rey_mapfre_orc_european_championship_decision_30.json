@@ -1,0 +1,34 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "All races",
+  "hearing_datetime": "2025-07-31 18:10",
+  "parties": [
+    "NED 4411 - Checkmate - Erik De ridder"
+  ],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b).",
+    "NED 4411 represented by Erik de Ridder."
+  ],
+  "facts": [
+    "The request for redress concerns categorization and was lodged on 31.07.",
+    "NoR 6.6 states \"The time limit for a protest or request for redress by a boat regarding the World Sailing’s Sailors Categorization Code is 20:00 on 29 July 2025.\""
+  ],
+  "rules": [
+    "NoR 6.6",
+    "RRS 62.2"
+  ],
+  "conclusions": [],
+  "decision": [
+    "Request for redress invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

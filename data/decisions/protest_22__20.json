@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "6",
+  "hearing_datetime": "",
+  "parties": [
+    "JPN",
+    "GRE"
+  ],
+  "procedural_matters": [
+    "Cases 22 and 27 where heared together since the arrised from the same incident",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Kohei Zchlkawa, coach of JPN, acted as a translator for him during the hearing.",
+    "Genki Kahara, helm of JPN, represented her in the hearing",
+    "Emmanouil Anastasios Vomvylas, was a called a a witness to the hearing and gave evidence"
+  ],
+  "facts": [
+    "On the first downwind leg of the 6th race, GRE became stuck with the port side mark of the leeward gate, dragging it several meters to leeward.",
+    "As a result of this, JPN who was behind GRE before the rounding went from appx. 15th to 30th place in the race.",
+    "There was no injury nor physical damage to JPN.",
+    "GRE did not take a penalty regarding this incident, was not penalized and finished the race."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "JPN did not endure injury nor physical damage from the incident. Therefore, the requirements for redress in RRS 61.4(b)(2) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Maria Ramires",
+    "members": [
+      "Hella Bouma",
+      "Mateo Skoknic"
+    ]
+  }
+}

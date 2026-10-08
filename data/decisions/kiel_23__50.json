@@ -1,0 +1,45 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "7",
+  "hearing_datetime": "22 JUN 18:20",
+  "parties": [
+    "SWE 34",
+    "GER 79"
+  ],
+  "procedural_matters": [
+    "SWE 34 was represented by Carl Ljunggren (crew).",
+    "GER 79 was represented by Reamonn Theiner (helm).",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "Riccardo Honold (crew of GER 49) gave evidence as a witness."
+  ],
+  "facts": [
+    "The conditions at the time of theincident were 4 knots of wind with slightly choppy sea state.",
+    "When the boats were on the leg between mark 1 and 2, the wind shifted 30 degrees to the right.",
+    "SWE 34 and GER 79 gybed from starboardto port tack at a distance of 6-7 boat lengths to mark 2.",
+    "SWE 34 was overlapped to leeward ofGER 79 and half a boat length to the front.",
+    "When SWE 34 entered the zone of mark 2, she wasoutside overlapped to GER 79.",
+    "SWE 34 bore away at the distance of half a boat length to mark 2.",
+    "GER 79 passed between mark 2 andSWE 34.",
+    "There was no contact."
+  ],
+  "rules": [
+    "RRS 18.2(a)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "SWE 34 outside overlapped at the zone gave mark-room to GER 79, and complied with her obligations under RRS 18.2(a)(1)."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Hella Bouma",
+    "members": [
+      "Hrvoje Ban",
+      "Václav Brabec"
+    ]
+  }
+}

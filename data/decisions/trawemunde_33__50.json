@@ -1,0 +1,50 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "2",
+  "hearing_datetime": "23 JUL 16:30",
+  "parties": [
+    "GBR 315",
+    "GER 289"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "The conditions during Race 2 were approximately 12–14 knots of wind and 0.3 m waves.",
+    "GBR 315 and GER 289 were sailing on starboard tack from mark 1 to mark 1a to be left on port.",
+    "GBR 315 reached the zone one boat length clear ahead of GER 289.",
+    "After entering the zone, GBR 315 bore away towards the mark.",
+    "Before GBR 315 had left the mark astern, GER 289 sailed between GBR 315 and the mark.",
+    "GER 289’s position prevented GBR 315 from sailing directly to the mark.",
+    "GER 289 luffed.",
+    "Contact occurred between the transom of GBR 315 and the bow of GER 289.",
+    "There was no damage or injury.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 18.2(b)",
+    "RRS 14(a)",
+    "RRS 14(b)",
+    "RRS 43.1(b)"
+  ],
+  "conclusions": [
+    "When GBR 315 reached the zone of mark 1a clear ahead, she became entitled to mark-room under rule RRS 18.2(b).",
+    "GER 289 failed to give GBR 315 mark-room and broke rule RRS 18.2(b).",
+    "It was reasonably possible for GER 289 to avoid contact; therefore she broke rule RRS 14 (a).",
+    "It was not reasonably possible for GBR 315 the boat sailing within the mark-room to which she was entitled to avoid contact when it became clear that GER 289 was not giving mark-room. GBR 315 did not break RRS 14(b).",
+    "GBR 315 to windward failed to keep clear of GER 289 to leeward, and broke RRS 11. Since GBR 315 broke RRS 11 while she was sailing within the [mark-room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach."
+  ],
+  "decision": [
+    "GER 289 is DSQ in Race 2 for breaking Rules RRS 18.2(b) and RRS 14(a)."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Niclas Kath",
+    "members": [
+      "Joanna Sachs",
+      "Manuel Huensch",
+      "Raoul Meyer",
+      "Gonzalo Heredia"
+    ]
+  }
+}

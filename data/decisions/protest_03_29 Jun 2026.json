@@ -1,0 +1,35 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Request For Redress",
+  "event": "Optimist",
+  "race_number": "",
+  "hearing_datetime": "21 Jun 2026 at 19:50",
+  "parties": [
+    "MEX 1265 - OTIS BALE DOUGLAS CARDOW",
+    "Race Committee"
+  ],
+  "procedural_matters": [
+    "The race committee reviewed the case before the hearing and changed the score of MEX 1265 as requested.",
+    "MEX 1265's request to withdraw the request for redress was received as a text message by Gonzalo Heredia, IJ ARG (chair nternational jury)."
+  ],
+  "facts": [
+    "MEX 1265 requested to withdraw the request for redress."
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "Request for redress withdrawn"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "IJ ARG (",
+    "members": [
+      "Gonzalo Heredia",
+      "Gurvinderpal Julka IJ IND"
+    ]
+  }
+}

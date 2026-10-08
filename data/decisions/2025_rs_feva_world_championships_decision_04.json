@@ -1,0 +1,25 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "2",
+  "hearing_datetime": "2025-07-29",
+  "parties": [
+    "NOR 8667 - Mixed - Synne Maria Glattetre-Henriksen",
+    "NED 3469 - Mixed - Bram Ten Berge"
+  ],
+  "procedural_matters": [],
+  "facts": [],
+  "rules": [],
+  "conclusions": [
+    "Rules:"
+  ],
+  "decision": [
+    "Protest withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jean-Luc Michon",
+    "members": []
+  }
+}

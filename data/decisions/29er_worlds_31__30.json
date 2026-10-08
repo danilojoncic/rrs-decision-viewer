@@ -1,0 +1,38 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "9",
+  "hearing_datetime": "7 JUL 16:00",
+  "parties": [
+    "Race Committee",
+    "FRA 2998 (R11)"
+  ],
+  "procedural_matters": [
+    "FRA 2998 was represented by Jouan Barnabe.",
+    "Race committee was represented by Fabian Bach.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "During race F1 of gold fleet, the conditions during the time of the incident were 20 knots of wind with light chop.",
+    "On the last leg to finish right after rounding mark 2p, the crew of FRA 2998 fell out of the boat.",
+    "The helm of FRA 2998 continued sailing and crossed the finishing line without crew on board or in contact with the boat."
+  ],
+  "rules": [
+    "RRS 48.2"
+  ],
+  "conclusions": [
+    "Since the crew of FRA 2998 left the boat by accident and was not back in contact with the boat before resuming sailing, he broke RRS 48.2."
+  ],
+  "decision": [
+    "FRA 2998 is DSQ in race F1."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Stavros Kouris",
+    "members": [
+      "Julia Schmidt",
+      "Johanna Poksi"
+    ]
+  }
+}

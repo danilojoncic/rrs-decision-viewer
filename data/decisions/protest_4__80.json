@@ -1,0 +1,51 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "YES - Young Europeans Sailing 2026",
+  "race_number": "1",
+  "hearing_datetime": "24 MAY 19:00",
+  "parties": [
+    "Jury",
+    "-"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). GER 56734 was represented by Lucas Breckwoldt and Max Meyer. Competitors supported by Lars Breckwoldt who attended the hearing are: GER 56734. Ulrich Voglmeier (chairman of the technical committee) gave evidence as a witness for the race committee."
+  ],
+  "facts": [
+    "Wind conditions were 3–4 knots.",
+    "GER 56734 was sailing on leg 6.",
+    "Halfway between mark 3p and the finishing line, GER 56734 waved to their coach to come to them.",
+    "Lars Breckwoldt, support person of GER 56734, crossed the finishing line from the finishing side and entered the area where boats were racing and finishing.",
+    "The speed of the vessel was more than 5 knots and it generated waves on the course. No boat position changed due to the waves.",
+    "Lars Breckwoldt approached GER 56734 and talked with the crew while GER 56734 sailed towards the finishing line. The boat also received food.",
+    "GER 56734 finished the race and was scored."
+  ],
+  "rules": [
+    "RRS 41",
+    "ESTR 5.1.1",
+    "ESTR 5.1.6",
+    "ESTR 5.2"
+  ],
+  "conclusions": [
+    "GER 56734 received help from an outside source, and broke RRS 41.",
+    "Support person Lars Breckwoldt was closer than 50 meters of any boat racing and therefore broke ESTR 5.1.1",
+    "Support person Lars Breckwoldt was within 50 meters of the finishing line and finishing marks while boats were finishing and broke ESTR 5.1.6",
+    "Support person Lars Breckwoldt was motoring above five knots without maintaining a distance of at least 150 meters to boats racing, and broke ESTR 5.2.",
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons a starting penalty of Level 3 was decided.",
+    "The penalty was decreased because there was a good justification for it and Support person Lars Breckwoldt admitted to the breach.",
+    "There was no reason to increase the penalty."
+  ],
+  "decision": [
+    "GER 56734 is DSQ in race 1. Support person Lars Breckwoldt shall be anchored 200 metres to leeward of the starting vessel from the first warning signal of the first race of the day until all boats in the class have finished on 25 May 2026."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Antonio Rutoli",
+    "members": [
+      "Alexander Bratt",
+      "Eurico Teudoro",
+      "Heiko Thölmann",
+      "Christopher Lindsay"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2026",
+  "race_number": "5",
+  "hearing_datetime": "26 JUN 17:15",
+  "parties": [
+    "NZL 3022",
+    "Race Commity"
+  ],
+  "procedural_matters": [
+    "Sebastian MAYER (course race officer) attended the hearing representing the race committee.",
+    "NZL 3022 did not come to the hearing; the hearing proceeded in accordance with RRS 63.3(b)."
+  ],
+  "facts": [
+    "Uniform flag was displayed as a preparatory signal for the starting sequence of the Race 5 of the 29er Yellow fleet.",
+    "NZL 3022 was in the triangle formed by the ends of the starting line and the first markduring the last minute before the starting signal.",
+    "NZL 3022 was scored UFD."
+  ],
+  "rules": [
+    "RRS 30.3",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Timo Hass",
+    "members": [
+      "Václav Brabec",
+      "Giorgio Davanzo"
+    ]
+  }
+}

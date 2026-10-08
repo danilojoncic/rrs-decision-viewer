@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2025",
+  "race_number": "1",
+  "hearing_datetime": "27 JUN 17:00",
+  "parties": [
+    "CAY 226001",
+    "JURY (), Race Committee ()"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was constituted in accordance with N1.4(b).",
+    "The List of Race Committee Standard Penalties has been published June 26th 2025 at 13:57.",
+    "On June 26th 2025 after racing, the helm of CAY 226001 was advised in the jury office that she can put the request for redress in the next day.",
+    "The request for redress was submitted June 27th 2025 at 15:54.",
+    "The panel of International Jury decided to extend the time limit as there was a good reason to do so under RRS 61.2(b)."
+  ],
+  "facts": [
+    "On June 26th 2025, CAY 226001 was positioned partly in the boundaries of the boat park and partly on the walkway next to the boat park while rigging before the Delta flag with the ILCA 6 was displayed.",
+    "The List of Race Committee Standard Penalties has been published June 26th 2025 at 13:57.",
+    "CAY 226001`s number was written on the list.",
+    "CAY 226001 received a standard penalty of 5% added to the race 1."
+  ],
+  "rules": [
+    "SI 5.2",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "Since CAY 226001 was not kept in their assigned berth before flag D was displayed or the signal AP over A was made ashore, she broke SI 5.2.",
+    "The Race Committee imposed a standard penalty of 5% according to SI Part II - SI Addendum \"Standard penalties\"",
+    "There was neither an improper action nor omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Juuso Leivonen",
+    "members": [
+      "Michal Zak",
+      "Henning Jacobsen"
+    ]
+  }
+}

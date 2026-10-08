@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "YES - Young Europeans Sailing 2025",
+  "race_number": "5",
+  "hearing_datetime": "9 JUN 15:20",
+  "parties": [
+    "GER 2010",
+    "DEN 2496"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). Michael Nielsen (father of DEN 2496) attended the hearing as interpreter for DEN 2496. Sophia Aichinger (Coach of GER 2010) gave evidence as a witness for GER 2010. Hearing reopened on Tuesday June 10 at 10:00 a.m. Panel for Reopening: Heiko Falch GER, Nicole de By NED, Enrica Mameli ITA Fact 5 corrected (incorrect size of the hole removed)"
+  ],
+  "facts": [
+    "During theincident the conditions were wind of 16 knots and waves of around 1 meter.",
+    "GER 2010 was sailing onstarboard tack head to wind stationary at the starting line 1 minute before the start.",
+    "DEN 2496 was approachingon port tack below the starting line on a converging course with GER 2010.",
+    "DEN 2496 luffed and passed head to wind just to leeward of GER 2010 at a lateral distance of half a meter.",
+    "Beforefinishing her tack, there was contact between the mast of DEN 2496 and the top of the main sailof GER 2010, resulting in a hole in the mainsail of GER 2010.",
+    "DEN 2496 capsizedto leeward and GER 2010 capsized to windward.",
+    "DEN 2496 sailed the race,",
+    "GER 2010 did not sail in race 5 and 6.",
+    "DEN 2496 did not take a penalty."
+  ],
+  "rules": [
+    "RRS 13",
+    "RRS 14(a)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "After passing head to wind andbefore being on a close-hauled course, DEN 2496 failed to keep clear of GER 2010. DEN 2496 broke RRS 13. DEN 2496 didnot avoid contact with GER 2010 even though it was reasonably possible, andbroke RRS 14(a). It was notreasonably possible for GER 2010 the right-of-way boat to avoid contact with DEN 2496 when it became clear that DEN 2496 was not keeping clear. GER 2010 did notbreak RRS 14(a)."
+  ],
+  "decision": [
+    "DEN 2496 is DSQ in race 5."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Chris Watts",
+    "members": [
+      "Nicole de By",
+      "Christine Guba"
+    ]
+  }
+}

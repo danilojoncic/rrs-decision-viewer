@@ -1,0 +1,39 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 Izola Spring Cup 37",
+  "race_number": "3",
+  "hearing_datetime": "2026-04-03 18:30",
+  "parties": [
+    "AUT 219936 - Elena Sophie Hejny",
+    "SLO 163672 - Eva Yabrova"
+  ],
+  "procedural_matters": [
+    "SLO 163672 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "10 knots of wind, flat water.",
+    "AUT 219936 on starboard and SLO 163672 on port on the beat to windward on converging courses.",
+    "As boats approaches each other both boats luffed and tacked with minimum distance 30 cm between the hulls.",
+    "No contact occurred. No boat took penalty turns."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "SLO 163672 on port tack failed to keep clear of AUT 219936 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "SLO 163672 is DSQ in race no. 3."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cristian Tabacu",
+    "members": [
+      "Ilker Bayindir",
+      "Uros Zvan",
+      "Christian Hotwagner",
+      "Lorenzo Walch"
+    ]
+  }
+}

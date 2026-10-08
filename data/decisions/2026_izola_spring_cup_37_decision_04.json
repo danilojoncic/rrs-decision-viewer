@@ -1,0 +1,33 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 Izola Spring Cup 37",
+  "race_number": "2",
+  "hearing_datetime": "2026-04-03",
+  "parties": [
+    "GER 219865 - Julian Konrad Garbe",
+    "ITA 218713 - Melissa Leonie Ambrosi"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "GER 219865 ask to withdraw a protest."
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "Protest withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cristian Tabacu",
+    "members": [
+      "Ilker Bayindir",
+      "Christian Hotwagner",
+      "Lorenzo Walch"
+    ]
+  }
+}

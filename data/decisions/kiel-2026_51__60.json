@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2026",
+  "race_number": "3",
+  "hearing_datetime": "26 JUN 17:45",
+  "parties": [
+    "GER 1291",
+    "GER 254"
+  ],
+  "procedural_matters": [
+    "GER 1291 stated that his hearing request is only a protest.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Wind was approximately 8 knots, with small chop.",
+    "GER 254 on starboard tack and GER 1291 on port tack were sailing on converging courses towards the zone of last leeward mark (4p) before the finish.",
+    "2 GER 254 entered the zone overlapped inside of GER 1291.",
+    "3 GER 1291 passed behind GER 254.",
+    "4 GER 254 gybed to port and became overlapped to leeward of GER 1291 two boat lengths from mark 5 GER 254 rounded the mark to port close to it.",
+    "6 GER 1291 sailed to windward of mark 4p, lowered the gennaker, tacked, gybed and rounded mark 4p on the required side. 7 No boat took a penalty turn."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 18.2(a)(1)"
+  ],
+  "conclusions": [
+    "GER 1291 kept clear of GER 254 as require by rule 11.",
+    "GER 1291 by sailing to windward of mark 4p has given room to round the mark to GER 254 as required by rule 18.2(a)(1).",
+    "No rule was broken."
+  ],
+  "decision": [
+    "The protest is dismissed"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jan Stage",
+    "members": [
+      "Stavros Kouris",
+      "Alen Kustic"
+    ]
+  }
+}

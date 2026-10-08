@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2025",
+  "race_number": "3",
+  "hearing_datetime": "28 JUN 17:20",
+  "parties": [
+    "CAY 226001",
+    "-"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "CAY 226001 was represented by Charlotte Webster.",
+    "The Race Committee was represented by Fabian Bach",
+    "Tracker log with timing was presented by the Race Committee"
+  ],
+  "facts": [
+    "On June 27 CAY 226001 was racing with a tracker supplied by the OA.",
+    "On June 27, the protest time limit for the ILCA 6 open was 15:24.",
+    "CAY 226001 came ashore and signed in at the ramp at 14:43.",
+    "CAY 226001 Returned her tracker to the race office at 15:26.",
+    "The RC applied a scoring penalty of 2% to her score in race 3."
+  ],
+  "rules": [
+    "SI 20.2",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor omission of the race committee. Therefore the requirements in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cliff Black",
+    "members": [
+      "Bence Böröcz",
+      "Eurico Teodoro"
+    ]
+  }
+}

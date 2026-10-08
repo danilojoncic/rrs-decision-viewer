@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "YES - Young Europeans Sailing 2026",
+  "race_number": "1",
+  "hearing_datetime": "25 MAY 14:35",
+  "parties": [
+    "GER 35",
+    "Wettfahrtkomitee"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GER 35 agreed to have the RC representative as intrepreter."
+  ],
+  "facts": [
+    "On Saturday 23rd, GER 35 failed to sign out. Later on, the RC penalized GER 35 with an SP for breaking SI 17.1.2 and at 21:04 the penalty was published on the ONB.",
+    "At 7:30 on Sunday 24th, GER 35 became aware that she had been penalized.",
+    "GER 35 lodged a scoring review, at 09:01. The answer was published at 9:30 and the request was declined.",
+    "Delta for the Europe class was displayed at 09:45, and GER 35 went sailing. After racing GER 35 signed in at 17:13. The protest time limit on Sunday 24th was at 17:45.",
+    "After arriving ashore, GER 35 went to eat something, prepared her boat for the night and reintroduced the discussion with the RC.",
+    "At 20:14, GER lodged a request for redress."
+  ],
+  "rules": [
+    "RRS 61.2(b)(3)",
+    "RRS 63.4(a)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GER 35 failed to deliver the request for redress as soon as reasonably possible after the relevant information was available, as required by RRS 61.2(b)(3).",
+    "Reintroducing the discussion after an official answer has been given is not a good reason for the International Jury to extend the time."
+  ],
+  "decision": [
+    "The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Alexander Bratt",
+    "members": [
+      "Francisco Vidal Maestre",
+      "Paw Hagen"
+    ]
+  }
+}

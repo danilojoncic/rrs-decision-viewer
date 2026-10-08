@@ -1,0 +1,47 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "10",
+  "hearing_datetime": "29 JUN 16:50",
+  "parties": [
+    "GER 725",
+    "GER 4451"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GER 725 was represented by John Berke.",
+    "GER 4451 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "An incident occured between GER 725 and GER 4451 in race 10.",
+    "There was no serious damage or injury.",
+    "GER 725 finished race 10 and sailed race 11.",
+    "GER 725 came ashore at 14:50.",
+    "After coming ashore, GER 725 rigged down the boat, took down the mast and craned the boat out onto the trailer.",
+    "After craning out the boat, GER 725 went to the Jury desk.",
+    "GER 725 filed the protest at 16:19.",
+    "The protest time limit for J24 was 14:49."
+  ],
+  "rules": [
+    "RRS 61.2(b)(1)",
+    "RRS 63.1(b)",
+    "RRS 63.4(a)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GER 725 failed to deliver the protest within the protest time limit as required byRRS 61.2(b)(1).",
+    "There was no good reason for the International Jury to extend the time."
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Damien Boldyrew",
+    "members": [
+      "Sandra Asle Hatch",
+      "Johanna Poksi"
+    ]
+  }
+}

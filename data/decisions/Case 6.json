@@ -1,0 +1,42 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA Under-21 World Championships",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 133203 - Domenico Lamante",
+    "CAN 223307 - Mats Braaten"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "In race 4 with 22 knots of wind with waves of 1 meter.",
+    "Just before the start of race 4 ITA 133203 and CAN 223307 were overlapped on starboard tack.",
+    "CAN 223307 windward of ITA 133203.",
+    "CAN 223307 capsized on ITA 133203 and broke the vang of ITA 133203 with his boom.",
+    "CAN 223307 didnt realise that the vang of ITA 133203 was broken.",
+    "ITA 133203 sailed the first beat and the run but it was impossible to continue with the broken vang.",
+    "Being the last boat in the fleet he decided to retired in the middle of the second beat.",
+    "CAN 223307 retired after finish.",
+    "The technical chairwoman confirm that the broken rope was not in good condition with few worn out points spotted."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14",
+    "RRS 64.1(b)"
+  ],
+  "conclusions": [
+    "CAN 223307 did not keep clear of ITA and broke RRS 11 and 14 (a) but CAN 223307 took the appropriate penalty by retiring from Race 4. ITA 133203's score in race 4 was made significantly worse through her own fault. Therefore, the requirements for redress in RRS 64.1(b) are not met."
+  ],
+  "decision": [
+    "Protest upheld. No further penalty to CAN 223307. Redress not given to ITA 133203."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Johanna Poksi",
+    "members": [
+      "Ron Barak",
+      "Jean-Luc Michon"
+    ]
+  }
+}

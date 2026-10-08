@@ -1,0 +1,48 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 4 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "POL 186220 - Maksymilian KAJDY",
+    "SUI 222592 - Marco CROCENZI"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accoradnce with RRS N1.4(b).",
+    "POL 186220 was represented by Maksymilian Kajdy.",
+    "SUI 222592 was represented by Marco Crocenzi.",
+    "Alberto Spezia, SUI 222592's coach, attended the hearing as an observer."
+  ],
+  "facts": [
+    "POL 186220 delivered the hearing request by using paper form at 14:44 on 20.06.2025.",
+    "SI 16.1 states that: \"Hearing request forms shall be delivered on the Official Notice Board\", which is ROMS system.",
+    "POL 186220 never tried to use the online system to deliver the protest.",
+    "There was no technical issue reported on the ROMS system.",
+    "The protest time limit for the ILCA 4 boys RED fleet on 20.06.2025 was at 14:40.",
+    "When POL 186220 arrived ashore, was waiting on the ramp, where boats from red and green fleet were going out of the water. Immediately after pulling the boat out of the water, POL 186220 came to the race office still wearing his wetsuit to deliver the protest."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "SI 16.1",
+    "RRS 60.3(b)",
+    "RRS 60.4(a)(1)",
+    "RRS 60.3",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "POL 186220 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b). However, there was good reason for the panel of the international jury to extend the time limit.",
+    "By not delivering the protest by the method stated in the Sailing Instructions, POL 186220 failed to comply with RRS 60.3(b), therefore the protest is invalid under RRS 60.4(a)(1). Rules: RRS 60.3 (b), 60.4 (a) (1), 63.4 (a) (1), N1.4(b), SI 16.1"
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Stavros Kouris",
+    "members": [
+      "Katarzyna Goralska",
+      "Zlatko Jakelic"
+    ]
+  }
+}

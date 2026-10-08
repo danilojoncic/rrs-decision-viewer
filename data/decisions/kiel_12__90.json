@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2026",
+  "race_number": "2",
+  "hearing_datetime": "21 JUN 18:45",
+  "parties": [
+    "ESP 210172",
+    "Pin end boat"
+  ],
+  "procedural_matters": [
+    "ESP 210172 was represented by Marc O’Connor Cabau.",
+    "The race committee was represented by Christina Buch (course race officer)."
+  ],
+  "facts": [
+    "?During thesecond attempt to start race 2 for the yellow fleet, the conditions were 7 knots of wind withflat water and strong current pushing the boats to windward.",
+    "At the preparatory signal the race committee displayed the black flag.",
+    "The race committee did not move the pin-end mark after the preparatory signal.",
+    "ESP 210172 was starting near the starting vessel.",
+    "The race committee identified ESP 210172 in the triangle formed by the ends of the starting line and the first mark during the last minute before the starting signal.",
+    "The race committee signalled a general recall after the starting signal and displayed the sail number of ESP 210172 on the race committee signal boat before the next warning signal.",
+    "ESP 210172 did not sail in race 2 and was scored BFD."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper actionnor improper omission of the race committee. Therefore, the requirements forredress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Romain Gautier",
+      "Pinar Coskuner Genc",
+      "Claudio Uras"
+    ]
+  }
+}

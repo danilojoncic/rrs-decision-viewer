@@ -1,0 +1,41 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2026 ILCA North American Championship",
+  "race_number": "5",
+  "hearing_datetime": "2026-07-11",
+  "parties": [
+    "UKR 224911 - Alina Shapovalova",
+    "IRL 216111 - Eve McMahon"
+  ],
+  "procedural_matters": [
+    "Protest was filed via a paper form not through Racing Rules of Sailling"
+  ],
+  "facts": [
+    "Wind 5-6 knots",
+    "UKR was approaching the 1st windward mark on starboard, having just tacked inside the zone about 2-3 bL from the mark",
+    "IRL was approaching the mark on port tack",
+    "IRl tacked from port to starboard at the mark",
+    "UKR altered her course to avoid IRL before IRL reached a close-hauled course",
+    "There was no contact between the boats",
+    "No boat took a penalty",
+    "Both boats completed the race"
+  ],
+  "rules": [
+    "RRS 13"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, IRL failed to keep clear of UKR. IRL broke RRS 13."
+  ],
+  "decision": [
+    "IRL 216111 is DSQ in race 5."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Lisl Dunlop",
+    "members": [
+      "Steven Wolff",
+      "Bruce Martinson"
+    ]
+  }
+}

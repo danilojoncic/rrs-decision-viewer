@@ -1,0 +1,55 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "Optimist",
+  "race_number": "8",
+  "hearing_datetime": "4 Jul 2025 at 17:45",
+  "parties": [
+    "MNE 74 - Nikola Matijevic",
+    "CHI 213 - Domingo Leon"
+  ],
+  "procedural_matters": [
+    "MNE 74 is represented by Nikola Matijevic.",
+    "CHI 213 did not show up.",
+    "Katarina Prica (SRB 235) gave evidence as a witness for MNE 74.",
+    "The hearing is held under RRS 63.1 (b)",
+    "The panel of the IJ was composed in accordance with RRS N1.4(b)"
+  ],
+  "facts": [
+    "The conditions in race 8 were 5-6 knots with very little waves.",
+    "MNE 74 on port entered the zone of the starboard mark at the gate inside overlapped of CHI 213 sailing on starboard.",
+    "The distance between CHI and the mark was less than a boats width.",
+    "MNE 74 touched the mark.",
+    "Contact appeared between the boats.",
+    "No damage.",
+    "No penalty taken."
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "RRS N1.4(b)",
+    "RRS 18",
+    "RRS 2(a)(1)",
+    "RRS 31",
+    "RRS 43.1(b)",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "CHI 213 outside overlapped at the zone failed to give MNE 74 mark-room, and broke RRS 18.2(a)(1).",
+    "MNE 74 touched the starboard gate mark and broke RRS 31.",
+    "Since MNE 74 broke RRS 31 while she was sailing within the mark-room to which she was entitled, she is exonerated under RRS 43.1(b) for this breach.",
+    "It was not reasonably possible for MNE 74 the boat sailing within the mark-room to which she was entitled to avoid contact with CHI 213 when it became clear that CHI 213 was not giving mark-room. MNE 74 did not break RRS 14(a).",
+    "CHI 213 did not avoid contact with MNE 74 even though it was reasonably possible, and broke RRS 14(a)."
+  ],
+  "decision": [
+    "CHI 213 is DSQ in race 8."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Alen Kustic",
+      "Ilker Bayindir",
+      "Anastasia Weinberger"
+    ]
+  }
+}

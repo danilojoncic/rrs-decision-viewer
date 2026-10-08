@@ -1,0 +1,50 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "ILCA 6 Men",
+  "race_number": "",
+  "hearing_datetime": "18 Apr 2025 at 16:15",
+  "parties": [
+    "AUT 208488 - Paul WENTH",
+    "POR 211179 - Miguel SILVA"
+  ],
+  "procedural_matters": [
+    "AUT 208488 was represented by Paul WENTH.",
+    "POR 211179 was represented by Miguel SILVA.",
+    "Tiago Teixeira (coach of POR 211179) attended the hearing as an observer."
+  ],
+  "facts": [
+    "At the zone of mark 3P, AUT 208488 and POR 211179 were sailing downwind, on port tack, with AUT 208488 clear ahead of POR 211179.",
+    "While AUT 208488 was rounding the mark, POR 211179 caught a wave and established an overlap to windward and inside of AUT 208448.",
+    "POR 211179’s mainsheet got wrapped around the neck of the competitor of AUT 208488.",
+    "AUT 208488 capsized and the competitor fell into the water.",
+    "There was no damage or injury.",
+    "POR 211179 took a two-turn penalty."
+  ],
+  "rules": [
+    "RRS 18.2(a)(2)",
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 44.1(b)",
+    "RRS 60.5(c)(2)"
+  ],
+  "conclusions": [
+    "POR 211179 not overlapped with AUT 208488 and not in the zone at the time AUT 208488 reached the zone, failed to give AUT 208488 mark-room, and broke RRS 18.2(a)(2).",
+    "POR 211179 to windward failed to keep clear of AUT 208488 to leeward, and broke RRS 11.",
+    "POR 211179 did not avoid contact with AUT 208488 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for AUT 208488 the right-of-way boat and the boat sailing within the mark-room to which she was entitled to avoid contact with POR 211179 when it became clear that POR 211179 was not keeping clear nor giving mark-room. AUT 208488 did not break RRS 14(a).",
+    "Since RRS 44.1(b) did not apply, POR 211179 took an applicable penalty by taking a Two-Turns Penalty."
+  ],
+  "decision": [
+    "The protest is upheld. Since POR 211179 took an applicable penalty, she is 2025 ILCA 6 Youth European Championships & Open European Trophy not further penalized under RRS 60.5(c)(2)."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Eurico Teodoro (",
+    "members": [
+      "Boguslaw Moczorodynski",
+      "Pedro Rodrigues",
+      "Ulrich"
+    ]
+  }
+}

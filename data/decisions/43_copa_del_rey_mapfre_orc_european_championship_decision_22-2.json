@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Formal Communication",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "1",
+  "hearing_datetime": "2025-07-30",
+  "parties": [
+    "ESP 6810 - Genio IV SOLGREEN - Manuel De Tomas",
+    "ESP 6810 - Genio IV - Manuel De Tomas"
+  ],
+  "procedural_matters": [
+    "ESP 6810 was represented by Manuel De Tomas (helm).",
+    "Rafael De Tomas (crew member of ESP 6810) attended the hearing as an observer.",
+    "Andres Perez (chairman of the panel of the International Jury) acted as interpreter for the representative of ESP 6810."
+  ],
+  "facts": [
+    "ESP 6810 delivered the hearing request at 09:44 on 30 July.",
+    "During the hearing, the representative of ESP 6810 stated that he was aware of the fact that he was not a party of the original hearing but still wanted to request the International Jury to reopen the original hearing.",
+    "The representative of ESP 6810 also insisted that he did not want to request redress but wanted the International Jury to reopen the original hearing instead."
+  ],
+  "rules": [
+    "RRS 63.7(b)"
+  ],
+  "conclusions": [
+    "Since ESP 6810 was not a party to the original hearing, she does not have the right to request a reopening of the original hearing. Therefore, the request to reopen is invalid under RRS 63.7(b)."
+  ],
+  "decision": [
+    "ESP 6810’s request to reopen Hearings No. 1, 7, 8, 9, 10, 12, 13, 15 and 16 is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Pinar Coskuner Genc",
+      "Giorgio Davanzo",
+      "Finn Mrugalla",
+      "Bruno Finzi"
+    ]
+  }
+}

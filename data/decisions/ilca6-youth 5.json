@@ -1,0 +1,39 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "",
+  "event": "2026 ILCA 6 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "6",
+  "hearing_datetime": "",
+  "parties": [
+    "DEN 222585 - Iben ZIEGLER",
+    "DEN 226297 - Signe SØGAARD RASMUSSEN",
+    "DEN 228415 - Astrid HEDEGAARD"
+  ],
+  "procedural_matters": [
+    "All affiliated sailors attended the support person hearing."
+  ],
+  "facts": [
+    "After the start of the yellow fleet, the jury observed the coach 170 in the middle of the startline around the warning signal of the blue fleet, with DEN 222585 next to the boat.",
+    "DEN 222585 left the coachboat before the uniform flag.",
+    "After the preparatory signal for the blue fleet, the coach realised he was on the line, then he sailed more than 100 meters to leeward of the starting line."
+  ],
+  "rules": [
+    "NoR A5.1.2",
+    "RRS 62.3(a)"
+  ],
+  "conclusions": [
+    "By being on the start line in the period after the preparatory signal of the first fleet and before the start of the last fleet, coach 170 broke NOR A5.1.2."
+  ],
+  "decision": [
+    "Coach 170 is warned according to RRS 62.3(a).",
+    "Any further breach of the Support Vessel Regulations in NOR attachment 2, will lead to a penalty to the sailors supported by the coach, which are DEN 222585, DEN 226297 and DEN 228415."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Zlatko Jakelic",
+    "members": [
+      "Pauline den Burger",
+      "Niclas Fure"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "44° Lake Garda Meeting Optimist",
+  "race_number": "5",
+  "hearing_datetime": "2026-04-03 20:50",
+  "parties": [
+    "LTU 444 - Teodora Valentaite",
+    "GRE 2639 - Rafail Berios"
+  ],
+  "procedural_matters": [
+    "LTU 444 did not present a good reason to extend the time limit.",
+    "LTU 444 failed to inform the RC about her intention to protest at the finishing line immediately after finishing, as required by NoR 1.4.",
+    "Fiorella Nicolari, Ezio Fonda, Marin Kustic, members of the international jury, attended the hearing as observers."
+  ],
+  "facts": [],
+  "rules": [
+    "NoR 1.4",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [],
+  "decision": [
+    "The Protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Hermann Herburger",
+    "members": [
+      "Alen Kustic",
+      "Martin Clasen"
+    ]
+  }
+}

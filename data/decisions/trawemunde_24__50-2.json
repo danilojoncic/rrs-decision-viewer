@@ -1,0 +1,40 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "22 JUL 17:30",
+  "parties": [
+    "RC",
+    "GER 3511 (R6)"
+  ],
+  "procedural_matters": [
+    "The Race Committee was represented by Coco Stach (Race Committee mark 1).",
+    "GER 3511 was represented by Jana Scherbarth."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 6 of RS Aero 6 were 20 knots of wind and 0.5-1 meter waves.",
+    "GER 3511 was approaching mark 1 for the first time on starboard tack on close-hauled.",
+    "When GER 3511 was bearing away to round the mark, the end of her boom slightly touched the mark.",
+    "GER 3511 did not see the mark-touch and continued sailing and finished race 6."
+  ],
+  "rules": [
+    "RRS 31"
+  ],
+  "conclusions": [
+    "GER 3511 touched mark 1 and broke RRS 31."
+  ],
+  "decision": [
+    "GER 3511 is DSQ in race 6."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Gonzalo Heredia",
+    "members": [
+      "Sandra Hatch",
+      "Lisa Steppat",
+      "Ute Reisinger",
+      "Jens Haun"
+    ]
+  }
+}

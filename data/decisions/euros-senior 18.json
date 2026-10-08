@@ -1,0 +1,53 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA SENIOR EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "7",
+  "hearing_datetime": "",
+  "parties": [
+    "LTU 221407 - Teodoras KARLAVICIUS",
+    "CRO 218915 - Mark VLADIC"
+  ],
+  "procedural_matters": [
+    "LTU 221407 was represented by Teodoras Karlavicius.",
+    "CRO 218915 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "Tadas Azukas (LTU 200907) gave evidence as a witness for LTU 221407.",
+    "Noela Petesic (RRS 42 Observer) attended the hearing as an observer.",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Wind 18 knots, waves up to 1 meter.",
+    "In the first upwind of race 7, LTU 221407 and CRO 218915 were approaching mark 1 on port tack with LTU 221407 clear ahead and just below the layline. CRO 218915 was above layline and clear astern.",
+    "When LTU 221407 was 1.5 boat lengths below the mark on the starboard layline, she passed head to wind in the zone and reached a close-hauled course on starboard tack. At that moment LTU 221407 was 1 boat length from CRO 218915.",
+    "Two seconds later, CRO 218915 luffed and passed head to wind between LTU 221407 and the mark.",
+    "Before CRO 218915 reached a close-hauled course on starboard tack, contact occurred between the port side of LTU 221407’s hull and the starboard side of CRO 218915’s hull. CRO 218915 also touched mark 1 with the port side of her hull and her sail.",
+    "No damage occurred.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 13",
+    "RRS 14(a)",
+    "RRS 14(c)",
+    "RRS 31",
+    "RRS 63.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, CRO 218915 failed to keep clear of LTU 221407. CRO broke RRS 13.",
+    "CRO 218915 did not avoid contact with LTU 221407 when it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for LTU 221407 the right-of-way boat to avoid contact with CRO 218915 when it became clear that CRO 218915 was not keeping clear. LTU 221407 did not break RRS 14(a).",
+    "CRO 218915 touched mark 1 and broke RRS 31.",
+    "CRO 218915 touched mark 1 as a result of her sailing between LTU 221407 and the mark. It was not reasonably possible for LTU 221407 not to cause contact between CRO 218915 and mark 1, an object that should be avoided. LTU 221407 did not break RRS 14(c)."
+  ],
+  "decision": [
+    "CRO 218915 is DSQ in race no. 7."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Cristian TABACU",
+    "members": [
+      "Niclas Fure",
+      "Uros Zvan"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "22 JUL 17:30",
+  "parties": [
+    "RC",
+    "GBR 4711 (R6)"
+  ],
+  "procedural_matters": [
+    "The Race Committee was represented by Coco Stach (Race Committee mark 1).",
+    "GBR 4711 was represented by Henry Reed.",
+    "Tom Reed (coach of GBR 4711) attended the hearing as an observer."
+  ],
+  "facts": [
+    "The conditions at the time of the incident in race 6 of RS Aero 5 were 25 knots of wind and 1 meter waves.",
+    "GBR 4711 was approaching mark 1 for the first time on starboard tack on close-hauled.",
+    "When GBR 4711 was bearing away to round the mark, the end of her boom and sail slightly touched the mark.",
+    "GBR 4711 did not see the mark-touch and continued sailing and finished the race."
+  ],
+  "rules": [
+    "RRS 31"
+  ],
+  "conclusions": [
+    "GBR 4711 touched mark 1 and broke RRS 31."
+  ],
+  "decision": [
+    "GBR 4711 is DSQ in race 6."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Gonzalo Heredia",
+    "members": [
+      "Sandra Hatch",
+      "Ute Reisinger",
+      "Jens Haun",
+      "Lisa Steppat"
+    ]
+  }
+}

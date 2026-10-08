@@ -1,0 +1,45 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "20",
+  "hearing_datetime": "",
+  "parties": [
+    "ITA 222367 - Francesco QUAIAT"
+  ],
+  "procedural_matters": [
+    "Hearing No. 21 was heard together with hearing No. 20 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident.",
+    "ITA 222367 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The race committee was represented by Javier Blanco (CRO)."
+  ],
+  "facts": [
+    "Black flag was displayed as the preparatory signal for race 3 of ILCA 4 (Boys) (Green fleet).",
+    "The race committee scored ITA 222367 as BFD in the race.",
+    "ITA 222367 did not sail in race 3.",
+    "The race committee determine later from its video that ITA 222367 was not in the triangle formed by the ends of the starting line and the first mark during the last minute before her starting signal."
+  ],
+  "rules": [
+    "RRS 63",
+    "RRS 63.1(b)",
+    "RRS 61.4(b)(1)",
+    "RRS 63.2(b)",
+    "RRS A9(a)"
+  ],
+  "conclusions": [
+    "Scoring ITA 222367 was an improper action of the race committee.",
+    "ITA 222367's score in race 3 was made significantly worse through no fault of her own by an improper action of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are met. RRS 61.4(b)(1), 63.1(b), 63.2(b), A9(a)"
+  ],
+  "decision": [
+    "Redress is given to ITA 222367. ITA 222367 is to be scored in race 3 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races sailed in the qualifying series, except race 3. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Boguslaw Moczorodynski",
+    "members": [
+      "Pablo Garcia",
+      "Tonny Jensen",
+      "Gurvinderpal Julka",
+      "Jean-Bernard Luther"
+    ]
+  }
+}

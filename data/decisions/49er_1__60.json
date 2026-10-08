@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "2",
+  "hearing_datetime": "7 JUL 18:00",
+  "parties": [
+    "Race Committee",
+    "PUR 787 (R2)"
+  ],
+  "procedural_matters": [
+    "PUR 787 (49FX) was represented by Isabella Calzadilla (Helm).",
+    "The Race Committee was represented by Anne Malledant (PRO).",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Race Q2 of the 49 FX was sailed using the ARMS system. The Whiskey flag was not displayed.",
+    "P flag was displayed as the preparatory signal for race Q2.",
+    "At the starting signal, ARMS identified PUR 787 as being on the course side of the starting line.",
+    "The unit onboard displayed OCS and flashed red for less than one second, and then the unit returned to its normal operation.",
+    "PUR 787 believed she was no longer OCS and continued sailing the race.",
+    "PUR 787 did not return to clear her OCS.",
+    "The Race Committee scored PUR 787 OCS for race Q2."
+  ],
+  "rules": [
+    "RRS 2",
+    "RRS 28"
+  ],
+  "conclusions": [
+    "PUR 787 was on the course side of the line at the start and failed to sail the course, breaking RRS 28.1.",
+    "PUR 787 did not knowingly break RRS 28.1 and fail take the appropriate penalty. PUR 787 did not break RRS 2."
+  ],
+  "decision": [
+    "Protest upheld. No further penalty."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Jon Napier",
+    "members": [
+      "Henning Jacobssen",
+      "Jose Pico"
+    ]
+  }
+}

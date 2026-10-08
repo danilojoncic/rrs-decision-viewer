@@ -1,0 +1,48 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "10",
+  "hearing_datetime": "",
+  "parties": [
+    "CHN",
+    "CAN"
+  ],
+  "procedural_matters": [
+    "CHN was represented by Moning Xu (helm)",
+    "CAN was represented by Alvin Wang (helm)",
+    "Lin Lu (CHN team leader) attended the hearing as an observer.",
+    "Nicolas Tosi (CAN coach) attended the hearing as an observer.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "CHN returned ashore as last of the Nacra fleet.",
+    "Once ashore the helm of CHN washed the boat and then collected the mobile to submit the protest.",
+    "The mobile of the helm of CHN was in the car parked in the boat park 200m far from boat parking place.",
+    "CHN submitted the protest at 15:56",
+    "The protest time limit for the Mixed Two Person Multihull was 15:43.",
+    "There were no damages nor injuries."
+  ],
+  "rules": [
+    "RRS 63.4(a)(1)",
+    "RRS 60.4(a)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "CHN failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1).",
+    "There was no good reason for the International Jury to extend the time limit. Therefore the protest is invalid under RRS 60.4(a)."
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Arnaud Mante, Jury Member",
+    "members": [
+      "Alan Baser",
+      "Arnaud Mante",
+      "Anna Cuccia",
+      "Maria Massapina"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 7 Masters World Championships",
+  "race_number": "8",
+  "hearing_datetime": "",
+  "parties": [
+    "USA 226424 - Chris Raab",
+    "USA 210652 - Emilio Castelli"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "USA 210652 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "USA 226424 was represented by Chris Raab.",
+    "USA 210652 did not come to the hearing when the protest committee gave the decision.",
+    "International Jury member Iuan Gray gave evidence as a witness."
+  ],
+  "facts": [
+    "The incident occurred in race 8, on the 1st windward leg.",
+    "Wind 8 knots, waves choppy 50cm.",
+    "USA 226424 was sailing close-hauled on starboard tack, and on a collision course with USA 210652 close-hauled on port tack.",
+    "At all times USA 210652 held her course.",
+    "When the boats were 1 metre apart, USA 226424's bow was pointing amidships of the starboard gunwale of USA 210652 and USA 226424 bore off sharply.",
+    "The bow of USA 226424 contacted the starboard side gunwale of USA 210652 30 cm forward of the stern.",
+    "There was no damage or injury.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 63.1(b)",
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 14",
+    "RRS 2"
+  ],
+  "conclusions": [
+    "USA 210652 on port tack failed to keep clear of USA 226424 on starboard tack, and broke RRS 10.",
+    "USA 210652 did not avoid contact with USA 226424 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for USA 226424 the right-of-way boat to avoid contact with USA 210652 when it became clear that USA 210652 was not keeping clear. USA 226424 did not break RRS 14(a).",
+    "By knowingly breaking rules 10 and 14 and not taking the appropriate penalty, USA 210652 failed to compete in compliance with the principles of sportsmanship and fair play as stated in RRS Basic Principles. USA 210652 broke RRS 2."
+  ],
+  "decision": [
+    "For knowingly breaking RRS 10 and 14(a) and failing to take the appropriate penalty, USA 210652 is DNE in race 8."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Niclas Kath",
+    "members": [
+      "Iuan Gray",
+      "Elias Katsorhis",
+      "Johanna Poksi"
+    ]
+  }
+}

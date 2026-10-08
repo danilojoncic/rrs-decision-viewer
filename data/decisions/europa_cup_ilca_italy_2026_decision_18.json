@@ -1,0 +1,44 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest and Request for Redress",
+  "event": "Europa Cup ILCA Italy 2026",
+  "race_number": "3",
+  "hearing_datetime": "2026-06-16 10:00",
+  "parties": [
+    "FRA 218833 - MAYER Lorenzo"
+  ],
+  "procedural_matters": [
+    "FRA 218833 was represented by Lorenzo Mayer.",
+    "Pascal Andreovist and Fabio Colombo (member of the International Jury) attended the hearing as an observers."
+  ],
+  "facts": [
+    "FRA 218833 was informed via the online system that she was a party to the hearing of case No. 17 at 18:36.",
+    "The hearing started at 18:50 without FRA 218833.",
+    "FRA 218833 was 20 minutes away from the venue and rushed back for the hearing.",
+    "FRA 218833 arrived at 19:05 when the hearing was already closed.",
+    "When FRA 218833 became aware of the result of the hearing, she lodged the request to reopen.",
+    "FRA 218833 intends to present video and tracking data showing that the International Jury may have made a mistake.",
+    "The International Jury believes that an error could be done in the decision of case No. 17 and the time FRA 218833 had to be present for the hearing was too short."
+  ],
+  "rules": [
+    "RRS 63.7(a)(2)"
+  ],
+  "conclusions": [
+    "FRA 218833 was unavoidably absent at the original hearing.",
+    "The protest committee may have made a significant error in the original hearing.",
+    "The requirements in RRS 63.7(a)(2) for reopening the hearing are met."
+  ],
+  "decision": [
+    "Hearing No. 17 will be reopened."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Uros Zvan",
+    "members": [
+      "Luigi Bertini",
+      "Niclas Fure",
+      "Tatiana Almeida",
+      "Charlotte Greppe"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 221420 - Iker MUGICA"
+  ],
+  "procedural_matters": [
+    "The race committee was represented by Javier Blanco (CRO).",
+    "Max Urquize (Coach of ESP 221420) attended the hearing as an observer.",
+    "Javier Blance presented video evidence during the hearing."
+  ],
+  "facts": [
+    "Black flag was displayed as the preparatory signal for race 4 of ILCA 4 (Boys) (Blue fleet).",
+    "ESP 221420 was identified by the race committee in the triangle formed by the ends of the starting line and the first mark during the last minute before her starting signal.",
+    "The race committee scored ESP 221420 as BFD in race 4."
+  ],
+  "rules": [
+    "RRS 64.1(b)"
+  ],
+  "conclusions": [
+    "Scoring ESP 221420 as BFD was not an improper action of the race committee.",
+    "ESP 221420’s place in race 4 was made significantly worse by her own fault. Therefore, the requirements for redress in RRS 64.1(b) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Boguslaw Moczorodynski",
+    "members": [
+      "Tonny Jensen",
+      "Gurvinderpal Julka",
+      "Jean-Bernard Luther",
+      "QUN ZHAO"
+    ]
+  }
+}

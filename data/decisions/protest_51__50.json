@@ -1,0 +1,53 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "9",
+  "hearing_datetime": "25 JUN 15:45",
+  "parties": [
+    "NED 213481",
+    "CRO 211911"
+  ],
+  "procedural_matters": [
+    "NED 213481 was represented by Audrius Moliakov.",
+    "Dewi Couvert (coach of NED 213481) attended the hearing as an observer.",
+    "CRO 211911 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The protest time limit was 15:37. The hearing was initially scheduled for 15:45. The hearing eventually started at 16:07.",
+    "Lovre Bakotic (CRO 211911) arrived at the hearing at 16:20 after the panel finished taking evidence. The panel decided that CRO 211911 was not unavoidably absent, and therfore there is no a good reason to restart the hearing.",
+    "CRO 211911 was represented by Lovre Bakotic when the protest committee gave the decision."
+  ],
+  "facts": [
+    "The incident occurred in race 9, shortly after the starting signal.",
+    "The windspeed was 13-16 knots with 1-metre waves.",
+    "NED 213481 was sailing on starboard, CRO 211911 on port, on a collision course with NED",
+    "CRO 211911 bore away, and a contact occurred between the bow of CRO 211911 and the port- side rear corner of NED 213481.",
+    "The contact resulted in damage: the gelcoat came off on NED 213481, and as a result, the boat started leaking.",
+    "A general recall was signalled.",
+    "Both boats started in the restart of race 9 and sailed the course.",
+    "After another 1.5 hrs of sailing, it took 2 minutes for NED 213481 to empty the boat."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14",
+    "RRS 36(b)"
+  ],
+  "conclusions": [
+    "CRO 211911 on port tack failed to keep clear of NED 213481 on starboard tack, and broke RRS 10.",
+    "CRO 211911 did not avoid contact with NED 213481 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for NED 213481 the right-of-way boat to avoid contact with CRO 211911 when it became clear that CRO 211911 was not keeping clear. NED 213481 did not break RRS 14(a).",
+    "The jury considers the damage as serious damage.",
+    "Since the incident caused serious damage, CRO 211911 may be penalized as per RRS 36(b), even though the race was restarted."
+  ],
+  "decision": [
+    "CRO 211911 is DSQ in race 9."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Svenja Hünsch",
+    "members": [
+      "Bence Böröcz",
+      "Michal Zak"
+    ]
+  }
+}

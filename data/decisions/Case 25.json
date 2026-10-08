@@ -1,0 +1,35 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "GRE 225861 - Konstantinos Portosalte",
+    "ITA 226609 - Nicolò Giuseppe Cassitta"
+  ],
+  "procedural_matters": [
+    "The request to reopen was lodged at 19:38 (1/8/2025)",
+    "The protest time limit was 18:05.",
+    "The race committee advised that GRE 225861 had asked for the video well before the protest time limit and that they had kept him waiting without appreciating that the time limit was pending.",
+    "GRE 225861 lodged the request to reopen immediately upon receiving the video.",
+    "The video clearly shows the full incident from the committee boat."
+  ],
+  "facts": [],
+  "rules": [],
+  "conclusions": [
+    "There is good reason to extend the protest time limit.",
+    "The video evidence is significant new evidence available within a resonable time."
+  ],
+  "decision": [
+    "Case 8 is to be reopened."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Boguslaw Moczorodynski",
+    "members": [
+      "Doug Elder",
+      "Steven Holmstrom"
+    ]
+  }
+}

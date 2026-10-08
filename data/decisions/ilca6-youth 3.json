@@ -1,0 +1,53 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 6 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "TUR 211217 - Naz TULUMCU",
+    "CZE 228306 - Liliana DYMAK"
+  ],
+  "procedural_matters": [
+    "The International Jury was represented by Ioannis Kleidonas.",
+    "TUR 211217 was represented by Naz Tulumcu.",
+    "CZE 228306 was represented by Liliana Dymak."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 10 knots of wind and choppy.",
+    "After the starting signal of race 4, TUR 211217 on port and CZE 228306 on starboard were sailing close-hauled on a collision course.",
+    "CZE 228306 held her course when the boats were 4m apart.",
+    "When TUR 211217 attempted to pass astern of CZE 228306, there was a contact.",
+    "TUR 211217's bow hooked CZE 228306 traveller.",
+    "Both boats remained tangled for approximately 10 seconds.",
+    "TUR 211217 grabbed CZE 228306's traveller with her hand to free her boat.",
+    "TUR 211217 did a one turn penalty 5 minutes after the incident.",
+    "Both boats continued sailing and finished the race.",
+    "There was no damage or injury."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)",
+    "RRS 14",
+    "RRS 2"
+  ],
+  "conclusions": [
+    "TUR 211217 on port tack failed to keep clear of CZE 228306 on starboard tack, and broke RRS 10.",
+    "TUR 211217 did not avoid contact with CZE 228306 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for CZE 228306, the right-of-way boat to avoid contact with TUR 211217 when it became clear that TUR 211217 was not keeping clear. CZE 228306 did not break RRS 14(a).",
+    "By knowingly breaking rule 10, 14 and not taking the appropriate penalty, TUR 211217 failed to compete in compliance with the principles of sportsmanship and fair play as stated in RRS Basic Principles. TUR 211217 broke RRS 2."
+  ],
+  "decision": [
+    "TUR 211217 is scored DNE in race 4."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Danilo Joncic",
+    "members": [
+      "Myrto Antonopoulou",
+      "Wai Kai Chan Vicky",
+      "Gurvinderpal Julka",
+      "Wee Lee Willy"
+    ]
+  }
+}

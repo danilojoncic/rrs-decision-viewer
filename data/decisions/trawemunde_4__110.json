@@ -1,0 +1,71 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "2",
+  "hearing_datetime": "19 JUL 16:30",
+  "parties": [
+    "ITA 2",
+    "GER 3"
+  ],
+  "procedural_matters": [
+    "The Initiator is represented by Gianluca Raggi.",
+    "The announced Respondent was mixed up by the “Starting List” and is changed to GER 3.",
+    "GER 3 is not present.",
+    "The initiator had no possibility to inform the respondent on the water. Directly after coming ashore thay approached the respondent and informed her about their protest.",
+    "The protest committee decided that it is a valid protest. Procedural matters reopened hearing:",
+    "ITA 2 was represented by Gianluca Raggi.",
+    "GER 3 was represented by Benedikt Weise.",
+    "The hearing was reopened on 20.07.2026 at 16:50 in accordance with RRS 63.7(a)(1), because the International Jury decided that GER 3 was unavoidably absent at the original hearing, because she was not listed as a party on the official notice board.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The panel was changed in accordance with RRS 63.7(c)(2): Luke Scott and Manuel Huensch were replaced by Sandra Hatch and Niclas Kath."
+  ],
+  "facts": [
+    "Wind 14-15 kn with puffs and a short choppy waves. Powered 2 by. wwIwn. m athnaege 2sseaicl. coonmd race on the first beat to winRdepworat Crrdea GtedE MRO N3 2 0w JaULs 2a02p6p 2r1: o09aching the windward mark",
+    "Bevor the mark she bore away and did not round mark 1a and 1b. Facts",
+    "Reopened hearing:",
+    "After coming ashore on July 19th, the crew of ITA 2 spoke to GER 3 about an incident that happened on the water.",
+    "ITA 2 did not ask GER 3 about her bow number, sail number or name.",
+    "GER 3 had bow number 114 on July 19th.",
+    "ITA 2 filed a protest, and put in GER 20 as the protestee.",
+    "In the description of the incident, ITA 2 only mentions boat 107, which is the bow number of GER 20.",
+    "ITA 2 intended to protest GER 3.",
+    "Travemünder Woche 2026 Case Details Facts",
+    "Original hearing:",
+    "As of 20 JUL 2026 At 21:09",
+    "Wind 14-15 kn with puffs and a short choppy waves.",
+    "In the second race on the first beat to windward GER 3 was approaching the windward mark",
+    "Bevor the mark she bore away and did not round mark 1a and 1b. Facts",
+    "Reopened hearing:",
+    "After coming ashore on July 19th, the crew of ITA 2 spoke to GER 3 about an incident that happened on the water.",
+    "ITA 2 did not ask GER 3 about her bow number, sail number or name.",
+    "GER 3 had bow number 114 on July 19th.",
+    "ITA 2 filed a protest, and put in GER 20 as the protestee.",
+    "In the description of the incident, ITA 2 only mentions boat 107, which is the bow number of GER 20.",
+    "ITA 2 intended to protest GER 3."
+  ],
+  "rules": [
+    "RRS 28.1",
+    "RRS 60.3(a)",
+    "RRS 60.4(1)(a)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "By not passing mark 1a and 1b on the required side, GER 3 failed to sail the course, and broke RRS 28.1.",
+    "Reopened hearing conclusions:",
+    "The protest did not identify the correct protestee as required by RRS 60.3(a). Therefore the protest is invalid under RRS 60.4(1)(a)."
+  ],
+  "decision": [
+    "Original hearing decision: GER 3 is DSQ in race 2.",
+    "Reopened hearing decision: The protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Niclas Kath",
+    "members": [
+      "Manuel Huensch",
+      "Luke Scott",
+      "Raoul Meyer"
+    ]
+  }
+}

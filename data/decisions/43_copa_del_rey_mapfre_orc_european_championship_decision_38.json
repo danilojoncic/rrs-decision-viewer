@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-07-31 19:20",
+  "parties": [
+    "ESP 74441 - Wanderlust - Francesc Terrasa"
+  ],
+  "procedural_matters": [
+    "Panel composed as per RRS N1.4(b)",
+    "Wanderlust represented by Fernando Velarde",
+    "RC represented by Ariane Mainemare"
+  ],
+  "facts": [
+    "The starting sequence for race 3 of ORC C was done with P flag as the preparatory signal.",
+    "Wanderlust was observed by the RC vessel on the course side of the starting line at her starting signal.",
+    "The race committee displayed flag X with one sound signal 1 second after the starting signal.",
+    "Wanderlust did not return to the prestart side of the start line.",
+    "The race committee scored Wanderlust OCS in race 3."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 61.4(b)"
+  ],
+  "conclusions": [
+    "There was no improper action or ommission from the race committee the criteria of RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "Redress is not given"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "12",
+  "hearing_datetime": "11 JUL 18:45",
+  "parties": [
+    "GER 11",
+    "ITA 23"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "GER 11 requested permission to withdraw the protest as the other boat as retired."
+  ],
+  "rules": [],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "decision": [
+    "Protest withdrawn."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Christina Örtendahl",
+    "members": [
+      "Jon Napier",
+      "Henning Jacobssen"
+    ]
+  }
+}

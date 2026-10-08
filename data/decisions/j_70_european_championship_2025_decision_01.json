@@ -1,0 +1,41 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "J/70 European Championship 2025",
+  "race_number": "4",
+  "hearing_datetime": "2025-08-27",
+  "parties": [
+    "SWE 713 - Magnus Tyreman"
+  ],
+  "procedural_matters": [
+    "The Technical Committee was represented by Thomas Lösch SWE 713 was represented by Jasper Starley (Tactician of SWE 713) Thomas Lösch (Technical Committee) presentd photographic evidence"
+  ],
+  "facts": [
+    "After race Nr. 4 the Technical Committee inspected SWE 713.",
+    "The stainless strap to fix the keel in a down position was lying near the keel including nuts but was not attached.",
+    "The boat admitted to have forgotten it during rigging.",
+    "SI 20 states that any penalty for a breach of class rules is discrationaly with a minmum of 10%."
+  ],
+  "rules": [
+    "RRS 8.2",
+    "RRS 78",
+    "SI 14.8",
+    "RRS 20"
+  ],
+  "conclusions": [
+    "By not having the keel fixed with the stainless strap SWE 713 broke CR 8.2 and RRS 78.1."
+  ],
+  "decision": [
+    "Using the WS Discretionary Penalty Policy, a starting penalty of 20% was decided. The penalty was decreased because there was no competitive advantage and the breach was accidential. The penalty is a 10% discretionary penalty, calculated using the method described in rule 44.3(c) and applied to race number 4, but not worse than DNF."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Emmet Dalton",
+    "members": [
+      "Bo Samuelsson",
+      "Heiko Thoelmann",
+      "Per Englund",
+      "Juuso Leivonen"
+    ]
+  }
+}

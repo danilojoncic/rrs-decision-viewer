@@ -1,0 +1,31 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "9",
+  "hearing_datetime": "2025-07-31 20:45",
+  "parties": [],
+  "procedural_matters": [
+    "the panel is constituted under N1.4"
+  ],
+  "facts": [
+    "Rule 61.2(b) does require for a redress the end of protest time or two hours after the incident.",
+    "The request for redress was 13 minutes after the end of protest time received.",
+    "The end of the protest time was one hour after the last finisher of the bronze fleet. The silver fleet was also in between."
+  ],
+  "rules": [
+    "RRS 61.2(b)"
+  ],
+  "conclusions": [],
+  "decision": [
+    "The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Alexander Bratt",
+    "members": [
+      "Jean-Luc Michon",
+      "Joep Straus"
+    ]
+  }
+}

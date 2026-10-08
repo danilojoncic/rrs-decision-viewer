@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "World Championships 49er, 49erFX, Nacra 17 - 2026",
+  "race_number": "4",
+  "hearing_datetime": "14 MAY 18:30",
+  "parties": [
+    "NED 987",
+    "Jury"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was properly constituted under RRS N1.4(b)"
+  ],
+  "facts": [
+    "The",
+    "Original hearing:",
+    "was scheduled as case 13 on 2026, May 13th at 3 pm.",
+    "NED 987 sent a request to collect videos of the incident to two other competitors at 21:32 hrs and 22:11 hrs on May 13th.",
+    "During the request for reopening thehearing, NED 987 stated that his coach sent a request for a video into thecoaches group at approximately 1pm on May 13th., but didn't present any evidence to prove it.",
+    "NED 987 stated he received a video of the incident on May 14th at 8:13 hrs from the coach of Australia.",
+    "NED 987 while finding the facts found claimed that the International Jury have made a significant error.",
+    "NED 987 claimed that the facts the international Jury found are inconsistent with the characteristics of a 49er.",
+    "NED 987 claimed that the International Jury made a significant error in accepting ESP 424´s penalty turn."
+  ],
+  "rules": [
+    "RRS 63.7"
+  ],
+  "conclusions": [
+    "The evidence that NED 987 plans to present is not new and was available before the time of the original hearing. Therefore, the requirements in RRS 63.7(a)(3) for reopening the hearing are not met.",
+    "The International Jury did not make a significant error in the",
+    "Original hearing:",
+    ". Therefore, the requirements in RRS 63.7 for reopening the hearing are not met."
+  ],
+  "decision": [
+    "The request for redress to reopen is denied."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Ilca HEINRICH",
+    "members": [
+      "Aleksander PRUSINSKI"
+    ]
+  }
+}

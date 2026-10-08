@@ -1,0 +1,43 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "ILCA Asian Cup 2026 - Penghu TPE",
+  "race_number": "6",
+  "hearing_datetime": "2026-03-22 15:40",
+  "parties": [],
+  "procedural_matters": [
+    "Technical committee(TC) was represented by Aileen Loo.",
+    "SRI 143696 was represented by Taalya Tranchell.",
+    "Kethaha Weerasuriga attended the hearing as an observer.",
+    "Aileen Loo provided video evidence.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Equipment inspection was carried out by the technical committee (TC) in race 6 at the finishing line.",
+    "During the inspection of SRI 143696, the tail end of the control line of kicker was tied to the centerboard shock cord.",
+    "TC informed SRI 143696 the intention to protest immediately."
+  ],
+  "rules": [
+    "RRS 3",
+    "RRS 78.1"
+  ],
+  "conclusions": [
+    "By tying the tail end of the control line of kicker to the centerboard shock cord, SRI 143696 failed to comply with ILCA class rule CR3(b)x and RRS 78.1.",
+    "By sailing with tail ends of the control lines tied to shock cord, SRI 143696 did not compromise safety nor gain a competitive advantage."
+  ],
+  "decision": [
+    "Using the WS Discretionary Penalty Policy, a starting penalty of 5% was decided.",
+    "There are no facts to justify decreasing or increasing the penalty.",
+    "The penalty given to SRI 143696 is, 5% discretionary penalty, calculated using the method describe in RRS 44.3(c ) and applied to race 6, but not worse than the score for DNF."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jack Wu",
+    "members": [
+      "Doug Elder",
+      "Wai Kai Chan Vicky",
+      "Jean-Luc Michon",
+      "Sukkyong Kim"
+    ]
+  }
+}

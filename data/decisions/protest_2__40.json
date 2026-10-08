@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "YES - Young Europeans Sailing 2026",
+  "race_number": "1",
+  "hearing_datetime": "24 MAY 18:20",
+  "parties": [
+    "GER 226171",
+    "Juryboot nach dem Start, Race 1"
+  ],
+  "procedural_matters": [
+    "GER 226171 was represented by Carl-Anton Stollner.",
+    "Joao Carneiro gave evidence as a witness for the International Jury."
+  ],
+  "facts": [
+    "Less than one minute after the start of race 1 yellow fleet, second attempt.",
+    "GER 226171 was penalized under RRS P1.2 by jury observers.",
+    "GER 226171 then tacked, gybed and resumed racing.",
+    "GER 226171 was scored DSQ.",
+    "GER 226171 was not previously penalized in the event."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)",
+    "RRS P1.2",
+    "RRS P2.1"
+  ],
+  "conclusions": [
+    "According to RRS P2.1, GER 226171´s appropriate penalty was a Two-Turns Penalty.",
+    "There was neither an improper action nor improper omission of the International Jury. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Paw Hagen",
+    "members": [
+      "Ole Franzen",
+      "Cord Hall",
+      "Joao Carneiro",
+      "Baptiste Verniest"
+    ]
+  }
+}

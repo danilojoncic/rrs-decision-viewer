@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "1",
+  "hearing_datetime": "",
+  "parties": [
+    "CAN",
+    "AUS"
+  ],
+  "procedural_matters": [
+    "Nicolas Tosi (coach of CAN) and Hayley Clark (coach of AUS) attended the hearing as observers, instructions where given on writing."
+  ],
+  "facts": [
+    "The wind was 8 kts.",
+    "On the 4th leg of the 1st race both CAN and AUS were on starboard tack on a run.",
+    "When AUS was half a boat length to windward and one boat length clear ahead of CAN, AUS gybed to port.",
+    "When the distance between them was half a boat length, CAN luffed and passed at a distance of half a meter from the stern of AUS.",
+    "If there had not been a change of course by CAN, her leeward bow would have made contact with the quarter of the leeward hull of AUS to a distance of one meter from her stern.",
+    "No boat took a penalty in relation to this incident.",
+    "There was no contact between the boats."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "AUS, on port, did not keep clear of CAN on starboard and broke RRS 10."
+  ],
+  "decision": [
+    "AUS is DSQ in Race 1."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Maria Ramires",
+    "members": [
+      "Mateo Skoknic",
+      "Johanna Poksi",
+      "Arnaud Mante",
+      "Eurico Teodoro"
+    ]
+  }
+}

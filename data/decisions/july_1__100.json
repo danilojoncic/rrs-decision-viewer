@@ -1,0 +1,36 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2026 Contender World Championship",
+  "race_number": "",
+  "hearing_datetime": "6 JUL 17:00",
+  "parties": [
+    "Race Committee",
+    "AUS 2389 (R1)"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.5. AUS 2389 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "During races 1 and 2, AUS 2389's sail number was not clearly legible to the race committee."
+  ],
+  "rules": [
+    "RRS N1.5",
+    "RRS 63.1(b)",
+    "RRS G1.2(a)",
+    "RRS G4"
+  ],
+  "conclusions": [
+    "AUS 2389 broke RRS G1.2(a)."
+  ],
+  "decision": [
+    "AUS 2389 is given a warning in accordance with RRS G4. AUS 2389 to pursue remedial action as directed by the Technical Committee, implementing remedial action before starting any further races."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "",
+    "members": [
+      "CT-RH-CB"
+    ]
+  }
+}

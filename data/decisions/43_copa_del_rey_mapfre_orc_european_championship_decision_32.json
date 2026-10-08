@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-07-31 19:00",
+  "parties": [],
+  "procedural_matters": [
+    "Panel composed under RRS N1.4(b).",
+    "Eleonore represented by Yann Geniaux.",
+    "Tecopsa represented by Javier Mulas Perez.",
+    "Pierre Iliver and Jose Angel Maria observing.",
+    "The jury presented video evidence."
+  ],
+  "facts": [
+    "10-11 knots, boats of 35-37 feet.",
+    "Eleonore and Tecopsa were approaching mark 1 on close-hauled converging courses. Eleonore was on starboard tack, Tecopsa was on port.",
+    "Tecopsa passed head to wind 2 boat lengths from the mark.",
+    "Tecopsa finished the tack 3 meters clear ahead and to leeward from Eleonore.",
+    "Eleonore luffed above close-hauled course when the distance between the boats was 3-4 meters and increasing."
+  ],
+  "rules": [
+    "RRS 1",
+    "RRS 13"
+  ],
+  "conclusions": [
+    "Eleonore did not have to luff above close-hauled course to avoid contact, therefore RRS 18.3 was not broken."
+  ],
+  "decision": [
+    "Protest dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

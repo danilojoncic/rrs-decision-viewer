@@ -1,0 +1,51 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "NZL",
+    "Safety boat"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "Sara Winter (coach of NZL) attended the hearing as an observer.",
+    "Johanna Poksi and Maria Massapina (members of the International Jury) gave evidence as witnesses.",
+    "th The protest time limit for Male One Person Dinghy was on 16 December 2025 15:03.",
+    "th The request for redress on Case 14 was lodged on 16 December 2025 at 15:15.",
+    "Sailing Instructions 21.2 state: ,,Actions by official vessels or helicopters/drones shall not be grounds for requesting redress by a boat.’’",
+    "NZL failed to deliver the request for redress within the protest time limit, as required by RRS 61.2(b)(1) and failed to comply with Sailing Instructions 21.2. Therefore the request for redress for Case No. 14 is invalid under RRS 61.3 and SI 21.2.",
+    "Case No. 15 was heard together with Case No. 14 in accordance with RRS 63.2(b) since both hearings arose from the same incident.",
+    "th RC became aware of the incident when NZL submitted the request for redress on 16 December at 15:15, then confirmed the incident with the safety boat and submitted the request for redress at 17:07. Race Committee failed to deliver the request for redress within the protest time limit as required by RRS 61.2(b)(1). However, there was good reason for the PC to extend the time limit. Therefore the request for redress is valid under RRS 61.3."
+  ],
+  "facts": [
+    "Wind 24 kts, waves 1,5 m",
+    "200 m above the starting line, there was a capsized 420 boat 2,5 m leeward of a safety rib, which was moving backwards toward that 420 boat.",
+    "2 minutes after the starting signal of Male One Person Dinghy, NZL was sailing on starboard between the capsized 420 boat and a safety rib.",
+    "Contact occurred between the safety rib and NZL, right after the contact NZL capsized.",
+    "After recovering his boat NZL was almost last and finished Race 2 on 21 place.",
+    "NZL had seen the capsized 420 boat 30 seconds before the contact with the safety boat.",
+    "There was no damage or injury to NZL."
+  ],
+  "rules": [
+    "SI 21.2",
+    "RRS 61.4(b)",
+    "SI 61.3",
+    "SI 61.2(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Arnaud Mante",
+    "members": [
+      "Johanna Poksi",
+      "Maria Massapina"
+    ]
+  }
+}

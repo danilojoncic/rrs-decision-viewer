@@ -1,0 +1,53 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "4",
+  "hearing_datetime": "22 JUN 19:45",
+  "parties": [
+    "DEN 41",
+    "GER 6400"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "GER 4600 was represented by Peter Weichsel (skipper).",
+    "DEN 41 was represented by Jonas Funk Pedersen (helm).",
+    "Zoe Coers (crew of GER 7262) gave evidence as a witness.",
+    "Stefan Meier (crew of GER 6400) gave evidence as a witness."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were less than 5 knots of wind and no waves.",
+    "In the last minute before the start of the of race 4 DEN 41 was approaching the starting line close-hauled on starboard tack.",
+    "GER 6400 was reaching along the starting line on port tack, one boat length leeward of the starting line.",
+    "DEN 41 was aiming behind the stern of GER 6400.",
+    "When the boats were one boat length apart GER 6400 bore away and established a collision course with DEN 41.",
+    "DEN 41 bore away sharply to a broad reach.",
+    "GER 6400 gybed onto starboard tack and established a windward overlap with DEN 41.",
+    "DEN 41 luffed.",
+    "GER 6400 continued reaching down the line.",
+    "When the boats were on a reaching course the distance between the boats was less than 15 cm.",
+    "No boat took any penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 11",
+    "RRS 16.1",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GER 6400 on port-tack failed to keep clear of DEN 41 on starboard-tack, and broke RRS 10.",
+    "After the gybe GER 6400 to windward failed to keep clear of DEN 41 to leeward, and broke RRS 11.",
+    "When changing course, DEN 41 the right-of-way boat gave GER 6400 room to keep clear, and complied with her obligations under RRS 16.1."
+  ],
+  "decision": [
+    "GER 6400 is disqualified in race 4."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Matthias Rebholz",
+    "members": [
+      "Hella Bouma",
+      "Romain Gautier"
+    ]
+  }
+}

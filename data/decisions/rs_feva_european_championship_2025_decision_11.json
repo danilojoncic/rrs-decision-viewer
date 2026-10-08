@@ -1,0 +1,55 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "RS Feva European Championship 2025",
+  "race_number": "8",
+  "hearing_datetime": "2025-10-03 17:15",
+  "parties": [
+    "EST 9155 - Ants Haavel Elin Haavel",
+    "GBR 9163 - Emily Ridout Annabel Ridout"
+  ],
+  "procedural_matters": [
+    "EST 9155 was represented by Ants Haavel GBR 9163 was represented by Emily Ridout ITA 4401 was represented by Tommaso Giannotti Hearing No. 11 was heard together with hearing No. 12 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident. Arbitration Inappropriate - The arbitrator deems the incident inappropriate for arbitration."
+  ],
+  "facts": [
+    "Wind conditions: 10-15 knots, small, choppy waves.",
+    "Just after the starting signal for Race 8 EST 9155 was sailing on close-hauled course on starboard tack.",
+    "GBR 9163 and ITA 4401 were sailing on close-hauled course on port tack. ITA 4401 slightly above to windward less than 1 boat length between the boats. GBR 9163 on collision course with EST 9155.",
+    "When the distance between EST 9155 and GBR 9163 was less than 3 boat lengths GBR 9163 hailed \"Room to tack\". ITA 4401 heard GBR 9163 screaming, but not the hail \"Room to tack\".",
+    "After 3 second there was a contact between EST 9155 port beam and GBR 9163 starboard beam. EST 9155 luffed and continued with a crash tack on to port tack.",
+    "Immediately thereafter, GBR 9163 luffed and started to tack.",
+    "There was contact between ITA 4401 starboard quarter and GBR 9163 bow."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 13",
+    "RRS 20.1",
+    "RRS 20.2(a)",
+    "RRS 20.4(a)",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "GBR 9163 on port tack failed to keep clear of EST 9155 on starboard tack, and broke RRS 10.",
+    "After passing head to wind and before being on a close-hauled course, GBR 9163 failed to keep clear of ITA",
+    "GBR 9163 broke RRS 13.",
+    "GBR 9163 failed to give ITA 4401 time to respond after she hailed \"Room to tack\", and broke RRS 20.2(a).",
+    "GBR 9163's hail could not be heard, and GBR 9163 did not make any signal to indicate her need for room to tack and broke RRS 20.4(a).",
+    "GBR 9163 did not avoid contact with EST 9155 and ITA 4401 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for EST 9155, the right-of-way boat, to avoid contact with GBR 9163 when it became clear that GBR was not keeping clear. EST 9155 did not break RRS 14(a).",
+    "ITA 4401 did not avoid contact with GBR 9163 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for ITA 4401, the right-of-way boat, to avoid contact with GBR 9163 when it became clear that GBR 9163 was not keeping clear. ITA 4401 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "GBR 4401 is DSQ in Race 8."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Alen Kustic",
+    "members": [
+      "Martin Clasen",
+      "Peter Taylor",
+      "Katarzyna Goralska",
+      "Ezio Fonda"
+    ]
+  }
+}

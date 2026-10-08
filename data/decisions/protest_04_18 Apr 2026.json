@@ -1,0 +1,37 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Request For Redress",
+  "event": "Optimist Boys",
+  "race_number": "",
+  "hearing_datetime": "31 May 2025 at 18:15",
+  "parties": [
+    "ARG 4030 - Pedro BEARZOTTI MARIANI",
+    "ARG 4030 - Pedro BEARZOTTI MARIANI"
+  ],
+  "procedural_matters": [
+    "1) ARG 4030 represented by Pedro Bearzotti Mariani 2) Race Committee represented by Pinar Coskuner Genc. 3) Coach and Team Leader of Argentina attended the hearing as observers."
+  ],
+  "facts": [
+    "After ARG 4030 arrived ashore, he waited to see if some other boats wanted to join her request.",
+    "ARG 4030 lodged request for redress at 17:39, more than two hours after the incident and after protest time limit had expired at 17:38."
+  ],
+  "rules": [
+    "RRS 61.2(b)(3)",
+    "RRS 61.3"
+  ],
+  "conclusions": [
+    "ARG 3040 failed to deliver the request for redress within the protest time limit or two hours after the incident, as required by RRS 61.2(b)(1). There was no good reason for the International Jury to extend the time."
+  ],
+  "decision": [
+    "Request for redress is invalid."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "",
+    "members": [
+      "Susanne Kuusansalo (IJ-FIN",
+      "Miguel Amaral (NJ-POR",
+      "Ilker Bayindir"
+    ]
+  }
+}

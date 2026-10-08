@@ -1,0 +1,46 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 6 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "Final",
+  "hearing_datetime": "",
+  "parties": [
+    "JPN 223687 - Genki KAHARA"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "JPN 223687 was represented by Genki KAHARA.",
+    "Technical Committee was represented by Dan Zhao.",
+    "Ikutro Mori (sailor of JPN 228221) attended the hearing as interpreter for JPN 223687",
+    "Yoichi Iijima coach of JPN 223687 attended the hearing as an observer.",
+    "Alexandra Pasi (member of the Technical Committee) attended the hearing as an observer."
+  ],
+  "facts": [
+    "JPN 223687 finished race F3 of the gold fleet in 5th place and was inspected by the Technical Committee at the finishing line.",
+    "Technical Committee found the free end of the vang attached to the centreboard retention shock cord.",
+    "After equipment inspection JPN 223687 untied the end of the vang.",
+    "Technical Committee stated that attaching the free end of the vang to the centerboard retention shock cord may provide a possible advantage, although the advantage is not certain."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 78.1",
+    "Class Rule 3",
+    "RRS 44.3"
+  ],
+  "conclusions": [
+    "By having the free end of the vang attached to the centreboard retention shock cord JPN 223687 broke class rule 3. b) x and therefore broke rule 78.1"
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons a starting penalty of 20% was decided",
+    "There were no circumstances to justify increasing nor decreasing the penalty.",
+    "The penalty given to JPN 223687 is a 20% discretionary penalty, calculated using the method described in RRS 44.3(c ) and applied to race F3, but not worse than the score of DNF"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gurvinderpal Julka",
+    "members": [
+      "Danilo Joncic",
+      "Wee Lee Willy"
+    ]
+  }
+}

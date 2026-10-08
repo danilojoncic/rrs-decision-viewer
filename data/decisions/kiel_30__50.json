@@ -1,0 +1,47 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "",
+  "hearing_datetime": "22 JUN 20:00",
+  "parties": [
+    "Technical comittee",
+    "GER 66 (R4)"
+  ],
+  "procedural_matters": [
+    "?GER 66 was represented by Jes Gram-Hansen (crew).",
+    "The technical committee was represented by Jan Schmidt (member of the technical committee).",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "Races 4, 5 and 6 were sailed on Monday, 22 June 2026.",
+    "After race 6 on Monday 22 June 2026, the crew of GER 66 was instructed by the technical committee member to be weighed at 18:35 hrs.",
+    "The combined weight of the crew of GER 66 was 608,8 kg weighed at the floating pier.",
+    "After 45 minutes, at 19:10 hrs. the weighing in was performed again at the DSV, resulting in the combined weight of 602,4 kg.",
+    "The upper limit for the combined weight of the crew declared on the certificate is 590 kg, and the bottom limit is 460 kg.",
+    "SI 11.5 states the following: Penalties for breaches of class rules, RRS 50 or 78.1, class rules, rules in the Notice of Race or Sailing Instructions marked ‘[DP]’ or [SP], should the case go to a hearing, are at the discretion of the international jury and may be less than a disqualification."
+  ],
+  "rules": [
+    "RRS 78.1",
+    "RRS 44.3(c)",
+    "RRS N1.4(b)",
+    "Class Rule 200.1(a)"
+  ],
+  "conclusions": [
+    "GER 66’s combined weight of the crew exceeded the upper limit stated on the boat’s certificate, breaking ORC class rule 200.1(a).",
+    "By sailing with a combined crew weight above the upper weight limit declared in her certifcate and therefore not maintaining the boat to comply with her class rules, GER 66 broke RRS 78.1."
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons a starting penalty of 20% was decided.",
+    "The penalty was increased because the breach was not accidental.",
+    "The penalty is a 30% discretionary penalty, calculated using the method described in rule 44.3(c) and applied to races 4, 5 and 6."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Jens Biederer",
+    "members": [
+      "Michal Zak",
+      "Giorgio Davanzo"
+    ]
+  }
+}

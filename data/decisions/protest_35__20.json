@@ -1,0 +1,43 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "2",
+  "hearing_datetime": "",
+  "parties": [
+    "ISR",
+    "Race committee"
+  ],
+  "procedural_matters": [
+    "ISR was represented by Gaya Datiashivli",
+    "RC was represented by Francisco Jauregui (PRO)",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The results of the Female One Person Dinghy fleet for race 2 were published on 1 7.12.2025 at 16:59",
+    "ISR got aware of the score change on 17.12.2025 at 17:00",
+    "ISR submitted a scoring inquiry on 17.12.2025 at 17:32 and the RC answered on17.12.2025 at 18:35",
+    "ISR submitted a request of redress on 17.12.2025 at 20:02",
+    "According to SI 15.2 “A request for redress based on an incident identified in a scoring enquiry will meet the time limit if: (…) 15.2.2 the request for redress is delivered as soon as reasonably possible after being notified of the Race Committee’s response to the scoring enquiry. The response by the Race Committee may be notified in writing or through the online system. This changes RRS 61.2 (b).”"
+  ],
+  "rules": [
+    "RRS 63.4(a)(1)",
+    "RRS 61.2(b)(3)",
+    "SI 15.2",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "ISR failed to deliver the request for redress as soon as reasonably possible after the relevant information was available, as required by RRS 61.2(b)(3) and SI 15.2"
+  ],
+  "decision": [
+    "The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Arnaud Mante",
+    "members": [
+      "Anna Cuccia",
+      "Maria Massapina"
+    ]
+  }
+}

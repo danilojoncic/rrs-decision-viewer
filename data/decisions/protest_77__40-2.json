@@ -1,0 +1,49 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "4",
+  "hearing_datetime": "27 JUN 16:15",
+  "parties": [
+    "International Jury",
+    "IRL 220765 (R4)"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "The international Jury was represented by Svenja Huensch.",
+    "The hearing was scheduled for 16:15.",
+    "IRL 220765 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b) at 16:40.",
+    "At 16:48 IRL 220765 arrived at the jury room and joined the hearing."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 15 knots of wind and small chop.",
+    "One minute before the starting signal of race 4, IRL 220765 was on starboard tack 0,5 meter to leeward of the race committee starting vessel.",
+    "There was another boat 1 meter to leeward of IRL 220765.",
+    "After the preperatory signal was removed, the sailor of IRL 220765 grabbed the edge of the race committee starting vessel with his right hand and held on for a few seconds.",
+    "After the sailor of IRL 220765 released his hand, IRL 220765s ailed for a few seconds before the sailor grabbed the edge of the race committee starting vessel again and held on for a few seconds.",
+    "After that, the sailor of IRL 220765 let go of the race committee starting vessel, bore away and continued sailing along the starting line for 30 seconds before starting the race.",
+    "After the starting signal, the race committee signalled a general recall.",
+    "IRL 220765 sailed in the restarted race.",
+    "No penalty was taken."
+  ],
+  "rules": [
+    "RRS 2",
+    "RRS 31"
+  ],
+  "conclusions": [
+    "IRL 220765 touched the race committee starting vessel and broke RRS 31.",
+    "By knowingly breaking rule 31 and not taking the appropriate penalty, IRL 220765 failed to compete in compliance with the principles of sportsmanship and fair play as stated in RRS Basic Principles. IRL 220765 broke RRS 2.",
+    "Since IRL 220765 broke RRS 2 in the incident, she may be penalized as per RRS 36(b), even though the race was restarted."
+  ],
+  "decision": [
+    "IRL 220765 is DNE in race 4."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Josephine Wilken",
+    "members": [
+      "Sandra Asle Hatch",
+      "Hella Bouma"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "3",
+  "hearing_datetime": "",
+  "parties": [
+    "CAN 216264 - Ryan ANDERSON"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "CAN 216264 was represented by Ryan ANDERSON.",
+    "The race committee was represented by Javier Blanco (Course Race Officer for ILCA 7).",
+    "The protest time limit for the ILCA 7 Men Yellow fleet was 16:30 on 12 August 2025.",
+    "CAN 216264 submitted a scoring inquiry at 16:04 on 12 August 2025.",
+    "The race committee published its decision on the scoring inquiry at 18:05.",
+    "CAN 216264 submitted a request for redress at 18:39.",
+    "The race committee presented video evidence during the hearing."
+  ],
+  "facts": [
+    "The race committee displayed the black flag as preparatory signal during the start of race 3 for ILCA 7 Men Yellow fleet.",
+    "The race committee identified CAN 216264 in the triangle formed by the ends of the starting line and the first mark during the last seconds before the starting signal.",
+    "The race committee signalled a general recall after the starting signal and displayed the sail number of CAN 216264 on the race committee signal boat before the next warning signal.",
+    "CAN 216264 did not sail in race 3.",
+    "CAN 216264 was scored BFD in race 3 by the race committee."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.2(b)(3)",
+    "RRS 61.4(b)(1)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Elliot Levy",
+    "members": [
+      "Christina Ortendahl",
+      "Heiko Thoelmann"
+    ]
+  }
+}

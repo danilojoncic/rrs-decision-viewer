@@ -1,0 +1,39 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2026 ILCA 4 Youth European Championship and Open European Trophy",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 219045 - David SALES"
+  ],
+  "procedural_matters": [
+    "ESP 219045 and the race committee representative did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "The request for redress pertains to an incident in the race area.",
+    "The protest time limit for race 4 of ILCA 4 (Boys) (Red fleet) was 17:30.",
+    "The request for redress was filed by ESP 219045 at 17:32:18."
+  ],
+  "rules": [
+    "RRS 63.1(b)",
+    "RRS 61.2(b)(1)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "ESP 219045 failed to file the request for redress within the protest time limit, as required by RRS 61.2(b)(1). There was no good reason for the protest committee to extend the time."
+  ],
+  "decision": [
+    "The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Eurico Teodoro",
+    "members": [
+      "Jose Manuel Carrera",
+      "Tonny Jensen",
+      "Gurvinderpal Julka",
+      "Boguslaw Moczorodynski"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "World Championships 49er, 49erFX, Nacra 17 - 2026",
+  "race_number": "4",
+  "hearing_datetime": "13 MAY 15:00",
+  "parties": [
+    "NED 987",
+    "ESP 424"
+  ],
+  "procedural_matters": [
+    "Diego Yubero, support person of ESP 424, attended the hearing as observer.",
+    "Daniel Bramervaer, support person of NED 987, attended the hearing as observer.",
+    "ESP 424 provided photographic evidence during the hearing (a screenshot of Vakaros tracking system)."
+  ],
+  "facts": [
+    "Race 4, 49er yellow fleet, wind 20 kts with choppy sea.",
+    "NED 987 reached the zone of mark 1 on starboard tack clear ahead of ESP 424 by two to three boat lengths.",
+    "NED 987 rounded the mark less than a boat length ahead of ESP 424.",
+    "ESP 424, while leaving the mark, established an overlap to leeward of NED 987 with a lateral distance of one boat length.",
+    "NED 984 held her course.",
+    "ESP 424 luffed slightly.",
+    "After sailing for 5 boat lentghs, a contact occurred between the the forestay of ESP 424 and the boom of NED 987.",
+    "Immediately after the contact, ESP 424 began nosediving and her mast hit the mast, the main sail and the trapeze wires of NED 987.",
+    "The crew of NED 987 fell overboard.",
+    "Both boats capsized at the same time.",
+    "After rightening the boat ESP 424 regained control and took a one-turn penalty.",
+    "There was no damage nor injury.",
+    "Both boats finished the race."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 43.1(c)"
+  ],
+  "conclusions": [
+    "NED 987 to windward failed to keep clear of ESP 424 to leeward, and broke RRS 11.",
+    "NED 987 did not avoid contact with ESP 424 even though it was reasonably possible, and broke RRS 14(a).",
+    "ESP 424 did not avoid contact with NED 987 even though it was reasonably possible, and broke RRS 14(a).",
+    "Since ESP 424 was right-of way boat and the contact did not cause damage or injury, she is exonerated under RRS 43.1(c) for breaking RRS 14."
+  ],
+  "decision": [
+    "Protest upheld. NED 987 is DSQ in Race 4."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Nicole DE BY",
+    "members": [
+      "Ilca HEINRICH",
+      "Alexis DUVERNOY",
+      "Paul BASTARD",
+      "Alessandro BERRONE"
+    ]
+  }
+}

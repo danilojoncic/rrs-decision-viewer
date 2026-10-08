@@ -1,0 +1,43 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "2026 ORC World Championship",
+  "race_number": "6",
+  "hearing_datetime": "2026-05-13 19:00",
+  "parties": [],
+  "procedural_matters": [
+    "ITA 2915 -To Be- was represented by Afonso Domingos (tactician).",
+    "The race committee was represented by David Bartol (Course race officer for Class B).",
+    "ITA 2915 -To Be- presented evidence provided by the Trac Trac tracking system."
+  ],
+  "facts": [
+    "The race committee displayed Flag P as the preparatory signal for Class B in the Coastal Race of the ORC World Championship.",
+    "The race committee was sighting the starting line positioned with their head directly in front of the line where the orange flag is.",
+    "Approximately 15 seconds before the starting signal, the race committee identified a group of boats very close to the starting line. Among them bow no. 68, which is ITA 2915 -To Be-.",
+    "One second before the starting signal, the race committee identified 2 boats on the course side of the starting line.",
+    "ITA 2915 -To Be- was on the course side of the starting line at the starting signal.",
+    "The race committee signalled an individual recall, by displaying flag X with one sound.",
+    "The race committee called on the radio ITA 2915 -To Be-, approximately 40-45 seconds after the starting signal.",
+    "ITA 2915 -To Be- returned completely to the pre-start side of the starting line and started.",
+    "ITA 2915 -To Be- was scored 16th in the coastal race."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "By identifying ITA 2915 -To Be- on the course side of the starting line at her starting signal, the race committee did not make an improper action or improper omission. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given to ITA 2915 -To Be-."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Josje Hofland",
+    "members": [
+      "Neven Baran",
+      "Stavros Kouris",
+      "Line Juhl",
+      "Giuseppe D'amico"
+    ]
+  }
+}

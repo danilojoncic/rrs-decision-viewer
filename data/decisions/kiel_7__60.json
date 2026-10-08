@@ -1,0 +1,71 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2026",
+  "race_number": "4",
+  "hearing_datetime": "21 JUN 17:15",
+  "parties": [
+    "AUS 105",
+    "AUT 224"
+  ],
+  "procedural_matters": [
+    "AUS 105 was represented by Kurt Hansen (helm).",
+    "AUT 224 was represented by Keno Pulte (helm).",
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "While the panel was deliberating, Matthias Rebholz, a member of the international iury who was not on the panel for this hearing, became aware of the protest and advised the panel that he had seen the incident. The panel recalled the parties and called Matthias Rebholz to give evidence as a witness.",
+    "After the parties had again left the room and the panel had resumed deliberating, AUT 224’s representative advised the panel that he had become aware of a video filmed by his coach. The panel again recalled both parties so that AUT 224 could present the video evidence."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 6-8 knots with choppy seas. m. anTaghe2esai l. icnomcident occurred at thefirstR reopourt Cnredatiend TgU Eo 2f3 mJUNa 2r0k26 10:1 9in race 4 of the 49er red fleet.",
+    "Before the incident, AUS 105 wasin fourth place.",
+    "AUS 105 tacked onto starboard tack approximately 20 boat lengths from mark 1 on a tight lay line.",
+    "Outside the zone of mark 1, AUT 224 passed head to wind from port to starboard tack, within half a metre to leeward of AUS 105.",
+    "AUS 105 luffed.",
+    "Before AUT 224 reached aclose- hauled course, her starboard wing came on top of AUS 105’s port wing.",
+    "The boats became tangled andentered the zone as such. There was no damage to either boat at thispoint.",
+    "FRA 16 was sailing close hauledon port tack on a collision course with both boats.",
+    "FRA 16 luffed and passed head towind to leeward of both boats.",
+    "Before FRA 16 reached a close-hauled course, contact occurred between her starboard wing and AUT 224’shull.",
+    "AUT 224 drifted backwards, while still being entangled with AUS 105.",
+    "Further contact occurred betweenthe bow of FRA 16 and the port side of AUS 105’s hull, approximately 20 cmbehind her bow. AUS 105 sustained damage in the form of a thin 8 cm hole belowthe waterline, and a chip on her gunwale.",
+    "AUS 105 continued sailing therace, but water was coming in through the hole.",
+    "AUS 105 finished the race in 18thplace.",
+    "After the incident and beforethey rounded mark 1, AUT 224 and FRA 16 each took a penalty turn.",
+    "AUS 105 protested only AUT 224 while afloat, and subsequently delivered a protest against AUT 224 only. AUS 105 did not name FRA 16 as a respondent.",
+    "In the incident descriptionsection of the hearing request form, AUS 105 noted that FRA 16 was alsoinvolved in the incident and may have been responsible for the damage."
+  ],
+  "rules": [
+    "RRS 13",
+    "RRS 14(a)",
+    "RRS 44.1(b)",
+    "RRS 60.1",
+    "RRS 60.5(b)(1)",
+    "RRS 61.4(b)(2)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "After passing head to wind and before being on a close-hauled course, AUT 224 failed to keep clear of AUS 105. AUT 224 broke RRS 13.",
+    "AUT 224 did not avoid contact with AUS 105 even though it was reasonably possible, and broke RRS 14(a).",
+    "Since AUT 224 did not cause injury, serious damage, and did not gained a significant advantage in the race by her breach, AUT 224 took an applicable penalty by taking a One-Turn Penalty.",
+    "It was not reasonably possible for AUS 105, the right-of-way boat, to avoid contact with AUT 224 when it became clear that AUT 224 was not keeping clear. AUS 105 did not break RRS 14(a).",
+    "After passing head to wind and before being on a close-hauled course, FRA 16 failed to keep clear of both AUT 224 and AUS 105. FRA 16 broke RRS 13.",
+    "FRA 16 did not avoid contact with AUT 224 and AUS 105 even though it was reasonably possible, and broke RRS 14(a).",
+    "Since FRA 16 caused serious damage by her breaches of RRS 13 and RRS 14(a), her penalty was to retire as required by RRS 44.1(b). However, since she is not a party to the hearing, RRS 60.5(b)(1) prevents her from being penalised further.",
+    "Since AUS 105 was aware of FRA 16’s involvement and possible responsibility for the incident and elected not to protest her, the international jury did not exercise its right to protest under RRS 60.1.",
+    "AUS 105 sustained physical damage through no fault of her own by FRA 16's action that was breaking RRS 13 and RRS 14. However, as FRA 16 was neither penalised nor took the applicable penalty, the requirements for redress in RRS 61.4(b)(2) are not met, even if AUS 105's place in race 4 was made significantly worse."
+  ],
+  "decision": [
+    "The protest is upheld.",
+    "Since AUT 224 took an applicable penalty, she is not further penalized under RRS 60.5(c)(2).",
+    "Since FRA 16 is not a party to the hearing, she is not penalized under RRS 60.5(b)(1).",
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Giorgio Davanzo",
+    "members": [
+      "Louis Mackenzie Mayo",
+      "Michal Zak"
+    ]
+  }
+}

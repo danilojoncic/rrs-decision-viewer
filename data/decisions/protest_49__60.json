@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2025",
+  "race_number": "7",
+  "hearing_datetime": "24 JUN 17:00",
+  "parties": [
+    "International Jury / OA",
+    "Coach Marijan Pamuklic 597 (), MNE"
+  ],
+  "procedural_matters": [
+    "International jury upon receipt of a report from the Organizing Authority, decided to call a hearing under RRS 62.1",
+    "Support person Marijan Pamuklio (reg. 592).",
+    "Competitors supported by Marijan Pamuklio (reg. 592) who attended the hearing is MNE 222865 – Nikola Golabaviá.",
+    "The OA was represented by Jan-Ole Scholgz.",
+    "Video evidence was presented by the OA."
+  ],
+  "facts": [
+    "The speed limit is posted in the entrance of the marina – 3 Knots.",
+    "Marijan Pamuklio (coach) was aware of the speed limit",
+    "Marijan Pamuklio was motoring and towing at a speed higher than 3 knots inside the Marina",
+    "Marijan Pamuklio followed other not identified coach boats at similar speed"
+  ],
+  "rules": [
+    "NoR 14.3"
+  ],
+  "conclusions": [
+    "Marijan Pamuklio was found motoring inside the Marina at a speed higher than 3 knots and broke Event Support Team Regulation 3.6 and NoR 14.3."
+  ],
+  "decision": [
+    "Marijan Pamuklio shall apologize in writing to the OA."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bence Böröcz",
+    "members": [
+      "Juuso Leivonen",
+      "Louis Mayo",
+      "Michalina Wroblews"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Dutch Youth Regatta 2026",
+  "race_number": "3",
+  "hearing_datetime": "15 MAY 16:30",
+  "parties": [
+    "International Jury",
+    "BEL 1073 (R3)"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was constituted in accordance with RRS N1.4(b). BEL 1073 did not come to the hearing. The panel decided to proceed with the hearing as permitted by RRS 63.1(b). Neither party was present when the decision was read out, but the case is published to the ONB per RRS 63.6."
+  ],
+  "facts": [
+    "At the start of Race 3, an RRS 42 observer vessel was reversing away from a penalized competitor FRA 2739, close to the committee signal vessel and the start line.",
+    "While the RRS 42 observer vessel was reversing, she collided with BEL 1073, 10 Optimist hull lengths below the start line.",
+    "BEL 1073's path to the start line and course was blocked for 15 seconds.",
+    "There was no damage nor injury.",
+    "BEL 1073 finished race.3 in position 51."
+  ],
+  "rules": [
+    "RRS 61.4(b)"
+  ],
+  "conclusions": [
+    "By reversing and colliding with a boat while racing, there was an improper action by the RRS 42 observer vessel (part of a committee) per RRS 61.4(b).1",
+    "Since BEL 1073's score was made significantly worse through no fault of her own, the conditions for redress are met. RRS 61.4(b)"
+  ],
+  "decision": [
+    "Redress given to BEL 1073. BEL 1073 is to be scored in race 3 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races sailed the opening series (races 1-5), except race 3. BEL 1073 score under redress is not to be greater than her finishing position in Race 3 - position 51."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Britt Gort",
+    "members": [
+      "Stephen Procter",
+      "Luke Scott"
+    ]
+  }
+}

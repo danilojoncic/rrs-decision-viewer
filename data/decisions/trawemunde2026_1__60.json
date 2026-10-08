@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "1",
+  "hearing_datetime": "18 JUL 16:15",
+  "parties": [
+    "GER 37",
+    "GER 334"
+  ],
+  "procedural_matters": [
+    "GER 334 presented photo evidence."
+  ],
+  "facts": [
+    "Wind was 20-22 knots with one meter waves.",
+    "Finn boats, GER 37 and GER 334were both sailing downwind on port tack towards the leeward mark.",
+    "The boats were overlapped whenthey entered the zone. GER 37 was the inside boat. GER 334 was outside and two boat lengths to leeward of her.",
+    "5 meters after rounding the mark, while GER 37 was pulling in her sheets, there was contact between GER 37’sstarboard quarter and port side of GER 334.",
+    "There was a 10 cm scuff on theport side of GER 334. No boat took a penalty.",
+    "Both boats finished the race."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "GER 37 to windward, failed tokeep clear of GER 334 to leeward, and broke RRS 11.",
+    "GER 37 did not avoid contactwith GER 334 even though it was reasonably possible, and broke RRS 14(a).",
+    "GER 334 did not avoid contact to GER 37 even though it was reasonably possible, and the contact caused damage, therefore GER 334 broke RRS 14(a)."
+  ],
+  "decision": [
+    "GER 37 and GER 334 are DSQ in Race 1"
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Giuseppe d'Amico",
+    "members": [
+      "Johanna Poksi",
+      "Mehnaz Jamil",
+      "Joanna Sachs",
+      "Ralf Tiedje"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "4",
+  "hearing_datetime": "",
+  "parties": [
+    "CAN 219619 - Carlos Charabati"
+  ],
+  "procedural_matters": [
+    "The hearing was conducted by a panel under N1.4(b)."
+  ],
+  "facts": [
+    "CAN 219619 was scored UFD in race 4.",
+    "Video taken from the pin end Race Committee vessel shows CAN 219619 in the triangle formed by the ends of the starting line and the first mark during the last minute before her starting signal."
+  ],
+  "rules": [
+    "RRS 30.3",
+    "RRS 61.4(b)"
+  ],
+  "conclusions": [
+    "CAN 219619 was identified as in the triangle formed by the ends of the starting line and the first mark during the last minute before her starting signal and broke RRS 30.3.",
+    "CAN 219619’s score in race 4 was made significantly worse through her own fault. Therefore, the requirements for redress in RRS 61.4(b) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Doug Elder",
+    "members": [
+      "Steven Holmstrom",
+      "Elizabeth Rouget"
+    ]
+  }
+}

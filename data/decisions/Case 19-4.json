@@ -1,0 +1,45 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "1",
+  "hearing_datetime": "",
+  "parties": [
+    "GER 191899 - Philip WALKENBACH"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "GER 191899 was represented by Philip Walkenbach.",
+    "The race committee was represented by Javier Blanco (ILCA 7 Course Representative).",
+    "Robert Olsson (member of race committee) attended the hearing as an observer.",
+    "The hearing request was submitted online as a protest.",
+    "During the hearing the protest committee clarified in accordance with RRS 63.2(c) that the hearing request was not a protest but a request for redress and proceeded with it accordingly."
+  ],
+  "facts": [
+    "Race 1 of ILCA 7 Men Red Fleet was sailed on 11 Aug 2025.",
+    "GER 191899 felt that a few boats were in the triangle formed by the ends of the starting line and the first mark a few seconds before the starting signal.",
+    "The race committee did not identify any boat in the triangle formed by the ends of the starting line and the first mark one minute before the starting signal.",
+    "The race committee posted the results of Race 1 ILCA 7 Men Red Fleet on 11 Aug 2025 before 16:00.",
+    "GER 191899 submitted this hearing request at 9:21:25 on 13 Aug 2025."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 63.2(c)",
+    "RRS 61.2(b)(3)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "GER 191899 failed to deliver the request for redress as soon as reasonably possible after the relevant information was available, as required by RRS 61.2(b)(3). There was no good reason for the protest committee to extend the time."
+  ],
+  "decision": [
+    "The request for redress is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christina Ortendahl",
+    "members": [
+      "Gurvinderpal Julka",
+      "Jean-Bernard Luther"
+    ]
+  }
+}

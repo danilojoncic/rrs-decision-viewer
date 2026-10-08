@@ -1,0 +1,41 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "1",
+  "hearing_datetime": "2026-05-28 10:00",
+  "parties": [
+    "AUS 725 - 118 - Celestial - Sam Haynes"
+  ],
+  "procedural_matters": [
+    "AUS 725 was represented by Tom Grimes (AUS 725’s tactician).",
+    "The race committee was represented by Corinne Aubert.",
+    "Sam Haynes (AUS 725’s skipper) and Clément Carnevali (deputy race officer) attended the hearing as observers."
+  ],
+  "facts": [
+    "On 26 May at 16:34, AUS 725 lodged a scoring inquiry about her finishing position in race 1.",
+    "On 26 May at 17:14, the race committee answered the scoring inquiry.",
+    "On 27 May at 18:34, after discussing with the race committee about the outcome of her scoring inquiry, AUS 725 delivered a request for redress about her finishing position in race 1."
+  ],
+  "rules": [
+    "RRS 61.2",
+    "RRS 61.3",
+    "SI 16.5"
+  ],
+  "conclusions": [
+    "AUS 725 failed to deliver the request for redress based on the outcome of her scoring inquiry within 30 minutes after that outcome had been posted, as required by RRS 61.2(b)(3) changed by SI 16.5. There was no good reason for the international jury to extend the time. Therefore, the request for redress is invalid under RRS 61.3."
+  ],
+  "decision": [
+    "The request for redress is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Anastazja Lewandowska",
+    "members": [
+      "Pauline den Burger",
+      "Yoann Peronneau",
+      "Romain Gautier",
+      "Christine Guba"
+    ]
+  }
+}

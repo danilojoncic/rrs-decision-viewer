@@ -1,0 +1,42 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by TC",
+  "event": "2026 ORC World Championship",
+  "race_number": "2",
+  "hearing_datetime": "2026-05-11 16:30",
+  "parties": [],
+  "procedural_matters": [
+    "The Technical Committee was represented by Zoran Grubisa (chairman of the technical committee).",
+    "HUN 53 -Chocolate 3- was represented by Peter Czegai (helm)",
+    "Henrik Hoffmann (trimmer) attended the hearing as interpreter for HUN 53.",
+    "Zoran Grubisa was not present when the decision was given."
+  ],
+  "facts": [
+    "HUN 53 -Chocolate 3- was selected for a post-race equipment inspection on the water after race #2 (1st inshore race).",
+    "At the time of the inspection HUN 53 -Chocolate 3- did not have a heavy weather jib nor a trysail (or a mainsail reefing to reduce the luff by at least 40%) on board.",
+    "HUN 53 -Chocolate 3- stated that there was a misunderstanding by the team which sails they shall have on board."
+  ],
+  "rules": [
+    "RRS 4.26.5"
+  ],
+  "conclusions": [
+    "HUN 53 failed to comply with OSR 4.26.3 by not having on board a storm trysail or mainsail reefing to reduce the luff by at least 40%.",
+    "HUN 53 failed to comply with OSR 4.26.5 by not having on board a heavy weather jib."
+  ],
+  "decision": [
+    "Using the World Sailing Discretionary Penalty Guidelines for Boats & Support Persons a starting penalty of DSQ (band 4) was decided as the breach concerns safety equipment.",
+    "There were no circumstances to justify decreasing the penalty to a lower band.",
+    "There were no circumstances to justify increasing the penalty.",
+    "The penalty is DSQ."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Neven Baran",
+    "members": [
+      "Timo Haß",
+      "Marco Flavio Tosello",
+      "Line Juhl",
+      "Giuseppe D'amico"
+    ]
+  }
+}

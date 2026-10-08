@@ -1,0 +1,36 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by PC",
+  "event": "2025 RS Feva World Championships",
+  "race_number": "F4",
+  "hearing_datetime": "2025-07-31 19:15",
+  "parties": [
+    "FRA 7234 - Darras Marcus"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b). FRA 7234 was represented by Marcus Darras Hearing started at 19:12"
+  ],
+  "facts": [
+    "Wind 3-4 knots, waves consistent with wind conditions.",
+    "Less than a minute after the starting signal of the gold fleet and before the warning signal of the silver fleet, AUT 6380 (gold fleet) was just crossing the starting line on port tack, behind the rest of the fleet, after having taken her penalty turns for a yellow flag.",
+    "FRA 7234 (silver fleet) on starboard was on a converging course with AUT 6380 on port.",
+    "Less than a meter away, AUT 6380 tacked to starboard and avoided contact."
+  ],
+  "rules": [
+    "RRS 23.1"
+  ],
+  "conclusions": [
+    "Although it was reasonably possible to avoid AUT 6380, FRA 7234 who was not racing, interfered with AUT 6380 who was racing. FRA 7234 broke RRS 23.1"
+  ],
+  "decision": [
+    "FRA 7234 is DSQ in race F4."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jean-Luc Michon",
+    "members": [
+      "Antonio Mata",
+      "Michal Kwiatek"
+    ]
+  }
+}

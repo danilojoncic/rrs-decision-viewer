@@ -1,0 +1,52 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "3",
+  "hearing_datetime": "7 JUL 16:15",
+  "parties": [
+    "ITA 15",
+    "GER 5"
+  ],
+  "procedural_matters": [
+    "ITA 15 was represented by Giulia SCHIO.",
+    "GER 5 was represented by Catherine BARTELHEIMER.",
+    "ITA 15 presented video evidence of the incident.",
+    "The Jury presented the Race Committee's finishing sheets.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "ITA 15 was sailing downwind on starboard, approaching the finish.",
+    "GER 5 was sailing downwind on port, approaching the finish.",
+    "The bow of GER 5 collided with the starboard wing of ITA 15.",
+    "ITA 15 was unable to avoid contact because of the presence of the finish boat to leeward.",
+    "GER 5 retired from the race.",
+    "As a result of the collision, the starboard wing of ITA 15 was cracked and cannot be stood on. The wing needs to be replaced. The ankle of ITA 15's crew was injured because she was stuck in the footstrap.",
+    "The collision occurred 5-10 boat lengths from the finish line.",
+    "Before the collision, ITA 15 was in 10th place.",
+    "The boats crossed the finish line entangled. ITA 15 was scored 10th."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "GER 5 failed to keep clear of ITA 15 and broke rule 10.",
+    "GER 5 failed to avoid contact when it was reasonably possible to do so and broke rule 14.",
+    "GER 5 has taken the appropriate penalty for her breach.",
+    "It was not reasonably possible for ITA 15 to avoid contact with GER 5 from when it was clear she was not keeping clear. ITA 15 did not break rule 14.",
+    "ITA 15's score was not made significantly worse by the physical damage and so the test for redress is not met."
+  ],
+  "decision": [
+    "Protest upheld, no further penalty.",
+    "Redress not granted."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jose Pico",
+    "members": [
+      "Jon Napier",
+      "Henning Jacobssen"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2026",
+  "race_number": "5",
+  "hearing_datetime": "23 JUN 18:15",
+  "parties": [
+    "UKR 222721",
+    "Measurement"
+  ],
+  "procedural_matters": [
+    "UKR 222721 was represented by Oscar Madonich.",
+    "The technical committee was represented by Melissa Goldstraß (member of the technical committee).",
+    "Charlotte May (member of the technical committee) attended the hearing as an observer."
+  ],
+  "facts": [
+    "After finishing race 5, UKR 222721 began to detach some ropes on her boat.",
+    "One minute after UKR 222721 finished race 5, the technical committee approached her to make a random measurement check.",
+    "When the technical committee UKR 222721, the tie line which shall be tied to the centreboard elastic was not tied to the centerboard.",
+    "The technical commitee applied a standard penalty as per SI Addendum Standard Penalties for not complying with class rule 14(f)."
+  ],
+  "rules": [
+    "RRS 62.1(a)",
+    "RRS 87.1",
+    "NoR 9.4",
+    "Class Rule 14(f)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the technical committee] Therefore, the requirements for redress in RRS 62.1(a) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Alessandro Berrone",
+    "members": [
+      "Václav Brabec",
+      "Wai Kai Chan Vicky",
+      "Howard Elliott",
+      "Pinar Coskuner Genc"
+    ]
+  }
+}

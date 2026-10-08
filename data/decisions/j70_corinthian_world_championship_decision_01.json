@@ -1,0 +1,40 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Event: J70 Corinthian World Championship Race Number: 01",
+  "event": "J70 Corinthian World Championship",
+  "race_number": "01",
+  "hearing_datetime": "2026-05-26 16:45",
+  "parties": [
+    "MON 707 - 179 - PICCININA - STEFANO ROBERTI"
+  ],
+  "procedural_matters": [
+    "The technical committee was represented by Thomas Loesch.",
+    "MON 707 was represented by Antoine Arnoult.",
+    "Claire Tetard (crew member of MON 707) attended the hearing as an observer.",
+    "The hearing was scheduled for 16:45. MON 707 requested more time to prepare and the hearing started when she was ready at 17:06."
+  ],
+  "facts": [
+    "MON 707 was called on VHF for post-race inspection but did not show up for the post-race inspection at the designated area.",
+    "The technical committee did not attempt to contact MON 707 and did not post a notice of his intention to protest on the official notice board."
+  ],
+  "rules": [
+    "RRS 60.2(b)(3)",
+    "RRS 60.4(a)(1)"
+  ],
+  "conclusions": [
+    "The technical committee failed to inform MON 707 of the protest at the first reasonable opportunity as required by RRS 60.2(b)(3). Therefore the protest is invalid under RRS 60.4(a)(1)."
+  ],
+  "decision": [
+    "The protest is invalid."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Bence Borocz",
+    "members": [
+      "Anastazja Lewandowska",
+      "Yoann Peronneau",
+      "Romain Gautier",
+      "Christine Guba"
+    ]
+  }
+}

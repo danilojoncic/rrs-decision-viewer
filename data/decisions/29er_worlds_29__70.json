@@ -1,0 +1,51 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "29er World Championship 2026",
+  "race_number": "8",
+  "hearing_datetime": "6 JUL 16:10",
+  "parties": [
+    "POL 2965",
+    "IRL 3321"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "POL 2965 was represented by Tymon Szkolut (crew).",
+    "IRL 3321 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b).",
+    "During the hearing, after validility was considered and while POL 2965 was giving evidence, IRL 3321 showed up at the hearing and did not provide reasons for her absence and the hearing proceeded in accordance with RRS 63.1(b).",
+    "IRL 3221 was represented by Gemma Brady (helmsperson). Procedurals matters for the reopend hearing:",
+    "The international jury decided that it may have made a significant error and reopened the hearing on 6th of July in accordance with RRS 63.7(a) (2). The parties were not present.",
+    "The panel was changed in accordance with RRS 63.7(c)(2): Lance Burger was replaced by Stavros Kouris."
+  ],
+  "facts": [
+    "The incident occurred in race Q8 of blue fleet on leg 4 and the wind speed was 15 knots.",
+    "POL 2965 and IRL 3321 were sailing on a broad reach, with POL 2965 on starboard tack and IRL 3321 on port tack.",
+    "The boats were on a collision course.",
+    "When 5 m apart, POL 2965 luffed and passed IRL 3321 stern in a distance 1 m.",
+    "If POL 2965 would have kept course, contact would have occurred between POL 2965's bow and the middle of IRL 3321.",
+    "No boat took a penalty.",
+    "Facts found for the",
+    "Reopened hearing:",
+    "The incident occurred in race Q7 of blue fleet on leg 4 and the wind speed was 15 knots. Facts 2-6 reamain unchanged."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "IRL 3321 on port tack failed to keep clear of POL 2965 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "Decision for the",
+    "Original hearing:",
+    "IRL 3321 is disqualified in race Q8.",
+    "Decision for the reopend hearing: IRL 3321 is DSQ in race Q7."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Johanna Poksi",
+      "Holger Herburger"
+    ]
+  }
+}

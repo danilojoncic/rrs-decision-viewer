@@ -1,0 +1,49 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 6 Youth World Championships",
+  "race_number": "5",
+  "hearing_datetime": "",
+  "parties": [
+    "NED 223112 - Hieke Schraffordt",
+    "ESP 224042 - Elsa Rodado Lozano"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "Before the hearing started, ESP 224042 took a Post-Race Penalty.",
+    "Feline Van Ede (NED 221343) was called as a witness for NED 223112."
+  ],
+  "facts": [
+    "The wind was blowing 10 knots with 50 cm waves and chop.",
+    "Twenty seconds after the starting signal of race 5, NED 223112 was sailing on leg 1 close-hauled on starboard tack.",
+    "ESP 224042 was sailing close-hauled on port tack.",
+    "If both boats continued without changing course, the bow of NED 223112 would have hit the starboard side of ESP 224042 just aft of the mast.",
+    "When she was one-half boat length away from ESP 224042, NED 223112 bore away.",
+    "The bow of NED 223112 hit the starboard side of ESP 224042 just aft of the cockpit.",
+    "There was no damage.",
+    "No boat took a penalty at the time of the incident.",
+    "As a result of an arbitration meeting, ESP 224042 accepted a Post-Race Penalty."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 10",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "NED 223112 had a reasonable apprehension of collision with ESP 224042. ESP 224042 broke rule 10.",
+    "ESP 224042 did not avoid contact with NED 223112 when it was reasonably possible. ESP 224042 broke rule 14.",
+    "It was not reasonably possible for NED 223112 to avoid contact with ESP 224042 when it was clear that ESP 224042 was not keeping clear. NED 223112 did not break rule 14.",
+    "ESP 224042 took an applicable penalty."
+  ],
+  "decision": [
+    "ESP 224042 is not penalized further as a result of the hearing."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gabriela Santanna",
+    "members": [
+      "Kevin Hawkins",
+      "Elizabeth Rouget"
+    ]
+  }
+}

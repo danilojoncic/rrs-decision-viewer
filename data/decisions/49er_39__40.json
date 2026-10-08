@@ -1,0 +1,47 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "12",
+  "hearing_datetime": "11 JUL 19:15",
+  "parties": [
+    "GER 11",
+    "SUI 77"
+  ],
+  "procedural_matters": [
+    "GER 11 was represented by Richard SCHULTHEIS (helm).",
+    "SUI 77 was represented by Sébastien SCHNEITER (helm).",
+    "Ryan SEATON (coach of GER 11) and Arno de PLANTA (crew of SUI 77) attended the hearing as an observer.",
+    "SUI 77 provided tracking and video evidence.",
+    "The International Jury provided tracking evidence.",
+    "Keanu PRETTNER (AUT 2) was a witness.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 5 knots of wind and flat water.",
+    "SUI 77 rounded gate mark 2p and was sailing close-hauled on port tack.",
+    "GER 11 was sailing on the run on starboard tack, on the starboard layline to mark 2p and on a converging course with SUI 77.",
+    "When the boats were approximately 2 boat lengths apart, SUI 77 luffed by about 20º.",
+    "GER 11 held her course.",
+    "SUI 77 passed approximately 30 cm to windward of GER 11.",
+    "There was no contact.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "By luffing, SUI 77 on port tack kept clear of GER 11 on starboard tack, as required by RRS 10."
+  ],
+  "decision": [
+    "The protest is dismissed."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jose Pico",
+    "members": [
+      "Lisa Steppat",
+      "Yoann Peronneau"
+    ]
+  }
+}

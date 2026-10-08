@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "1",
+  "hearing_datetime": "7 JUL 16:45",
+  "parties": [
+    "SWE 117",
+    "GBR 38"
+  ],
+  "procedural_matters": [
+    "SWE 117 was represented by Maja HANSSON-MILD.",
+    "GBR 38 was represented by Jessica JOBSON.",
+    "Daniel Birgmark (coach of SWE 117) and Tom Saunt (coach of GBR 38) attended the hearing as observers.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were approximately 15 knots of wind and flat water.",
+    "During the second upwind, SWE 117 was sailing close-hauled on starboard tack and GBR 38 was sailing close-hauled on port tack, both on converging courses.",
+    "GBR 38 held her course.",
+    "When the boats were about one boat length apart, SWE 117 bore away and passed less than 1 meter astern of GBR 38.",
+    "Neither boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "GBR 38 on port tack failed to keep clear of SWE 117 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "GBR 38 is disqualified in race Q1."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Christina Örtendahl",
+    "members": [
+      "Lisa Steppat",
+      "Yoann Peronneau"
+    ]
+  }
+}

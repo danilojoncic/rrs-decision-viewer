@@ -1,0 +1,36 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "137. Travemünder Woche 2026",
+  "race_number": "7",
+  "hearing_datetime": "23 JUL 17:00",
+  "parties": [
+    "GER 66",
+    "ANG 101"
+  ],
+  "procedural_matters": [
+    "ANG 101 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "Wind 8 kts, wiht choppy waves. On the first leg GER 66 and ANG 101 were sailing on a close-hauled course on converging course with GER 66 on starboard and ANG 101 on port tack. GER 66 at half boats length from ANG 101 bore away and passed one meter astern of ANG 101. No boats took penalty. Both boats finished the race."
+  ],
+  "rules": [
+    "RRS 10"
+  ],
+  "conclusions": [
+    "ANG 101 on port tack failed to keep clear of GER 66 on starboard tack, and broke RRS 10."
+  ],
+  "decision": [
+    "ANG 101 is DSQ in race 7."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Mehnaz Jamil",
+    "members": [
+      "Lisa Steppat",
+      "Luke Scott",
+      "Johanna Poksi",
+      "Giuseppe d'Amico"
+    ]
+  }
+}

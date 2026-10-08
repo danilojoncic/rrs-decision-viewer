@@ -1,0 +1,53 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "22 JUN 14:20",
+  "parties": [
+    "GER 21",
+    "SWE 707"
+  ],
+  "procedural_matters": [
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "GER 21 was represented by Simon Heindl (helm).",
+    "SWE 707 was represented by Victor Isdahl (helm).",
+    "Mathias Rebholz and Michalina Wroblewska (members of the international jury gave evidence as witnesses.",
+    "Max Groy (coasch of GER 21) attended the hearing as an observer."
+  ],
+  "facts": [
+    "At the time of the incident the conditions were 5 knots of wind with no waves.",
+    "The boats were approaching the downwind finishing line of race 6.",
+    "GER 21 was sailing on starboard tack and laying the pin end of the finishing line.",
+    "SWE 707 was sailing on port tack, two boat lengths to windward of the port layline towards the pin end of the finishing line.",
+    "When entering the zone the boats were overlapped and on a collision course.",
+    "When the boats were less than half a boat length apart, SWE 707 bore away and gybed.",
+    "When SWE 707 was on starboard tack, GER 21 was overlapped to leeward with less than half a metre distance between the boats.",
+    "GER 21 bore away, SWE 707 continued to luff.",
+    "Before SWE 707 came to a broad reach the distance between the starboard wing of GER 21 and the port wing of SWE 707 was 10 cm.",
+    "SWE 707 luffed, sailed to the pin end of the finishing line, bore away and finished.",
+    "No boat took a penalty turn."
+  ],
+  "rules": [
+    "RRS 11",
+    "RRS 18",
+    "RRS 43.1(b)",
+    "RRS N1.4(b)"
+  ],
+  "conclusions": [
+    "SWE 707 to windward failed to keep clear of GER 21 to leeward, and broke RRS 11.",
+    "GER 21 outside overlapped at the zone, gave mark-room to SWE 707 as required by RRS 18.2(a)(1).",
+    "Because SWE was not sailing within the mark-room she was entitled to, she is not exonerated for her breach of RRS 11 under RRS 43.1(b)."
+  ],
+  "decision": [
+    "SWE 707 is disqualified in race 6."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Matthias Rebholz",
+    "members": [
+      "Michalina Wroblewska",
+      "Michal Zak"
+    ]
+  }
+}

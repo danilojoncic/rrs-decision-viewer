@@ -1,0 +1,51 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "6",
+  "hearing_datetime": "",
+  "parties": [
+    "GRE",
+    "CRO"
+  ],
+  "procedural_matters": [
+    "GRE was represented by Tatiana Bougatioti",
+    "CRO was represented by Antea Alujevic",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "30 seconds before the start of race 6",
+    "Wind 11 kts, flat water",
+    "GRE was on starboard 1,5 m from RC port aft quarter on a closed hauled with sails flapping",
+    "CRO was on starboard 0,5 m to windward overlapped with GRE",
+    "CRO lost control of the boat and started drifting",
+    "There was contact between GRE sailors back and the boom of CRO and between windward side of GRE boat and leeward side of CRO boat 15 seconds before the start",
+    "There was no damage or injury",
+    "CRO was aware that the contact occurred",
+    "No penalty was taken"
+  ],
+  "rules": [
+    "RRS 2",
+    "RRS 11",
+    "RRS 14(a)",
+    "RRS 43.1(c)"
+  ],
+  "conclusions": [
+    "CRO to windward failed to keep clear of GRE to leeward, and broke RRS 11.",
+    "CRO did not avoid contact with GRE even though it was reasonably possible, and broke RRS 14(a).",
+    "When it became clear that CRO was not keeping clear it was reasonably possible for GRE, the right-of-way boat to avoid contact with CRO. GRE broke RRS 14(a).",
+    "Since GRE was right-of way boat and the contact did not cause damage or injury, she is exonerated under RRS 43.1(c) for breaking RRS 14.",
+    "By knowingly breaking RRS 11 and not taking the appropriate penalty, CRO failed to compete in compliance with the principles of sportsmanship and fair play as stated in Basic Principles and required by RRS 2. CRO broke RRS 2."
+  ],
+  "decision": [
+    "CRO is DNE in Race 6."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Johanna Poksi",
+    "members": [
+      "Arnaud Mante",
+      "Maria Massapina"
+    ]
+  }
+}

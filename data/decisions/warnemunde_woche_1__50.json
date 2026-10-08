@@ -1,0 +1,40 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "88. Warnemünder Woche 2026",
+  "race_number": "4",
+  "hearing_datetime": "6 JUL 15:55",
+  "parties": [
+    "Jury",
+    "GER 205281 (R4)"
+  ],
+  "procedural_matters": [
+    "1) GER 205281 did not attend the hearing, the hearing proceeded in accordance to RRS 63.1(b) 2) The International Jury was represented by Dr. Rainer Kornfeld."
+  ],
+  "facts": [
+    "Wind was 10-12 knots, waves were 0.5 to 1 meter.",
+    "GER 205281 approaching the finishing line of race 4.",
+    "GER 205281 made contact on her port side with the pin end finishing mark while finishing.",
+    "GER 205281 did not take a penalty.",
+    "No other sailors could see the contact."
+  ],
+  "rules": [
+    "RRS 31"
+  ],
+  "conclusions": [
+    "GER 205281 touched the finishing mark and broke RRS",
+    "The International Jury were not satisfied, that RRS 2 was broken."
+  ],
+  "decision": [
+    "GER 205281 is DSQ in race #4."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Dr. Jörn-Christoph Jansen",
+    "members": [
+      "Cosmin Andronic",
+      "Josephine Wilken",
+      "Karl Petter Haugen"
+    ]
+  }
+}

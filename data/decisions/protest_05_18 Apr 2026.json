@@ -1,0 +1,33 @@
+{
+  "origin_system": "SailTI",
+  "request_type": "Protest",
+  "event": "Optimist Boys",
+  "race_number": "6",
+  "hearing_datetime": "1 Jun 2025 at 18:00",
+  "parties": [
+    "PER 330 - Antonio Remy",
+    "MLT 201 - Luca Attard"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "MLT 201 RET from Race 6 after finishing. 2",
+    "PER 330 requested to withdraw the protest."
+  ],
+  "rules": [
+    "RRS 63.1"
+  ],
+  "conclusions": [
+    "There is no reason to refuse the request to withdraw the protest, according with 63.1."
+  ],
+  "decision": [
+    "Protest withdraw."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Sylvie Harle (FRA",
+    "members": [
+      "Susanne Kuusansalo (FIN",
+      "Uros Zvan (SLO"
+    ]
+  }
+}

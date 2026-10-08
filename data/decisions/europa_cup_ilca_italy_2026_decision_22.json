@@ -1,0 +1,46 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "Europa Cup ILCA Italy 2026",
+  "race_number": "ILCA4 M Silver Final 1",
+  "hearing_datetime": "2026-06-16 17:40",
+  "parties": [
+    "CZE 226723 - Tomas Grodl",
+    "ITA 225413 - COLACE Filippo"
+  ],
+  "procedural_matters": [
+    "Milam Hajek coach of CZE 226723 attended the hearing as an observer.",
+    "The panel of the International Jury was composed in accordance with RRS N1.4(b).",
+    "ITA 225413 did not come to the hearing, the hearing proceeded in accordance with RRS 63.1(b)."
+  ],
+  "facts": [
+    "The conditions at the time of the incident were 8 - 10 knots of wind and small chops.",
+    "CZE 226723 was sailing close-hauled on starboard tack on beat to windward.",
+    "ITA 225413 was sailing on port tack on a converging course to CZE 225413.",
+    "ITA 225413 hold her course.",
+    "At a distance of 75 cm CZE 226723 dropped his sail and luffed.",
+    "There was contact between the bow of CZE 226723 and the middle of the starboard side of ITA 225413.",
+    "The contact created a damage in a form of one centimetre long scratch.",
+    "No boat took a penalty."
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14"
+  ],
+  "conclusions": [
+    "ITA 225413 on port tack failed to keep clear of CZE 226723 on starboard tack, and broke RRS 10.",
+    "ITA 225413 did not avoid contact with CZE 226723 even though it was reasonably possible, and broke RRS 14(a).",
+    "It was not reasonably possible for CZE 226723 the right-of-way boat to avoid contact with ITA 225413 when it became clear that ITA 225413 was not keeping clear. CZE 226723 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "ITA 225413 is DSQ in race F1 Silver Fleet."
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Miroslav Bjelajac",
+    "members": [
+      "Niclas Fure",
+      "Pascal Andreovits"
+    ]
+  }
+}

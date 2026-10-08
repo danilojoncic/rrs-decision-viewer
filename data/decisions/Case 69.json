@@ -1,0 +1,41 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA 4 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "F4",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 220355 - Sergio LÓPEZ PALACIOS",
+    "GRE 219471 - Helias GAVIOTIS"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "ESP 220355 was represented by Sergio Lopez Palacios.",
+    "GRE 219471 was represented by Helias Gaviotis.",
+    "Jason Kefallonitis (coach of GRE 219471) attended the hearing as interpreter for GRE 219471."
+  ],
+  "facts": [
+    "The protest time limit for the ILCA 4 Boys gold Fleet on 25 June was at 15:45.",
+    "The Hearing Request was submitted at 15:47.",
+    "ESP 220355 made no attempt to submit a paper hearing request availible from the race office."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "RRS 60.3(b)(1)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "ESP 220355 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1). There was no good reason for the PC to extend the time limit."
+  ],
+  "decision": [
+    "The protest is invalid, the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Joep Straus",
+    "members": [
+      "Iuan Gray",
+      "Jean-Bernard Luther"
+    ]
+  }
+}

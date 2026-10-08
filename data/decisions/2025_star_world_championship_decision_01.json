@@ -1,0 +1,35 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "2025 Star World Championship",
+  "race_number": "2",
+  "hearing_datetime": "2025-09-09 17:25",
+  "parties": [
+    "AUT 8407 - Brunhilde - JOHANNES Sablatnig"
+  ],
+  "procedural_matters": [
+    "AUT 8407 asked to withdraw the protest."
+  ],
+  "facts": [
+    "There is no reason to refuse the request to withdraw the protest."
+  ],
+  "rules": [
+    "RRS 63.2(a)"
+  ],
+  "conclusions": [
+    "The international Jury allows the protest to be withdrawn."
+  ],
+  "decision": [
+    "Protest withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jörn-Christoph Jansen",
+    "members": [
+      "Hans Vengberg",
+      "Bartol Hodanic",
+      "Stephen Procter",
+      "Uros Zvan"
+    ]
+  }
+}

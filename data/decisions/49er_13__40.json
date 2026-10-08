@@ -1,0 +1,46 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "49er, 49er FX and Nacra 17 - European Championships 2026",
+  "race_number": "2",
+  "hearing_datetime": "7 JUL 19:00",
+  "parties": [
+    "FRA 95",
+    "JPN 310"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b)."
+  ],
+  "facts": [
+    "It was approximately 25 knots of wind.",
+    "FRA 95 was sailing upwind close-hauled on port tack, unable to bear away to gybe to go to the leeward gate.",
+    "JPN 310 was sailing upwind close-hauled on starboard tack, unable to bear away to gybe to go to the leeward gate.",
+    "FRA 95 passed head to wind in front of JPN 310 and tacked to starboard. At this point, JPN 310 was two boat lengths away.",
+    "JPN 310 tried to bear away to avoid FRA 95.",
+    "FRA 95 capsized to leeward on completion of her tack.",
+    "JPN 310 was unable to bear away due to the conditions, hardened up and sailed in between the boom and the hull of FRA 95.",
+    "The crew of FRA 95 extended his foot in order to prevent a collision between the two boats.",
+    "The collision caused damage to the rigging of FRA 95 and broke her tiller extension.",
+    "The collision caused injury to the FRA 95's crew's foot and she was unable to continue racing.",
+    "FRA 95 retired from race."
+  ],
+  "rules": [
+    "RRS 14",
+    "RRS 22",
+    "RRS 61.4(b)(2)"
+  ],
+  "conclusions": [
+    "It was not possible for JPN 310 to avoid FRA 95 in the conditions and she did not break rules 14 or 22."
+  ],
+  "decision": [
+    "Protest dismissed. Redress is refused."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Jose Pico",
+    "members": [
+      "Jon Napier",
+      "Henning Jacobssen"
+    ]
+  }
+}

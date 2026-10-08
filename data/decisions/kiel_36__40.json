@@ -1,0 +1,42 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "Kieler Woche 2026",
+  "race_number": "6",
+  "hearing_datetime": "23 JUN 18:00",
+  "parties": [
+    "GER 220411",
+    "RC"
+  ],
+  "procedural_matters": [
+    "GER 220411 was represented by Pia Christin Conradi.",
+    "The race committee was represented by Jorg Taulet.",
+    "Ben Kappelaar attended the hearing as an observer.",
+    "Both the race committee and GER 220411 provided video evidence during the hearing."
+  ],
+  "facts": [
+    "Theincident took place during race 6P.",
+    "During the startingprocedure U flag has been displayed.",
+    "There were no boats in the triangle formed by the ends of the startingline and the first mark during the last minute before the starting signal.",
+    "No boatshave been scored UFD."
+  ],
+  "rules": [
+    "RRS 30.3",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "By not scoring any UFDs in race 6P, when there were no boats in the triangle, the race committee complied with RRS 30.3.",
+    "There wasneither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress denied."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Jan Stage",
+    "members": [
+      "Katrin Adloff",
+      "Hella Bouma"
+    ]
+  }
+}

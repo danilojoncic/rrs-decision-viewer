@@ -1,0 +1,36 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA Under-21 World Championships",
+  "race_number": "7",
+  "hearing_datetime": "",
+  "parties": [
+    "CAN 218323 - Sullivan Nakatsu",
+    "SWE 226931 - Erik Norlen"
+  ],
+  "procedural_matters": [
+    "Observer: Damor Naxest Coach SWE 226931"
+  ],
+  "facts": [
+    "Wind 15-20 knots, choppy seas. On the first beat CAN 218323 was close-hauled on starboard on a converging course with SWE 226931, close-hauled on port. CAN 218323 was 1 metre from SWE 226931, heading towards midships of SWE 226931. CAN 218323 bore away, and at the same time SWE 226931 luffed towards head to wind. There was contact between the boom of SWE 226931 and the starboard side of CAN 218323 There was no damage, neither boat took a penalty"
+  ],
+  "rules": [
+    "RRS 10",
+    "RRS 14(a)"
+  ],
+  "conclusions": [
+    "SWE 226931 on port tack failed to keep clear of CAN 218323 on starboard tack, and broke RRS 10. SWE 226931 did not avoid contact with CAN 218323 even though it was reasonably possible, and broke RRS 14(a). It was not reasonably possible for CAN 218323 the right-of-way boat to avoid contact with SWE 226931 when it became clear that CAN 218323 was not keeping clear. CAN 218323 did not break RRS 14(a)."
+  ],
+  "decision": [
+    "SWE 226931 is disqualified Race 7"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gonzalo Heredia",
+    "members": [
+      "Ron Barak",
+      "Gordon Davies",
+      "Johanna Poksi"
+    ]
+  }
+}

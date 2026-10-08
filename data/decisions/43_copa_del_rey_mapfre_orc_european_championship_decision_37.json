@@ -1,0 +1,29 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Request for Redress",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "3",
+  "hearing_datetime": "2025-07-31 18:25",
+  "parties": [],
+  "procedural_matters": [],
+  "facts": [
+    "The request is completely empty."
+  ],
+  "rules": [
+    "RRS 61.2(a)"
+  ],
+  "conclusions": [
+    "The request for redress is not identifying the reason for making it as required by RRS 61.2(a)."
+  ],
+  "decision": [
+    "Request for redress invalid"
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Andres Perez",
+    "members": [
+      "Giorgio Davanzo",
+      "Michal Jodlowski"
+    ]
+  }
+}

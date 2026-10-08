@@ -1,0 +1,47 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "Kieler Woche 2026",
+  "race_number": "2",
+  "hearing_datetime": "21 JUN 17:30",
+  "parties": [
+    "ITA 221118",
+    "Race Committee"
+  ],
+  "procedural_matters": [
+    "ITA 221118 was represented by Dimitri Peroni.",
+    "The race committee was represented by Christina Buch (course race officer).",
+    "Enrico Strazzer (coach of ITA 221118) attended the hearing as an observer.",
+    "Matteo Bertacchi (ITA 216995) gave evidence as a witness.",
+    "Bennet Rabsch (pin-end boat) gave evidence as a witness."
+  ],
+  "facts": [
+    "During the second attempt to start race 2 for the yellow fleet, the conditions were 5-8 knots of wind with strong current pushing the boats over the starting line.",
+    "The race committee displayed the black flag as preparatory signal.",
+    "The race committee did not move the pin-end mark after the preparatory signal.",
+    "ITA 221118 was starting near the middle of the starting line.",
+    "The race committee identified ITA 221118 in the triangle formed by the ends of the starting line and the first mark during the last minute before the starting signal.",
+    "The race committee signalled a general recall after the starting signal and displayed the sail number of ITA 221118 on the race committee signal vessel before the next warning signal.",
+    "ITA 221118 did not sail in race 2 and was scored BFD."
+  ],
+  "rules": [
+    "RRS 30.4",
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "There was neither an improper action nor improper omission of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are not met."
+  ],
+  "decision": [
+    "Redress is not given."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Lance Burger",
+    "members": [
+      "Romain Gautier",
+      "Claudio Uras",
+      "Hermann Herburger",
+      "Wai Kai Chan Vicky"
+    ]
+  }
+}

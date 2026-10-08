@@ -1,0 +1,48 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest by RC",
+  "event": "43 Copa del Rey MAPFRE - ORC European Championship",
+  "race_number": "2",
+  "hearing_datetime": "2025-07-31 09:30",
+  "parties": [
+    "ORC 0 - OLYMP",
+    "ORC 0 - HALBTROCKEN"
+  ],
+  "procedural_matters": [
+    "Panel composed as per N1.4(b).",
+    "Parties represented as follows:",
+    "ORC - 0 - OLYMP Juan Luis Paez",
+    "ORC - 0 - HALBTROCKEN Jess Kram Hensen",
+    "ORC - C - SARCHIAPONE FUORISER Lorenzo Bodini",
+    "ORC - B - VAHINE 7 Ana Porres",
+    "ORC - B - FIRSTINGS Pedro Andrade",
+    "ORC - B - ALEGRIA Eduardo Valderas",
+    "RC Aleix Ballester"
+  ],
+  "facts": [
+    "All protested boats picked up their trackers on 29.07 in the morning. During the pick-up the boats were informed that the boats will be contacted directly if their device needs recharging.",
+    "On 29.07 at 20:55 the RC published notice 10, which included a request to pick up new trackers on the morning of 30.07 worded as follows: \"The tracking devices delivered on the 29th must be replaced by new ones at the Race Office from 09:00 to 10:30 on day 30.07.2025\"",
+    "The SI 17.3 states \"A notice will be posted during the week for subsequent delivery to the race office for reloading with redelivery the following morning.\"",
+    "OLYMP, HALBTROCKEN, SARCHIAPONE FUORISER, VAHINE 7, FIRSTINGS, ALEGRIA did not replace their trackers on the morning of 30.07.",
+    "All protested boats old trackers were working during the race on 30.07."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "SI 17.3"
+  ],
+  "conclusions": [
+    "It is reasonable to read the request stated in the notice 10 as applicable only to boats which delivered tracking",
+    "devices to the race office for \"reloading\" as per SI 17.3. No rule broken."
+  ],
+  "decision": [
+    "Protest dismissed"
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Pinar Coskuner Genc",
+    "members": [
+      "Michal Jodlowski",
+      "Andres Perez"
+    ]
+  }
+}

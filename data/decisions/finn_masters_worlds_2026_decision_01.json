@@ -1,0 +1,52 @@
+{
+  "origin_system": "rrs.org",
+  "request_type": "Protest",
+  "event": "Finn Masters Worlds 2026",
+  "race_number": "2",
+  "hearing_datetime": "2026-02-23 17:00",
+  "parties": [
+    "AUS 73 - Jazel - Kane Sinclair",
+    "NZL 5 - Sausey - Brendan Hogg"
+  ],
+  "procedural_matters": [
+    "Lauren Twigg, Jan Kemp and Michal Jodlowski attended the hearing as observers.",
+    "Bucky Smith, crew of AUS 21, gave evidence as a witness for NZL 5.",
+    "John Croston, crew of AUS 43, gave evidence as a witness for AUS 73.",
+    "Kane Sinclair, crew of AUS 73, provided video evidence. 5 David Hudson, jury member, provided video evidence.",
+    "Hearing No. 3 was heard together with hearing No. 1 in accordance with RRS 63.(2)(b) since both hearings arose from very closely connected incidents.",
+    "The hearing request N°3 did not identify the protestee and so does not comply with RRS 60.3(a). Therefore, the protest is invalid under RRS 60.4(a)(1). The hearing N°3 is closed under RRS 63.4(a)(1)."
+  ],
+  "facts": [
+    "Wind 12 kts, with a short chop.",
+    "AUS 73 entered the Mark 1 zone close-hauled on the starboard tack lay line.",
+    "NZL 5 entered the Mark 1 zone close-hauled on port tack 1.5 boat lengths below the port tack lay line.",
+    "When NZL 5 was within one boat length in front of AUS 73, she tacked onto starboard.",
+    "Before reaching a close-hauled course, when the starboard aft corner of her hull came within 1/2 meter of the port forward quarter of AUS 73, AUS 73 luffed above a close-hauled course and avoided contact."
+  ],
+  "rules": [
+    "RRS 13",
+    "RRS 18.3",
+    "RRS 60.3(a)",
+    "RRS 60.4(a)(1)",
+    "RRS 63",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "After passing head to wind and before reaching a close-hauled course, NZL 5 failed to keep clear of AUS 73. NZL 5 broke RRS 13.",
+    "After NZL 5 passed head to wind from port to starboard tack inside the zone, RRS 18.3 applied between her and AUS 73, who was on starboard and fetching the mark.",
+    "NZL 5 caused AUS 73, who was on starboard tack since entering the zone and fetching the mark, to sail above close-hauled to avoid contact. NZL 5 broke RRS 18.3."
+  ],
+  "decision": [
+    "NZL 5 is DSQ in Race 2"
+  ],
+  "jury": {
+    "type": "Protest Committee",
+    "chair": "Mikayla Thompson",
+    "members": [
+      "David Hudson",
+      "Philippe Mazard",
+      "Jamie Sutherland",
+      "Greg Kemp"
+    ]
+  }
+}

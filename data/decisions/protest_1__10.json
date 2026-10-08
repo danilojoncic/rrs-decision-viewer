@@ -1,0 +1,44 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Request for Redress",
+  "event": "2025 Youth Sailing World Championships",
+  "race_number": "1",
+  "hearing_datetime": "",
+  "parties": [
+    "GBR",
+    "RC"
+  ],
+  "procedural_matters": [
+    "GBR was represented by Jac Bailey.",
+    "Race Committee was represented by Bence Kárpáti.",
+    "Ben Sinfield (GBR crew) attended the hearing as an observer.",
+    "Jonathan McGovern (GBR coach) was a witness for GBR and presented tracking evidence."
+  ],
+  "facts": [
+    "On the 3rd leg of Race 1, GBR was sailing on the starboard lay-line of mark 1.",
+    "When GBR was 4 boat lengths from the mark, the mark started to slowly motor to starboard, and when they were 2 boat lengths from the mark, the mark increased its speed.",
+    "The mark moved a total of 5 boat lengths.",
+    "GBR had to tack and sail after the windward mark.",
+    "GBR lost approximately 5 positions.",
+    "GBR finished the race in 10th."
+  ],
+  "rules": [
+    "RRS 61.4(b)(1)"
+  ],
+  "conclusions": [
+    "GBR’s place in race 1 was made significantly worse through no fault of her own by an improper action of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are met."
+  ],
+  "decision": [
+    "Redress is given to GBR. GBR is to be scored in race 1 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of her points in all races in the series, except race 1, but not worse than 10th (her finishing position in the race). No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "Jury",
+    "chair": "Hella Bouma",
+    "members": [
+      "Sukkyong KIM",
+      "Alan Baser",
+      "Maria Massapina",
+      "Patric Loydell"
+    ]
+  }
+}

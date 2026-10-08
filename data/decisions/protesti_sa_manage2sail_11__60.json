@@ -1,0 +1,38 @@
+{
+  "origin_system": "manage2sail",
+  "request_type": "Protest",
+  "event": "World Championships 49er, 49erFX, Nacra 17 - 2026",
+  "race_number": "3",
+  "hearing_datetime": "13 MAY 16:45",
+  "parties": [
+    "GER 170",
+    "USA 49"
+  ],
+  "procedural_matters": [
+    "Elias Aritz (coach of GER 170) attended the hearing as an observer. The panel was changed in accordance with RRS 63.7(c)(2): Aleksander Prusinski, Paul Bastard and Nicole de By of the original panel and Ilca Heinrich and Alexis Duvernoy joined the panel as new members."
+  ],
+  "facts": [
+    "GER 170 states that RRS 16.1 was not taken into consideration and based on fact number 8, she should not be disqualified."
+  ],
+  "rules": [
+    "RRS 63.7(a)(2)"
+  ],
+  "conclusions": [
+    "The panel of the International Jury may have made a significant error in the",
+    "Original hearing:",
+    ". Therefore, the requirements in RRS 63.7(a)(2) for reopening the hearing are met."
+  ],
+  "decision": [
+    "Hearing no. 1 will be reopened."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Aleksander PRUSINSKI",
+    "members": [
+      "Alexis DUVERNOY",
+      "Ilca HEINRICH",
+      "Paul BASTARD",
+      "Nicole DE BY"
+    ]
+  }
+}

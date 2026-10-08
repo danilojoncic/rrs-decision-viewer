@@ -1,0 +1,47 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2026 ILCA 6 YOUTH EUROPEAN CHAMPIONSHIPS & OPEN EUROPEAN TROPHY",
+  "race_number": "1",
+  "hearing_datetime": "",
+  "parties": [
+    "SUI 226648 - Lars KELLER",
+    "GRE 223379 - Emmanouil Anastasios VOMVYLAS"
+  ],
+  "procedural_matters": [
+    "The panel of the international jury was composed in accordance with RRS N1.4(b).",
+    "SUI 226648 was represented by Lars Keller.",
+    "GRE 223379 was represented by Anastasios Vomvylas.",
+    "Auberto Spezia (coach of SUI 226648) attended the hearing as an observer."
+  ],
+  "facts": [
+    "The protest time limit for ILCA 6 Youth Men Gold fleet on 17 Jul 2026 was 20:35.",
+    "The competitor of SUI 226638 did not remember what time he arived ashore.",
+    "Majority of the ILCA 6 Youth Men Gold fleet was ashore at 20:00 on 17 Jul 2026.",
+    "After SUI 226648 came ashore, the competitor first went to the jury office and than went to find his phone in order to file his hearing request online.",
+    "According to NoR 16.1, hearing request forms are available on the Official Notice Board and hearing requests are required to be delivered there within the appropriate time limit.",
+    "According to NoR 16.11, only in case of technical issues, hearing request forms will be available in the Jury Room.",
+    "SUI 226648 lodged his hearing request online on 17 Jul 2026 at 20:50."
+  ],
+  "rules": [
+    "RRS N1.4(b)",
+    "NoR 16.1",
+    "NoR 16.11",
+    "RRS 60.3(b)(1)",
+    "RRS 63.4(a)(1)"
+  ],
+  "conclusions": [
+    "SUI 226648 failed to deliver the protest within the protest time limit, as required by RRS 60.3(b)(1). There was no good reason for the international jury to extend the time limit. RRS 60.3(b)(1), 63.4(a)(1), N1.4(b); NoR 16.1, 16.11."
+  ],
+  "decision": [
+    "The protest is invalid and the hearing is closed under RRS 63.4(a)(1)."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Wee Lee Willy",
+    "members": [
+      "Myrto Antonopoulou",
+      "Wai Kai Chan Vicky"
+    ]
+  }
+}

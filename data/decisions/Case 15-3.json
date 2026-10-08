@@ -1,0 +1,30 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Protest",
+  "event": "2025 ILCA U 21 Europeans and Open European Trophy",
+  "race_number": "4F",
+  "hearing_datetime": "",
+  "parties": [
+    "ESP 223705 - Sergio GARCÍA",
+    "ISR 223973 - Elad DAHAN"
+  ],
+  "procedural_matters": [],
+  "facts": [
+    "ESP 223705 asked to withdraw the protest."
+  ],
+  "rules": [],
+  "conclusions": [
+    "There is no reason for International Jury to refuse protest to be withdrawn."
+  ],
+  "decision": [
+    "Protest withdrawn."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Uros Zvan",
+    "members": [
+      "Johanna Poksi",
+      "Mirko Ukas"
+    ]
+  }
+}

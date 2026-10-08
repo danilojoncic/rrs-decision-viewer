@@ -1,0 +1,48 @@
+{
+  "origin_system": "ROMS",
+  "request_type": "Request for Redress",
+  "event": "2025 ILCA Senior Europeans and Open European Trophy",
+  "race_number": "3,",
+  "hearing_datetime": "",
+  "parties": [
+    "GBR 221584 - Daisy COLLINGRIDGE"
+  ],
+  "procedural_matters": [
+    "GBR 221584 was represented by Daisy COLLINGRIDGE.",
+    "ESP 225748 was represented by Marga PERELLO.",
+    "The Race Committee was represented by Zlatko Jakelic (Course representative ILCA 6).",
+    "Hearing No. 3 and 5 was heard together with hearing No. 2 in accordance with RRS 63.(2)(b) since both hearings arose from the same incident.",
+    "GBR 221584 and ESP 225748 requested a scoring enquiry at 17:18 and 17:31 resp. which were answered shortly before 18:25.",
+    "Tobias Hinton (Race Committee member) attended the hearing as an observer.",
+    "Melker Ahlquist (Rule 42 Observer) attended the hearing as an observer."
+  ],
+  "facts": [
+    "For the second start attempt of race 1 for ILCA 6 blue fleet black flag was displayed as preparatory signal.",
+    "After the starting signal a general recall was displayed by the race committee.",
+    "The race committee displayed the sail numbers of GBR 221584 and ESP 225748 before the next start.",
+    "GBR 221584 and ESP 225748 did not sail in race 1.",
+    "Upon reviewing the records, the race committee found that they made an error in identifying GBR 225748 and ESP 225748 to be scored BFD."
+  ],
+  "rules": [
+    "RRS 63",
+    "RRS 42",
+    "RRS 61.4(b)(1)",
+    "RRS 60.3(b)"
+  ],
+  "conclusions": [
+    "GBR 221584's and ESP 225748's score in race 1 was made significantly worse through no fault of their own by an improper action of the race committee. Therefore, the requirements for redress in RRS 61.4(b)(1) are met. RULES: RRS 60.3(b), 61.4(b)(1), 63.(2)(b)."
+  ],
+  "decision": [
+    "Redress is given to GBR 221584 and ESP 225748. GBR 221584 and ESP 225748 are to be scored in race 1 points equal to the average, rounded to the nearest tenth of a point (0.05 to be rounded upward), of their points in all races sailed in the qualifying series, except race 1, provided that at least one more race is sailed in the qualifying series. No other boat’s score shall change."
+  ],
+  "jury": {
+    "type": "International Jury",
+    "chair": "Gurvinderpal Julka",
+    "members": [
+      "Niclas Fure",
+      "Charlotte Greppe",
+      "Eunjin Kim",
+      "Elliot Levy"
+    ]
+  }
+}
