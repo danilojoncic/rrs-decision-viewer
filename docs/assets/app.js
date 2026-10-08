@@ -84,7 +84,7 @@ function parseDate(value, year) {
 
 function prepareRecord(record) {
   for (const key of ['origin_system','event','type','filename','hearing_datetime','race_number']) record[key] = asText(record[key]);
-  for (const key of ['parties','procedural_matters','facts','rules','conclusions','decision','review_flags']) record[key] = asList(record[key]);
+  for (const key of ['parties','procedural_matters','facts','rules','conclusions','decision']) record[key] = asList(record[key]);
   record.type ||= 'Decision';
   record.rule_keys = record.rules.map(ruleKey);
   record.year = (record.hearing_datetime || '').match(/\b(?:19|20)\d{2}\b/)?.[0] || (`${record.event} ${record.filename}`).match(/\b(?:19|20)\d{2}\b/)?.[0] || '';
@@ -437,7 +437,7 @@ function renderList() {
       <span class="card-top"><span class="eyebrow">${highlight(record.type)}</span><span class="card-markers"><span class="case-number">${number ? '#'+esc(number) : esc(record.year)}</span></span></span>
       <span class="card-title">${highlight(record.event || record.filename)}</span>
       <span class="card-snippet"><b>${esc(snippet.label)}</b>${highlight(snippet.text)}</span>
-      <span class="card-bottom">${record.rules.slice(0,4).map(rule => `<span class="chip">${highlight(rule)}</span>`).join('')}${record.rules.length>4 ? `<span class="chip">+${record.rules.length-4}</span>` : ''}${record.needs_review ? '<span class="source-mark">Source flagged</span>' : ''}</span>
+      <span class="card-bottom">${record.rules.slice(0,4).map(rule => `<span class="chip">${highlight(rule)}</span>`).join('')}${record.rules.length>4 ? `<span class="chip">+${record.rules.length-4}</span>` : ''}</span>
     </button>`;
   }).join('') || `<div class="empty-state"><span class="empty-icon" aria-hidden="true">⌕</span><h2>No decisions found</h2><p>Try removing a filter, shortening a phrase, or checking a field prefix.</p><button type="button" data-action="reset">Clear search & filters</button></div>`;
   $('pagination').innerHTML = results.length ? `<button type="button" data-page="${state.page-1}" ${state.page===1?'disabled':''} aria-label="Previous results page">← Previous</button><span>${start+1}–${Math.min(start+PAGE_SIZE,results.length)} <i>·</i> Page ${state.page} of ${pages}</span><button type="button" data-page="${state.page+1}" ${state.page===pages?'disabled':''} aria-label="Next results page">Next →</button>` : '';
@@ -467,7 +467,7 @@ function renderReader(force=false) {
   $('reader').innerHTML = `
     <div class="reader-toolbar"><div><span class="eyebrow">CASE DETAILS</span></div><div class="reader-tools"><button type="button" data-action="focus" aria-pressed="${state.focus}">${state.focus?'Exit expanded':'Expand'}</button><button type="button" data-action="print">Print</button><button type="button" data-action="close" aria-label="Close reader">×</button></div></div>
     <header class="case-header"><p class="eyebrow">${highlight(record.type)}${caseNumber(record)?' · CASE '+esc(caseNumber(record)):''}</p><h2>${highlight(record.event || record.filename)}</h2><div class="case-meta"><span>${esc(record.hearing_datetime || record.year || 'Date not recorded')}</span>${record.race_number ? `<span>Race ${esc(record.race_number)}</span>` : ''}<span>${record.facts.length} facts</span><span>${record.rules.length} rules</span></div><div class="parties">${record.parties.map(item => `<span class="party">${highlight(item)}</span>`).join('')}</div></header>
-    <div class="reader-content">${record.review_flags.length ? `<div class="review-flags"><strong>Check the source record</strong><span>${record.review_flags.map(esc).join(' · ')}</span></div>` : ''}
+    <div class="reader-content">
       ${section('procedure','01','Procedural matters',record.procedural_matters,true)}
       ${section('facts','02','Facts found',record.facts,true)}
       <details class="decision-section" data-section="rules" open><summary><span class="section-number">03</span><span>Rules that apply<small>${record.rules.length || ''}</small></span></summary><div class="section-items"><div class="rule-links">${record.rules.map((rule,index) => `<button type="button" data-rule-link="${esc(record.rule_keys[index] || ruleKey(rule))}" title="Find decisions with this rule">${highlight(rule)} <span aria-hidden="true">↗</span></button>`).join('') || '<p class="missing-text">No rules recorded.</p>'}</div></div></details>

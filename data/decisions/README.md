@@ -28,9 +28,10 @@ Use this structure (replace the example values with the actual decision):
 }
 ```
 
-`event` must be a non-empty string. Text fields must be strings; the seven
+`event` must be a non-empty string. Text fields must be strings; the six
 list fields must contain strings (empty lists are allowed for missing source
-text). Jury fields are optional and excluded from the website's generated data.
+text). A `jury` object may remain in the original JSON for archival accuracy,
+but the build excludes it from all website data. Other extra fields are rejected.
 Malformed JSON or invalid field types stop deployment, keeping the last
 successful website online. Errors identify the affected file in the Actions log.
 

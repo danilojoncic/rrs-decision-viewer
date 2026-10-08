@@ -46,6 +46,10 @@ const { pathToFileURL } = require('node:url');
     const hosted=await context.newPage();
     await hosted.goto(pathToFileURL(path.resolve(__dirname,'../docs/index.html')).href);
     assert.equal(await hosted.locator('.decision-card').count(),24);
+    const policy=await hosted.locator('meta[http-equiv="Content-Security-Policy"]').getAttribute('content');
+    assert(policy.includes("default-src 'none'"));
+    assert(policy.includes("connect-src 'none'"));
+    assert.equal(await hosted.locator('script:not([src])').count(),0);
     await hosted.locator('#theme-toggle').click();
     await hosted.close();
   });
@@ -56,7 +60,7 @@ const { pathToFileURL } = require('node:url');
   await check('Jury fields and filters are absent from the viewer and bundle', async () => {
     assert.equal(await page.locator('#judge-search,#judge-options,#judge-mode').count(),0);
     for (const record of data.decisions) {
-      for (const key of ['jury_type','jury_chair','jury_members','judges','judge_keys']) assert(!(key in record));
+      for (const key of ['jury','jury_type','jury_chair','jury_members','judges','judge_keys','review_flags','needs_review','search_text']) assert(!(key in record));
     }
     assert(!('judges' in data.facets));
   });

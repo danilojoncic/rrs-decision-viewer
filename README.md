@@ -11,8 +11,8 @@ push or merge to `main`. GitHub Actions validates the files, rebuilds the comple
 viewer, and publishes it to GitHub Pages. After deployment succeeds, refresh the
 website to see the changes. Editing an existing file updates that case; removing
 it removes that case from the next build. Hidden folders such as `.drafts` are
-excluded. Invalid JSON prevents deployment and leaves the last successful site
-available.
+excluded. Invalid, oversized, or unexpected data prevents deployment and leaves
+the last successful site available. Symbolic links are rejected.
 
 ## Project structure
 
@@ -34,7 +34,8 @@ python3 scripts/build_github_pages.py
 ```
 
 The build refreshes `docs/assets/decisions-data.js` and creates a standalone
-`Decision Viewer.html` for offline use. Generated data excludes jury fields.
+`Decision Viewer.html` for offline use. Original JSON is preserved, while jury
+fields are excluded from the generated website data.
 The header's update date comes from the build timestamp.
 
 The editable website sources are `docs/index.html`, `docs/assets/styles.css`,
